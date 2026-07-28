@@ -1,0 +1,70 @@
+# UAE eVTOL
+
+> Independent primary-source reference for eVTOL infrastructure in the United Arab Emirates: operators, aircraft, vertiports, routes, regulators across Dubai and Abu Dhabi. Every claim traces to a named primary source. No aggregation, no invented launch dates.
+
+Languages: English (canonical), Arabic (/ar/), French (/fr/), German (/de/), Chinese (/zh/). Sister site: https://qatarevtol.com
+
+Editorial bar: contracted, built, flight-tested, or regulated — backed by primary-source documentation. Entities failing that bar are documented transparently on the did-not-make-the-cut page.
+
+
+## Operators
+
+- [Abu Dhabi Aviation](https://evtolemirates.com/operators/abu-dhabi-aviation.html): Abu Dhabi Aviation (ADA) is the named eVTOL operating partner under Archer Aviation's UAE Launch Edition definitive agreement. Group CEO Mahmood Al Ha
+- [Archer Aviation — Abu Dhabi](https://evtolemirates.com/operators/archer-aviation-abu-dhabi.html): Archer Aviation's Abu Dhabi launch programme: Midnight eVTOL, ADIO and Abu Dhabi Aviation partnership, vertiport network, GCAA certification status.
+- [Roads and Transport Authority — Dubai](https://evtolemirates.com/operators/rta-dubai.html): RTA Dubai oversees the Emirate's eVTOL air-taxi network. Holds 6-year exclusive agreement with Joby (Feb 2024) and Skyports vertiport contract.
+- [Skyports Infrastructure](https://evtolemirates.com/operators/skyports-infrastructure.html): Skyports Infrastructure: London-based vertiport developer, exclusive builder of Dubai's Joby/RTA vertiport network. DXV technically complete April 202
+- [The Helicopter Company (THC)](https://evtolemirates.com/operators/the-helicopter-company.html): The Helicopter Company (THC) is a Saudi Public Investment Fund subsidiary. Signed MoUs with Archer Aviation and Joby Aviation in November 2025 for Sau
+
+## Aircraft
+
+- [Archer Midnight (Abu Dhabi)](https://evtolemirates.com/aircraft/archer-midnight-abu-dhabi.html): Archer Aviation Midnight in Abu Dhabi: first UAE flight 2 July 2025 at Al Bateen, full eVTOL envelope completed November 2025 with Abu Dhabi Aviation.
+- [Archer Midnight — UAE Launch Edition Flight Test Campaign](https://evtolemirates.com/aircraft/archer-midnight-uae-launch-edition.html): Archer Aviation's Midnight eVTOL completed in-country UAE flight test campaign culminating 14 November 2025. Full-envelope desert testing as part of t
+- [EHang EH216-S (UAE)](https://evtolemirates.com/aircraft/ehang-eh216-s-uae.html): EHang EH216-S in the UAE: completed the Middle East's first passenger-carrying pilotless eVTOL demo flight in Abu Dhabi on 6 May 2024. Specs and miles
+- [EHang EH216-S Mecca Hajj Flight](https://evtolemirates.com/aircraft/ehang-eh216-s-mecca.html): The EHang EH216-S pilotless eVTOL completed its debut flight in Saudi Arabia on 12 June 2024 during the Hajj season in Mecca. First autonomous eVTOL p
+- [Joby S4 (UAE Operations)](https://evtolemirates.com/aircraft/joby-s4-uae.html): Joby S4 in UAE service: all-electric eVTOL flown in Dubai since June 2025, first UAE point-to-point flight on 9 November 2025. Specs, milestones, sour
+- [Joby S4 Hybrid-Electric Demonstrator](https://evtolemirates.com/aircraft/joby-s4-hybrid-electric.html): Joby S4-T hybrid-electric demonstrator: first flight 7 November 2025, Marina California. Defense-focused; no UAE deployment announced. Sources verifie
+- [Lilium Jet — Saudia Group Sales Agreement](https://evtolemirates.com/aircraft/lilium-jet-saudia.html): Saudia and Lilium signed a binding sales agreement on 18 July 2024 for up to 100 Lilium Jets. Lilium filed final insolvency 21 February 2025; prototyp
+- [Volocopter NEOM Flight & $175M Investment](https://evtolemirates.com/aircraft/volocopter-neom-historical.html): NEOM invested $175M in Volocopter (Nov 2022) with 15-aircraft order and GACA-authorized flight 21 June 2023. Volocopter filed insolvency 26 Dec 2024; 
+- [Volocopter VoloCity (UAE History)](https://evtolemirates.com/aircraft/volocopter-volocity-uae.html): Volocopter VoloCity UAE history: world-first autonomous air taxi flight in Dubai 25 September 2017. Programme ended after Volocopter insolvency Decemb
+
+## Vertiports
+
+- [Abu Dhabi Cruise Terminal Hybrid Heliport](https://evtolemirates.com/vertiports/abu-dhabi-cruise-terminal-vertiport.html): GCAA design approval announced 23 April 2025. UAE's first hybrid heliport, converting an existing helipad to dual heliport/vertiport use. Partnership 
+- [Al Bateen Executive Airport (AZI) Vertiport](https://evtolemirates.com/vertiports/al-bateen-vertiport.html): Al Bateen Executive Airport (AZI) Vertiport is under construction as the second foundational node of Abu Dhabi's 10-vertiport network. Site of Archer 
+- [Al Maktoum International Airport Vertiport (DWC)](https://evtolemirates.com/vertiports/al-maktoum-international-vertiport.html): Al Maktoum International Airport (DWC) was the landing site of the UAE's first piloted eVTOL flight on 9 November 2025. A formal vertiport is not conf
+- [American University of Dubai Vertiport](https://evtolemirates.com/vertiports/american-university-of-dubai-vertiport.html): American University of Dubai Vertiport, announced 17 November 2025 by Joby and the RTA. Wasl Asset Management Group is the property partner. Launching
+- [Atlantis The Royal Vertiport](https://evtolemirates.com/vertiports/atlantis-the-royal-vertiport.html): Atlantis The Royal Vertiport, Palm Jumeirah node of Dubai's eVTOL network announced 17 November 2025. Joby Aviation, RTA, Skyports - status and source
+- [DXB Vertiport](https://evtolemirates.com/vertiports/dxb-vertiport.html): DXB Vertiport reached technical completion on 16 April 2026. Built by Skyports Infrastructure adjacent to Dubai International Airport. Joby Aviation o
+- [Dubai Mall Vertiport](https://evtolemirates.com/vertiports/dubai-mall-vertiport.html): Dubai Mall Vertiport, announced 17 November 2025 by Joby and the RTA, with Emaar Properties as the property partner. Construction set to begin in 2026
+- [Dubai Marina Vertiport](https://evtolemirates.com/vertiports/dubai-marina-vertiport.html): Dubai Marina Vertiport is the second node of Dubai's eVTOL network. Confirmed under construction by Skyports Infrastructure as of 16 April 2026, under
+- [Margham Flight Test Facility](https://evtolemirates.com/vertiports/margham-flight-test-facility.html): Joby Aviation's UAE eVTOL flight test site at Margham, Dubai. Site of the first piloted point-to-point eVTOL flight in the UAE on 9 November 2025.
+- [Palm Jumeirah Vertiport at Atlantis the Royal](https://evtolemirates.com/vertiports/palm-jumeirah-vertiport.html): Palm Jumeirah Vertiport at Atlantis the Royal, named by Joby and the RTA on 17 November 2025. Construction set to begin in months following Skyports' 
+- [Zayed International (AUH) Vertiport](https://evtolemirates.com/vertiports/zayed-international-vertiport.html): AUH Vertiport at Zayed International Airport is under construction as the first node of Abu Dhabi's 10-vertiport advanced air mobility network. Partne
+
+## Routes
+
+- [Abu Dhabi Network — Route 1 (Abu Dhabi ↔ Dubai)](https://evtolemirates.com/routes/abu-dhabi-network-route-1.html): Archer Aviation and Falcon Aviation plan Abu Dhabi to Dubai eVTOL route: Marina Mall heliport (Corniche) to Falcon Heliport at Atlantis the Palm, ~30 
+- [Abu Dhabi Network — Route 2](https://evtolemirates.com/routes/abu-dhabi-network-route-2.html): Abu Dhabi Network Route 2 is the second corridor in the emirate 10+ vertiport plan. Endpoints not yet published; AUH and AZI confirmed as first anchor
+- [DXB ↔ Atlantis The Royal](https://evtolemirates.com/routes/dxb-to-atlantis-the-royal.html): Joby Aviation route between DXB and Atlantis The Royal vertiport, Palm Jumeirah: ~10-minute flight planned for 2026 launch under RTA exclusive agreeme
+- [DXB ↔ Dubai Mall](https://evtolemirates.com/routes/dxb-to-dubai-mall.html): Joby Aviation route between DXB and Dubai Mall vertiports, planned for 2026 commercial launch under exclusive RTA agreement. Primary sources verified.
+- [Margham → Al Maktoum International (DWC)](https://evtolemirates.com/routes/margham-to-al-maktoum.html): Joby flew the UAE's first piloted point-to-point eVTOL route on 9 November 2025: 17 minutes from Margham flight test facility to DWC. Sources verified
+- [Margham → Al Maktoum International (DWC)](https://evtolemirates.com/routes/margham-to-dwc.html): The Joby S4 completed the first electric-air-taxi point-to-point flight in the UAE on 9 November 2025, flying piloted from Margham to Al Maktoum Inter
+
+## Regulators
+
+- [Abu Dhabi Department of Municipalities and Transport (DMT)](https://evtolemirates.com/regulators/abu-dhabi-dmt.html): Abu Dhabi DMT, established by Law No. 30 of 2019, oversees urban planning and transport in the emirate via affiliates including Abu Dhabi Mobility (IT
+- [Abu Dhabi Investment Office (ADIO)](https://evtolemirates.com/regulators/adio-abu-dhabi.html): The Abu Dhabi Investment Office (ADIO) is the strategic government counterparty for Archer Aviation's UAE Launch Edition. Director General Badr Al-Ola
+- [Dubai Future Foundation](https://evtolemirates.com/regulators/dubai-future-foundation.html): Dubai Future Foundation: Dubai Government's foresight authority. Convening role on eVTOL via Dubai Self-Driving Strategy, drone programme, accelerator
+- [General Authority of Civil Aviation (GACA), Saudi Arabia](https://evtolemirates.com/regulators/gaca-saudi-arabia.html): GACA published the Advanced Air Mobility Roadmap in January 2024. Issued Special Flight Authorization for Volocopter NEOM flight 21 June 2023. Signed 
+- [General Civil Aviation Authority — UAE](https://evtolemirates.com/regulators/gcaa-uae.html): GCAA UAE is the federal civil aviation regulator overseeing eVTOL type certification, vertiport regulations and Air Operator Certificates in the UAE.
+
+## Explainers
+
+- [Did Not Make The Cut: 13 Entities We Cut](https://evtolemirates.com/explainers/did-not-make-the-cut.html): We cut 13 candidate eVTOL entities from the Arab-world database because they failed our contracted/built/flight-tested/regulated bar. Honest disclosur
+- [Gulf eVTOL — UAE vs Qatar compared](https://evtolemirates.com/explainers/gulf-evtol-comparison-uae-vs-qatar.html): Compares the UAE eVTOL programme (Joby S4 piloted, Dubai 2026 launch) and the Qatar eVTOL programme (EHang EH216-S pilotless, Doha trial Nov 2025).
+- [Joby vs Archer UAE exclusivity — explained](https://evtolemirates.com/explainers/joby-vs-archer-uae-exclusivity-explained.html): Joby holds a 6-year exclusive air-taxi agreement with RTA Dubai (Feb 2024). Archer operates from Abu Dhabi via ADIO and Falcon Aviation. How both coex
+
+## Data
+- [Full machine-readable data](https://evtolemirates.com/llms-full.txt)
+- [entities.json](https://evtolemirates.com/entities.json)
+- [Sitemap](https://evtolemirates.com/sitemap.xml)
