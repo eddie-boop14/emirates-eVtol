@@ -2,7 +2,7 @@
 
 > Independent primary-source reference for eVTOL infrastructure in the United Arab Emirates: operators, aircraft, vertiports, routes, regulators across Dubai and Abu Dhabi. Every claim traces to a named primary source. No aggregation, no invented launch dates.
 
-Generated: 2026-05-20T06:55:55.535Z. Each entity lists status, location, last-verified date and primary sources.
+Generated: 2026-07-28T00:00:00.000Z. Each entity lists status, location, last-verified date and primary sources.
 
 
 ## Abu Dhabi Aviation
@@ -29,6 +29,49 @@ Primary sources:
 - Archer Aviation IR — Cleveland Clinic Abu Dhabi Unveils Plans for UAE's First Hospital-Based Vertiport (8 Oct 2025) (operator-ir), accessed 2026-05-01: https://investors.archer.com/news/news-details/2025/Cleveland-Clinic-Abu-Dhabi-Unveils-Plans-for-UAEs-First-Hospital-Based-Vertiport-in-Partnership-With-Archer-Aviation/default.aspx
 - Archer Aviation IR — Midnight Showcases In-Country eVTOL Flight Test Campaign in UAE (Nov 2025) (operator-ir), accessed 2026-05-01: https://investors.archer.com/news/news-details/2025/Archers-Midnight-Showcases-In-Country-eVTOL-Flight-Test-Campaign-in-UAE-as-Part-of-Its-Commercial-Launch-Edition-Program/default.aspx
 Page: https://evtolemirates.com/operators/archer-aviation-abu-dhabi.html
+
+## BETA Technologies, Inc.
+Type: operator | Status: under-construction | City: Abu Dhabi | Country: UAE | Last verified: 2026-07-28
+Coordinates: 24.4283, 54.4581
+Summary: BETA Technologies supplies eVTOL charging hardware to Abu Dhabi Airports. Its first Charge Cube is commissioned at Al Bateen Executive Airport, Abu Dhabi.
+Primary sources:
+- BETA Technologies — Abu Dhabi Airports Selects BETA Technologies' Charge Infrastructure for emirate's Advanced Air Mobility Network (operator-ir), accessed 2026-07-28: https://investors.beta.team/news-events/press-releases/detail/90/abu-dhabi-airports-selects-beta-technologies-charge-infrastructure-for-emirates-advanced-air-mobility-network
+- Abu Dhabi Investment Office — In collaboration with strategic partners, Abu Dhabi Investment Office announces launch of vertiport network to activate air taxi operations (government), accessed 2026-07-28: https://www.prnewswire.com/news-releases/in-collaboration-with-strategic-partners-abu-dhabi-investment-office-announces-launch-of-vertiport-network-to-activate-air-taxi-operations-302610240.html
+- UPS — UPS and BETA granted license to test electric flight deliveries (official-news), accessed 2026-07-28: https://about.ups.com/ae/en/our-stories/innovation-driven/ups-and-beta-granted-license-to-test-electric-flight-deliveries.html
+- Etihad Aviation Training — eVTOL (official-news), accessed 2026-07-28: https://www.etihadaviationtraining.com/evtol
+- BETA Technologies — Timeline (operator-ir), accessed 2026-07-28: https://beta.team/timeline
+Page: https://evtolemirates.com/operators/beta-technologies.html
+
+## Eve Air Mobility
+Type: operator | Status: announced | City: Dubai | Country: UAE | Last verified: 2026-07-28
+Summary: Eve Air Mobility's UAE record: a 2022 Falcon Aviation letter of intent for up to 35 eVTOLs and a 2023 Kookiejar Urban ATM deal. No UAE operations to date.
+Primary sources:
+- Eve Air Mobility — Eve and Falcon Aviation Services announce partnership to introduce eVTOL flights in Dubai (official-news), accessed 2026-07-28: https://www.eveairmobility.com/eve-and-falcon-aviation-services-announce-partnership-to-introduce-evtol-flights-in-dubai/
+- Falcon Aviation Services — Eve and Falcon Aviation Services announce partnership to introduce eVTOL flights in Dubai (official-news), accessed 2026-07-28: https://www.falconaviation.ae/2022/06/07/eve-and-falcon-aviation-services-announce-partnership-to-introduce-evtol-flights-in-dubai
+- Eve Air Mobility — Eve and Kookiejar to Develop Urban Air Traffic Management System for Operations in Dubai (official-news), accessed 2026-07-28: https://www.eveairmobility.com/eve-and-kookiejar-to-develop-urban-air-traffic-management-system-for-operations-in-dubai/
+- Embraer Media Center — Eve Air Mobility Expands Middle East Presence with Bahrain Framework Agreement (operator-ir), accessed 2026-07-28: https://www.embraer.com/media-center/en/?mediatype=NEWS&detail=23068
+- Eve Holding, Inc. — Eve Holding, Inc. Reports Fourth Quarter and FY2025 Results (operator-ir), accessed 2026-07-28: https://ir.eveairmobility.com/news-events/press-releases/detail/106/eve-holding-inc-reports-fourth-quarter-and-fy2025-results
+- Eve Holding, Inc. — Eve Advances Global Certification Path for Eve 100 (operator-ir), accessed 2026-07-28: https://ir.eveairmobility.com/news-events/press-releases/detail/115/eve-advances-global-certification-path-for-eve-100
+- Eve Air Mobility — eVTOL (aircraft specifications) (official-news), accessed 2026-07-28: https://www.eveairmobility.com/evtol/
+Page: https://evtolemirates.com/operators/eve-air-mobility.html
+
+## REGENT Craft, Inc.
+Type: operator | Status: planned | City: Abu Dhabi | Country: UAE | Last verified: 2026-07-28
+Coordinates: 24.4539, 54.3773
+Summary: REGENT Craft plans Abu Dhabi seaglider manufacturing with the Strategic Development Fund. Seagliders are maritime wing-in-ground craft, not eVTOL aircraft.
+Primary sources:
+- REGENT — REGENT Signs Initial Agreement with Strategic Development Fund to Set Up a Joint Venture for Seaglider Manufacturing and Services in the UAE (operator-ir), accessed 2026-07-28: https://www.regentcraft.com/news/regent-signs-initial-agreement-with-strategic-development-fund-to-set-up-a-joint-venture-for-seaglider-manufacturing-and-services-in-the-uae
+- Strategic Development Fund — Strategic Development Fund Signs Initial Agreement with REGENT to Set Up a Joint Venture for Seaglider Manufacturing and Services in the UAE (government), accessed 2026-07-28: https://sdf.ae/news/strategic-development-fund-signs-initial-agreement-with-regent-to-set-up-a-joint-venture-for-seaglider-manufacturing-and-services-in-the-uae/
+- REGENT — REGENT Advances the Future of Coastal Transportation in Abu Dhabi (operator-ir), accessed 2026-07-28: https://www.regentcraft.com/news/regent-advances-the-future-of-coastal-transportation-in-abu-dhabi
+- ADNOC L&S — ADNOC L&S Partners with REGENT to Trial High-Speed Electric Seagliders for Offshore Transportation (official-news), accessed 2026-07-28: https://adnocls.ae/en/news-and-media/press-releases/2025/seagliders-for-offshore-transportation
+- REGENT — REGENT Submits Design Basis Agreement to U.S. Coast Guard, Advancing Seaglider Certification (operator-ir), accessed 2026-07-28: https://www.regentcraft.com/news/regent-submits-design-basis-agreement-to-u-s-coast-guard-advancing-seaglider-certification
+- REGENT — REGENT Begins Sea Trials of First Passenger-Carrying Seaglider (operator-ir), accessed 2026-07-28: https://www.regentcraft.com/news/regent-begins-sea-trials-of-first-passenger-carrying-seaglider
+- REGENT — REGENT kicks off 2026 Seaglider test campaign (operator-ir), accessed 2026-07-28: https://www.regentcraft.com/news/regent-2026-seaglider-test-campaign
+- REGENT — REGENT and DHL Express Sign Agreement for Sustainable Cargo Logistics (operator-ir), accessed 2026-07-28: https://www.regentcraft.com/news/dubai-airshow-regent-and-dhl-express-sign-agreement-for-sustainable-cargo-logistics
+- REGENT — REGENT to Reveal the Future of Maritime Mobility at Dubai Airshow (operator-ir), accessed 2026-07-28: https://www.regentcraft.com/news/regent-to-reveal-the-future-of-maritime-mobility-at-dubai-airshow
+- Abu Dhabi Government Media Office — DCT Abu Dhabi signs agreement with VERSA Advanced Maritime Services to introduce Seaglider operations across emirate by 2028 (government), accessed 2026-07-28: https://www.mediaoffice.abudhabi/en/transport/department-of-culture-and-tourism-abu-dhabi-signs-agreement-with-versa-advanced-maritime-services-to-introduce-seaglider-operations-across-emirate-by-2028/
+- REGENT — ADNOC L&S Selects REGENT Seagliders for Offshore Energy Logistics in the UAE (operator-ir), accessed 2026-07-28: https://www.globenewswire.com/news-release/2025/01/28/3016721/0/en/ADNOC-L-S-Selects-REGENT-Seagliders-for-Offshore-Energy-Logistics-in-the-UAE.html
+Page: https://evtolemirates.com/operators/regent-seaglider.html
 
 ## Roads and Transport Authority — Dubai
 Type: operator | Status: operational | City: Dubai | Country: UAE | Last verified: 2026-05-01
@@ -60,6 +103,20 @@ Primary sources:
 - Joby Aviation IR — Dubai Air Taxi Network Takes Flight (17 Nov 2025) (operator-ir), accessed 2026-05-01: https://ir.jobyaviation.com/news-events/press-releases/detail/162/dubai-air-taxi-network-takes-flight-joby-completes
 Page: https://evtolemirates.com/operators/skyports-infrastructure.html
 
+## TCab Tech (Shanghai Time Technology Co.)
+Type: operator | Status: announced | City: — | Country: UAE | Last verified: 2026-07-28
+Summary: TCab Tech's UAE activity is an MoU with Abu Dhabi's Autocraft for up to 350 E20 eVTOLs. No UAE flights, no facility and no GCAA approval are on record.
+Primary sources:
+- TCab Tech — TCab Tech and Autocraft Sign MoU for 350 E20 eVTOLs to Accelerate Commercialization in the UAE and Wider MENA Region (operator-ir), accessed 2026-07-28: https://www.tcabtech.com/en/tcab-tech-autocraft-mou-350-e20-evtol-uae-mena-commercialization/
+- TCab Tech — TCab Tech and Autocraft establish strategic partnership to expand the Middle East market with the E20 eVTOL (operator-ir), accessed 2026-07-28: https://www.tcabtech.com/en/tcab-tech-autocraft-partnership-e20-evtol/
+- TCab Tech — TCab Tech Launches 'Air Silk Road Global Pioneer Partnership' to Drive eVTOL Globalization (operator-ir), accessed 2026-07-28: https://www.tcabtech.com/en/tcab-tech-launches-air-silk-road-global-pioneer-partnership-to-drive-evtol-globalization/
+- Dubai Airshow — Dubai Airshow 2025 will set a new pace for Advanced Air Mobility (official-news), accessed 2026-07-28: https://www.dubaiairshow.aero/en/usefulinfo/info/news/Dubai-Airshow-2025-will-set-a-new-pace-for-Advanced-Air-Mobility.html
+- TCab Tech — TCab Tech Successfully Held the TCT Meeting and Launched the AEG Review Meeting, Marking Significant Progress in the Certification Process of the E20 eVTOL (operator-ir), accessed 2026-07-28: https://www.tcabtech.com/en/tcab-tech-successfully-held-the-tct-meeting/
+- TCab Tech — Major Milestone: TCab Tech's E20 eVTOL Successfully Completes Manned Flight Test (operator-ir), accessed 2026-07-28: https://www.tcabtech.com/en/tcab-tech-e20-evtol-successfully-completes-manned-flight-test
+- TCab Tech — TCab Tech E20 eVTOL Successfully Completes Transition Flight Tests (operator-ir), accessed 2026-07-28: https://www.prnewswire.com/news-releases/tcab-tech-e20-evtol-successfully-completes-transition-flight-tests-302631636.html
+- K2 — Aviation (Autocraft) (operator-ir), accessed 2026-07-28: https://k2.world/aviation/
+Page: https://evtolemirates.com/operators/tcab-tech.html
+
 ## The Helicopter Company (THC)
 Type: operator | Status: operational | City: Riyadh | Country: Saudi Arabia | Last verified: 2026-05-20
 Coordinates: 24.7136, 46.6753
@@ -68,6 +125,34 @@ Primary sources:
 - Archer Aviation IR — PIF's The Helicopter Company, Archer Aviation, and Red Sea Global Partner to Launch eVTOL Air Mobility in Saudi Arabia (19 Nov 2025) (operator-ir), accessed 2026-05-20: https://investors.archer.com/news/news-details/2025/PIFs-The-Helicopter-Company-Archer-Aviation-and-Red-Sea-Global-Partner-to-Launch-eVTOL-Air-Mobility-in-Saudi-Arabia/default.aspx
 - Archer Aviation IR — Saudi Arabia's GACA Advances Archer's Pathway for Electric Air Taxi Deployment (10 Dec 2025) (operator-ir), accessed 2026-05-20: https://investors.archer.com/news/news-details/2025/Saudi-Arabias-General-Authority-of-Civil-Aviation-Advances-Archers-Pathway-for-Electric-Air-Taxi-Deployment/default.aspx
 Page: https://evtolemirates.com/operators/the-helicopter-company.html
+
+## VPorts
+Type: operator | Status: announced | City: Dubai | Country: UAE | Last verified: 2026-07-28
+Summary: VPorts signed a 2022 agreement with the UAE GCAA and Dubai South for a 37,000 sqm advanced air mobility integrator centre. No primary evidence it was built.
+Primary sources:
+- VPorts — VPorts inks landmark agreement to create world's first Advanced Air Mobility Integrator Centre in Dubai (operator-ir), accessed 2026-07-28: https://vports.com/vports-inks-landmark-agreement-to-create-worlds-first-advanced-air-mobility-integrator-centre-in-dubai/
+- VPorts — Press release: AAM Integrator Centre (PDF, English) (operator-ir), accessed 2026-07-28: https://vports.com/wp-content/uploads/2022/12/Press-release__VPorts_AAM-Integrator-Centre_FINAL-English.pdf
+- Dubai Media Office — VPorts inks landmark agreement to create world's first advanced air mobility integrator centre in Dubai (government), accessed 2026-07-28: https://mediaoffice.ae/en/news/2022/December/08-12/VPorts-inks-landmark-agreement-to-create-world
+- Electra.aero — VPorts Inks Strategic Agreements to Boost Development of Dubai's Advanced Air Mobility Centre With Electra.aero, Falcon Aviation and SkyDrive (official-news), accessed 2026-07-28: https://www.electra.aero/news/vports
+- SkyDrive Inc. — SkyDrive Collaborates with VPorts to Promote International Advanced Air Mobility Industry from Dubai (official-news), accessed 2026-07-28: https://en.skydrive2020.com/archives/9003
+- VPorts — VPorts embarks on the certification process for its vertiports as part of the world's first Advanced Air Mobility Integrator Centre in Dubai (operator-ir), accessed 2026-07-28: https://vports.com/vports-embarks-on-the-certification-process-for-its-vertiports-as-part-of-the-worlds-first-advanced-air-mobility-integrator-centre-in-dubai/
+- VPorts — VPorts to establish a first vertiport at Ras Al-Khaimah Airport (operator-ir), accessed 2026-07-28: https://vports.com/vports-to-establish-a-first-vertiport-at-ras-al-khaimah-airport/
+- VPorts — The Project: Overview (operator-ir), accessed 2026-07-28: https://vports.com/the-project/overview/
+- VPorts — News index (operator-ir), accessed 2026-07-28: https://vports.com/news/
+Page: https://evtolemirates.com/operators/vports.html
+
+## Vertical Aerospace
+Type: operator | Status: orphaned | City: — | Country: UAE | Last verified: 2026-07-28
+Summary: UK-based Vertical Aerospace has no documented UAE presence - no order, vertiport or GCAA agreement. Its only Gulf activity is a set of Saudi MoUs from 2026.
+Primary sources:
+- Vertical Aerospace — Vertical Aerospace Shares Business Update Ahead of Farnborough International Airshow (expanded UK CAA Permit to Fly; Type Certification moved to 2029) (operator-ir), accessed 2026-07-28: https://vertical-aerospace.com/wp-content/uploads/2026/07/20260713-CAA-Update-Press-Release_v2.pdf
+- Vertical Aerospace — Vertical Aerospace Makes History with First Public eVTOL Transition Flight at Farnborough International Airshow (operator-ir), accessed 2026-07-28: https://vertical-aerospace.com/wp-content/uploads/2026/07/20260720-Farnborough-First-Flight-PR_v3.pdf
+- Vertical Aerospace — Vertical Aerospace Achieves World First Two-Way Piloted Transition Flight (flown under UK CAA oversight) (operator-ir), accessed 2026-07-28: https://vertical-aerospace.com/wp-content/uploads/2026/04/20260416-Press-Release-VA-Transition-flight_v2-1.pdf
+- Vertical Aerospace via Business Wire — Vertical Aerospace and Saudi Arabia's General Authority of Civil Aviation Sign Strategic Agreement Advancing Air Mobility Certification and Regulatory Framework (official-news), accessed 2026-07-28: https://www.businesswire.com/news/home/20260722079762/en/Vertical-Aerospace-and-Saudi-Arabias-General-Authority-of-Civil-Aviation-Sign-Strategic-Agreement-Advancing-Air-Mobility-Certification-and-Regulatory-Framework
+- Vertical Aerospace via Business Wire — Vertical Aerospace Signs Strategic MoU with AHQ Group and Saudi National Industrial Development Centre to Accelerate AAM in the Kingdom (official-news), accessed 2026-07-28: https://www.businesswire.com/news/home/20260210942356/en/Vertical-Aerospace-Signs-Strategic-MoU-with-AHQ-Group-and-Saudi-National-Industrial-Development-Centre-to-Accelerate-AAM-in-the-Kingdom
+- Vertical Aerospace via Business Wire — Vertical Aerospace Caps Landmark Week at Farnborough, Accelerating the Path to Commercial Electric Aviation (official-news), accessed 2026-07-28: https://www.businesswire.com/news/home/20260724391666/en/Vertical-Aerospace-Caps-Landmark-Week-at-Farnborough-Accelerating-the-Path-to-Commercial-Electric-Aviation
+- Vertical Aerospace — Vertical Aerospace Unveils Valo, the eVTOL Aircraft Set to Redefine Urban Air Mobility (Valo succeeds the VX4 prototype; UK CAA and EASA certification) (operator-ir), accessed 2026-07-28: https://vertical-aerospace.com/wp-content/uploads/2025/12/Vertical-Aerospace-unveils-Valo-the-eVTOL-aircraft-set-to-redefine-urban-air-mobility-and-usher-in-a-new-era-of-flight-1.pdf
+Page: https://evtolemirates.com/operators/vertical-aerospace.html
 
 ## Archer Midnight (Abu Dhabi)
 Type: aircraft | Status: trial-only | City: Abu Dhabi | Country: UAE | Last verified: 2026-05-01
