@@ -85,21 +85,21 @@ Primary sources:
 - Dubai Media Office — RTA and Joby Complete First Crewed eVTOL Aerial Taxi Flight (16 Nov 2025) (official-news), accessed 2026-05-01: https://mediaoffice.ae/en/news/2025/november/16-11/rta-and-joby-complete-first-crewed-evtol-taxi-flight
 - Joby Aviation — Joby Cements Global Lead in Air Taxi Industry with Dubai Flights (Jun 2025) (operator-ir), accessed 2026-05-01: https://www.jobyaviation.com/news/joby-cements-global-lead-in-air-taxi-industry/
 - Joby Aviation IR — Dubai Air Taxi Network Takes Flight (17 Nov 2025) (operator-ir), accessed 2026-05-01: https://ir.jobyaviation.com/news-events/press-releases/detail/162/dubai-air-taxi-network-takes-flight-joby-completes
-- Skyports Infrastructure — DXV reaches technical completion (16 Apr 2026) (operator-ir), accessed 2026-05-01: https://skyports.net/worlds-first-commercial-vertiport-technical-completion/
+- Skyports Infrastructure — VDX reaches technical completion (16 Apr 2026) (operator-ir), accessed 2026-05-01: https://skyports.net/worlds-first-commercial-vertiport-technical-completion/
 - Volocopter — Volocopter as an Autonomous Air Taxi in Dubai (RTA agreement, 19 Jun 2017) (operator-ir), accessed 2026-05-01: https://www.volocopter.com/en/newsroom/volocopter-as-an-autonomous-air-taxi-in-dubai
 Page: https://evtolemirates.com/operators/rta-dubai.html
 
 ## Skyports Infrastructure
 Type: operator | Status: operational | City: Dubai | Country: UAE | Last verified: 2026-05-01
 Coordinates: 25.2532, 55.3657
-Summary: Skyports Infrastructure: London-based vertiport developer, exclusive builder of Dubai's Joby/RTA vertiport network. DXV technically complete April 2026.
+Summary: Skyports Infrastructure: London-based vertiport developer, exclusive builder of Dubai's Joby/RTA vertiport network. VDX technically complete April 2026.
 Primary sources:
 - Skyports Infrastructure — Design for vertiports approved in Dubai (Feb 2023) (operator-ir), accessed 2026-05-01: https://skyports.net/skyports-infrastructures-design-for-vertiports-approved-in-dubai/
 - Skyports Infrastructure — Skyports, RTA and Joby to launch air taxi service in Dubai (Feb 2024) (operator-ir), accessed 2026-05-01: https://skyports.net/skyports-rta-and-joby-to-launch-air-taxi-service-in-dubai/
 - Skyports Infrastructure — Series C in excess of $110M led by ACS (April 2024) (operator-ir), accessed 2026-05-01: https://skyports.net/skyports-raises-in-excess-of-110m-in-series-c-round-led-by-new-investment-from-acs/
 - Skyports Infrastructure — Skyports and RTA break ground on first vertiport in Dubai (12 Nov 2024) (operator-ir), accessed 2026-05-01: https://skyports.net/skyports-and-rta-break-ground-on-first-vertiport-in-dubai/
-- Skyports Infrastructure — World's first commercial vertiport DXV reaches topping-out (19 Nov 2025) (operator-ir), accessed 2026-05-01: https://skyports.net/worlds-first-commercial-vertiport-dxv-reaches-topping-out-construction-milestone/
-- Skyports Infrastructure — Air taxi ready: DXV reaches technical completion (16 Apr 2026) (operator-ir), accessed 2026-05-01: https://skyports.net/worlds-first-commercial-vertiport-technical-completion/
+- Skyports Infrastructure — World's first commercial vertiport VDX reaches topping-out (19 Nov 2025) (operator-ir), accessed 2026-05-01: https://skyports.net/worlds-first-commercial-vertiport-dxv-reaches-topping-out-construction-milestone/
+- Skyports Infrastructure — Air taxi ready: VDX reaches technical completion (16 Apr 2026) (operator-ir), accessed 2026-05-01: https://skyports.net/worlds-first-commercial-vertiport-technical-completion/
 - Joby Aviation IR — Dubai Air Taxi Network Takes Flight (17 Nov 2025) (operator-ir), accessed 2026-05-01: https://ir.jobyaviation.com/news-events/press-releases/detail/162/dubai-air-taxi-network-takes-flight-joby-completes
 Page: https://evtolemirates.com/operators/skyports-infrastructure.html
 
@@ -286,7 +286,7 @@ Summary: American University of Dubai Vertiport, announced 17 November 2025 by J
 Primary sources:
 - Joby Aviation IR — Joby to Launch Air Taxi Service in UAE (11 Feb 2024) (operator-ir), accessed 2026-05-01: https://ir.jobyaviation.com/news-events/press-releases/detail/87/joby-to-launch-air-taxi-service-in-uae
 - Joby Aviation IR — Dubai Air Taxi Network Takes Flight (17 Nov 2025) (operator-ir), accessed 2026-05-01: https://ir.jobyaviation.com/news-events/press-releases/detail/162/dubai-air-taxi-network-takes-flight-joby-completes
-- Skyports Infrastructure — DXV reaches topping-out milestone (19 Nov 2025) (primary), accessed 2026-05-01: https://skyports.net/worlds-first-commercial-vertiport-dxv-reaches-topping-out-construction-milestone/
+- Skyports Infrastructure — VDX reaches topping-out milestone (19 Nov 2025) (primary), accessed 2026-05-01: https://skyports.net/worlds-first-commercial-vertiport-dxv-reaches-topping-out-construction-milestone/
 - Skyports Infrastructure — World's first commercial vertiport reaches technical completion (16 Apr 2026) (primary), accessed 2026-05-01: https://skyports.net/worlds-first-commercial-vertiport-technical-completion/
 - RTA Dubai — Successful First Crewed Electric Aerial Taxi Flight (regulatory), accessed 2026-05-01: https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/all-news/NewsDetails/successful-first-crewed-electric-aerial-taxi-flight
 Page: https://evtolemirates.com/vertiports/american-university-of-dubai-vertiport.html
@@ -298,7 +298,7 @@ Primary sources:
 - Joby Aviation IR - Joby to Launch Air Taxi Service in UAE (11 Feb 2024) (operator-ir), accessed 2026-05-01: https://ir.jobyaviation.com/news-events/press-releases/detail/87/joby-to-launch-air-taxi-service-in-uae
 - Joby Aviation IR - Dubai Air Taxi Network Takes Flight: Joby Completes Landmark Flight and Announces Next Vertiport Locations (17 Nov 2025) (operator-ir), accessed 2026-05-01: https://ir.jobyaviation.com/news-events/press-releases/detail/162/dubai-air-taxi-network-takes-flight-joby-completes
 - RTA Dubai - Successful First Crewed Electric Aerial Taxi Flight (16 Nov 2025) (regulatory), accessed 2026-05-01: https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/all-news/NewsDetails/successful-first-crewed-electric-aerial-taxi-flight
-- Skyports Infrastructure - DXV reaches topping-out construction milestone (19 Nov 2025) (operator-ir), accessed 2026-05-01: https://skyports.net/worlds-first-commercial-vertiport-dxv-reaches-topping-out-construction-milestone/
+- Skyports Infrastructure - VDX reaches topping-out construction milestone (19 Nov 2025) (operator-ir), accessed 2026-05-01: https://skyports.net/worlds-first-commercial-vertiport-dxv-reaches-topping-out-construction-milestone/
 - Skyports Infrastructure - 2025 Wrapped year-end review (24 Dec 2025) (operator-ir), accessed 2026-05-01: https://skyports.net/skyports-infrastructure-2025-wrapped/
 - Joby Aviation - Q4 2025 / FY 2025 earnings call (25 Feb 2026) (operator-ir), accessed 2026-05-01: https://ir.jobyaviation.com/
 Page: https://evtolemirates.com/vertiports/atlantis-the-royal-vertiport.html
@@ -323,7 +323,7 @@ Summary: Dubai Mall Vertiport, announced 17 November 2025 by Joby and the RTA, w
 Primary sources:
 - Joby Aviation IR — Joby to Launch Air Taxi Service in UAE (11 Feb 2024) (operator-ir), accessed 2026-05-01: https://ir.jobyaviation.com/news-events/press-releases/detail/87/joby-to-launch-air-taxi-service-in-uae
 - Joby Aviation IR — Dubai Air Taxi Network Takes Flight (17 Nov 2025) (operator-ir), accessed 2026-05-01: https://ir.jobyaviation.com/news-events/press-releases/detail/162/dubai-air-taxi-network-takes-flight-joby-completes
-- Skyports Infrastructure — World's first commercial vertiport DXV reaches topping-out milestone (19 Nov 2025) (primary), accessed 2026-05-01: https://skyports.net/worlds-first-commercial-vertiport-dxv-reaches-topping-out-construction-milestone/
+- Skyports Infrastructure — World's first commercial vertiport VDX reaches topping-out milestone (19 Nov 2025) (primary), accessed 2026-05-01: https://skyports.net/worlds-first-commercial-vertiport-dxv-reaches-topping-out-construction-milestone/
 - Skyports Infrastructure — Air taxi ready: world's first commercial vertiport reaches technical completion (16 Apr 2026) (primary), accessed 2026-05-01: https://skyports.net/worlds-first-commercial-vertiport-technical-completion/
 - RTA Dubai — Successful First Crewed Electric Aerial Taxi Flight (regulatory), accessed 2026-05-01: https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/all-news/NewsDetails/successful-first-crewed-electric-aerial-taxi-flight
 Page: https://evtolemirates.com/vertiports/dubai-mall-vertiport.html

@@ -519,7 +519,7 @@
     },
     {
      "id": "skyports-2025-11-19",
-     "name": "Skyports Infrastructure — DXV reaches topping-out milestone (19 Nov 2025)",
+     "name": "Skyports Infrastructure — VDX reaches topping-out milestone (19 Nov 2025)",
      "url": "https://skyports.net/worlds-first-commercial-vertiport-dxv-reaches-topping-out-construction-milestone/",
      "type": "primary",
      "accessed": "2026-05-01"
@@ -659,7 +659,7 @@
    "entity_type": "aircraft",
    "country": "UAE",
    "city": "Abu Dhabi",
-   "status": "trial-only",
+   "status": "trial_only",
    "last_verified": "2026-05-01",
    "name": "Archer Midnight (Abu Dhabi)",
    "meta_description": "Archer Aviation Midnight in Abu Dhabi: first UAE flight 2 July 2025 at Al Bateen, full eVTOL envelope completed November 2025 with Abu Dhabi Aviation.",
@@ -803,7 +803,7 @@
     },
     {
      "id": "skyports-2025-11-19",
-     "name": "Skyports Infrastructure - DXV reaches topping-out construction milestone (19 Nov 2025)",
+     "name": "Skyports Infrastructure - VDX reaches topping-out construction milestone (19 Nov 2025)",
      "url": "https://skyports.net/worlds-first-commercial-vertiport-dxv-reaches-topping-out-construction-milestone/",
      "type": "operator-ir",
      "accessed": "2026-05-01"
@@ -1002,7 +1002,7 @@
     },
     {
      "id": "skyports-2025-11-19",
-     "name": "Skyports Infrastructure — World's first commercial vertiport DXV reaches topping-out milestone (19 Nov 2025)",
+     "name": "Skyports Infrastructure — World's first commercial vertiport VDX reaches topping-out milestone (19 Nov 2025)",
      "url": "https://skyports.net/worlds-first-commercial-vertiport-dxv-reaches-topping-out-construction-milestone/",
      "type": "primary",
      "accessed": "2026-05-01"
@@ -1235,13 +1235,20 @@
    "entity_type": "vertiport",
    "country": "UAE",
    "city": "Dubai",
-   "status": "under_construction",
-   "last_verified": "2026-05-20",
+   "status": "certified",
+   "last_verified": "2026-07-28",
    "name": "DXB Vertiport",
-   "meta_description": "DXB Vertiport reached technical completion on 16 April 2026. Built by Skyports Infrastructure adjacent to Dubai International Airport. Joby Aviation operations starting 2026 under RTA agreement.",
+   "meta_description": "DXB Vertiport (registered VDX) received UAE GCAA certification on 7 July 2026 — the world's first purpose-built commercial vertiport, developed by Skyports Infrastructure at Dubai International Airport. Certified for eVTOL operations; Joby Aviation passenger service pending launch.",
    "latitude": 25.2532,
    "longitude": 55.3657,
    "sources": [
+        {
+          "id": "skyports-2026-07-07",
+          "name": "Skyports Infrastructure — UAE Makes Global Aviation History with GCAA's Certification of the World's First Purpose-Built Commercial Vertiport (7 Jul 2026)",
+          "url": "https://skyports.net/post/uae-makes-global-aviation-history-with-certification-worlds-first-purpose-built-commercial-vertiport-skyports-infrastructure",
+          "type": "primary",
+          "accessed": "2026-07-28"
+        },
     {
      "id": "skyports-2026-04-16",
      "name": "Skyports Infrastructure — Air taxi ready: world's first commercial vertiport reaches technical completion (16 Apr 2026)",
@@ -1288,23 +1295,23 @@
    "i18n": {
     "en": {
      "name": "DXB Vertiport",
-     "meta_description": "DXB Vertiport reached technical completion on 16 April 2026. Built by Skyports Infrastructure adjacent to Dubai International Airport. Joby Aviation operations starting 2026 under RTA agreement."
+     "meta_description": "DXB Vertiport (registered VDX) received UAE GCAA certification on 7 July 2026 — the world's first purpose-built commercial vertiport, developed by Skyports Infrastructure at Dubai International Airport. Certified for eVTOL operations; Joby Aviation passenger service pending launch."
     },
     "ar": {
      "name": "DXB Vertiport",
-     "meta_description": "DXB Vertiport reached technical completion on 16 April 2026. Built by Skyports Infrastructure adjacent to Dubai International Airport. Joby Aviation operations starting 2026 under RTA agreement."
+     "meta_description": "DXB Vertiport (registered VDX) received UAE GCAA certification on 7 July 2026 — the world's first purpose-built commercial vertiport, developed by Skyports Infrastructure at Dubai International Airport. Certified for eVTOL operations; Joby Aviation passenger service pending launch."
     },
     "fr": {
      "name": "DXB Vertiport",
-     "meta_description": "DXB Vertiport reached technical completion on 16 April 2026. Built by Skyports Infrastructure adjacent to Dubai International Airport. Joby Aviation operations starting 2026 under RTA agreement."
+     "meta_description": "DXB Vertiport (registered VDX) received UAE GCAA certification on 7 July 2026 — the world's first purpose-built commercial vertiport, developed by Skyports Infrastructure at Dubai International Airport. Certified for eVTOL operations; Joby Aviation passenger service pending launch."
     },
     "de": {
      "name": "DXB Vertiport",
-     "meta_description": "DXB Vertiport reached technical completion on 16 April 2026. Built by Skyports Infrastructure adjacent to Dubai International Airport. Joby Aviation operations starting 2026 under RTA agreement."
+     "meta_description": "DXB Vertiport (registered VDX) received UAE GCAA certification on 7 July 2026 — the world's first purpose-built commercial vertiport, developed by Skyports Infrastructure at Dubai International Airport. Certified for eVTOL operations; Joby Aviation passenger service pending launch."
     },
     "zh": {
      "name": "DXB Vertiport",
-     "meta_description": "DXB Vertiport reached technical completion on 16 April 2026. Built by Skyports Infrastructure adjacent to Dubai International Airport. Joby Aviation operations starting 2026 under RTA agreement."
+     "meta_description": "DXB Vertiport (registered VDX) received UAE GCAA certification on 7 July 2026 — the world's first purpose-built commercial vertiport, developed by Skyports Infrastructure at Dubai International Airport. Certified for eVTOL operations; Joby Aviation passenger service pending launch."
     }
    }
   },
@@ -1356,7 +1363,7 @@
    "entity_type": "aircraft",
    "country": "UAE",
    "city": "Abu Dhabi",
-   "status": "trial-only",
+   "status": "trial_only",
    "last_verified": "2026-05-01",
    "name": "EHang EH216-S (UAE)",
    "meta_description": "EHang EH216-S in the UAE: completed the Middle East's first passenger-carrying pilotless eVTOL demo flight in Abu Dhabi on 6 May 2024. Specs and milestones.",
@@ -1555,7 +1562,7 @@
    "entity_type": "answer",
    "country": null,
    "city": null,
-   "status": "trial-only",
+   "status": "trial_only",
    "last_verified": "2026-05-01",
    "name": "Gulf eVTOL — UAE vs Qatar compared",
    "meta_description": "Compares the UAE eVTOL programme (Joby S4 piloted, Dubai 2026 launch) and the Qatar eVTOL programme (EHang EH216-S pilotless, Doha trial Nov 2025).",
@@ -1640,7 +1647,7 @@
    "entity_type": "aircraft",
    "country": "UAE",
    "city": null,
-   "status": "trial-only",
+   "status": "trial_only",
    "last_verified": "2026-05-01",
    "name": "Joby S4 Hybrid-Electric Demonstrator",
    "meta_description": "Joby S4-T hybrid-electric demonstrator: first flight 7 November 2025, Marina California. Defense-focused; no UAE deployment announced. Sources verified.",
@@ -1718,7 +1725,7 @@
    "entity_type": "aircraft",
    "country": "UAE",
    "city": "Dubai",
-   "status": "trial-only",
+   "status": "trial_only",
    "last_verified": "2026-05-01",
    "name": "Joby S4 (UAE Operations)",
    "meta_description": "Joby S4 in UAE service: all-electric eVTOL flown in Dubai since June 2025, first UAE point-to-point flight on 9 November 2025. Specs, milestones, sources.",
@@ -1817,7 +1824,7 @@
    "entity_type": "answer",
    "country": "UAE",
    "city": null,
-   "status": "trial-only",
+   "status": "trial_only",
    "last_verified": "2026-05-01",
    "name": "Joby vs Archer UAE exclusivity — explained",
    "meta_description": "Joby holds a 6-year exclusive air-taxi agreement with RTA Dubai (Feb 2024). Archer operates from Abu Dhabi via ADIO and Falcon Aviation. How both coexist.",
@@ -2016,7 +2023,7 @@
    "entity_type": "route",
    "country": "UAE",
    "city": "Dubai",
-   "status": "trial-only",
+   "status": "trial_only",
    "last_verified": "2026-05-01",
    "name": "Margham → Al Maktoum International (DWC)",
    "meta_description": "Joby flew the UAE's first piloted point-to-point eVTOL route on 9 November 2025: 17 minutes from Margham flight test facility to DWC. Sources verified.",
@@ -2245,7 +2252,7 @@
     },
     {
      "id": "skyports-dxv-tech-complete-2026-04",
-     "name": "Skyports Infrastructure — DXV reaches technical completion (16 Apr 2026)",
+     "name": "Skyports Infrastructure — VDX reaches technical completion (16 Apr 2026)",
      "url": "https://skyports.net/worlds-first-commercial-vertiport-technical-completion/",
      "type": "operator-ir",
      "accessed": "2026-05-01"
@@ -2289,7 +2296,7 @@
    "status": "operational",
    "last_verified": "2026-05-01",
    "name": "Skyports Infrastructure",
-   "meta_description": "Skyports Infrastructure: London-based vertiport developer, exclusive builder of Dubai's Joby/RTA vertiport network. DXV technically complete April 2026.",
+   "meta_description": "Skyports Infrastructure: London-based vertiport developer, exclusive builder of Dubai's Joby/RTA vertiport network. VDX technically complete April 2026.",
    "latitude": 25.2532,
    "longitude": 55.3657,
    "sources": [
@@ -2323,14 +2330,14 @@
     },
     {
      "id": "skyports-dxv-topping-2025-11",
-     "name": "Skyports Infrastructure — World's first commercial vertiport DXV reaches topping-out (19 Nov 2025)",
+     "name": "Skyports Infrastructure — World's first commercial vertiport VDX reaches topping-out (19 Nov 2025)",
      "url": "https://skyports.net/worlds-first-commercial-vertiport-dxv-reaches-topping-out-construction-milestone/",
      "type": "operator-ir",
      "accessed": "2026-05-01"
     },
     {
      "id": "skyports-dxv-tech-complete-2026-04",
-     "name": "Skyports Infrastructure — Air taxi ready: DXV reaches technical completion (16 Apr 2026)",
+     "name": "Skyports Infrastructure — Air taxi ready: VDX reaches technical completion (16 Apr 2026)",
      "url": "https://skyports.net/worlds-first-commercial-vertiport-technical-completion/",
      "type": "operator-ir",
      "accessed": "2026-05-01"
@@ -2346,23 +2353,23 @@
    "i18n": {
     "en": {
      "name": "Skyports Infrastructure",
-     "meta_description": "Skyports Infrastructure: London-based vertiport developer, exclusive builder of Dubai's Joby/RTA vertiport network. DXV technically complete April 2026."
+     "meta_description": "Skyports Infrastructure: London-based vertiport developer, exclusive builder of Dubai's Joby/RTA vertiport network. VDX technically complete April 2026."
     },
     "ar": {
      "name": "Skyports Infrastructure",
-     "meta_description": "Skyports Infrastructure: London-based vertiport developer, exclusive builder of Dubai's Joby/RTA vertiport network. DXV technically complete April 2026."
+     "meta_description": "Skyports Infrastructure: London-based vertiport developer, exclusive builder of Dubai's Joby/RTA vertiport network. VDX technically complete April 2026."
     },
     "fr": {
      "name": "Skyports Infrastructure",
-     "meta_description": "Skyports Infrastructure: London-based vertiport developer, exclusive builder of Dubai's Joby/RTA vertiport network. DXV technically complete April 2026."
+     "meta_description": "Skyports Infrastructure: London-based vertiport developer, exclusive builder of Dubai's Joby/RTA vertiport network. VDX technically complete April 2026."
     },
     "de": {
      "name": "Skyports Infrastructure",
-     "meta_description": "Skyports Infrastructure: London-based vertiport developer, exclusive builder of Dubai's Joby/RTA vertiport network. DXV technically complete April 2026."
+     "meta_description": "Skyports Infrastructure: London-based vertiport developer, exclusive builder of Dubai's Joby/RTA vertiport network. VDX technically complete April 2026."
     },
     "zh": {
      "name": "Skyports Infrastructure",
-     "meta_description": "Skyports Infrastructure: London-based vertiport developer, exclusive builder of Dubai's Joby/RTA vertiport network. DXV technically complete April 2026."
+     "meta_description": "Skyports Infrastructure: London-based vertiport developer, exclusive builder of Dubai's Joby/RTA vertiport network. VDX technically complete April 2026."
     }
    }
   },
@@ -2606,7 +2613,7 @@
    "entity_type": "operator",
    "country": "UAE",
    "city": "Abu Dhabi",
-   "status": "under-construction",
+   "status": "under_construction",
    "last_verified": "2026-07-28",
    "name": "BETA Technologies, Inc.",
    "meta_description": "BETA Technologies supplies eVTOL charging hardware to Abu Dhabi Airports. Its first Charge Cube is commissioned at Al Bateen Executive Airport, Abu Dhabi.",
