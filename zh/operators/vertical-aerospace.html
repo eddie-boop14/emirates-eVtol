@@ -454,9 +454,9 @@
   }
 
   /* SCROLL REVEAL */
-  .reveal{opacity:0;transform:translateY(18px);transition:opacity .7s var(--ease),transform .7s var(--ease)}
-  .reveal.in{opacity:1;transform:translateY(0)}
-  @media(prefers-reduced-motion:reduce){.reveal{opacity:1;transform:none;transition:none}}
+  html.js .reveal{opacity:0;transform:translateY(18px);transition:opacity .7s var(--ease),transform .7s var(--ease)}
+  html.js .reveal.in{opacity:1;transform:translateY(0)}
+  @media(prefers-reduced-motion:reduce){html.js .reveal{opacity:1;transform:none;transition:none}}
 
   /* HEADER UPGRADE — gradient brand mark matching landing */
   .header{background:color-mix(in srgb,var(--paper) 90%,transparent);
@@ -714,7 +714,7 @@
   /* SECTION ID anchor offset for sticky header */
   .body h2[id]{scroll-margin-top:calc(var(--header-h) + 1.2rem)}
 </style>
-<link rel="alternate" type="application/atom+xml" title="最近核实" href="https://evtolemirates.com/feed.xml"></head>
+<link rel="alternate" type="application/atom+xml" title="最近核实" href="https://evtolemirates.com/feed.xml"><script>if('IntersectionObserver' in window)document.documentElement.classList.add('js')</script></head>
 <body>
 <a class="skip-link" href="#main">Home</a>
 <div class="orphan-banner"><strong>ORPHANED CONTRACT</strong><span class="orphan-banner-detail">没有任何公司、GCAA、DCAA或阿联酋政府的一手资料文件记录了Vertical Aerospace在阿联酋的任何订单、合作伙伴关系、垂直起降机场或监管活动；该公司在海湾地区的唯一承诺在沙特阿拉伯。</span></div>

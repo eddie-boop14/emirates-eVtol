@@ -444,9 +444,9 @@
   }
 
   /* SCROLL REVEAL */
-  .reveal{opacity:0;transform:translateY(18px);transition:opacity .7s var(--ease),transform .7s var(--ease)}
-  .reveal.in{opacity:1;transform:translateY(0)}
-  @media(prefers-reduced-motion:reduce){.reveal{opacity:1;transform:none;transition:none}}
+  html.js .reveal{opacity:0;transform:translateY(18px);transition:opacity .7s var(--ease),transform .7s var(--ease)}
+  html.js .reveal.in{opacity:1;transform:translateY(0)}
+  @media(prefers-reduced-motion:reduce){html.js .reveal{opacity:1;transform:none;transition:none}}
 
   /* HEADER UPGRADE — gradient brand mark matching landing */
   .header{background:color-mix(in srgb,var(--paper) 90%,transparent);
@@ -704,7 +704,7 @@
   /* SECTION ID anchor offset for sticky header */
   .body h2[id]{scroll-margin-top:calc(var(--header-h) + 1.2rem)}
 </style>
-<link rel="alternate" type="application/atom+xml" title="最近核实" href="https://evtolemirates.com/feed.xml"></head>
+<link rel="alternate" type="application/atom+xml" title="最近核实" href="https://evtolemirates.com/feed.xml"><script>if('IntersectionObserver' in window)document.documentElement.classList.add('js')</script></head>
 <body>
 <a class="skip-link" href="#main">首页</a>
 <div class="orphan-banner"><strong>孤立合约</strong><span class="orphan-banner-detail">Saudia与Lilium于2024年7月18日签署了一份具有约束力的销售协议，购买50架确定订单加50架选配Lilium Jet飞机。Lilium于2024年10月提出首次破产申请，于2025年2月21日最终破产。FlightGlobal于2026年4月9日报告称，Lilium原型机正在Oberpfaffenhofen被拆解，破产管理人确认销售'因法律原因不可能'。未来没有继承制造商承担Lilium的义务。本条目记录的是签署内容，而非交付内容。</span></div>
