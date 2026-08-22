@@ -854,6 +854,82 @@
    }
   },
   {
+   "slug": "beta-technologies",
+   "entity_type": "operator",
+   "country": "UAE",
+   "city": "Abu Dhabi",
+   "status": "under_construction",
+   "last_verified": "2026-08-22",
+   "name": "BETA Technologies, Inc.",
+   "meta_description": "BETA Technologies supplies eVTOL charging hardware to Abu Dhabi Airports. Its first Charge Cube is commissioned at Al Bateen Executive Airport, Abu Dhabi.",
+   "latitude": 24.4283,
+   "longitude": 54.4581,
+   "sources": [
+    {
+     "id": "beta-ir-adairports",
+     "name": "BETA Technologies — Abu Dhabi Airports Selects BETA Technologies' Charge Infrastructure for emirate's Advanced Air Mobility Network",
+     "url": "https://investors.beta.team/news-events/press-releases/detail/90/abu-dhabi-airports-selects-beta-technologies-charge-infrastructure-for-emirates-advanced-air-mobility-network",
+     "type": "operator-ir",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "adio-vertiport-network",
+     "name": "Abu Dhabi Investment Office — In collaboration with strategic partners, Abu Dhabi Investment Office announces launch of vertiport network to activate air taxi operations",
+     "url": "https://www.prnewswire.com/news-releases/in-collaboration-with-strategic-partners-abu-dhabi-investment-office-announces-launch-of-vertiport-network-to-activate-air-taxi-operations-302610240.html",
+     "type": "government",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "ups-gcaa-licence",
+     "name": "UPS — UPS and BETA granted license to test electric flight deliveries",
+     "url": "https://about.ups.com/ae/en/our-stories/innovation-driven/ups-and-beta-granted-license-to-test-electric-flight-deliveries.html",
+     "type": "official-news",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "eat-evtol",
+     "name": "Etihad Aviation Training — eVTOL",
+     "url": "https://www.etihadaviationtraining.com/evtol",
+     "type": "official-news",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "beta-timeline",
+     "name": "BETA Technologies — Timeline",
+     "url": "https://beta.team/timeline",
+     "type": "operator-ir",
+     "accessed": "2026-07-28",
+     "primary": true
+    }
+   ],
+   "i18n": {
+    "en": {
+     "name": "BETA Technologies, Inc.",
+     "meta_description": "BETA Technologies supplies eVTOL charging hardware to Abu Dhabi Airports. Its first Charge Cube is commissioned at Al Bateen Executive Airport, Abu Dhabi."
+    },
+    "ar": {
+     "name": "BETA Technologies, Inc.",
+     "meta_description": "BETA Technologies supplies eVTOL charging hardware to Abu Dhabi Airports. Its first Charge Cube is commissioned at Al Bateen Executive Airport, Abu Dhabi."
+    },
+    "fr": {
+     "name": "BETA Technologies, Inc.",
+     "meta_description": "BETA Technologies supplies eVTOL charging hardware to Abu Dhabi Airports. Its first Charge Cube is commissioned at Al Bateen Executive Airport, Abu Dhabi."
+    },
+    "de": {
+     "name": "BETA Technologies, Inc.",
+     "meta_description": "BETA Technologies supplies eVTOL charging hardware to Abu Dhabi Airports. Its first Charge Cube is commissioned at Al Bateen Executive Airport, Abu Dhabi."
+    },
+    "zh": {
+     "name": "BETA Technologies, Inc.",
+     "meta_description": "BETA Technologies supplies eVTOL charging hardware to Abu Dhabi Airports. Its first Charge Cube is commissioned at Al Bateen Executive Airport, Abu Dhabi."
+    }
+   }
+  },
+  {
    "slug": "did-not-make-the-cut",
    "entity_type": "answer",
    "country": null,
@@ -892,6 +968,254 @@
     "zh": {
      "name": "Did Not Make The Cut: 13 Entities We Cut",
      "meta_description": "We cut 13 candidate eVTOL entities from the Arab-world database because they failed our contracted/built/flight-tested/regulated bar. Honest disclosure of what was considered and rejected, with primary sources."
+    }
+   }
+  },
+  {
+   "slug": "dubai-air-taxi-launch-tracker",
+   "entity_type": "answer",
+   "country": "UAE",
+   "city": "Dubai",
+   "status": "trial_only",
+   "last_verified": "2026-08-22",
+   "name": "Dubai air taxi launch tracker",
+   "meta_description": "Not flying yet. As of 22 August 2026 Dubai's air taxi has a certified vertiport (VDX, 7 Jul 2026) and a target of first passengers before the end of 2026. Every milestone on the road to launch, dated and sourced.",
+   "latitude": 25.2532,
+   "longitude": 55.3657,
+   "sources": [
+    {
+     "id": "joby-ir-2024-02-11",
+     "name": "Joby Aviation IR — Joby to Launch Air Taxi Service in UAE (11 Feb 2024)",
+     "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/87/joby-to-launch-air-taxi-service-in-uae",
+     "type": "operator-ir",
+     "accessed": "2026-08-22"
+    },
+    {
+     "id": "skyports-2024-11-12",
+     "name": "Skyports Infrastructure — Skyports and RTA break ground on first vertiport in Dubai (12 Nov 2024)",
+     "url": "https://skyports.net/skyports-and-rta-break-ground-on-first-vertiport-in-dubai/",
+     "type": "primary",
+     "accessed": "2026-08-22"
+    },
+    {
+     "id": "joby-ir-2025-06-30",
+     "name": "Joby Aviation IR — Joby Cements Global Lead with Dubai Flights (30 Jun 2025)",
+     "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/132/joby-cements-global-lead-in-air-taxi-industry-with-dubai",
+     "type": "operator-ir",
+     "accessed": "2026-08-22"
+    },
+    {
+     "id": "joby-ir-2025-11-17",
+     "name": "Joby Aviation IR — Dubai Air Taxi Network Takes Flight (17 Nov 2025)",
+     "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/162/dubai-air-taxi-network-takes-flight-joby-completes",
+     "type": "operator-ir",
+     "accessed": "2026-08-22"
+    },
+    {
+     "id": "gulf-news-2025-11-20",
+     "name": "Gulf News — Dubai air taxi fares could eventually match Uber, Careem, says RTA CEO (20 Nov 2025)",
+     "url": "https://gulfnews.com/uae/dubai-air-taxi-fares-could-eventually-match-uber-careem-says-rta-ceo-1.500353007",
+     "type": "press",
+     "accessed": "2026-08-22"
+    },
+    {
+     "id": "joby-uber-2026-02-25",
+     "name": "Joby Aviation — Get Ready for Takeoff with Uber and Joby (25 Feb 2026)",
+     "url": "https://www.jobyaviation.com/news/get-ready-for-takeoff-with-uber-and-joby",
+     "type": "operator-ir",
+     "accessed": "2026-08-22"
+    },
+    {
+     "id": "skyports-2026-04-16",
+     "name": "Skyports Infrastructure — Air taxi ready: world's first commercial vertiport reaches technical completion (16 Apr 2026)",
+     "url": "https://skyports.net/worlds-first-commercial-vertiport-technical-completion/",
+     "type": "primary",
+     "accessed": "2026-08-22"
+    },
+    {
+     "id": "skyports-2026-07-07",
+     "name": "Skyports Infrastructure — UAE Makes Global Aviation History with GCAA's Certification of the World's First Purpose-Built Commercial Vertiport (7 Jul 2026)",
+     "url": "https://skyports.net/post/uae-makes-global-aviation-history-with-certification-worlds-first-purpose-built-commercial-vertiport-skyports-infrastructure",
+     "type": "primary",
+     "accessed": "2026-08-22"
+    },
+    {
+     "id": "national-2026-07-07",
+     "name": "The National — Dubai's air taxis primed for lift-off after approval for first vertiport (7 Jul 2026)",
+     "url": "https://www.thenationalnews.com/news/uae/2026/07/07/dubais-air-taxis-primed-for-lift-off-after-approval-for-first-vertiport/",
+     "type": "press",
+     "accessed": "2026-08-22"
+    }
+   ],
+   "i18n": {
+    "en": {
+     "name": "Dubai air taxi launch tracker",
+     "meta_description": "Not flying yet. As of 22 August 2026 Dubai's air taxi has a certified vertiport (VDX, 7 Jul 2026) and a target of first passengers before the end of 2026. Every milestone on the road to launch, dated and sourced."
+    },
+    "ar": {
+     "name": "Dubai air taxi launch tracker",
+     "meta_description": "Not flying yet. As of 22 August 2026 Dubai's air taxi has a certified vertiport (VDX, 7 Jul 2026) and a target of first passengers before the end of 2026. Every milestone on the road to launch, dated and sourced."
+    },
+    "fr": {
+     "name": "Dubai air taxi launch tracker",
+     "meta_description": "Not flying yet. As of 22 August 2026 Dubai's air taxi has a certified vertiport (VDX, 7 Jul 2026) and a target of first passengers before the end of 2026. Every milestone on the road to launch, dated and sourced."
+    },
+    "de": {
+     "name": "Dubai air taxi launch tracker",
+     "meta_description": "Not flying yet. As of 22 August 2026 Dubai's air taxi has a certified vertiport (VDX, 7 Jul 2026) and a target of first passengers before the end of 2026. Every milestone on the road to launch, dated and sourced."
+    },
+    "zh": {
+     "name": "Dubai air taxi launch tracker",
+     "meta_description": "Not flying yet. As of 22 August 2026 Dubai's air taxi has a certified vertiport (VDX, 7 Jul 2026) and a target of first passengers before the end of 2026. Every milestone on the road to launch, dated and sourced."
+    }
+   }
+  },
+  {
+   "slug": "dubai-air-taxi-price",
+   "entity_type": "answer",
+   "country": "UAE",
+   "city": "Dubai",
+   "status": "trial_only",
+   "last_verified": "2026-08-22",
+   "name": "Dubai air taxi price — what is confirmed",
+   "meta_description": "No fare has been announced for Dubai's air taxi as of August 2026. The RTA says pricing is undecided — 'cheaper than helicopters', aiming at Uber/Careem parity over time. The AED 350 figure circulating online is unsourced.",
+   "latitude": 25.2048,
+   "longitude": 55.2708,
+   "sources": [
+    {
+     "id": "gulf-news-2025-11-20",
+     "name": "Gulf News — Dubai air taxi fares could eventually match Uber, Careem, says RTA CEO (20 Nov 2025)",
+     "url": "https://gulfnews.com/uae/dubai-air-taxi-fares-could-eventually-match-uber-careem-says-rta-ceo-1.500353007",
+     "type": "press",
+     "accessed": "2026-08-22"
+    },
+    {
+     "id": "joby-uber-2026-02-25",
+     "name": "Joby Aviation — Get Ready for Takeoff with Uber and Joby (25 Feb 2026)",
+     "url": "https://www.jobyaviation.com/news/get-ready-for-takeoff-with-uber-and-joby",
+     "type": "operator-ir",
+     "accessed": "2026-08-22"
+    },
+    {
+     "id": "joby-ir-2024-02-11",
+     "name": "Joby Aviation IR — Joby to Launch Air Taxi Service in UAE (11 Feb 2024)",
+     "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/87/joby-to-launch-air-taxi-service-in-uae",
+     "type": "operator-ir",
+     "accessed": "2026-08-22"
+    },
+    {
+     "id": "skyports-2026-07-07",
+     "name": "Skyports Infrastructure — UAE Makes Global Aviation History with GCAA's Certification of the World's First Purpose-Built Commercial Vertiport (7 Jul 2026)",
+     "url": "https://skyports.net/post/uae-makes-global-aviation-history-with-certification-worlds-first-purpose-built-commercial-vertiport-skyports-infrastructure",
+     "type": "primary",
+     "accessed": "2026-08-22"
+    },
+    {
+     "id": "national-2026-07-07",
+     "name": "The National — Dubai's air taxis primed for lift-off after approval for first vertiport (7 Jul 2026)",
+     "url": "https://www.thenationalnews.com/news/uae/2026/07/07/dubais-air-taxis-primed-for-lift-off-after-approval-for-first-vertiport/",
+     "type": "press",
+     "accessed": "2026-08-22"
+    }
+   ],
+   "i18n": {
+    "en": {
+     "name": "Dubai air taxi price — what is confirmed",
+     "meta_description": "No fare has been announced for Dubai's air taxi as of August 2026. The RTA says pricing is undecided — 'cheaper than helicopters', aiming at Uber/Careem parity over time. The AED 350 figure circulating online is unsourced."
+    },
+    "ar": {
+     "name": "Dubai air taxi price — what is confirmed",
+     "meta_description": "No fare has been announced for Dubai's air taxi as of August 2026. The RTA says pricing is undecided — 'cheaper than helicopters', aiming at Uber/Careem parity over time. The AED 350 figure circulating online is unsourced."
+    },
+    "fr": {
+     "name": "Dubai air taxi price — what is confirmed",
+     "meta_description": "No fare has been announced for Dubai's air taxi as of August 2026. The RTA says pricing is undecided — 'cheaper than helicopters', aiming at Uber/Careem parity over time. The AED 350 figure circulating online is unsourced."
+    },
+    "de": {
+     "name": "Dubai air taxi price — what is confirmed",
+     "meta_description": "No fare has been announced for Dubai's air taxi as of August 2026. The RTA says pricing is undecided — 'cheaper than helicopters', aiming at Uber/Careem parity over time. The AED 350 figure circulating online is unsourced."
+    },
+    "zh": {
+     "name": "Dubai air taxi price — what is confirmed",
+     "meta_description": "No fare has been announced for Dubai's air taxi as of August 2026. The RTA says pricing is undecided — 'cheaper than helicopters', aiming at Uber/Careem parity over time. The AED 350 figure circulating online is unsourced."
+    }
+   }
+  },
+  {
+   "slug": "dubai-air-taxi-routes-and-times",
+   "entity_type": "answer",
+   "country": "UAE",
+   "city": "Dubai",
+   "status": "trial_only",
+   "last_verified": "2026-08-22",
+   "name": "Dubai air taxi routes & flight times",
+   "meta_description": "Four launch vertiports: VDX at DXB (GCAA-certified 7 Jul 2026, world's first), Dubai Marina (under construction), Dubai Mall and Palm Jumeirah. First point-to-point flight took 17 minutes (Margham to DWC, 9 Nov 2025).",
+   "latitude": 25.2532,
+   "longitude": 55.3657,
+   "sources": [
+    {
+     "id": "rta-2025-11",
+     "name": "RTA Dubai — Successful First Crewed Electric Aerial Taxi Flight (Nov 2025)",
+     "url": "https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/all-news/NewsDetails/successful-first-crewed-electric-aerial-taxi-flight",
+     "type": "regulatory",
+     "accessed": "2026-08-22"
+    },
+    {
+     "id": "joby-ir-2025-11-17",
+     "name": "Joby Aviation IR — Dubai Air Taxi Network Takes Flight (17 Nov 2025)",
+     "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/162/dubai-air-taxi-network-takes-flight-joby-completes",
+     "type": "operator-ir",
+     "accessed": "2026-08-22"
+    },
+    {
+     "id": "skyports-2026-07-07",
+     "name": "Skyports Infrastructure — UAE Makes Global Aviation History with GCAA's Certification of the World's First Purpose-Built Commercial Vertiport (7 Jul 2026)",
+     "url": "https://skyports.net/post/uae-makes-global-aviation-history-with-certification-worlds-first-purpose-built-commercial-vertiport-skyports-infrastructure",
+     "type": "primary",
+     "accessed": "2026-08-22"
+    },
+    {
+     "id": "skyports-2026-04-16",
+     "name": "Skyports Infrastructure — Air taxi ready: world's first commercial vertiport reaches technical completion (16 Apr 2026)",
+     "url": "https://skyports.net/worlds-first-commercial-vertiport-technical-completion/",
+     "type": "primary",
+     "accessed": "2026-08-22"
+    },
+    {
+     "id": "national-2026-07-07",
+     "name": "The National — Dubai's air taxis primed for lift-off after approval for first vertiport (7 Jul 2026)",
+     "url": "https://www.thenationalnews.com/news/uae/2026/07/07/dubais-air-taxis-primed-for-lift-off-after-approval-for-first-vertiport/",
+     "type": "press",
+     "accessed": "2026-08-22"
+    },
+    {
+     "id": "joby-uber-2026-02-25",
+     "name": "Joby Aviation — Get Ready for Takeoff with Uber and Joby (25 Feb 2026)",
+     "url": "https://www.jobyaviation.com/news/get-ready-for-takeoff-with-uber-and-joby",
+     "type": "operator-ir",
+     "accessed": "2026-08-22"
+    }
+   ],
+   "i18n": {
+    "en": {
+     "name": "Dubai air taxi routes & flight times",
+     "meta_description": "Four launch vertiports: VDX at DXB (GCAA-certified 7 Jul 2026, world's first), Dubai Marina (under construction), Dubai Mall and Palm Jumeirah. First point-to-point flight took 17 minutes (Margham to DWC, 9 Nov 2025)."
+    },
+    "ar": {
+     "name": "Dubai air taxi routes & flight times",
+     "meta_description": "Four launch vertiports: VDX at DXB (GCAA-certified 7 Jul 2026, world's first), Dubai Marina (under construction), Dubai Mall and Palm Jumeirah. First point-to-point flight took 17 minutes (Margham to DWC, 9 Nov 2025)."
+    },
+    "fr": {
+     "name": "Dubai air taxi routes & flight times",
+     "meta_description": "Four launch vertiports: VDX at DXB (GCAA-certified 7 Jul 2026, world's first), Dubai Marina (under construction), Dubai Mall and Palm Jumeirah. First point-to-point flight took 17 minutes (Margham to DWC, 9 Nov 2025)."
+    },
+    "de": {
+     "name": "Dubai air taxi routes & flight times",
+     "meta_description": "Four launch vertiports: VDX at DXB (GCAA-certified 7 Jul 2026, world's first), Dubai Marina (under construction), Dubai Mall and Palm Jumeirah. First point-to-point flight took 17 minutes (Margham to DWC, 9 Nov 2025)."
+    },
+    "zh": {
+     "name": "Dubai air taxi routes & flight times",
+     "meta_description": "Four launch vertiports: VDX at DXB (GCAA-certified 7 Jul 2026, world's first), Dubai Marina (under construction), Dubai Mall and Palm Jumeirah. First point-to-point flight took 17 minutes (Margham to DWC, 9 Nov 2025)."
     }
    }
   },
@@ -1116,6 +1440,63 @@
    }
   },
   {
+   "slug": "dxb-to-atlantis-the-royal",
+   "entity_type": "route",
+   "country": "UAE",
+   "city": "Dubai",
+   "status": "planned",
+   "last_verified": "2026-08-22",
+   "name": "DXB ↔ Atlantis The Royal",
+   "meta_description": "Joby Aviation route between DXB and Atlantis The Royal vertiport, Palm Jumeirah: ~10-minute flight planned for 2026 launch under RTA exclusive agreement.",
+   "latitude": 25.2076,
+   "longitude": 55.3055,
+   "sources": [
+    {
+     "id": "joby-ir-2025-11-17",
+     "name": "Joby Aviation IR — Dubai Air Taxi Network Takes Flight (17 Nov 2025)",
+     "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/162/dubai-air-taxi-network-takes-flight-joby-completes",
+     "type": "operator-ir",
+     "accessed": "2026-05-01"
+    },
+    {
+     "id": "joby-ir-2024-02",
+     "name": "Joby Aviation IR — Joby to Launch Air Taxi Service in UAE (11 Feb 2024)",
+     "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/87/joby-to-launch-air-taxi-service-in-uae",
+     "type": "operator-ir",
+     "accessed": "2026-08-22"
+    },
+    {
+     "id": "rta-statement-2025-11",
+     "name": "RTA Dubai — Statement by H.E. Mattar Al Tayer, Director General, on 10-minute DXB–Palm Jumeirah expected flight time and 60% DXB vertiport completion (carried via Joby IR and ERTICO, 17 Nov / Dec 2025)",
+     "url": "https://ertico.com/rta-and-joby-aviation-complete-first-crewed-electric-aerial-taxi-flight",
+     "type": "primary",
+     "accessed": "2026-05-01"
+    }
+   ],
+   "i18n": {
+    "en": {
+     "name": "DXB ↔ Atlantis The Royal",
+     "meta_description": "Joby Aviation route between DXB and Atlantis The Royal vertiport, Palm Jumeirah: ~10-minute flight planned for 2026 launch under RTA exclusive agreement."
+    },
+    "ar": {
+     "name": "DXB ↔ Atlantis The Royal",
+     "meta_description": "Joby Aviation route between DXB and Atlantis The Royal vertiport, Palm Jumeirah: ~10-minute flight planned for 2026 launch under RTA exclusive agreement."
+    },
+    "fr": {
+     "name": "DXB ↔ Atlantis The Royal",
+     "meta_description": "Joby Aviation route between DXB and Atlantis The Royal vertiport, Palm Jumeirah: ~10-minute flight planned for 2026 launch under RTA exclusive agreement."
+    },
+    "de": {
+     "name": "DXB ↔ Atlantis The Royal",
+     "meta_description": "Joby Aviation route between DXB and Atlantis The Royal vertiport, Palm Jumeirah: ~10-minute flight planned for 2026 launch under RTA exclusive agreement."
+    },
+    "zh": {
+     "name": "DXB ↔ Atlantis The Royal",
+     "meta_description": "Joby Aviation route between DXB and Atlantis The Royal vertiport, Palm Jumeirah: ~10-minute flight planned for 2026 launch under RTA exclusive agreement."
+    }
+   }
+  },
+  {
    "slug": "dxb-to-dubai-mall",
    "entity_type": "route",
    "country": "UAE",
@@ -1176,63 +1557,6 @@
     "zh": {
      "name": "DXB ↔ Dubai Mall",
      "meta_description": "Joby Aviation route between DXB and Dubai Mall vertiports, planned for 2026 commercial launch under exclusive RTA agreement. Primary sources verified."
-    }
-   }
-  },
-  {
-   "slug": "dxb-to-atlantis-the-royal",
-   "entity_type": "route",
-   "country": "UAE",
-   "city": "Dubai",
-   "status": "planned",
-   "last_verified": "2026-08-22",
-   "name": "DXB ↔ Atlantis The Royal",
-   "meta_description": "Joby Aviation route between DXB and Atlantis The Royal vertiport, Palm Jumeirah: ~10-minute flight planned for 2026 launch under RTA exclusive agreement.",
-   "latitude": 25.2076,
-   "longitude": 55.3055,
-   "sources": [
-    {
-     "id": "joby-ir-2025-11-17",
-     "name": "Joby Aviation IR — Dubai Air Taxi Network Takes Flight (17 Nov 2025)",
-     "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/162/dubai-air-taxi-network-takes-flight-joby-completes",
-     "type": "operator-ir",
-     "accessed": "2026-05-01"
-    },
-    {
-     "id": "joby-ir-2024-02",
-     "name": "Joby Aviation IR — Joby to Launch Air Taxi Service in UAE (11 Feb 2024)",
-     "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/87/joby-to-launch-air-taxi-service-in-uae",
-     "type": "operator-ir",
-     "accessed": "2026-08-22"
-    },
-    {
-     "id": "rta-statement-2025-11",
-     "name": "RTA Dubai — Statement by H.E. Mattar Al Tayer, Director General, on 10-minute DXB–Palm Jumeirah expected flight time and 60% DXB vertiport completion (carried via Joby IR and ERTICO, 17 Nov / Dec 2025)",
-     "url": "https://ertico.com/rta-and-joby-aviation-complete-first-crewed-electric-aerial-taxi-flight",
-     "type": "primary",
-     "accessed": "2026-05-01"
-    }
-   ],
-   "i18n": {
-    "en": {
-     "name": "DXB ↔ Atlantis The Royal",
-     "meta_description": "Joby Aviation route between DXB and Atlantis The Royal vertiport, Palm Jumeirah: ~10-minute flight planned for 2026 launch under RTA exclusive agreement."
-    },
-    "ar": {
-     "name": "DXB ↔ Atlantis The Royal",
-     "meta_description": "Joby Aviation route between DXB and Atlantis The Royal vertiport, Palm Jumeirah: ~10-minute flight planned for 2026 launch under RTA exclusive agreement."
-    },
-    "fr": {
-     "name": "DXB ↔ Atlantis The Royal",
-     "meta_description": "Joby Aviation route between DXB and Atlantis The Royal vertiport, Palm Jumeirah: ~10-minute flight planned for 2026 launch under RTA exclusive agreement."
-    },
-    "de": {
-     "name": "DXB ↔ Atlantis The Royal",
-     "meta_description": "Joby Aviation route between DXB and Atlantis The Royal vertiport, Palm Jumeirah: ~10-minute flight planned for 2026 launch under RTA exclusive agreement."
-    },
-    "zh": {
-     "name": "DXB ↔ Atlantis The Royal",
-     "meta_description": "Joby Aviation route between DXB and Atlantis The Royal vertiport, Palm Jumeirah: ~10-minute flight planned for 2026 launch under RTA exclusive agreement."
     }
    }
   },
@@ -1425,6 +1749,98 @@
     "zh": {
      "name": "EHang EH216-S (UAE)",
      "meta_description": "EHang EH216-S in the UAE: completed the Middle East's first passenger-carrying pilotless eVTOL demo flight in Abu Dhabi on 6 May 2024. Specs and milestones."
+    }
+   }
+  },
+  {
+   "slug": "eve-air-mobility",
+   "entity_type": "operator",
+   "country": "UAE",
+   "city": "Dubai",
+   "status": "announced",
+   "last_verified": "2026-08-22",
+   "name": "Eve Air Mobility",
+   "meta_description": "Eve Air Mobility's UAE record: a 2022 Falcon Aviation letter of intent for up to 35 eVTOLs and a 2023 Kookiejar Urban ATM deal. No UAE operations to date.",
+   "latitude": null,
+   "longitude": null,
+   "sources": [
+    {
+     "id": "eve-falcon-2022",
+     "name": "Eve Air Mobility — Eve and Falcon Aviation Services announce partnership to introduce eVTOL flights in Dubai",
+     "url": "https://www.eveairmobility.com/eve-and-falcon-aviation-services-announce-partnership-to-introduce-evtol-flights-in-dubai/",
+     "type": "official-news",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "falcon-eve-2022",
+     "name": "Falcon Aviation Services — Eve and Falcon Aviation Services announce partnership to introduce eVTOL flights in Dubai",
+     "url": "https://www.falconaviation.ae/2022/06/07/eve-and-falcon-aviation-services-announce-partnership-to-introduce-evtol-flights-in-dubai",
+     "type": "official-news",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "eve-kookiejar-2023",
+     "name": "Eve Air Mobility — Eve and Kookiejar to Develop Urban Air Traffic Management System for Operations in Dubai",
+     "url": "https://www.eveairmobility.com/eve-and-kookiejar-to-develop-urban-air-traffic-management-system-for-operations-in-dubai/",
+     "type": "official-news",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "embraer-eve-bahrain-2025",
+     "name": "Embraer Media Center — Eve Air Mobility Expands Middle East Presence with Bahrain Framework Agreement",
+     "url": "https://www.embraer.com/media-center/en/?mediatype=NEWS&detail=23068",
+     "type": "operator-ir",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "eve-ir-fy2025",
+     "name": "Eve Holding, Inc. — Eve Holding, Inc. Reports Fourth Quarter and FY2025 Results",
+     "url": "https://ir.eveairmobility.com/news-events/press-releases/detail/106/eve-holding-inc-reports-fourth-quarter-and-fy2025-results",
+     "type": "operator-ir",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "eve-ir-cert-2026",
+     "name": "Eve Holding, Inc. — Eve Advances Global Certification Path for Eve 100",
+     "url": "https://ir.eveairmobility.com/news-events/press-releases/detail/115/eve-advances-global-certification-path-for-eve-100",
+     "type": "operator-ir",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "eve-evtol-specs",
+     "name": "Eve Air Mobility — eVTOL (aircraft specifications)",
+     "url": "https://www.eveairmobility.com/evtol/",
+     "type": "official-news",
+     "accessed": "2026-07-28",
+     "primary": true
+    }
+   ],
+   "i18n": {
+    "en": {
+     "name": "Eve Air Mobility",
+     "meta_description": "Eve Air Mobility's UAE record: a 2022 Falcon Aviation letter of intent for up to 35 eVTOLs and a 2023 Kookiejar Urban ATM deal. No UAE operations to date."
+    },
+    "ar": {
+     "name": "Eve Air Mobility",
+     "meta_description": "Eve Air Mobility's UAE record: a 2022 Falcon Aviation letter of intent for up to 35 eVTOLs and a 2023 Kookiejar Urban ATM deal. No UAE operations to date."
+    },
+    "fr": {
+     "name": "Eve Air Mobility",
+     "meta_description": "Eve Air Mobility's UAE record: a 2022 Falcon Aviation letter of intent for up to 35 eVTOLs and a 2023 Kookiejar Urban ATM deal. No UAE operations to date."
+    },
+    "de": {
+     "name": "Eve Air Mobility",
+     "meta_description": "Eve Air Mobility's UAE record: a 2022 Falcon Aviation letter of intent for up to 35 eVTOLs and a 2023 Kookiejar Urban ATM deal. No UAE operations to date."
+    },
+    "zh": {
+     "name": "Eve Air Mobility",
+     "meta_description": "Eve Air Mobility's UAE record: a 2022 Falcon Aviation letter of intent for up to 35 eVTOLs and a 2023 Kookiejar Urban ATM deal. No UAE operations to date."
     }
    }
   },
@@ -1645,6 +2061,77 @@
     "zh": {
      "name": "Gulf eVTOL — UAE vs Qatar compared",
      "meta_description": "Compares the UAE eVTOL programme (Joby S4 piloted, Dubai 2026 launch) and the Qatar eVTOL programme (EHang EH216-S pilotless, Doha trial Nov 2025)."
+    }
+   }
+  },
+  {
+   "slug": "how-to-book-dubai-air-taxi",
+   "entity_type": "answer",
+   "country": "UAE",
+   "city": "Dubai",
+   "status": "trial_only",
+   "last_verified": "2026-08-22",
+   "name": "How to book Dubai’s air taxi",
+   "meta_description": "Booking will run through the Uber app: 'Uber Air powered by Joby' appears as a trip option and one tap books every leg. Not bookable yet as of August 2026 — no official waitlist exists. Launch expected before end of 2026.",
+   "latitude": 25.2048,
+   "longitude": 55.2708,
+   "sources": [
+    {
+     "id": "joby-uber-2026-02-25",
+     "name": "Joby Aviation — Get Ready for Takeoff with Uber and Joby (25 Feb 2026)",
+     "url": "https://www.jobyaviation.com/news/get-ready-for-takeoff-with-uber-and-joby",
+     "type": "operator-ir",
+     "accessed": "2026-08-22"
+    },
+    {
+     "id": "joby-ir-2024-02-11",
+     "name": "Joby Aviation IR — Joby to Launch Air Taxi Service in UAE (11 Feb 2024)",
+     "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/87/joby-to-launch-air-taxi-service-in-uae",
+     "type": "operator-ir",
+     "accessed": "2026-08-22"
+    },
+    {
+     "id": "national-2026-07-07",
+     "name": "The National — Dubai's air taxis primed for lift-off after approval for first vertiport (7 Jul 2026)",
+     "url": "https://www.thenationalnews.com/news/uae/2026/07/07/dubais-air-taxis-primed-for-lift-off-after-approval-for-first-vertiport/",
+     "type": "press",
+     "accessed": "2026-08-22"
+    },
+    {
+     "id": "skyports-2026-07-07",
+     "name": "Skyports Infrastructure — UAE Makes Global Aviation History with GCAA's Certification of the World's First Purpose-Built Commercial Vertiport (7 Jul 2026)",
+     "url": "https://skyports.net/post/uae-makes-global-aviation-history-with-certification-worlds-first-purpose-built-commercial-vertiport-skyports-infrastructure",
+     "type": "primary",
+     "accessed": "2026-08-22"
+    },
+    {
+     "id": "gulf-news-2025-11-20",
+     "name": "Gulf News — Dubai air taxi fares could eventually match Uber, Careem, says RTA CEO (20 Nov 2025)",
+     "url": "https://gulfnews.com/uae/dubai-air-taxi-fares-could-eventually-match-uber-careem-says-rta-ceo-1.500353007",
+     "type": "press",
+     "accessed": "2026-08-22"
+    }
+   ],
+   "i18n": {
+    "en": {
+     "name": "How to book Dubai’s air taxi",
+     "meta_description": "Booking will run through the Uber app: 'Uber Air powered by Joby' appears as a trip option and one tap books every leg. Not bookable yet as of August 2026 — no official waitlist exists. Launch expected before end of 2026."
+    },
+    "ar": {
+     "name": "How to book Dubai’s air taxi",
+     "meta_description": "Booking will run through the Uber app: 'Uber Air powered by Joby' appears as a trip option and one tap books every leg. Not bookable yet as of August 2026 — no official waitlist exists. Launch expected before end of 2026."
+    },
+    "fr": {
+     "name": "How to book Dubai’s air taxi",
+     "meta_description": "Booking will run through the Uber app: 'Uber Air powered by Joby' appears as a trip option and one tap books every leg. Not bookable yet as of August 2026 — no official waitlist exists. Launch expected before end of 2026."
+    },
+    "de": {
+     "name": "How to book Dubai’s air taxi",
+     "meta_description": "Booking will run through the Uber app: 'Uber Air powered by Joby' appears as a trip option and one tap books every leg. Not bookable yet as of August 2026 — no official waitlist exists. Launch expected before end of 2026."
+    },
+    "zh": {
+     "name": "How to book Dubai’s air taxi",
+     "meta_description": "Booking will run through the Uber app: 'Uber Air powered by Joby' appears as a trip option and one tap books every leg. Not bookable yet as of August 2026 — no official waitlist exists. Launch expected before end of 2026."
     }
    }
   },
@@ -2188,6 +2675,130 @@
    }
   },
   {
+   "slug": "regent-seaglider",
+   "entity_type": "operator",
+   "country": "UAE",
+   "city": "Abu Dhabi",
+   "status": "planned",
+   "last_verified": "2026-08-22",
+   "name": "REGENT Craft, Inc.",
+   "meta_description": "REGENT Craft plans Abu Dhabi seaglider manufacturing with the Strategic Development Fund. Seagliders are maritime wing-in-ground craft, not eVTOL aircraft.",
+   "latitude": 24.4539,
+   "longitude": 54.3773,
+   "sources": [
+    {
+     "id": "regent-sdf-jv",
+     "name": "REGENT — REGENT Signs Initial Agreement with Strategic Development Fund to Set Up a Joint Venture for Seaglider Manufacturing and Services in the UAE",
+     "url": "https://www.regentcraft.com/news/regent-signs-initial-agreement-with-strategic-development-fund-to-set-up-a-joint-venture-for-seaglider-manufacturing-and-services-in-the-uae",
+     "type": "operator-ir",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "sdf-regent-jv",
+     "name": "Strategic Development Fund — Strategic Development Fund Signs Initial Agreement with REGENT to Set Up a Joint Venture for Seaglider Manufacturing and Services in the UAE",
+     "url": "https://sdf.ae/news/strategic-development-fund-signs-initial-agreement-with-regent-to-set-up-a-joint-venture-for-seaglider-manufacturing-and-services-in-the-uae/",
+     "type": "government",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "regent-adio-dot-mous",
+     "name": "REGENT — REGENT Advances the Future of Coastal Transportation in Abu Dhabi",
+     "url": "https://www.regentcraft.com/news/regent-advances-the-future-of-coastal-transportation-in-abu-dhabi",
+     "type": "operator-ir",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "adnocls-regent-poc",
+     "name": "ADNOC L&S — ADNOC L&S Partners with REGENT to Trial High-Speed Electric Seagliders for Offshore Transportation",
+     "url": "https://adnocls.ae/en/news-and-media/press-releases/2025/seagliders-for-offshore-transportation",
+     "type": "official-news",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "regent-uscg-dba",
+     "name": "REGENT — REGENT Submits Design Basis Agreement to U.S. Coast Guard, Advancing Seaglider Certification",
+     "url": "https://www.regentcraft.com/news/regent-submits-design-basis-agreement-to-u-s-coast-guard-advancing-seaglider-certification",
+     "type": "operator-ir",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "regent-sea-trials",
+     "name": "REGENT — REGENT Begins Sea Trials of First Passenger-Carrying Seaglider",
+     "url": "https://www.regentcraft.com/news/regent-begins-sea-trials-of-first-passenger-carrying-seaglider",
+     "type": "operator-ir",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "regent-2026-test-campaign",
+     "name": "REGENT — REGENT kicks off 2026 Seaglider test campaign",
+     "url": "https://www.regentcraft.com/news/regent-2026-seaglider-test-campaign",
+     "type": "operator-ir",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "regent-dhl-dubai-airshow",
+     "name": "REGENT — REGENT and DHL Express Sign Agreement for Sustainable Cargo Logistics",
+     "url": "https://www.regentcraft.com/news/dubai-airshow-regent-and-dhl-express-sign-agreement-for-sustainable-cargo-logistics",
+     "type": "operator-ir",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "regent-dubai-airshow-preview",
+     "name": "REGENT — REGENT to Reveal the Future of Maritime Mobility at Dubai Airshow",
+     "url": "https://www.regentcraft.com/news/regent-to-reveal-the-future-of-maritime-mobility-at-dubai-airshow",
+     "type": "operator-ir",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "adgov-dct-versa-seaglider",
+     "name": "Abu Dhabi Government Media Office — DCT Abu Dhabi signs agreement with VERSA Advanced Maritime Services to introduce Seaglider operations across emirate by 2028",
+     "url": "https://www.mediaoffice.abudhabi/en/transport/department-of-culture-and-tourism-abu-dhabi-signs-agreement-with-versa-advanced-maritime-services-to-introduce-seaglider-operations-across-emirate-by-2028/",
+     "type": "government",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "regent-adnocls-selection",
+     "name": "REGENT — ADNOC L&S Selects REGENT Seagliders for Offshore Energy Logistics in the UAE",
+     "url": "https://www.globenewswire.com/news-release/2025/01/28/3016721/0/en/ADNOC-L-S-Selects-REGENT-Seagliders-for-Offshore-Energy-Logistics-in-the-UAE.html",
+     "type": "operator-ir",
+     "accessed": "2026-07-28",
+     "primary": true
+    }
+   ],
+   "i18n": {
+    "en": {
+     "name": "REGENT Craft, Inc.",
+     "meta_description": "REGENT Craft plans Abu Dhabi seaglider manufacturing with the Strategic Development Fund. Seagliders are maritime wing-in-ground craft, not eVTOL aircraft."
+    },
+    "ar": {
+     "name": "REGENT Craft, Inc.",
+     "meta_description": "REGENT Craft plans Abu Dhabi seaglider manufacturing with the Strategic Development Fund. Seagliders are maritime wing-in-ground craft, not eVTOL aircraft."
+    },
+    "fr": {
+     "name": "REGENT Craft, Inc.",
+     "meta_description": "REGENT Craft plans Abu Dhabi seaglider manufacturing with the Strategic Development Fund. Seagliders are maritime wing-in-ground craft, not eVTOL aircraft."
+    },
+    "de": {
+     "name": "REGENT Craft, Inc.",
+     "meta_description": "REGENT Craft plans Abu Dhabi seaglider manufacturing with the Strategic Development Fund. Seagliders are maritime wing-in-ground craft, not eVTOL aircraft."
+    },
+    "zh": {
+     "name": "REGENT Craft, Inc.",
+     "meta_description": "REGENT Craft plans Abu Dhabi seaglider manufacturing with the Strategic Development Fund. Seagliders are maritime wing-in-ground craft, not eVTOL aircraft."
+    }
+   }
+  },
+  {
    "slug": "rta-dubai",
    "entity_type": "operator",
    "country": "UAE",
@@ -2379,6 +2990,106 @@
    }
   },
   {
+   "slug": "tcab-tech",
+   "entity_type": "operator",
+   "country": "UAE",
+   "city": null,
+   "status": "announced",
+   "last_verified": "2026-08-22",
+   "name": "TCab Tech (Shanghai Time Technology Co.)",
+   "meta_description": "TCab Tech's UAE activity is an MoU with Abu Dhabi's Autocraft for up to 350 E20 eVTOLs. No UAE flights, no facility and no GCAA approval are on record.",
+   "latitude": null,
+   "longitude": null,
+   "sources": [
+    {
+     "id": "tcab-autocraft-mou-350",
+     "name": "TCab Tech — TCab Tech and Autocraft Sign MoU for 350 E20 eVTOLs to Accelerate Commercialization in the UAE and Wider MENA Region",
+     "url": "https://www.tcabtech.com/en/tcab-tech-autocraft-mou-350-e20-evtol-uae-mena-commercialization/",
+     "type": "operator-ir",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "tcab-autocraft-partnership-2024",
+     "name": "TCab Tech — TCab Tech and Autocraft establish strategic partnership to expand the Middle East market with the E20 eVTOL",
+     "url": "https://www.tcabtech.com/en/tcab-tech-autocraft-partnership-e20-evtol/",
+     "type": "operator-ir",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "tcab-air-silk-road",
+     "name": "TCab Tech — TCab Tech Launches 'Air Silk Road Global Pioneer Partnership' to Drive eVTOL Globalization",
+     "url": "https://www.tcabtech.com/en/tcab-tech-launches-air-silk-road-global-pioneer-partnership-to-drive-evtol-globalization/",
+     "type": "operator-ir",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "dubai-airshow-aam-preview",
+     "name": "Dubai Airshow — Dubai Airshow 2025 will set a new pace for Advanced Air Mobility",
+     "url": "https://www.dubaiairshow.aero/en/usefulinfo/info/news/Dubai-Airshow-2025-will-set-a-new-pace-for-Advanced-Air-Mobility.html",
+     "type": "official-news",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "tcab-tct-aeg-caac",
+     "name": "TCab Tech — TCab Tech Successfully Held the TCT Meeting and Launched the AEG Review Meeting, Marking Significant Progress in the Certification Process of the E20 eVTOL",
+     "url": "https://www.tcabtech.com/en/tcab-tech-successfully-held-the-tct-meeting/",
+     "type": "operator-ir",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "tcab-manned-flight",
+     "name": "TCab Tech — Major Milestone: TCab Tech's E20 eVTOL Successfully Completes Manned Flight Test",
+     "url": "https://www.tcabtech.com/en/tcab-tech-e20-evtol-successfully-completes-manned-flight-test",
+     "type": "operator-ir",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "tcab-transition-flight",
+     "name": "TCab Tech — TCab Tech E20 eVTOL Successfully Completes Transition Flight Tests",
+     "url": "https://www.prnewswire.com/news-releases/tcab-tech-e20-evtol-successfully-completes-transition-flight-tests-302631636.html",
+     "type": "operator-ir",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "k2-aviation-autocraft",
+     "name": "K2 — Aviation (Autocraft)",
+     "url": "https://k2.world/aviation/",
+     "type": "operator-ir",
+     "accessed": "2026-07-28",
+     "primary": true
+    }
+   ],
+   "i18n": {
+    "en": {
+     "name": "TCab Tech (Shanghai Time Technology Co.)",
+     "meta_description": "TCab Tech's UAE activity is an MoU with Abu Dhabi's Autocraft for up to 350 E20 eVTOLs. No UAE flights, no facility and no GCAA approval are on record."
+    },
+    "ar": {
+     "name": "TCab Tech (Shanghai Time Technology Co.)",
+     "meta_description": "TCab Tech's UAE activity is an MoU with Abu Dhabi's Autocraft for up to 350 E20 eVTOLs. No UAE flights, no facility and no GCAA approval are on record."
+    },
+    "fr": {
+     "name": "TCab Tech (Shanghai Time Technology Co.)",
+     "meta_description": "TCab Tech's UAE activity is an MoU with Abu Dhabi's Autocraft for up to 350 E20 eVTOLs. No UAE flights, no facility and no GCAA approval are on record."
+    },
+    "de": {
+     "name": "TCab Tech (Shanghai Time Technology Co.)",
+     "meta_description": "TCab Tech's UAE activity is an MoU with Abu Dhabi's Autocraft for up to 350 E20 eVTOLs. No UAE flights, no facility and no GCAA approval are on record."
+    },
+    "zh": {
+     "name": "TCab Tech (Shanghai Time Technology Co.)",
+     "meta_description": "TCab Tech's UAE activity is an MoU with Abu Dhabi's Autocraft for up to 350 E20 eVTOLs. No UAE flights, no facility and no GCAA approval are on record."
+    }
+   }
+  },
+  {
    "slug": "the-helicopter-company",
    "entity_type": "operator",
    "country": "Saudi Arabia",
@@ -2425,6 +3136,98 @@
     "zh": {
      "name": "The Helicopter Company (THC)",
      "meta_description": "The Helicopter Company (THC) is a Saudi Public Investment Fund subsidiary. Signed MoUs with Archer Aviation and Joby Aviation in November 2025 for Saudi eVTOL sandbox testing. CEO Captain Arnaud Martinez."
+    }
+   }
+  },
+  {
+   "slug": "vertical-aerospace",
+   "entity_type": "operator",
+   "country": "UAE",
+   "city": null,
+   "status": "orphaned",
+   "last_verified": "2026-08-22",
+   "name": "Vertical Aerospace",
+   "meta_description": "UK-based Vertical Aerospace has no documented UAE presence - no order, vertiport or GCAA agreement. Its only Gulf activity is a set of Saudi MoUs from 2026.",
+   "latitude": null,
+   "longitude": null,
+   "sources": [
+    {
+     "id": "va-caa-update-2026-07-13",
+     "name": "Vertical Aerospace — Vertical Aerospace Shares Business Update Ahead of Farnborough International Airshow (expanded UK CAA Permit to Fly; Type Certification moved to 2029)",
+     "url": "https://vertical-aerospace.com/wp-content/uploads/2026/07/20260713-CAA-Update-Press-Release_v2.pdf",
+     "type": "operator-ir",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "va-farnborough-first-public-transition-2026-07-20",
+     "name": "Vertical Aerospace — Vertical Aerospace Makes History with First Public eVTOL Transition Flight at Farnborough International Airshow",
+     "url": "https://vertical-aerospace.com/wp-content/uploads/2026/07/20260720-Farnborough-First-Flight-PR_v3.pdf",
+     "type": "operator-ir",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "va-two-way-transition-2026-04",
+     "name": "Vertical Aerospace — Vertical Aerospace Achieves World First Two-Way Piloted Transition Flight (flown under UK CAA oversight)",
+     "url": "https://vertical-aerospace.com/wp-content/uploads/2026/04/20260416-Press-Release-VA-Transition-flight_v2-1.pdf",
+     "type": "operator-ir",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "va-gaca-mou-2026-07-22",
+     "name": "Vertical Aerospace via Business Wire — Vertical Aerospace and Saudi Arabia's General Authority of Civil Aviation Sign Strategic Agreement Advancing Air Mobility Certification and Regulatory Framework",
+     "url": "https://www.businesswire.com/news/home/20260722079762/en/Vertical-Aerospace-and-Saudi-Arabias-General-Authority-of-Civil-Aviation-Sign-Strategic-Agreement-Advancing-Air-Mobility-Certification-and-Regulatory-Framework",
+     "type": "official-news",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "va-ahq-nidc-mou-2026-02-10",
+     "name": "Vertical Aerospace via Business Wire — Vertical Aerospace Signs Strategic MoU with AHQ Group and Saudi National Industrial Development Centre to Accelerate AAM in the Kingdom",
+     "url": "https://www.businesswire.com/news/home/20260210942356/en/Vertical-Aerospace-Signs-Strategic-MoU-with-AHQ-Group-and-Saudi-National-Industrial-Development-Centre-to-Accelerate-AAM-in-the-Kingdom",
+     "type": "official-news",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "va-farnborough-wrap-2026-07-24",
+     "name": "Vertical Aerospace via Business Wire — Vertical Aerospace Caps Landmark Week at Farnborough, Accelerating the Path to Commercial Electric Aviation",
+     "url": "https://www.businesswire.com/news/home/20260724391666/en/Vertical-Aerospace-Caps-Landmark-Week-at-Farnborough-Accelerating-the-Path-to-Commercial-Electric-Aviation",
+     "type": "official-news",
+     "accessed": "2026-07-28",
+     "primary": true
+    },
+    {
+     "id": "va-valo-unveil-2025-12-10",
+     "name": "Vertical Aerospace — Vertical Aerospace Unveils Valo, the eVTOL Aircraft Set to Redefine Urban Air Mobility (Valo succeeds the VX4 prototype; UK CAA and EASA certification)",
+     "url": "https://vertical-aerospace.com/wp-content/uploads/2025/12/Vertical-Aerospace-unveils-Valo-the-eVTOL-aircraft-set-to-redefine-urban-air-mobility-and-usher-in-a-new-era-of-flight-1.pdf",
+     "type": "operator-ir",
+     "accessed": "2026-07-28",
+     "primary": true
+    }
+   ],
+   "i18n": {
+    "en": {
+     "name": "Vertical Aerospace",
+     "meta_description": "UK-based Vertical Aerospace has no documented UAE presence - no order, vertiport or GCAA agreement. Its only Gulf activity is a set of Saudi MoUs from 2026."
+    },
+    "ar": {
+     "name": "Vertical Aerospace",
+     "meta_description": "UK-based Vertical Aerospace has no documented UAE presence - no order, vertiport or GCAA agreement. Its only Gulf activity is a set of Saudi MoUs from 2026."
+    },
+    "fr": {
+     "name": "Vertical Aerospace",
+     "meta_description": "UK-based Vertical Aerospace has no documented UAE presence - no order, vertiport or GCAA agreement. Its only Gulf activity is a set of Saudi MoUs from 2026."
+    },
+    "de": {
+     "name": "Vertical Aerospace",
+     "meta_description": "UK-based Vertical Aerospace has no documented UAE presence - no order, vertiport or GCAA agreement. Its only Gulf activity is a set of Saudi MoUs from 2026."
+    },
+    "zh": {
+     "name": "Vertical Aerospace",
+     "meta_description": "UK-based Vertical Aerospace has no documented UAE presence - no order, vertiport or GCAA agreement. Its only Gulf activity is a set of Saudi MoUs from 2026."
     }
    }
   },
@@ -2557,547 +3360,6 @@
    }
   },
   {
-   "slug": "zayed-international-vertiport",
-   "entity_type": "vertiport",
-   "country": "UAE",
-   "city": "Abu Dhabi",
-   "status": "under_construction",
-   "last_verified": "2026-08-22",
-   "name": "Zayed International (AUH) Vertiport",
-   "meta_description": "AUH Vertiport at Zayed International Airport is under construction as the first node of Abu Dhabi's 10-vertiport advanced air mobility network. Partnership between Abu Dhabi Airports, Skyports Infrastructure, and ADIO.",
-   "latitude": 24.4332,
-   "longitude": 54.6511,
-   "sources": [
-    {
-     "id": "adio-2025-11-10",
-     "name": "Abu Dhabi 10-Vertiport Network Announcement — Integrated Transport Centre / ADIO / Abu Dhabi Airports / GCAA (10 Nov 2025)",
-     "url": "https://www.thenationalnews.com/business/aviation/2025/11/11/abu-dhabi-to-build-10-vertiports-for-air-taxis/",
-     "type": "government",
-     "accessed": "2026-05-20"
-    },
-    {
-     "id": "archer-ir-2025-04-23",
-     "name": "Archer Aviation IR — Archer Secures Design Approval For UAE's First Hybrid Heliport (23 Apr 2025)",
-     "url": "https://investors.archer.com/news/news-details/2025/Archer-Secures-Design-Approval-For-UAEs-First-Hybrid-Heliport-Paving-The-Way-For-Commercial-Air-Taxi-Service-In-Abu-Dhabi/default.aspx",
-     "type": "operator-ir",
-     "accessed": "2026-05-20"
-    },
-    {
-     "id": "gcaa-2025-11-03",
-     "name": "GCAA UAE — Air-taxi certification target Q3 2026 (Saif Mohammed Al Suwaidi, 3 Nov 2025)",
-     "url": "https://www.thenationalnews.com/business/aviation/2025/11/03/uae-air-taxi-certification-to-be-completed-by-third-quarter-of-next-year-regulator-says/",
-     "type": "regulatory",
-     "accessed": "2026-05-20"
-    }
-   ],
-   "i18n": {
-    "en": {
-     "name": "Zayed International (AUH) Vertiport",
-     "meta_description": "AUH Vertiport at Zayed International Airport is under construction as the first node of Abu Dhabi's 10-vertiport advanced air mobility network. Partnership between Abu Dhabi Airports, Skyports Infrastructure, and ADIO."
-    },
-    "ar": {
-     "name": "Zayed International (AUH) Vertiport",
-     "meta_description": "AUH Vertiport at Zayed International Airport is under construction as the first node of Abu Dhabi's 10-vertiport advanced air mobility network. Partnership between Abu Dhabi Airports, Skyports Infrastructure, and ADIO."
-    },
-    "fr": {
-     "name": "Zayed International (AUH) Vertiport",
-     "meta_description": "AUH Vertiport at Zayed International Airport is under construction as the first node of Abu Dhabi's 10-vertiport advanced air mobility network. Partnership between Abu Dhabi Airports, Skyports Infrastructure, and ADIO."
-    },
-    "de": {
-     "name": "Zayed International (AUH) Vertiport",
-     "meta_description": "AUH Vertiport at Zayed International Airport is under construction as the first node of Abu Dhabi's 10-vertiport advanced air mobility network. Partnership between Abu Dhabi Airports, Skyports Infrastructure, and ADIO."
-    },
-    "zh": {
-     "name": "Zayed International (AUH) Vertiport",
-     "meta_description": "AUH Vertiport at Zayed International Airport is under construction as the first node of Abu Dhabi's 10-vertiport advanced air mobility network. Partnership between Abu Dhabi Airports, Skyports Infrastructure, and ADIO."
-    }
-   }
-  },
-  {
-   "slug": "beta-technologies",
-   "entity_type": "operator",
-   "country": "UAE",
-   "city": "Abu Dhabi",
-   "status": "under_construction",
-   "last_verified": "2026-08-22",
-   "name": "BETA Technologies, Inc.",
-   "meta_description": "BETA Technologies supplies eVTOL charging hardware to Abu Dhabi Airports. Its first Charge Cube is commissioned at Al Bateen Executive Airport, Abu Dhabi.",
-   "latitude": 24.4283,
-   "longitude": 54.4581,
-   "sources": [
-    {
-     "id": "beta-ir-adairports",
-     "name": "BETA Technologies — Abu Dhabi Airports Selects BETA Technologies' Charge Infrastructure for emirate's Advanced Air Mobility Network",
-     "url": "https://investors.beta.team/news-events/press-releases/detail/90/abu-dhabi-airports-selects-beta-technologies-charge-infrastructure-for-emirates-advanced-air-mobility-network",
-     "type": "operator-ir",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "adio-vertiport-network",
-     "name": "Abu Dhabi Investment Office — In collaboration with strategic partners, Abu Dhabi Investment Office announces launch of vertiport network to activate air taxi operations",
-     "url": "https://www.prnewswire.com/news-releases/in-collaboration-with-strategic-partners-abu-dhabi-investment-office-announces-launch-of-vertiport-network-to-activate-air-taxi-operations-302610240.html",
-     "type": "government",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "ups-gcaa-licence",
-     "name": "UPS — UPS and BETA granted license to test electric flight deliveries",
-     "url": "https://about.ups.com/ae/en/our-stories/innovation-driven/ups-and-beta-granted-license-to-test-electric-flight-deliveries.html",
-     "type": "official-news",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "eat-evtol",
-     "name": "Etihad Aviation Training — eVTOL",
-     "url": "https://www.etihadaviationtraining.com/evtol",
-     "type": "official-news",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "beta-timeline",
-     "name": "BETA Technologies — Timeline",
-     "url": "https://beta.team/timeline",
-     "type": "operator-ir",
-     "accessed": "2026-07-28",
-     "primary": true
-    }
-   ],
-   "i18n": {
-    "en": {
-     "name": "BETA Technologies, Inc.",
-     "meta_description": "BETA Technologies supplies eVTOL charging hardware to Abu Dhabi Airports. Its first Charge Cube is commissioned at Al Bateen Executive Airport, Abu Dhabi."
-    },
-    "ar": {
-     "name": "BETA Technologies, Inc.",
-     "meta_description": "BETA Technologies supplies eVTOL charging hardware to Abu Dhabi Airports. Its first Charge Cube is commissioned at Al Bateen Executive Airport, Abu Dhabi."
-    },
-    "fr": {
-     "name": "BETA Technologies, Inc.",
-     "meta_description": "BETA Technologies supplies eVTOL charging hardware to Abu Dhabi Airports. Its first Charge Cube is commissioned at Al Bateen Executive Airport, Abu Dhabi."
-    },
-    "de": {
-     "name": "BETA Technologies, Inc.",
-     "meta_description": "BETA Technologies supplies eVTOL charging hardware to Abu Dhabi Airports. Its first Charge Cube is commissioned at Al Bateen Executive Airport, Abu Dhabi."
-    },
-    "zh": {
-     "name": "BETA Technologies, Inc.",
-     "meta_description": "BETA Technologies supplies eVTOL charging hardware to Abu Dhabi Airports. Its first Charge Cube is commissioned at Al Bateen Executive Airport, Abu Dhabi."
-    }
-   }
-  },
-  {
-   "slug": "eve-air-mobility",
-   "entity_type": "operator",
-   "country": "UAE",
-   "city": "Dubai",
-   "status": "announced",
-   "last_verified": "2026-08-22",
-   "name": "Eve Air Mobility",
-   "meta_description": "Eve Air Mobility's UAE record: a 2022 Falcon Aviation letter of intent for up to 35 eVTOLs and a 2023 Kookiejar Urban ATM deal. No UAE operations to date.",
-   "latitude": null,
-   "longitude": null,
-   "sources": [
-    {
-     "id": "eve-falcon-2022",
-     "name": "Eve Air Mobility — Eve and Falcon Aviation Services announce partnership to introduce eVTOL flights in Dubai",
-     "url": "https://www.eveairmobility.com/eve-and-falcon-aviation-services-announce-partnership-to-introduce-evtol-flights-in-dubai/",
-     "type": "official-news",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "falcon-eve-2022",
-     "name": "Falcon Aviation Services — Eve and Falcon Aviation Services announce partnership to introduce eVTOL flights in Dubai",
-     "url": "https://www.falconaviation.ae/2022/06/07/eve-and-falcon-aviation-services-announce-partnership-to-introduce-evtol-flights-in-dubai",
-     "type": "official-news",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "eve-kookiejar-2023",
-     "name": "Eve Air Mobility — Eve and Kookiejar to Develop Urban Air Traffic Management System for Operations in Dubai",
-     "url": "https://www.eveairmobility.com/eve-and-kookiejar-to-develop-urban-air-traffic-management-system-for-operations-in-dubai/",
-     "type": "official-news",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "embraer-eve-bahrain-2025",
-     "name": "Embraer Media Center — Eve Air Mobility Expands Middle East Presence with Bahrain Framework Agreement",
-     "url": "https://www.embraer.com/media-center/en/?mediatype=NEWS&detail=23068",
-     "type": "operator-ir",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "eve-ir-fy2025",
-     "name": "Eve Holding, Inc. — Eve Holding, Inc. Reports Fourth Quarter and FY2025 Results",
-     "url": "https://ir.eveairmobility.com/news-events/press-releases/detail/106/eve-holding-inc-reports-fourth-quarter-and-fy2025-results",
-     "type": "operator-ir",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "eve-ir-cert-2026",
-     "name": "Eve Holding, Inc. — Eve Advances Global Certification Path for Eve 100",
-     "url": "https://ir.eveairmobility.com/news-events/press-releases/detail/115/eve-advances-global-certification-path-for-eve-100",
-     "type": "operator-ir",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "eve-evtol-specs",
-     "name": "Eve Air Mobility — eVTOL (aircraft specifications)",
-     "url": "https://www.eveairmobility.com/evtol/",
-     "type": "official-news",
-     "accessed": "2026-07-28",
-     "primary": true
-    }
-   ],
-   "i18n": {
-    "en": {
-     "name": "Eve Air Mobility",
-     "meta_description": "Eve Air Mobility's UAE record: a 2022 Falcon Aviation letter of intent for up to 35 eVTOLs and a 2023 Kookiejar Urban ATM deal. No UAE operations to date."
-    },
-    "ar": {
-     "name": "Eve Air Mobility",
-     "meta_description": "Eve Air Mobility's UAE record: a 2022 Falcon Aviation letter of intent for up to 35 eVTOLs and a 2023 Kookiejar Urban ATM deal. No UAE operations to date."
-    },
-    "fr": {
-     "name": "Eve Air Mobility",
-     "meta_description": "Eve Air Mobility's UAE record: a 2022 Falcon Aviation letter of intent for up to 35 eVTOLs and a 2023 Kookiejar Urban ATM deal. No UAE operations to date."
-    },
-    "de": {
-     "name": "Eve Air Mobility",
-     "meta_description": "Eve Air Mobility's UAE record: a 2022 Falcon Aviation letter of intent for up to 35 eVTOLs and a 2023 Kookiejar Urban ATM deal. No UAE operations to date."
-    },
-    "zh": {
-     "name": "Eve Air Mobility",
-     "meta_description": "Eve Air Mobility's UAE record: a 2022 Falcon Aviation letter of intent for up to 35 eVTOLs and a 2023 Kookiejar Urban ATM deal. No UAE operations to date."
-    }
-   }
-  },
-  {
-   "slug": "regent-seaglider",
-   "entity_type": "operator",
-   "country": "UAE",
-   "city": "Abu Dhabi",
-   "status": "planned",
-   "last_verified": "2026-08-22",
-   "name": "REGENT Craft, Inc.",
-   "meta_description": "REGENT Craft plans Abu Dhabi seaglider manufacturing with the Strategic Development Fund. Seagliders are maritime wing-in-ground craft, not eVTOL aircraft.",
-   "latitude": 24.4539,
-   "longitude": 54.3773,
-   "sources": [
-    {
-     "id": "regent-sdf-jv",
-     "name": "REGENT — REGENT Signs Initial Agreement with Strategic Development Fund to Set Up a Joint Venture for Seaglider Manufacturing and Services in the UAE",
-     "url": "https://www.regentcraft.com/news/regent-signs-initial-agreement-with-strategic-development-fund-to-set-up-a-joint-venture-for-seaglider-manufacturing-and-services-in-the-uae",
-     "type": "operator-ir",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "sdf-regent-jv",
-     "name": "Strategic Development Fund — Strategic Development Fund Signs Initial Agreement with REGENT to Set Up a Joint Venture for Seaglider Manufacturing and Services in the UAE",
-     "url": "https://sdf.ae/news/strategic-development-fund-signs-initial-agreement-with-regent-to-set-up-a-joint-venture-for-seaglider-manufacturing-and-services-in-the-uae/",
-     "type": "government",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "regent-adio-dot-mous",
-     "name": "REGENT — REGENT Advances the Future of Coastal Transportation in Abu Dhabi",
-     "url": "https://www.regentcraft.com/news/regent-advances-the-future-of-coastal-transportation-in-abu-dhabi",
-     "type": "operator-ir",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "adnocls-regent-poc",
-     "name": "ADNOC L&S — ADNOC L&S Partners with REGENT to Trial High-Speed Electric Seagliders for Offshore Transportation",
-     "url": "https://adnocls.ae/en/news-and-media/press-releases/2025/seagliders-for-offshore-transportation",
-     "type": "official-news",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "regent-uscg-dba",
-     "name": "REGENT — REGENT Submits Design Basis Agreement to U.S. Coast Guard, Advancing Seaglider Certification",
-     "url": "https://www.regentcraft.com/news/regent-submits-design-basis-agreement-to-u-s-coast-guard-advancing-seaglider-certification",
-     "type": "operator-ir",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "regent-sea-trials",
-     "name": "REGENT — REGENT Begins Sea Trials of First Passenger-Carrying Seaglider",
-     "url": "https://www.regentcraft.com/news/regent-begins-sea-trials-of-first-passenger-carrying-seaglider",
-     "type": "operator-ir",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "regent-2026-test-campaign",
-     "name": "REGENT — REGENT kicks off 2026 Seaglider test campaign",
-     "url": "https://www.regentcraft.com/news/regent-2026-seaglider-test-campaign",
-     "type": "operator-ir",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "regent-dhl-dubai-airshow",
-     "name": "REGENT — REGENT and DHL Express Sign Agreement for Sustainable Cargo Logistics",
-     "url": "https://www.regentcraft.com/news/dubai-airshow-regent-and-dhl-express-sign-agreement-for-sustainable-cargo-logistics",
-     "type": "operator-ir",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "regent-dubai-airshow-preview",
-     "name": "REGENT — REGENT to Reveal the Future of Maritime Mobility at Dubai Airshow",
-     "url": "https://www.regentcraft.com/news/regent-to-reveal-the-future-of-maritime-mobility-at-dubai-airshow",
-     "type": "operator-ir",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "adgov-dct-versa-seaglider",
-     "name": "Abu Dhabi Government Media Office — DCT Abu Dhabi signs agreement with VERSA Advanced Maritime Services to introduce Seaglider operations across emirate by 2028",
-     "url": "https://www.mediaoffice.abudhabi/en/transport/department-of-culture-and-tourism-abu-dhabi-signs-agreement-with-versa-advanced-maritime-services-to-introduce-seaglider-operations-across-emirate-by-2028/",
-     "type": "government",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "regent-adnocls-selection",
-     "name": "REGENT — ADNOC L&S Selects REGENT Seagliders for Offshore Energy Logistics in the UAE",
-     "url": "https://www.globenewswire.com/news-release/2025/01/28/3016721/0/en/ADNOC-L-S-Selects-REGENT-Seagliders-for-Offshore-Energy-Logistics-in-the-UAE.html",
-     "type": "operator-ir",
-     "accessed": "2026-07-28",
-     "primary": true
-    }
-   ],
-   "i18n": {
-    "en": {
-     "name": "REGENT Craft, Inc.",
-     "meta_description": "REGENT Craft plans Abu Dhabi seaglider manufacturing with the Strategic Development Fund. Seagliders are maritime wing-in-ground craft, not eVTOL aircraft."
-    },
-    "ar": {
-     "name": "REGENT Craft, Inc.",
-     "meta_description": "REGENT Craft plans Abu Dhabi seaglider manufacturing with the Strategic Development Fund. Seagliders are maritime wing-in-ground craft, not eVTOL aircraft."
-    },
-    "fr": {
-     "name": "REGENT Craft, Inc.",
-     "meta_description": "REGENT Craft plans Abu Dhabi seaglider manufacturing with the Strategic Development Fund. Seagliders are maritime wing-in-ground craft, not eVTOL aircraft."
-    },
-    "de": {
-     "name": "REGENT Craft, Inc.",
-     "meta_description": "REGENT Craft plans Abu Dhabi seaglider manufacturing with the Strategic Development Fund. Seagliders are maritime wing-in-ground craft, not eVTOL aircraft."
-    },
-    "zh": {
-     "name": "REGENT Craft, Inc.",
-     "meta_description": "REGENT Craft plans Abu Dhabi seaglider manufacturing with the Strategic Development Fund. Seagliders are maritime wing-in-ground craft, not eVTOL aircraft."
-    }
-   }
-  },
-  {
-   "slug": "tcab-tech",
-   "entity_type": "operator",
-   "country": "UAE",
-   "city": null,
-   "status": "announced",
-   "last_verified": "2026-08-22",
-   "name": "TCab Tech (Shanghai Time Technology Co.)",
-   "meta_description": "TCab Tech's UAE activity is an MoU with Abu Dhabi's Autocraft for up to 350 E20 eVTOLs. No UAE flights, no facility and no GCAA approval are on record.",
-   "latitude": null,
-   "longitude": null,
-   "sources": [
-    {
-     "id": "tcab-autocraft-mou-350",
-     "name": "TCab Tech — TCab Tech and Autocraft Sign MoU for 350 E20 eVTOLs to Accelerate Commercialization in the UAE and Wider MENA Region",
-     "url": "https://www.tcabtech.com/en/tcab-tech-autocraft-mou-350-e20-evtol-uae-mena-commercialization/",
-     "type": "operator-ir",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "tcab-autocraft-partnership-2024",
-     "name": "TCab Tech — TCab Tech and Autocraft establish strategic partnership to expand the Middle East market with the E20 eVTOL",
-     "url": "https://www.tcabtech.com/en/tcab-tech-autocraft-partnership-e20-evtol/",
-     "type": "operator-ir",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "tcab-air-silk-road",
-     "name": "TCab Tech — TCab Tech Launches 'Air Silk Road Global Pioneer Partnership' to Drive eVTOL Globalization",
-     "url": "https://www.tcabtech.com/en/tcab-tech-launches-air-silk-road-global-pioneer-partnership-to-drive-evtol-globalization/",
-     "type": "operator-ir",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "dubai-airshow-aam-preview",
-     "name": "Dubai Airshow — Dubai Airshow 2025 will set a new pace for Advanced Air Mobility",
-     "url": "https://www.dubaiairshow.aero/en/usefulinfo/info/news/Dubai-Airshow-2025-will-set-a-new-pace-for-Advanced-Air-Mobility.html",
-     "type": "official-news",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "tcab-tct-aeg-caac",
-     "name": "TCab Tech — TCab Tech Successfully Held the TCT Meeting and Launched the AEG Review Meeting, Marking Significant Progress in the Certification Process of the E20 eVTOL",
-     "url": "https://www.tcabtech.com/en/tcab-tech-successfully-held-the-tct-meeting/",
-     "type": "operator-ir",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "tcab-manned-flight",
-     "name": "TCab Tech — Major Milestone: TCab Tech's E20 eVTOL Successfully Completes Manned Flight Test",
-     "url": "https://www.tcabtech.com/en/tcab-tech-e20-evtol-successfully-completes-manned-flight-test",
-     "type": "operator-ir",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "tcab-transition-flight",
-     "name": "TCab Tech — TCab Tech E20 eVTOL Successfully Completes Transition Flight Tests",
-     "url": "https://www.prnewswire.com/news-releases/tcab-tech-e20-evtol-successfully-completes-transition-flight-tests-302631636.html",
-     "type": "operator-ir",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "k2-aviation-autocraft",
-     "name": "K2 — Aviation (Autocraft)",
-     "url": "https://k2.world/aviation/",
-     "type": "operator-ir",
-     "accessed": "2026-07-28",
-     "primary": true
-    }
-   ],
-   "i18n": {
-    "en": {
-     "name": "TCab Tech (Shanghai Time Technology Co.)",
-     "meta_description": "TCab Tech's UAE activity is an MoU with Abu Dhabi's Autocraft for up to 350 E20 eVTOLs. No UAE flights, no facility and no GCAA approval are on record."
-    },
-    "ar": {
-     "name": "TCab Tech (Shanghai Time Technology Co.)",
-     "meta_description": "TCab Tech's UAE activity is an MoU with Abu Dhabi's Autocraft for up to 350 E20 eVTOLs. No UAE flights, no facility and no GCAA approval are on record."
-    },
-    "fr": {
-     "name": "TCab Tech (Shanghai Time Technology Co.)",
-     "meta_description": "TCab Tech's UAE activity is an MoU with Abu Dhabi's Autocraft for up to 350 E20 eVTOLs. No UAE flights, no facility and no GCAA approval are on record."
-    },
-    "de": {
-     "name": "TCab Tech (Shanghai Time Technology Co.)",
-     "meta_description": "TCab Tech's UAE activity is an MoU with Abu Dhabi's Autocraft for up to 350 E20 eVTOLs. No UAE flights, no facility and no GCAA approval are on record."
-    },
-    "zh": {
-     "name": "TCab Tech (Shanghai Time Technology Co.)",
-     "meta_description": "TCab Tech's UAE activity is an MoU with Abu Dhabi's Autocraft for up to 350 E20 eVTOLs. No UAE flights, no facility and no GCAA approval are on record."
-    }
-   }
-  },
-  {
-   "slug": "vertical-aerospace",
-   "entity_type": "operator",
-   "country": "UAE",
-   "city": null,
-   "status": "orphaned",
-   "last_verified": "2026-08-22",
-   "name": "Vertical Aerospace",
-   "meta_description": "UK-based Vertical Aerospace has no documented UAE presence - no order, vertiport or GCAA agreement. Its only Gulf activity is a set of Saudi MoUs from 2026.",
-   "latitude": null,
-   "longitude": null,
-   "sources": [
-    {
-     "id": "va-caa-update-2026-07-13",
-     "name": "Vertical Aerospace — Vertical Aerospace Shares Business Update Ahead of Farnborough International Airshow (expanded UK CAA Permit to Fly; Type Certification moved to 2029)",
-     "url": "https://vertical-aerospace.com/wp-content/uploads/2026/07/20260713-CAA-Update-Press-Release_v2.pdf",
-     "type": "operator-ir",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "va-farnborough-first-public-transition-2026-07-20",
-     "name": "Vertical Aerospace — Vertical Aerospace Makes History with First Public eVTOL Transition Flight at Farnborough International Airshow",
-     "url": "https://vertical-aerospace.com/wp-content/uploads/2026/07/20260720-Farnborough-First-Flight-PR_v3.pdf",
-     "type": "operator-ir",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "va-two-way-transition-2026-04",
-     "name": "Vertical Aerospace — Vertical Aerospace Achieves World First Two-Way Piloted Transition Flight (flown under UK CAA oversight)",
-     "url": "https://vertical-aerospace.com/wp-content/uploads/2026/04/20260416-Press-Release-VA-Transition-flight_v2-1.pdf",
-     "type": "operator-ir",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "va-gaca-mou-2026-07-22",
-     "name": "Vertical Aerospace via Business Wire — Vertical Aerospace and Saudi Arabia's General Authority of Civil Aviation Sign Strategic Agreement Advancing Air Mobility Certification and Regulatory Framework",
-     "url": "https://www.businesswire.com/news/home/20260722079762/en/Vertical-Aerospace-and-Saudi-Arabias-General-Authority-of-Civil-Aviation-Sign-Strategic-Agreement-Advancing-Air-Mobility-Certification-and-Regulatory-Framework",
-     "type": "official-news",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "va-ahq-nidc-mou-2026-02-10",
-     "name": "Vertical Aerospace via Business Wire — Vertical Aerospace Signs Strategic MoU with AHQ Group and Saudi National Industrial Development Centre to Accelerate AAM in the Kingdom",
-     "url": "https://www.businesswire.com/news/home/20260210942356/en/Vertical-Aerospace-Signs-Strategic-MoU-with-AHQ-Group-and-Saudi-National-Industrial-Development-Centre-to-Accelerate-AAM-in-the-Kingdom",
-     "type": "official-news",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "va-farnborough-wrap-2026-07-24",
-     "name": "Vertical Aerospace via Business Wire — Vertical Aerospace Caps Landmark Week at Farnborough, Accelerating the Path to Commercial Electric Aviation",
-     "url": "https://www.businesswire.com/news/home/20260724391666/en/Vertical-Aerospace-Caps-Landmark-Week-at-Farnborough-Accelerating-the-Path-to-Commercial-Electric-Aviation",
-     "type": "official-news",
-     "accessed": "2026-07-28",
-     "primary": true
-    },
-    {
-     "id": "va-valo-unveil-2025-12-10",
-     "name": "Vertical Aerospace — Vertical Aerospace Unveils Valo, the eVTOL Aircraft Set to Redefine Urban Air Mobility (Valo succeeds the VX4 prototype; UK CAA and EASA certification)",
-     "url": "https://vertical-aerospace.com/wp-content/uploads/2025/12/Vertical-Aerospace-unveils-Valo-the-eVTOL-aircraft-set-to-redefine-urban-air-mobility-and-usher-in-a-new-era-of-flight-1.pdf",
-     "type": "operator-ir",
-     "accessed": "2026-07-28",
-     "primary": true
-    }
-   ],
-   "i18n": {
-    "en": {
-     "name": "Vertical Aerospace",
-     "meta_description": "UK-based Vertical Aerospace has no documented UAE presence - no order, vertiport or GCAA agreement. Its only Gulf activity is a set of Saudi MoUs from 2026."
-    },
-    "ar": {
-     "name": "Vertical Aerospace",
-     "meta_description": "UK-based Vertical Aerospace has no documented UAE presence - no order, vertiport or GCAA agreement. Its only Gulf activity is a set of Saudi MoUs from 2026."
-    },
-    "fr": {
-     "name": "Vertical Aerospace",
-     "meta_description": "UK-based Vertical Aerospace has no documented UAE presence - no order, vertiport or GCAA agreement. Its only Gulf activity is a set of Saudi MoUs from 2026."
-    },
-    "de": {
-     "name": "Vertical Aerospace",
-     "meta_description": "UK-based Vertical Aerospace has no documented UAE presence - no order, vertiport or GCAA agreement. Its only Gulf activity is a set of Saudi MoUs from 2026."
-    },
-    "zh": {
-     "name": "Vertical Aerospace",
-     "meta_description": "UK-based Vertical Aerospace has no documented UAE presence - no order, vertiport or GCAA agreement. Its only Gulf activity is a set of Saudi MoUs from 2026."
-    }
-   }
-  },
-  {
    "slug": "vports",
    "entity_type": "operator",
    "country": "UAE",
@@ -3202,6 +3464,63 @@
     "zh": {
      "name": "VPorts",
      "meta_description": "VPorts signed a 2022 agreement with the UAE GCAA and Dubai South for a 37,000 sqm advanced air mobility integrator centre. No primary evidence it was built."
+    }
+   }
+  },
+  {
+   "slug": "zayed-international-vertiport",
+   "entity_type": "vertiport",
+   "country": "UAE",
+   "city": "Abu Dhabi",
+   "status": "under_construction",
+   "last_verified": "2026-08-22",
+   "name": "Zayed International (AUH) Vertiport",
+   "meta_description": "AUH Vertiport at Zayed International Airport is under construction as the first node of Abu Dhabi's 10-vertiport advanced air mobility network. Partnership between Abu Dhabi Airports, Skyports Infrastructure, and ADIO.",
+   "latitude": 24.4332,
+   "longitude": 54.6511,
+   "sources": [
+    {
+     "id": "adio-2025-11-10",
+     "name": "Abu Dhabi 10-Vertiport Network Announcement — Integrated Transport Centre / ADIO / Abu Dhabi Airports / GCAA (10 Nov 2025)",
+     "url": "https://www.thenationalnews.com/business/aviation/2025/11/11/abu-dhabi-to-build-10-vertiports-for-air-taxis/",
+     "type": "government",
+     "accessed": "2026-05-20"
+    },
+    {
+     "id": "archer-ir-2025-04-23",
+     "name": "Archer Aviation IR — Archer Secures Design Approval For UAE's First Hybrid Heliport (23 Apr 2025)",
+     "url": "https://investors.archer.com/news/news-details/2025/Archer-Secures-Design-Approval-For-UAEs-First-Hybrid-Heliport-Paving-The-Way-For-Commercial-Air-Taxi-Service-In-Abu-Dhabi/default.aspx",
+     "type": "operator-ir",
+     "accessed": "2026-05-20"
+    },
+    {
+     "id": "gcaa-2025-11-03",
+     "name": "GCAA UAE — Air-taxi certification target Q3 2026 (Saif Mohammed Al Suwaidi, 3 Nov 2025)",
+     "url": "https://www.thenationalnews.com/business/aviation/2025/11/03/uae-air-taxi-certification-to-be-completed-by-third-quarter-of-next-year-regulator-says/",
+     "type": "regulatory",
+     "accessed": "2026-05-20"
+    }
+   ],
+   "i18n": {
+    "en": {
+     "name": "Zayed International (AUH) Vertiport",
+     "meta_description": "AUH Vertiport at Zayed International Airport is under construction as the first node of Abu Dhabi's 10-vertiport advanced air mobility network. Partnership between Abu Dhabi Airports, Skyports Infrastructure, and ADIO."
+    },
+    "ar": {
+     "name": "Zayed International (AUH) Vertiport",
+     "meta_description": "AUH Vertiport at Zayed International Airport is under construction as the first node of Abu Dhabi's 10-vertiport advanced air mobility network. Partnership between Abu Dhabi Airports, Skyports Infrastructure, and ADIO."
+    },
+    "fr": {
+     "name": "Zayed International (AUH) Vertiport",
+     "meta_description": "AUH Vertiport at Zayed International Airport is under construction as the first node of Abu Dhabi's 10-vertiport advanced air mobility network. Partnership between Abu Dhabi Airports, Skyports Infrastructure, and ADIO."
+    },
+    "de": {
+     "name": "Zayed International (AUH) Vertiport",
+     "meta_description": "AUH Vertiport at Zayed International Airport is under construction as the first node of Abu Dhabi's 10-vertiport advanced air mobility network. Partnership between Abu Dhabi Airports, Skyports Infrastructure, and ADIO."
+    },
+    "zh": {
+     "name": "Zayed International (AUH) Vertiport",
+     "meta_description": "AUH Vertiport at Zayed International Airport is under construction as the first node of Abu Dhabi's 10-vertiport advanced air mobility network. Partnership between Abu Dhabi Airports, Skyports Infrastructure, and ADIO."
     }
    }
   }

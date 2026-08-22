@@ -125,6 +125,15 @@
 <summary>Atlantis The Royal Vertiport, Palm Jumeirah node of Dubai&#x27;s eVTOL network announced 17 November 2025. Joby Aviation, RTA, Skyports - status and sources.</summary>
 </entry>
 <entry>
+<title>BETA Technologies, Inc.</title>
+<link href="https://evtolemirates.com/operators/beta-technologies.html"/>
+<id>https://evtolemirates.com/operators/beta-technologies.html</id>
+<updated>2026-08-22T00:00:00Z</updated>
+<category term="operator"/>
+<category term="under_construction"/>
+<summary>BETA Technologies supplies eVTOL charging hardware to Abu Dhabi Airports. Its first Charge Cube is commissioned at Al Bateen Executive Airport, Abu Dhabi.</summary>
+</entry>
+<entry>
 <title>Did Not Make The Cut: 13 Entities We Cut</title>
 <link href="https://evtolemirates.com/answers/did-not-make-the-cut.html"/>
 <id>https://evtolemirates.com/answers/did-not-make-the-cut.html</id>
@@ -132,6 +141,33 @@
 <category term="answer"/>
 <category term="operational"/>
 <summary>We cut 13 candidate eVTOL entities from the Arab-world database because they failed our contracted/built/flight-tested/regulated bar. Honest disclosure of what was considered and rejected, with primary sources.</summary>
+</entry>
+<entry>
+<title>Dubai air taxi launch tracker</title>
+<link href="https://evtolemirates.com/answers/dubai-air-taxi-launch-tracker.html"/>
+<id>https://evtolemirates.com/answers/dubai-air-taxi-launch-tracker.html</id>
+<updated>2026-08-22T00:00:00Z</updated>
+<category term="answer"/>
+<category term="trial_only"/>
+<summary>Not flying yet. As of 22 August 2026 Dubai&#x27;s air taxi has a certified vertiport (VDX, 7 Jul 2026) and a target of first passengers before the end of 2026. Every milestone on the road to launch, dated and sourced.</summary>
+</entry>
+<entry>
+<title>Dubai air taxi price — what is confirmed</title>
+<link href="https://evtolemirates.com/answers/dubai-air-taxi-price.html"/>
+<id>https://evtolemirates.com/answers/dubai-air-taxi-price.html</id>
+<updated>2026-08-22T00:00:00Z</updated>
+<category term="answer"/>
+<category term="trial_only"/>
+<summary>No fare has been announced for Dubai&#x27;s air taxi as of August 2026. The RTA says pricing is undecided — &#x27;cheaper than helicopters&#x27;, aiming at Uber/Careem parity over time. The AED 350 figure circulating online is unsourced.</summary>
+</entry>
+<entry>
+<title>Dubai air taxi routes &amp; flight times</title>
+<link href="https://evtolemirates.com/answers/dubai-air-taxi-routes-and-times.html"/>
+<id>https://evtolemirates.com/answers/dubai-air-taxi-routes-and-times.html</id>
+<updated>2026-08-22T00:00:00Z</updated>
+<category term="answer"/>
+<category term="trial_only"/>
+<summary>Four launch vertiports: VDX at DXB (GCAA-certified 7 Jul 2026, world&#x27;s first), Dubai Marina (under construction), Dubai Mall and Palm Jumeirah. First point-to-point flight took 17 minutes (Margham to DWC, 9 Nov 2025).</summary>
 </entry>
 <entry>
 <title>Dubai Future Foundation</title>
@@ -161,15 +197,6 @@
 <summary>Dubai Marina Vertiport is the second node of Dubai&#x27;s eVTOL network. Confirmed under construction by Skyports Infrastructure as of 16 April 2026, under Joby Aviation&#x27;s exclusive RTA agreement. Per the RTA the site is within the American University in Dubai parking area — the same facility as the AUD Vertiport entry.</summary>
 </entry>
 <entry>
-<title>DXB ↔ Dubai Mall</title>
-<link href="https://evtolemirates.com/routes/dxb-to-dubai-mall.html"/>
-<id>https://evtolemirates.com/routes/dxb-to-dubai-mall.html</id>
-<updated>2026-08-22T00:00:00Z</updated>
-<category term="route"/>
-<category term="planned"/>
-<summary>Joby Aviation route between DXB and Dubai Mall vertiports, planned for 2026 commercial launch under exclusive RTA agreement. Primary sources verified.</summary>
-</entry>
-<entry>
 <title>DXB ↔ Atlantis The Royal</title>
 <link href="https://evtolemirates.com/routes/dxb-to-atlantis-the-royal.html"/>
 <id>https://evtolemirates.com/routes/dxb-to-atlantis-the-royal.html</id>
@@ -177,6 +204,15 @@
 <category term="route"/>
 <category term="planned"/>
 <summary>Joby Aviation route between DXB and Atlantis The Royal vertiport, Palm Jumeirah: ~10-minute flight planned for 2026 launch under RTA exclusive agreement.</summary>
+</entry>
+<entry>
+<title>DXB ↔ Dubai Mall</title>
+<link href="https://evtolemirates.com/routes/dxb-to-dubai-mall.html"/>
+<id>https://evtolemirates.com/routes/dxb-to-dubai-mall.html</id>
+<updated>2026-08-22T00:00:00Z</updated>
+<category term="route"/>
+<category term="planned"/>
+<summary>Joby Aviation route between DXB and Dubai Mall vertiports, planned for 2026 commercial launch under exclusive RTA agreement. Primary sources verified.</summary>
 </entry>
 <entry>
 <title>DXB Vertiport</title>
@@ -195,41 +231,5 @@
 <category term="aircraft"/>
 <category term="trial_only"/>
 <summary>The EHang EH216-S pilotless eVTOL completed its debut flight in Saudi Arabia on 12 June 2024 during the Hajj season in Mecca. First autonomous eVTOL passenger trial in the Kingdom.</summary>
-</entry>
-<entry>
-<title>EHang EH216-S (UAE)</title>
-<link href="https://evtolemirates.com/aircrafts/ehang-eh216-s-uae.html"/>
-<id>https://evtolemirates.com/aircrafts/ehang-eh216-s-uae.html</id>
-<updated>2026-08-22T00:00:00Z</updated>
-<category term="aircraft"/>
-<category term="trial_only"/>
-<summary>EHang EH216-S in the UAE: completed the Middle East&#x27;s first passenger-carrying pilotless eVTOL demo flight in Abu Dhabi on 6 May 2024. Specs and milestones.</summary>
-</entry>
-<entry>
-<title>General Authority of Civil Aviation (GACA), Saudi Arabia</title>
-<link href="https://evtolemirates.com/regulators/gaca-saudi-arabia.html"/>
-<id>https://evtolemirates.com/regulators/gaca-saudi-arabia.html</id>
-<updated>2026-08-22T00:00:00Z</updated>
-<category term="regulator"/>
-<category term="operational"/>
-<summary>GACA published the Advanced Air Mobility Roadmap in January 2024. Issued Special Flight Authorization for Volocopter NEOM flight 21 June 2023. Signed MoUs with Lilium, Joby, Archer.</summary>
-</entry>
-<entry>
-<title>General Civil Aviation Authority — UAE</title>
-<link href="https://evtolemirates.com/regulators/gcaa-uae.html"/>
-<id>https://evtolemirates.com/regulators/gcaa-uae.html</id>
-<updated>2026-08-22T00:00:00Z</updated>
-<category term="regulator"/>
-<category term="operational"/>
-<summary>GCAA UAE is the federal civil aviation regulator overseeing eVTOL type certification, vertiport regulations and Air Operator Certificates in the UAE.</summary>
-</entry>
-<entry>
-<title>Gulf eVTOL — UAE vs Qatar compared</title>
-<link href="https://evtolemirates.com/answers/gulf-evtol-comparison-uae-vs-qatar.html"/>
-<id>https://evtolemirates.com/answers/gulf-evtol-comparison-uae-vs-qatar.html</id>
-<updated>2026-08-22T00:00:00Z</updated>
-<category term="answer"/>
-<category term="trial_only"/>
-<summary>Compares the UAE eVTOL programme (Joby S4 piloted, Dubai 2026 launch) and the Qatar eVTOL programme (EHang EH216-S pilotless, Doha trial Nov 2025).</summary>
 </entry>
 </feed>
