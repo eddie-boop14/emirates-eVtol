@@ -1,0 +1,79 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/aircraft/volocopter-volocity-uae.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "volocopter-volocity-uae",
+  "entity_type": "aircraft",
+  "country": "UAE",
+  "city": "Dubai",
+  "status": "decommissioned",
+  "last_verified": "2026-08-22",
+  "name": "Volocopter VoloCity (UAE History)",
+  "meta_description": "Volocopter VoloCity UAE history: world-first autonomous air taxi flight in Dubai 25 September 2017. Programme ended after Volocopter insolvency December 2024.",
+  "latitude": null,
+  "longitude": null,
+  "sources": [
+   {
+    "id": "volocopter-newsroom-2017-09-25",
+    "name": "Volocopter Newsroom — 'First Ever Public Demonstration of an Autonomous Urban Air Taxi' (25 Sep 2017)",
+    "url": "https://www.volocopter.com/en/newsroom/first-ever-public-demonstration-of-an-autonomous-urban-air-taxi",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "rta-gdmo-2017-09-25",
+    "name": "Government of Dubai Media Office / RTA — 'HH Sheikh Hamdan bin Mohammed witnesses first Autonomous Air Taxi test flight in Dubai' (25 Sep 2017)",
+    "url": "https://highways.today/2017/09/26/hh-sheikh-hamdan-bin-mohammed-witnesses-first-autonomous-air-taxi-test-flight-dubai/",
+    "type": "official-news",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "flightglobal-2024-12-31",
+    "name": "Flight Global — 'Volocopter enters insolvency following cash shortfall' (31 Dec 2024)",
+    "url": "https://www.flightglobal.com/aerospace/volocopter-enters-insolvency-following-cash-shortfall/161247.article",
+    "type": "primary",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "agbi-2024-12-31",
+    "name": "AGBI — 'Neom's air taxi partner Volocopter files for insolvency' (31 Dec 2024)",
+    "url": "https://www.agbi.com/giga-projects/2024/12/neom-air-taxi-partner-volocopter-files-for-insolvency/",
+    "type": "primary",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "aerotime-2025-03-05",
+    "name": "AeroTime — 'Volocopter lays off staff as insolvency proceedings go ahead' (5 Mar 2025)",
+    "url": "https://www.aerotime.aero/articles/volocopter-lays-off-its-entire-workforce-as-insolvency-proceedings-go-ahead",
+    "type": "primary",
+    "accessed": "2026-05-01"
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "Volocopter VoloCity (UAE History)",
+    "meta_description": "Volocopter VoloCity UAE history: world-first autonomous air taxi flight in Dubai 25 September 2017. Programme ended after Volocopter insolvency December 2024."
+   },
+   "ar": {
+    "name": "Volocopter VoloCity (UAE History)",
+    "meta_description": "Volocopter VoloCity UAE history: world-first autonomous air taxi flight in Dubai 25 September 2017. Programme ended after Volocopter insolvency December 2024."
+   },
+   "fr": {
+    "name": "Volocopter VoloCity (UAE History)",
+    "meta_description": "Volocopter VoloCity UAE history: world-first autonomous air taxi flight in Dubai 25 September 2017. Programme ended after Volocopter insolvency December 2024."
+   },
+   "de": {
+    "name": "Volocopter VoloCity (UAE History)",
+    "meta_description": "Volocopter VoloCity UAE history: world-first autonomous air taxi flight in Dubai 25 September 2017. Programme ended after Volocopter insolvency December 2024."
+   },
+   "zh": {
+    "name": "Volocopter VoloCity (UAE History)",
+    "meta_description": "Volocopter VoloCity UAE history: world-first autonomous air taxi flight in Dubai 25 September 2017. Programme ended after Volocopter insolvency December 2024."
+   }
+  }
+ }
+}

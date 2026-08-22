@@ -1,0 +1,65 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/vertiports/al-maktoum-international-vertiport.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "al-maktoum-international-vertiport",
+  "entity_type": "vertiport",
+  "country": "UAE",
+  "city": "Dubai",
+  "status": "announced",
+  "last_verified": "2026-08-22",
+  "name": "Al Maktoum International Airport Vertiport (DWC)",
+  "meta_description": "Al Maktoum International Airport (DWC) was the landing site of the UAE's first piloted eVTOL flight on 9 November 2025. A formal vertiport is not confirmed by primary sources.",
+  "latitude": 24.8967,
+  "longitude": 55.1614,
+  "sources": [
+   {
+    "id": "joby-ir-2024-02-11",
+    "name": "Joby Aviation IR — Joby to Launch Air Taxi Service in UAE (11 Feb 2024)",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/87/joby-to-launch-air-taxi-service-in-uae",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "joby-ir-2025-11-17",
+    "name": "Joby Aviation IR — Dubai Air Taxi Network Takes Flight (17 Nov 2025)",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/162/dubai-air-taxi-network-takes-flight-joby-completes",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "rta-2025-11",
+    "name": "RTA Dubai — Successful First Crewed Electric Aerial Taxi Flight",
+    "url": "https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/all-news/NewsDetails/successful-first-crewed-electric-aerial-taxi-flight",
+    "type": "regulatory",
+    "accessed": "2026-05-01"
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "Al Maktoum International Airport Vertiport (DWC)",
+    "meta_description": "Al Maktoum International Airport (DWC) was the landing site of the UAE's first piloted eVTOL flight on 9 November 2025. A formal vertiport is not confirmed by primary sources."
+   },
+   "ar": {
+    "name": "Al Maktoum International Airport Vertiport (DWC)",
+    "meta_description": "Al Maktoum International Airport (DWC) was the landing site of the UAE's first piloted eVTOL flight on 9 November 2025. A formal vertiport is not confirmed by primary sources."
+   },
+   "fr": {
+    "name": "Al Maktoum International Airport Vertiport (DWC)",
+    "meta_description": "Al Maktoum International Airport (DWC) was the landing site of the UAE's first piloted eVTOL flight on 9 November 2025. A formal vertiport is not confirmed by primary sources."
+   },
+   "de": {
+    "name": "Al Maktoum International Airport Vertiport (DWC)",
+    "meta_description": "Al Maktoum International Airport (DWC) was the landing site of the UAE's first piloted eVTOL flight on 9 November 2025. A formal vertiport is not confirmed by primary sources."
+   },
+   "zh": {
+    "name": "Al Maktoum International Airport Vertiport (DWC)",
+    "meta_description": "Al Maktoum International Airport (DWC) was the landing site of the UAE's first piloted eVTOL flight on 9 November 2025. A formal vertiport is not confirmed by primary sources."
+   }
+  }
+ }
+}

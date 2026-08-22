@@ -1,0 +1,51 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/aircraft/ehang-eh216-s-mecca.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "ehang-eh216-s-mecca",
+  "entity_type": "aircraft",
+  "country": "Saudi Arabia",
+  "city": "Mecca",
+  "status": "trial_only",
+  "last_verified": "2026-08-22",
+  "name": "EHang EH216-S Mecca Hajj Flight",
+  "meta_description": "The EHang EH216-S pilotless eVTOL completed its debut flight in Saudi Arabia on 12 June 2024 during the Hajj season in Mecca. First autonomous eVTOL passenger trial in the Kingdom.",
+  "latitude": 21.4225,
+  "longitude": 39.8262,
+  "sources": [
+   {
+    "id": "ehang-2024-06-12",
+    "name": "EHang IR — EH216-S Pilotless eVTOL Completes Debut Flight in Saudi Arabia (12 June 2024)",
+    "url": "https://www.ehang.com/news/1089.html",
+    "type": "operator-ir",
+    "accessed": "2026-05-20"
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "EHang EH216-S Mecca Hajj Flight",
+    "meta_description": "The EHang EH216-S pilotless eVTOL completed its debut flight in Saudi Arabia on 12 June 2024 during the Hajj season in Mecca. First autonomous eVTOL passenger trial in the Kingdom."
+   },
+   "ar": {
+    "name": "EHang EH216-S Mecca Hajj Flight",
+    "meta_description": "The EHang EH216-S pilotless eVTOL completed its debut flight in Saudi Arabia on 12 June 2024 during the Hajj season in Mecca. First autonomous eVTOL passenger trial in the Kingdom."
+   },
+   "fr": {
+    "name": "EHang EH216-S Mecca Hajj Flight",
+    "meta_description": "The EHang EH216-S pilotless eVTOL completed its debut flight in Saudi Arabia on 12 June 2024 during the Hajj season in Mecca. First autonomous eVTOL passenger trial in the Kingdom."
+   },
+   "de": {
+    "name": "EHang EH216-S Mecca Hajj Flight",
+    "meta_description": "The EHang EH216-S pilotless eVTOL completed its debut flight in Saudi Arabia on 12 June 2024 during the Hajj season in Mecca. First autonomous eVTOL passenger trial in the Kingdom."
+   },
+   "zh": {
+    "name": "EHang EH216-S Mecca Hajj Flight",
+    "meta_description": "The EHang EH216-S pilotless eVTOL completed its debut flight in Saudi Arabia on 12 June 2024 during the Hajj season in Mecca. First autonomous eVTOL passenger trial in the Kingdom."
+   }
+  }
+ }
+}

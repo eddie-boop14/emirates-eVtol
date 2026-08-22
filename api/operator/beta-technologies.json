@@ -1,0 +1,84 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/operators/beta-technologies.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "beta-technologies",
+  "entity_type": "operator",
+  "country": "UAE",
+  "city": "Abu Dhabi",
+  "status": "under_construction",
+  "last_verified": "2026-08-22",
+  "name": "BETA Technologies, Inc.",
+  "meta_description": "BETA Technologies supplies eVTOL charging hardware to Abu Dhabi Airports. Its first Charge Cube is commissioned at Al Bateen Executive Airport, Abu Dhabi.",
+  "latitude": 24.4283,
+  "longitude": 54.4581,
+  "sources": [
+   {
+    "id": "beta-ir-adairports",
+    "name": "BETA Technologies — Abu Dhabi Airports Selects BETA Technologies' Charge Infrastructure for emirate's Advanced Air Mobility Network",
+    "url": "https://investors.beta.team/news-events/press-releases/detail/90/abu-dhabi-airports-selects-beta-technologies-charge-infrastructure-for-emirates-advanced-air-mobility-network",
+    "type": "operator-ir",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "adio-vertiport-network",
+    "name": "Abu Dhabi Investment Office — In collaboration with strategic partners, Abu Dhabi Investment Office announces launch of vertiport network to activate air taxi operations",
+    "url": "https://www.prnewswire.com/news-releases/in-collaboration-with-strategic-partners-abu-dhabi-investment-office-announces-launch-of-vertiport-network-to-activate-air-taxi-operations-302610240.html",
+    "type": "government",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "ups-gcaa-licence",
+    "name": "UPS — UPS and BETA granted license to test electric flight deliveries",
+    "url": "https://about.ups.com/ae/en/our-stories/innovation-driven/ups-and-beta-granted-license-to-test-electric-flight-deliveries.html",
+    "type": "official-news",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "eat-evtol",
+    "name": "Etihad Aviation Training — eVTOL",
+    "url": "https://www.etihadaviationtraining.com/evtol",
+    "type": "official-news",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "beta-timeline",
+    "name": "BETA Technologies — Timeline",
+    "url": "https://beta.team/timeline",
+    "type": "operator-ir",
+    "accessed": "2026-07-28",
+    "primary": true
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "BETA Technologies, Inc.",
+    "meta_description": "BETA Technologies supplies eVTOL charging hardware to Abu Dhabi Airports. Its first Charge Cube is commissioned at Al Bateen Executive Airport, Abu Dhabi."
+   },
+   "ar": {
+    "name": "BETA Technologies, Inc.",
+    "meta_description": "BETA Technologies supplies eVTOL charging hardware to Abu Dhabi Airports. Its first Charge Cube is commissioned at Al Bateen Executive Airport, Abu Dhabi."
+   },
+   "fr": {
+    "name": "BETA Technologies, Inc.",
+    "meta_description": "BETA Technologies supplies eVTOL charging hardware to Abu Dhabi Airports. Its first Charge Cube is commissioned at Al Bateen Executive Airport, Abu Dhabi."
+   },
+   "de": {
+    "name": "BETA Technologies, Inc.",
+    "meta_description": "BETA Technologies supplies eVTOL charging hardware to Abu Dhabi Airports. Its first Charge Cube is commissioned at Al Bateen Executive Airport, Abu Dhabi."
+   },
+   "zh": {
+    "name": "BETA Technologies, Inc.",
+    "meta_description": "BETA Technologies supplies eVTOL charging hardware to Abu Dhabi Airports. Its first Charge Cube is commissioned at Al Bateen Executive Airport, Abu Dhabi."
+   }
+  }
+ }
+}

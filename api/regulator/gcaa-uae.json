@@ -1,0 +1,86 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/regulators/gcaa-uae.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "gcaa-uae",
+  "entity_type": "regulator",
+  "country": "UAE",
+  "city": "Abu Dhabi",
+  "status": "operational",
+  "last_verified": "2026-08-22",
+  "name": "General Civil Aviation Authority — UAE",
+  "meta_description": "GCAA UAE is the federal civil aviation regulator overseeing eVTOL type certification, vertiport regulations and Air Operator Certificates in the UAE.",
+  "latitude": 24.4539,
+  "longitude": 54.3773,
+  "sources": [
+   {
+    "id": "wam-gcaa-2025-11-03",
+    "name": "WAM — UAE advances global air mobility leadership through GCAA eVTOL certification (3 Nov 2025)",
+    "url": "https://www.bignewsnetwork.com/news/278671668/uae-advances-global-air-mobility-leadership-through-gcaa-evtol-certification",
+    "type": "official-news",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "wam-hybrid-2025-07",
+    "name": "GCAA / WAM — UAE allows eVTOLs and helicopters to operate from the same infrastructure (Jul 2025)",
+    "url": "https://gulfnews.com/business/aviation/uae-allows-air-taxis-helicopters-to-use-same-infrastructure-in-new-rule-1.500184562",
+    "type": "official-news",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "archer-ir-2024-12-06",
+    "name": "Archer Aviation IR — Abu Dhabi and Archer Cross-Industry Stakeholders Agreement (6 Dec 2024)",
+    "url": "https://investors.archer.com/news/news-details/2024/Abu-Dhabi-and-Archer-Announce-Agreement-With-Cross-Industry-Stakeholders-To-Launch-First-Commercial-Electric-Air-Taxi-Flights/default.aspx",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "archer-ir-2025-10-08",
+    "name": "Archer Aviation IR — Cleveland Clinic Abu Dhabi Hospital Vertiport (8 Oct 2025) — references April 2025 GCAA hybrid heliport design acceptance",
+    "url": "https://investors.archer.com/news/news-details/2025/Cleveland-Clinic-Abu-Dhabi-Unveils-Plans-for-UAEs-First-Hospital-Based-Vertiport-in-Partnership-With-Archer-Aviation/default.aspx",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "rta-mediaoffice-2025-11-16",
+    "name": "Dubai Media Office — RTA and Joby Complete First Crewed eVTOL Aerial Taxi Flight (16 Nov 2025)",
+    "url": "https://mediaoffice.ae/en/news/2025/november/16-11/rta-and-joby-complete-first-crewed-evtol-taxi-flight",
+    "type": "official-news",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "gcaa-website",
+    "name": "General Civil Aviation Authority — official website",
+    "url": "https://www.gcaa.gov.ae",
+    "type": "regulatory",
+    "accessed": "2026-05-01"
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "General Civil Aviation Authority — UAE",
+    "meta_description": "GCAA UAE is the federal civil aviation regulator overseeing eVTOL type certification, vertiport regulations and Air Operator Certificates in the UAE."
+   },
+   "ar": {
+    "name": "General Civil Aviation Authority — UAE",
+    "meta_description": "GCAA UAE is the federal civil aviation regulator overseeing eVTOL type certification, vertiport regulations and Air Operator Certificates in the UAE."
+   },
+   "fr": {
+    "name": "General Civil Aviation Authority — UAE",
+    "meta_description": "GCAA UAE is the federal civil aviation regulator overseeing eVTOL type certification, vertiport regulations and Air Operator Certificates in the UAE."
+   },
+   "de": {
+    "name": "General Civil Aviation Authority — UAE",
+    "meta_description": "GCAA UAE is the federal civil aviation regulator overseeing eVTOL type certification, vertiport regulations and Air Operator Certificates in the UAE."
+   },
+   "zh": {
+    "name": "General Civil Aviation Authority — UAE",
+    "meta_description": "GCAA UAE is the federal civil aviation regulator overseeing eVTOL type certification, vertiport regulations and Air Operator Certificates in the UAE."
+   }
+  }
+ }
+}

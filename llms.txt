@@ -15,6 +15,9 @@ The full corpus is published as open data under CC BY 4.0 — free to use, redis
 - [entities.json](https://evtolemirates.com/entities.json): full dataset, five-language i18n block and complete source lists per entity.
 - [entities.csv](https://evtolemirates.com/entities.csv): flat export, one row per entity.
 - [feed.xml](https://evtolemirates.com/feed.xml): Atom feed of recently re-verified entities.
+- [changes.xml](https://evtolemirates.com/changes.xml): Atom feed of fact changes — every status transition, dated (human view: /changes.html).
+- [API index](https://evtolemirates.com/api/index.json): per-entity JSON endpoints (/api/{type}/{slug}.json) — one request per question, CORS-open.
+- [OpenAPI description](https://evtolemirates.com/.well-known/openapi.json): machine description of the endpoints.
 
 ## Operators
 

@@ -1,0 +1,116 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/operators/vports.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "vports",
+  "entity_type": "operator",
+  "country": "UAE",
+  "city": "Dubai",
+  "status": "announced",
+  "last_verified": "2026-08-22",
+  "name": "VPorts",
+  "meta_description": "VPorts signed a 2022 agreement with the UAE GCAA and Dubai South for a 37,000 sqm advanced air mobility integrator centre. No primary evidence it was built.",
+  "latitude": null,
+  "longitude": null,
+  "sources": [
+   {
+    "id": "vports-dec2022",
+    "name": "VPorts — VPorts inks landmark agreement to create world's first Advanced Air Mobility Integrator Centre in Dubai",
+    "url": "https://vports.com/vports-inks-landmark-agreement-to-create-worlds-first-advanced-air-mobility-integrator-centre-in-dubai/",
+    "type": "operator-ir",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "vports-dec2022-pdf",
+    "name": "VPorts — Press release: AAM Integrator Centre (PDF, English)",
+    "url": "https://vports.com/wp-content/uploads/2022/12/Press-release__VPorts_AAM-Integrator-Centre_FINAL-English.pdf",
+    "type": "operator-ir",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "dubai-media-office-dec2022",
+    "name": "Dubai Media Office — VPorts inks landmark agreement to create world's first advanced air mobility integrator centre in Dubai",
+    "url": "https://mediaoffice.ae/en/news/2022/December/08-12/VPorts-inks-landmark-agreement-to-create-world",
+    "type": "government",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "electra-mar2023",
+    "name": "Electra.aero — VPorts Inks Strategic Agreements to Boost Development of Dubai's Advanced Air Mobility Centre With Electra.aero, Falcon Aviation and SkyDrive",
+    "url": "https://www.electra.aero/news/vports",
+    "type": "official-news",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "skydrive-mar2023",
+    "name": "SkyDrive Inc. — SkyDrive Collaborates with VPorts to Promote International Advanced Air Mobility Industry from Dubai",
+    "url": "https://en.skydrive2020.com/archives/9003",
+    "type": "official-news",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "vports-cert-jun2023",
+    "name": "VPorts — VPorts embarks on the certification process for its vertiports as part of the world's first Advanced Air Mobility Integrator Centre in Dubai",
+    "url": "https://vports.com/vports-embarks-on-the-certification-process-for-its-vertiports-as-part-of-the-worlds-first-advanced-air-mobility-integrator-centre-in-dubai/",
+    "type": "operator-ir",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "vports-rak-mar2023",
+    "name": "VPorts — VPorts to establish a first vertiport at Ras Al-Khaimah Airport",
+    "url": "https://vports.com/vports-to-establish-a-first-vertiport-at-ras-al-khaimah-airport/",
+    "type": "operator-ir",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "vports-overview",
+    "name": "VPorts — The Project: Overview",
+    "url": "https://vports.com/the-project/overview/",
+    "type": "operator-ir",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "vports-news-index",
+    "name": "VPorts — News index",
+    "url": "https://vports.com/news/",
+    "type": "operator-ir",
+    "accessed": "2026-07-28",
+    "primary": true
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "VPorts",
+    "meta_description": "VPorts signed a 2022 agreement with the UAE GCAA and Dubai South for a 37,000 sqm advanced air mobility integrator centre. No primary evidence it was built."
+   },
+   "ar": {
+    "name": "VPorts",
+    "meta_description": "VPorts signed a 2022 agreement with the UAE GCAA and Dubai South for a 37,000 sqm advanced air mobility integrator centre. No primary evidence it was built."
+   },
+   "fr": {
+    "name": "VPorts",
+    "meta_description": "VPorts signed a 2022 agreement with the UAE GCAA and Dubai South for a 37,000 sqm advanced air mobility integrator centre. No primary evidence it was built."
+   },
+   "de": {
+    "name": "VPorts",
+    "meta_description": "VPorts signed a 2022 agreement with the UAE GCAA and Dubai South for a 37,000 sqm advanced air mobility integrator centre. No primary evidence it was built."
+   },
+   "zh": {
+    "name": "VPorts",
+    "meta_description": "VPorts signed a 2022 agreement with the UAE GCAA and Dubai South for a 37,000 sqm advanced air mobility integrator centre. No primary evidence it was built."
+   }
+  }
+ }
+}

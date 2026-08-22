@@ -1,0 +1,107 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/aircraft/joby-s4-uae.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "joby-s4-uae",
+  "entity_type": "aircraft",
+  "country": "UAE",
+  "city": "Dubai",
+  "status": "trial_only",
+  "last_verified": "2026-08-22",
+  "name": "Joby S4 (UAE Operations)",
+  "meta_description": "Joby S4 in UAE service: all-electric eVTOL flown in Dubai since June 2025, first UAE point-to-point flight on 9 November 2025. Specs, milestones, sources.",
+  "latitude": null,
+  "longitude": null,
+  "sources": [
+   {
+    "id": "joby-ir-87-2024-02-11",
+    "name": "Joby Aviation IR — 'Joby to Launch Air Taxi Service in UAE' (11 Feb 2024)",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/87/joby-to-launch-air-taxi-service-in-uae",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "joby-ir-106-2024-09-09",
+    "name": "Joby Aviation IR — 'Joby Applies to Become First Certified Electric Air Taxi Operator in UAE' (9 Sep 2024)",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/106/joby-applies-to-become-first-certified-electric-air-taxi",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "joby-ir-132-2025-06-30",
+    "name": "Joby Aviation IR — 'Joby Cements Global Lead in Air Taxi Industry with Dubai Flights' (30 Jun 2025)",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/132/joby-cements-global-lead-in-air-taxi-industry-with-dubai",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "joby-ir-155-2025-10-31",
+    "name": "Joby Aviation IR — 'Joby Adds to the History of Propeller Blade Manufacturing in Dayton, Ohio' (31 Oct 2025)",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/155/joby-adds-to-the-history-of-propeller-blade-manufacturing",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "joby-ir-156-2025-11-05",
+    "name": "Joby Aviation IR — 'Joby Begins Power-On Testing of First Conforming Aircraft, Enters Final Stage of Type Certification Process' (5 Nov 2025)",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/156/joby-begins-power-on-testing-of-first-conforming-aircraft",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "joby-ir-162-2025-11-17",
+    "name": "Joby Aviation IR — 'Dubai Air Taxi Network Takes Flight: Joby Completes Landmark Flight and Announces Next Vertiport Locations' (17 Nov 2025)",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/162/dubai-air-taxi-network-takes-flight-joby-completes",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "joby-ir-164-2025-12-15",
+    "name": "Joby Aviation IR — 'Joby Caps Year of Flight, Demonstrating Global Commercial Readiness and Operational Momentum Towards FAA Certification' (15 Dec 2025)",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/164/joby-caps-year-of-flight-demonstrating-global-commercial",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "joby-ir-38-2022-05-10",
+    "name": "Joby Aviation IR — 'Joby Confirms Low Noise Footprint Following NASA Testing' (10 May 2022)",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/38/joby-confirms-revolutionary-low-noise-footprint-following",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "gdmo-rta-2025-11-16",
+    "name": "Government of Dubai Media Office / RTA — 'RTA and Joby Complete First Crewed eVTOL Aerial Taxi Flight Between Margham and Al Maktoum International Airport' (16 Nov 2025)",
+    "url": "https://mediaoffice.ae/en/news/2025/november/16-11/rta-and-joby-complete-first-crewed-evtol-taxi-flight",
+    "type": "official-news",
+    "accessed": "2026-05-01"
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "Joby S4 (UAE Operations)",
+    "meta_description": "Joby S4 in UAE service: all-electric eVTOL flown in Dubai since June 2025, first UAE point-to-point flight on 9 November 2025. Specs, milestones, sources."
+   },
+   "ar": {
+    "name": "Joby S4 (UAE Operations)",
+    "meta_description": "Joby S4 in UAE service: all-electric eVTOL flown in Dubai since June 2025, first UAE point-to-point flight on 9 November 2025. Specs, milestones, sources."
+   },
+   "fr": {
+    "name": "Joby S4 (UAE Operations)",
+    "meta_description": "Joby S4 in UAE service: all-electric eVTOL flown in Dubai since June 2025, first UAE point-to-point flight on 9 November 2025. Specs, milestones, sources."
+   },
+   "de": {
+    "name": "Joby S4 (UAE Operations)",
+    "meta_description": "Joby S4 in UAE service: all-electric eVTOL flown in Dubai since June 2025, first UAE point-to-point flight on 9 November 2025. Specs, milestones, sources."
+   },
+   "zh": {
+    "name": "Joby S4 (UAE Operations)",
+    "meta_description": "Joby S4 in UAE service: all-electric eVTOL flown in Dubai since June 2025, first UAE point-to-point flight on 9 November 2025. Specs, milestones, sources."
+   }
+  }
+ }
+}

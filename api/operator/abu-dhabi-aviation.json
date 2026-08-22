@@ -1,0 +1,65 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/operators/abu-dhabi-aviation.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "abu-dhabi-aviation",
+  "entity_type": "operator",
+  "country": "UAE",
+  "city": "Abu Dhabi",
+  "status": "operational",
+  "last_verified": "2026-08-22",
+  "name": "Abu Dhabi Aviation",
+  "meta_description": "Abu Dhabi Aviation (ADA) is the named eVTOL operating partner under Archer Aviation's UAE Launch Edition definitive agreement. Group CEO Mahmood Al Hameli. First Launch Edition payments flowing Nov 2025.",
+  "latitude": 24.4332,
+  "longitude": 54.6511,
+  "sources": [
+   {
+    "id": "archer-ir-2025-11-14",
+    "name": "Archer Aviation IR — UAE Launch Edition Flight Test Campaign (14 Nov 2025)",
+    "url": "https://investors.archer.com/news/news-details/2025/Archers-Midnight-Showcases-In-Country-eVTOL-Flight-Test-Campaign-in-UAE-as-Part-of-Its-Commercial-Launch-Edition-Program/default.aspx",
+    "type": "operator-ir",
+    "accessed": "2026-05-20"
+   },
+   {
+    "id": "archer-ir-2025-04-23",
+    "name": "Archer Aviation IR — Design Approval Abu Dhabi Hybrid Heliport (23 Apr 2025)",
+    "url": "https://investors.archer.com/news/news-details/2025/Archer-Secures-Design-Approval-For-UAEs-First-Hybrid-Heliport-Paving-The-Way-For-Commercial-Air-Taxi-Service-In-Abu-Dhabi/default.aspx",
+    "type": "operator-ir",
+    "accessed": "2026-05-20"
+   },
+   {
+    "id": "adio-2025-11-10",
+    "name": "Abu Dhabi 10-Vertiport Network Announcement — ADIO / ITC / Abu Dhabi Airports / GCAA (10 Nov 2025)",
+    "url": "https://www.thenationalnews.com/business/aviation/2025/11/11/abu-dhabi-to-build-10-vertiports-for-air-taxis/",
+    "type": "government",
+    "accessed": "2026-05-20"
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "Abu Dhabi Aviation",
+    "meta_description": "Abu Dhabi Aviation (ADA) is the named eVTOL operating partner under Archer Aviation's UAE Launch Edition definitive agreement. Group CEO Mahmood Al Hameli. First Launch Edition payments flowing Nov 2025."
+   },
+   "ar": {
+    "name": "Abu Dhabi Aviation",
+    "meta_description": "Abu Dhabi Aviation (ADA) is the named eVTOL operating partner under Archer Aviation's UAE Launch Edition definitive agreement. Group CEO Mahmood Al Hameli. First Launch Edition payments flowing Nov 2025."
+   },
+   "fr": {
+    "name": "Abu Dhabi Aviation",
+    "meta_description": "Abu Dhabi Aviation (ADA) is the named eVTOL operating partner under Archer Aviation's UAE Launch Edition definitive agreement. Group CEO Mahmood Al Hameli. First Launch Edition payments flowing Nov 2025."
+   },
+   "de": {
+    "name": "Abu Dhabi Aviation",
+    "meta_description": "Abu Dhabi Aviation (ADA) is the named eVTOL operating partner under Archer Aviation's UAE Launch Edition definitive agreement. Group CEO Mahmood Al Hameli. First Launch Edition payments flowing Nov 2025."
+   },
+   "zh": {
+    "name": "Abu Dhabi Aviation",
+    "meta_description": "Abu Dhabi Aviation (ADA) is the named eVTOL operating partner under Archer Aviation's UAE Launch Edition definitive agreement. Group CEO Mahmood Al Hameli. First Launch Edition payments flowing Nov 2025."
+   }
+  }
+ }
+}

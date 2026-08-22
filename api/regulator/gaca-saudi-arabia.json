@@ -1,0 +1,65 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/regulators/gaca-saudi-arabia.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "gaca-saudi-arabia",
+  "entity_type": "regulator",
+  "country": "Saudi Arabia",
+  "city": "Riyadh",
+  "status": "operational",
+  "last_verified": "2026-08-22",
+  "name": "General Authority of Civil Aviation (GACA), Saudi Arabia",
+  "meta_description": "GACA published the Advanced Air Mobility Roadmap in January 2024. Issued Special Flight Authorization for Volocopter NEOM flight 21 June 2023. Signed MoUs with Lilium, Joby, Archer.",
+  "latitude": 24.7136,
+  "longitude": 46.6753,
+  "sources": [
+   {
+    "id": "gaca-2024-01-22",
+    "name": "GACA Saudi Arabia — Advanced Air Mobility Roadmap (22 Jan 2024)",
+    "url": "https://gaca.gov.sa/",
+    "type": "regulatory",
+    "accessed": "2026-05-20"
+   },
+   {
+    "id": "archer-ir-2025-12-10",
+    "name": "Archer Aviation IR — Saudi Arabia's GACA Advances Archer's Pathway for Electric Air Taxi Deployment (10 Dec 2025)",
+    "url": "https://investors.archer.com/news/news-details/2025/Saudi-Arabias-General-Authority-of-Civil-Aviation-Advances-Archers-Pathway-for-Electric-Air-Taxi-Deployment/default.aspx",
+    "type": "operator-ir",
+    "accessed": "2026-05-20"
+   },
+   {
+    "id": "archer-ir-2025-11-19-thc",
+    "name": "Archer Aviation IR — PIF's The Helicopter Company, Archer Aviation, and Red Sea Global Partner to Launch eVTOL Air Mobility in Saudi Arabia (19 Nov 2025)",
+    "url": "https://investors.archer.com/news/news-details/2025/PIFs-The-Helicopter-Company-Archer-Aviation-and-Red-Sea-Global-Partner-to-Launch-eVTOL-Air-Mobility-in-Saudi-Arabia/default.aspx",
+    "type": "operator-ir",
+    "accessed": "2026-05-20"
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "General Authority of Civil Aviation (GACA), Saudi Arabia",
+    "meta_description": "GACA published the Advanced Air Mobility Roadmap in January 2024. Issued Special Flight Authorization for Volocopter NEOM flight 21 June 2023. Signed MoUs with Lilium, Joby, Archer."
+   },
+   "ar": {
+    "name": "General Authority of Civil Aviation (GACA), Saudi Arabia",
+    "meta_description": "GACA published the Advanced Air Mobility Roadmap in January 2024. Issued Special Flight Authorization for Volocopter NEOM flight 21 June 2023. Signed MoUs with Lilium, Joby, Archer."
+   },
+   "fr": {
+    "name": "General Authority of Civil Aviation (GACA), Saudi Arabia",
+    "meta_description": "GACA published the Advanced Air Mobility Roadmap in January 2024. Issued Special Flight Authorization for Volocopter NEOM flight 21 June 2023. Signed MoUs with Lilium, Joby, Archer."
+   },
+   "de": {
+    "name": "General Authority of Civil Aviation (GACA), Saudi Arabia",
+    "meta_description": "GACA published the Advanced Air Mobility Roadmap in January 2024. Issued Special Flight Authorization for Volocopter NEOM flight 21 June 2023. Signed MoUs with Lilium, Joby, Archer."
+   },
+   "zh": {
+    "name": "General Authority of Civil Aviation (GACA), Saudi Arabia",
+    "meta_description": "GACA published the Advanced Air Mobility Roadmap in January 2024. Issued Special Flight Authorization for Volocopter NEOM flight 21 June 2023. Signed MoUs with Lilium, Joby, Archer."
+   }
+  }
+ }
+}

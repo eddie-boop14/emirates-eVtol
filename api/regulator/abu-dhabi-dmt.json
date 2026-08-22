@@ -1,0 +1,86 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/regulators/abu-dhabi-dmt.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "abu-dhabi-dmt",
+  "entity_type": "regulator",
+  "country": "UAE",
+  "city": "Abu Dhabi",
+  "status": "operational",
+  "last_verified": "2026-08-22",
+  "name": "Abu Dhabi Department of Municipalities and Transport (DMT)",
+  "meta_description": "Abu Dhabi DMT, established by Law No. 30 of 2019, oversees urban planning and transport in the emirate via affiliates including Abu Dhabi Mobility (ITC).",
+  "latitude": 24.4539,
+  "longitude": 54.3773,
+  "sources": [
+   {
+    "id": "dmt-home",
+    "name": "Abu Dhabi DMT — official portal (English homepage)",
+    "url": "https://www.dmt.gov.ae/en",
+    "type": "regulatory",
+    "accessed": "2026-04-30"
+   },
+   {
+    "id": "dmt-adm-page",
+    "name": "Abu Dhabi DMT — Abu Dhabi City Municipality / DMT establishment history (Law No. 30 of 2019)",
+    "url": "https://www.dmt.gov.ae/en/adm",
+    "type": "regulatory",
+    "accessed": "2026-04-30"
+   },
+   {
+    "id": "dmt-smart-transport-2023",
+    "name": "Abu Dhabi DMT Media Centre — Accelerates Smart Transport Project (2023)",
+    "url": "https://www.dmt.gov.ae/en/Media-Centre/News/Accelerates-Smart-Transport",
+    "type": "regulatory",
+    "accessed": "2026-04-30"
+   },
+   {
+    "id": "admo-vertiport-network-2025-11-10",
+    "name": "Abu Dhabi Government Media Office — ADIO announces launch of vertiport network (10 Nov 2025)",
+    "url": "https://www.mediaoffice.abudhabi/en/economy/in-collaboration-with-strategic-partners-abu-dhabi-investment-office-announces-launch-of-vertiport-network-to-activate-air-taxi-operations/",
+    "type": "official-news",
+    "accessed": "2026-04-30"
+   },
+   {
+    "id": "archer-cross-industry-2024-12-06",
+    "name": "Archer Aviation IR — Cross-industry agreement, Abu Dhabi (6 Dec 2024)",
+    "url": "https://investors.archer.com/news/news-details/2024/Abu-Dhabi-and-Archer-Announce-Agreement-With-Cross-Industry-Stakeholders-To-Launch-First-Commercial-Electric-Air-Taxi-Flights/default.aspx",
+    "type": "operator-ir",
+    "accessed": "2026-04-30"
+   },
+   {
+    "id": "osm-dmt",
+    "name": "OpenStreetMap — central Abu Dhabi reference point",
+    "url": "https://www.openstreetmap.org/?mlat=24.4539&mlon=54.3773",
+    "type": "primary",
+    "accessed": "2026-04-30"
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "Abu Dhabi Department of Municipalities and Transport (DMT)",
+    "meta_description": "Abu Dhabi DMT, established by Law No. 30 of 2019, oversees urban planning and transport in the emirate via affiliates including Abu Dhabi Mobility (ITC)."
+   },
+   "ar": {
+    "name": "Abu Dhabi Department of Municipalities and Transport (DMT)",
+    "meta_description": "Abu Dhabi DMT, established by Law No. 30 of 2019, oversees urban planning and transport in the emirate via affiliates including Abu Dhabi Mobility (ITC)."
+   },
+   "fr": {
+    "name": "Abu Dhabi Department of Municipalities and Transport (DMT)",
+    "meta_description": "Abu Dhabi DMT, established by Law No. 30 of 2019, oversees urban planning and transport in the emirate via affiliates including Abu Dhabi Mobility (ITC)."
+   },
+   "de": {
+    "name": "Abu Dhabi Department of Municipalities and Transport (DMT)",
+    "meta_description": "Abu Dhabi DMT, established by Law No. 30 of 2019, oversees urban planning and transport in the emirate via affiliates including Abu Dhabi Mobility (ITC)."
+   },
+   "zh": {
+    "name": "Abu Dhabi Department of Municipalities and Transport (DMT)",
+    "meta_description": "Abu Dhabi DMT, established by Law No. 30 of 2019, oversees urban planning and transport in the emirate via affiliates including Abu Dhabi Mobility (ITC)."
+   }
+  }
+ }
+}

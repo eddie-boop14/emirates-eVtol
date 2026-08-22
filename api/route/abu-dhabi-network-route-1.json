@@ -1,0 +1,72 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/routes/abu-dhabi-network-route-1.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "abu-dhabi-network-route-1",
+  "entity_type": "route",
+  "country": "UAE",
+  "city": "Abu Dhabi",
+  "status": "announced",
+  "last_verified": "2026-08-22",
+  "name": "Abu Dhabi Network — Route 1 (Abu Dhabi ↔ Dubai)",
+  "meta_description": "Archer Aviation and Falcon Aviation plan Abu Dhabi to Dubai eVTOL route: Marina Mall heliport (Corniche) to Falcon Heliport at Atlantis the Palm, ~30 minutes.",
+  "latitude": 24.7136,
+  "longitude": 54.7531,
+  "sources": [
+   {
+    "id": "archer-ir-2024-03-11",
+    "name": "Archer Aviation IR — Archer and Falcon Aviation to Jointly Develop Vertiport Network in Dubai and Abu Dhabi (11 Mar 2024)",
+    "url": "https://investors.archer.com/news/news-details/2024/Archer-and-Falcon-Aviation-to-Jointly-Develop-Vertiport-Network-in-Dubai-and-Abu-Dhabi-for-the-Launch-of-Flying-Car-Operations-in-UAE-as-Soon-as-2025/",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "falcon-aviation-2024-03-12",
+    "name": "Falcon Aviation — Archer / Falcon vertiport network announcement (12 Mar 2024)",
+    "url": "https://www.falconaviation.ae/2024/03/12/archer-aviation-and-falcon-aviation-are-to-jointly-develop-a-vertiport-network-in-dubai-and-abu-dhabi",
+    "type": "primary",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "archer-ir-2025-11-14",
+    "name": "Archer Aviation IR — Midnight Showcases In-Country eVTOL Flight Test Campaign in UAE (14 Nov 2025)",
+    "url": "https://investors.archer.com/news/news-details/2025/Archers-Midnight-Showcases-In-Country-eVTOL-Flight-Test-Campaign-in-UAE-as-Part-of-Its-Commercial-Launch-Edition-Program/default.aspx",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "archer-ir-2025-10",
+    "name": "Archer Aviation IR — Cleveland Clinic Abu Dhabi Unveils Plans for UAE's First Hospital-Based Vertiport (Oct 2025)",
+    "url": "https://investors.archer.com/news/news-details/2025/Cleveland-Clinic-Abu-Dhabi-Unveils-Plans-for-UAEs-First-Hospital-Based-Vertiport-in-Partnership-With-Archer-Aviation/default.aspx",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "Abu Dhabi Network — Route 1 (Abu Dhabi ↔ Dubai)",
+    "meta_description": "Archer Aviation and Falcon Aviation plan Abu Dhabi to Dubai eVTOL route: Marina Mall heliport (Corniche) to Falcon Heliport at Atlantis the Palm, ~30 minutes."
+   },
+   "ar": {
+    "name": "Abu Dhabi Network — Route 1 (Abu Dhabi ↔ Dubai)",
+    "meta_description": "Archer Aviation and Falcon Aviation plan Abu Dhabi to Dubai eVTOL route: Marina Mall heliport (Corniche) to Falcon Heliport at Atlantis the Palm, ~30 minutes."
+   },
+   "fr": {
+    "name": "Abu Dhabi Network — Route 1 (Abu Dhabi ↔ Dubai)",
+    "meta_description": "Archer Aviation and Falcon Aviation plan Abu Dhabi to Dubai eVTOL route: Marina Mall heliport (Corniche) to Falcon Heliport at Atlantis the Palm, ~30 minutes."
+   },
+   "de": {
+    "name": "Abu Dhabi Network — Route 1 (Abu Dhabi ↔ Dubai)",
+    "meta_description": "Archer Aviation and Falcon Aviation plan Abu Dhabi to Dubai eVTOL route: Marina Mall heliport (Corniche) to Falcon Heliport at Atlantis the Palm, ~30 minutes."
+   },
+   "zh": {
+    "name": "Abu Dhabi Network — Route 1 (Abu Dhabi ↔ Dubai)",
+    "meta_description": "Archer Aviation and Falcon Aviation plan Abu Dhabi to Dubai eVTOL route: Marina Mall heliport (Corniche) to Falcon Heliport at Atlantis the Palm, ~30 minutes."
+   }
+  }
+ }
+}

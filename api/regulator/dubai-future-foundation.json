@@ -1,0 +1,93 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/regulators/dubai-future-foundation.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "dubai-future-foundation",
+  "entity_type": "regulator",
+  "country": "UAE",
+  "city": "Dubai",
+  "status": "operational",
+  "last_verified": "2026-08-22",
+  "name": "Dubai Future Foundation",
+  "meta_description": "Dubai Future Foundation: Dubai Government's foresight authority. Convening role on eVTOL via Dubai Self-Driving Strategy, drone programme, accelerator cohorts.",
+  "latitude": 25.2174,
+  "longitude": 55.2796,
+  "sources": [
+   {
+    "id": "dff-about",
+    "name": "Dubai Future Foundation — About",
+    "url": "https://www.dubaifuture.ae/",
+    "type": "primary",
+    "accessed": "2026-08-22"
+   },
+   {
+    "id": "dff-reach-us",
+    "name": "Dubai Future Foundation — Reach Us",
+    "url": "https://www.dubaifuture.ae/reach-us",
+    "type": "primary",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "hamdan-belhoul-ceo",
+    "name": "Office of H.H. Sheikh Hamdan bin Mohammed — Belhoul named CEO of Dubai Future Foundation",
+    "url": "https://hamdan.ae/en-us/news/details?nid=2958",
+    "type": "official-news",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "dff-drone-programme",
+    "name": "Dubai Future Foundation — Sheikh Hamdan launches Dubai Programme to Enable Drone Transportation",
+    "url": "https://www.dubaifuture.ae/dubai-future-foundation/hamdan-bin-mohammed-launches-dubai-programme-to-enable-drone-transportation/",
+    "type": "primary",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "dff-bvlos",
+    "name": "Dubai Future Foundation — BVLOS Drone Delivery Program",
+    "url": "https://www.dubaifuture.ae/bvlos-drone-delivery-program",
+    "type": "primary",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "dff-eanan-airshow",
+    "name": "Dubai Future Foundation — Dubai Future Labs signs with UAE tech company Eanan at Dubai Airshow",
+    "url": "https://www.dubaifuture.ae/latest-news/dubai-future-labs-signs-with-uae-tech-company-eanan-at-dubai-airshow-to-boost-drone-rd/",
+    "type": "primary",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "dff-accelerators-rta",
+    "name": "Dubai Future Foundation — Dubai Future Accelerators: Autonomous Vehicles & Augmented Reality",
+    "url": "https://www.dubaifuture.ae/dubai-future-accelerators/dubai-future-accelerators-autonomous-vehicles-and-augmented-reality-future-dubais-transportation/",
+    "type": "primary",
+    "accessed": "2026-05-01"
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "Dubai Future Foundation",
+    "meta_description": "Dubai Future Foundation: Dubai Government's foresight authority. Convening role on eVTOL via Dubai Self-Driving Strategy, drone programme, accelerator cohorts."
+   },
+   "ar": {
+    "name": "Dubai Future Foundation",
+    "meta_description": "Dubai Future Foundation: Dubai Government's foresight authority. Convening role on eVTOL via Dubai Self-Driving Strategy, drone programme, accelerator cohorts."
+   },
+   "fr": {
+    "name": "Dubai Future Foundation",
+    "meta_description": "Dubai Future Foundation: Dubai Government's foresight authority. Convening role on eVTOL via Dubai Self-Driving Strategy, drone programme, accelerator cohorts."
+   },
+   "de": {
+    "name": "Dubai Future Foundation",
+    "meta_description": "Dubai Future Foundation: Dubai Government's foresight authority. Convening role on eVTOL via Dubai Self-Driving Strategy, drone programme, accelerator cohorts."
+   },
+   "zh": {
+    "name": "Dubai Future Foundation",
+    "meta_description": "Dubai Future Foundation: Dubai Government's foresight authority. Convening role on eVTOL via Dubai Self-Driving Strategy, drone programme, accelerator cohorts."
+   }
+  }
+ }
+}

@@ -1,0 +1,108 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/operators/tcab-tech.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "tcab-tech",
+  "entity_type": "operator",
+  "country": "UAE",
+  "city": null,
+  "status": "announced",
+  "last_verified": "2026-08-22",
+  "name": "TCab Tech (Shanghai Time Technology Co.)",
+  "meta_description": "TCab Tech's UAE activity is an MoU with Abu Dhabi's Autocraft for up to 350 E20 eVTOLs. No UAE flights, no facility and no GCAA approval are on record.",
+  "latitude": null,
+  "longitude": null,
+  "sources": [
+   {
+    "id": "tcab-autocraft-mou-350",
+    "name": "TCab Tech — TCab Tech and Autocraft Sign MoU for 350 E20 eVTOLs to Accelerate Commercialization in the UAE and Wider MENA Region",
+    "url": "https://www.tcabtech.com/en/tcab-tech-autocraft-mou-350-e20-evtol-uae-mena-commercialization/",
+    "type": "operator-ir",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "tcab-autocraft-partnership-2024",
+    "name": "TCab Tech — TCab Tech and Autocraft establish strategic partnership to expand the Middle East market with the E20 eVTOL",
+    "url": "https://www.tcabtech.com/en/tcab-tech-autocraft-partnership-e20-evtol/",
+    "type": "operator-ir",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "tcab-air-silk-road",
+    "name": "TCab Tech — TCab Tech Launches 'Air Silk Road Global Pioneer Partnership' to Drive eVTOL Globalization",
+    "url": "https://www.tcabtech.com/en/tcab-tech-launches-air-silk-road-global-pioneer-partnership-to-drive-evtol-globalization/",
+    "type": "operator-ir",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "dubai-airshow-aam-preview",
+    "name": "Dubai Airshow — Dubai Airshow 2025 will set a new pace for Advanced Air Mobility",
+    "url": "https://www.dubaiairshow.aero/en/usefulinfo/info/news/Dubai-Airshow-2025-will-set-a-new-pace-for-Advanced-Air-Mobility.html",
+    "type": "official-news",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "tcab-tct-aeg-caac",
+    "name": "TCab Tech — TCab Tech Successfully Held the TCT Meeting and Launched the AEG Review Meeting, Marking Significant Progress in the Certification Process of the E20 eVTOL",
+    "url": "https://www.tcabtech.com/en/tcab-tech-successfully-held-the-tct-meeting/",
+    "type": "operator-ir",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "tcab-manned-flight",
+    "name": "TCab Tech — Major Milestone: TCab Tech's E20 eVTOL Successfully Completes Manned Flight Test",
+    "url": "https://www.tcabtech.com/en/tcab-tech-e20-evtol-successfully-completes-manned-flight-test",
+    "type": "operator-ir",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "tcab-transition-flight",
+    "name": "TCab Tech — TCab Tech E20 eVTOL Successfully Completes Transition Flight Tests",
+    "url": "https://www.prnewswire.com/news-releases/tcab-tech-e20-evtol-successfully-completes-transition-flight-tests-302631636.html",
+    "type": "operator-ir",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "k2-aviation-autocraft",
+    "name": "K2 — Aviation (Autocraft)",
+    "url": "https://k2.world/aviation/",
+    "type": "operator-ir",
+    "accessed": "2026-07-28",
+    "primary": true
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "TCab Tech (Shanghai Time Technology Co.)",
+    "meta_description": "TCab Tech's UAE activity is an MoU with Abu Dhabi's Autocraft for up to 350 E20 eVTOLs. No UAE flights, no facility and no GCAA approval are on record."
+   },
+   "ar": {
+    "name": "TCab Tech (Shanghai Time Technology Co.)",
+    "meta_description": "TCab Tech's UAE activity is an MoU with Abu Dhabi's Autocraft for up to 350 E20 eVTOLs. No UAE flights, no facility and no GCAA approval are on record."
+   },
+   "fr": {
+    "name": "TCab Tech (Shanghai Time Technology Co.)",
+    "meta_description": "TCab Tech's UAE activity is an MoU with Abu Dhabi's Autocraft for up to 350 E20 eVTOLs. No UAE flights, no facility and no GCAA approval are on record."
+   },
+   "de": {
+    "name": "TCab Tech (Shanghai Time Technology Co.)",
+    "meta_description": "TCab Tech's UAE activity is an MoU with Abu Dhabi's Autocraft for up to 350 E20 eVTOLs. No UAE flights, no facility and no GCAA approval are on record."
+   },
+   "zh": {
+    "name": "TCab Tech (Shanghai Time Technology Co.)",
+    "meta_description": "TCab Tech's UAE activity is an MoU with Abu Dhabi's Autocraft for up to 350 E20 eVTOLs. No UAE flights, no facility and no GCAA approval are on record."
+   }
+  }
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/vertiports/dubai-marina-vertiport.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "dubai-marina-vertiport",
+  "entity_type": "vertiport",
+  "country": "UAE",
+  "city": "Dubai",
+  "status": "under_construction",
+  "last_verified": "2026-08-22",
+  "name": "Dubai Marina Vertiport",
+  "meta_description": "Dubai Marina Vertiport is the second node of Dubai's eVTOL network. Confirmed under construction by Skyports Infrastructure as of 16 April 2026, under Joby Aviation's exclusive RTA agreement. Per the RTA the site is within the American University in Dubai parking area — the same facility as the AUD Vertiport entry.",
+  "latitude": 25.081,
+  "longitude": 55.1403,
+  "sources": [
+   {
+    "id": "skyports-2026-04-16",
+    "name": "Skyports Infrastructure — Air taxi ready: world's first commercial vertiport reaches technical completion (16 Apr 2026)",
+    "url": "https://skyports.net/worlds-first-commercial-vertiport-technical-completion/",
+    "type": "primary",
+    "accessed": "2026-05-20"
+   },
+   {
+    "id": "joby-ir-2024-02-11",
+    "name": "Joby Aviation IR — Joby to Launch Air Taxi Service in UAE (11 Feb 2024)",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/87/joby-to-launch-air-taxi-service-in-uae",
+    "type": "operator-ir",
+    "accessed": "2026-05-20"
+   },
+   {
+    "id": "skyports-2024-02-12",
+    "name": "Skyports, RTA and Joby to launch air taxi service in Dubai (12 Feb 2024)",
+    "url": "https://skyports.net/skyports-rta-and-joby-to-launch-air-taxi-service-in-dubai/",
+    "type": "primary",
+    "accessed": "2026-05-20"
+   },
+   {
+    "id": "gcaa-2025-11-03",
+    "name": "GCAA UAE — Air-taxi certification target Q3 2026 (Saif Mohammed Al Suwaidi, 3 Nov 2025)",
+    "url": "https://www.thenationalnews.com/business/aviation/2025/11/03/uae-air-taxi-certification-to-be-completed-by-third-quarter-of-next-year-regulator-says/",
+    "type": "regulatory",
+    "accessed": "2026-05-20"
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "Dubai Marina Vertiport",
+    "meta_description": "Dubai Marina Vertiport is the second node of Dubai's eVTOL network. Confirmed under construction by Skyports Infrastructure as of 16 April 2026, under Joby Aviation's exclusive RTA agreement."
+   },
+   "ar": {
+    "name": "Dubai Marina Vertiport",
+    "meta_description": "Dubai Marina Vertiport is the second node of Dubai's eVTOL network. Confirmed under construction by Skyports Infrastructure as of 16 April 2026, under Joby Aviation's exclusive RTA agreement."
+   },
+   "fr": {
+    "name": "Dubai Marina Vertiport",
+    "meta_description": "Dubai Marina Vertiport is the second node of Dubai's eVTOL network. Confirmed under construction by Skyports Infrastructure as of 16 April 2026, under Joby Aviation's exclusive RTA agreement."
+   },
+   "de": {
+    "name": "Dubai Marina Vertiport",
+    "meta_description": "Dubai Marina Vertiport is the second node of Dubai's eVTOL network. Confirmed under construction by Skyports Infrastructure as of 16 April 2026, under Joby Aviation's exclusive RTA agreement."
+   },
+   "zh": {
+    "name": "Dubai Marina Vertiport",
+    "meta_description": "Dubai Marina Vertiport is the second node of Dubai's eVTOL network. Confirmed under construction by Skyports Infrastructure as of 16 April 2026, under Joby Aviation's exclusive RTA agreement."
+   }
+  }
+ }
+}

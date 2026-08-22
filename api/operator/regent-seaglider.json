@@ -1,0 +1,132 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/operators/regent-seaglider.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "regent-seaglider",
+  "entity_type": "operator",
+  "country": "UAE",
+  "city": "Abu Dhabi",
+  "status": "planned",
+  "last_verified": "2026-08-22",
+  "name": "REGENT Craft, Inc.",
+  "meta_description": "REGENT Craft plans Abu Dhabi seaglider manufacturing with the Strategic Development Fund. Seagliders are maritime wing-in-ground craft, not eVTOL aircraft.",
+  "latitude": 24.4539,
+  "longitude": 54.3773,
+  "sources": [
+   {
+    "id": "regent-sdf-jv",
+    "name": "REGENT — REGENT Signs Initial Agreement with Strategic Development Fund to Set Up a Joint Venture for Seaglider Manufacturing and Services in the UAE",
+    "url": "https://www.regentcraft.com/news/regent-signs-initial-agreement-with-strategic-development-fund-to-set-up-a-joint-venture-for-seaglider-manufacturing-and-services-in-the-uae",
+    "type": "operator-ir",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "sdf-regent-jv",
+    "name": "Strategic Development Fund — Strategic Development Fund Signs Initial Agreement with REGENT to Set Up a Joint Venture for Seaglider Manufacturing and Services in the UAE",
+    "url": "https://sdf.ae/news/strategic-development-fund-signs-initial-agreement-with-regent-to-set-up-a-joint-venture-for-seaglider-manufacturing-and-services-in-the-uae/",
+    "type": "government",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "regent-adio-dot-mous",
+    "name": "REGENT — REGENT Advances the Future of Coastal Transportation in Abu Dhabi",
+    "url": "https://www.regentcraft.com/news/regent-advances-the-future-of-coastal-transportation-in-abu-dhabi",
+    "type": "operator-ir",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "adnocls-regent-poc",
+    "name": "ADNOC L&S — ADNOC L&S Partners with REGENT to Trial High-Speed Electric Seagliders for Offshore Transportation",
+    "url": "https://adnocls.ae/en/news-and-media/press-releases/2025/seagliders-for-offshore-transportation",
+    "type": "official-news",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "regent-uscg-dba",
+    "name": "REGENT — REGENT Submits Design Basis Agreement to U.S. Coast Guard, Advancing Seaglider Certification",
+    "url": "https://www.regentcraft.com/news/regent-submits-design-basis-agreement-to-u-s-coast-guard-advancing-seaglider-certification",
+    "type": "operator-ir",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "regent-sea-trials",
+    "name": "REGENT — REGENT Begins Sea Trials of First Passenger-Carrying Seaglider",
+    "url": "https://www.regentcraft.com/news/regent-begins-sea-trials-of-first-passenger-carrying-seaglider",
+    "type": "operator-ir",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "regent-2026-test-campaign",
+    "name": "REGENT — REGENT kicks off 2026 Seaglider test campaign",
+    "url": "https://www.regentcraft.com/news/regent-2026-seaglider-test-campaign",
+    "type": "operator-ir",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "regent-dhl-dubai-airshow",
+    "name": "REGENT — REGENT and DHL Express Sign Agreement for Sustainable Cargo Logistics",
+    "url": "https://www.regentcraft.com/news/dubai-airshow-regent-and-dhl-express-sign-agreement-for-sustainable-cargo-logistics",
+    "type": "operator-ir",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "regent-dubai-airshow-preview",
+    "name": "REGENT — REGENT to Reveal the Future of Maritime Mobility at Dubai Airshow",
+    "url": "https://www.regentcraft.com/news/regent-to-reveal-the-future-of-maritime-mobility-at-dubai-airshow",
+    "type": "operator-ir",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "adgov-dct-versa-seaglider",
+    "name": "Abu Dhabi Government Media Office — DCT Abu Dhabi signs agreement with VERSA Advanced Maritime Services to introduce Seaglider operations across emirate by 2028",
+    "url": "https://www.mediaoffice.abudhabi/en/transport/department-of-culture-and-tourism-abu-dhabi-signs-agreement-with-versa-advanced-maritime-services-to-introduce-seaglider-operations-across-emirate-by-2028/",
+    "type": "government",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "regent-adnocls-selection",
+    "name": "REGENT — ADNOC L&S Selects REGENT Seagliders for Offshore Energy Logistics in the UAE",
+    "url": "https://www.globenewswire.com/news-release/2025/01/28/3016721/0/en/ADNOC-L-S-Selects-REGENT-Seagliders-for-Offshore-Energy-Logistics-in-the-UAE.html",
+    "type": "operator-ir",
+    "accessed": "2026-07-28",
+    "primary": true
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "REGENT Craft, Inc.",
+    "meta_description": "REGENT Craft plans Abu Dhabi seaglider manufacturing with the Strategic Development Fund. Seagliders are maritime wing-in-ground craft, not eVTOL aircraft."
+   },
+   "ar": {
+    "name": "REGENT Craft, Inc.",
+    "meta_description": "REGENT Craft plans Abu Dhabi seaglider manufacturing with the Strategic Development Fund. Seagliders are maritime wing-in-ground craft, not eVTOL aircraft."
+   },
+   "fr": {
+    "name": "REGENT Craft, Inc.",
+    "meta_description": "REGENT Craft plans Abu Dhabi seaglider manufacturing with the Strategic Development Fund. Seagliders are maritime wing-in-ground craft, not eVTOL aircraft."
+   },
+   "de": {
+    "name": "REGENT Craft, Inc.",
+    "meta_description": "REGENT Craft plans Abu Dhabi seaglider manufacturing with the Strategic Development Fund. Seagliders are maritime wing-in-ground craft, not eVTOL aircraft."
+   },
+   "zh": {
+    "name": "REGENT Craft, Inc.",
+    "meta_description": "REGENT Craft plans Abu Dhabi seaglider manufacturing with the Strategic Development Fund. Seagliders are maritime wing-in-ground craft, not eVTOL aircraft."
+   }
+  }
+ }
+}

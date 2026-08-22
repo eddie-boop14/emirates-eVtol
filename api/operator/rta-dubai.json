@@ -1,0 +1,107 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/operators/rta-dubai.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "rta-dubai",
+  "entity_type": "operator",
+  "country": "UAE",
+  "city": "Dubai",
+  "status": "operational",
+  "last_verified": "2026-08-22",
+  "name": "Roads and Transport Authority — Dubai",
+  "meta_description": "RTA Dubai oversees the Emirate's eVTOL air-taxi network. Holds 6-year exclusive agreement with Joby (Feb 2024) and Skyports vertiport contract.",
+  "latitude": 25.2532,
+  "longitude": 55.3657,
+  "sources": [
+   {
+    "id": "joby-ir-rta-2024-02",
+    "name": "Joby Aviation IR — Joby to Launch Air Taxi Service in UAE (Feb 2024)",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/87/joby-to-launch-air-taxi-service-in-uae",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "skyports-rta-joby-2024-02",
+    "name": "Skyports Infrastructure — Skyports, RTA and Joby to launch air taxi service in Dubai (Feb 2024)",
+    "url": "https://skyports.net/skyports-rta-and-joby-to-launch-air-taxi-service-in-dubai/",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "skyports-2023-design-approval",
+    "name": "Skyports Infrastructure — Design for vertiports approved in Dubai (Feb 2023)",
+    "url": "https://skyports.net/skyports-infrastructures-design-for-vertiports-approved-in-dubai/",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "skyports-rta-groundbreak-2024-11",
+    "name": "Skyports Infrastructure — Skyports and RTA break ground on first vertiport in Dubai (12 Nov 2024)",
+    "url": "https://skyports.net/skyports-and-rta-break-ground-on-first-vertiport-in-dubai/",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "rta-mediaoffice-2025-11-16",
+    "name": "Dubai Media Office — RTA and Joby Complete First Crewed eVTOL Aerial Taxi Flight (16 Nov 2025)",
+    "url": "https://mediaoffice.ae/en/news/2025/november/16-11/rta-and-joby-complete-first-crewed-evtol-taxi-flight",
+    "type": "official-news",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "joby-2025-06-30",
+    "name": "Joby Aviation — Joby Cements Global Lead in Air Taxi Industry with Dubai Flights (Jun 2025)",
+    "url": "https://www.jobyaviation.com/news/joby-cements-global-lead-in-air-taxi-industry/",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "joby-ir-2025-11-17",
+    "name": "Joby Aviation IR — Dubai Air Taxi Network Takes Flight (17 Nov 2025)",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/162/dubai-air-taxi-network-takes-flight-joby-completes",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "skyports-dxv-tech-complete-2026-04",
+    "name": "Skyports Infrastructure — VDX reaches technical completion (16 Apr 2026)",
+    "url": "https://skyports.net/worlds-first-commercial-vertiport-technical-completion/",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "volocopter-2017",
+    "name": "Volocopter — Volocopter as an Autonomous Air Taxi in Dubai (RTA agreement, 19 Jun 2017)",
+    "url": "https://www.volocopter.com/en/newsroom/volocopter-as-an-autonomous-air-taxi-in-dubai",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "Roads and Transport Authority — Dubai",
+    "meta_description": "RTA Dubai oversees the Emirate's eVTOL air-taxi network. Holds 6-year exclusive agreement with Joby (Feb 2024) and Skyports vertiport contract."
+   },
+   "ar": {
+    "name": "Roads and Transport Authority — Dubai",
+    "meta_description": "RTA Dubai oversees the Emirate's eVTOL air-taxi network. Holds 6-year exclusive agreement with Joby (Feb 2024) and Skyports vertiport contract."
+   },
+   "fr": {
+    "name": "Roads and Transport Authority — Dubai",
+    "meta_description": "RTA Dubai oversees the Emirate's eVTOL air-taxi network. Holds 6-year exclusive agreement with Joby (Feb 2024) and Skyports vertiport contract."
+   },
+   "de": {
+    "name": "Roads and Transport Authority — Dubai",
+    "meta_description": "RTA Dubai oversees the Emirate's eVTOL air-taxi network. Holds 6-year exclusive agreement with Joby (Feb 2024) and Skyports vertiport contract."
+   },
+   "zh": {
+    "name": "Roads and Transport Authority — Dubai",
+    "meta_description": "RTA Dubai oversees the Emirate's eVTOL air-taxi network. Holds 6-year exclusive agreement with Joby (Feb 2024) and Skyports vertiport contract."
+   }
+  }
+ }
+}

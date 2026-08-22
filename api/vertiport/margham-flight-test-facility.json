@@ -1,0 +1,79 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/vertiports/margham-flight-test-facility.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "margham-flight-test-facility",
+  "entity_type": "vertiport",
+  "country": "UAE",
+  "city": "Dubai",
+  "status": "operational",
+  "last_verified": "2026-08-22",
+  "name": "Margham Flight Test Facility",
+  "meta_description": "Joby Aviation's UAE eVTOL flight test site at Margham, Dubai. Site of the first piloted point-to-point eVTOL flight in the UAE on 9 November 2025.",
+  "latitude": null,
+  "longitude": null,
+  "sources": [
+   {
+    "id": "joby-ir-132-2025-06-30",
+    "name": "Joby Aviation IR — 'Joby Cements Global Lead in Air Taxi Industry with Dubai Flights and Beginning of Commercial Market Readiness Work' (30 Jun 2025)",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/132/joby-cements-global-lead-in-air-taxi-industry-with-dubai",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "joby-ir-162-2025-11-17",
+    "name": "Joby Aviation IR — 'Dubai Air Taxi Network Takes Flight: Joby Completes Landmark Flight and Announces Next Vertiport Locations' (17 Nov 2025)",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/162/dubai-air-taxi-network-takes-flight-joby-completes",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "joby-ir-164-2025-12-15",
+    "name": "Joby Aviation IR — 'Joby Caps Year of Flight, Demonstrating Global Commercial Readiness and Operational Momentum Towards FAA Certification' (15 Dec 2025)",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/164/joby-caps-year-of-flight-demonstrating-global-commercial",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "gdmo-rta-2025-11-16",
+    "name": "Government of Dubai Media Office / RTA — 'RTA and Joby Complete First Crewed eVTOL Aerial Taxi Flight Between Margham and Al Maktoum International Airport' (16 Nov 2025)",
+    "url": "https://mediaoffice.ae/en/news/2025/november/16-11/rta-and-joby-complete-first-crewed-evtol-taxi-flight",
+    "type": "official-news",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "ieee-spectrum-2025-12-28",
+    "name": "IEEE Spectrum — Elan Head, 'First Air Taxi Service to Launch in Dubai in 2026' (28 Dec 2025)",
+    "url": "https://spectrum.ieee.org/joby-air-taxi",
+    "type": "primary",
+    "accessed": "2026-05-01"
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "Margham Flight Test Facility",
+    "meta_description": "Joby Aviation's UAE eVTOL flight test site at Margham, Dubai. Site of the first piloted point-to-point eVTOL flight in the UAE on 9 November 2025."
+   },
+   "ar": {
+    "name": "Margham Flight Test Facility",
+    "meta_description": "Joby Aviation's UAE eVTOL flight test site at Margham, Dubai. Site of the first piloted point-to-point eVTOL flight in the UAE on 9 November 2025."
+   },
+   "fr": {
+    "name": "Margham Flight Test Facility",
+    "meta_description": "Joby Aviation's UAE eVTOL flight test site at Margham, Dubai. Site of the first piloted point-to-point eVTOL flight in the UAE on 9 November 2025."
+   },
+   "de": {
+    "name": "Margham Flight Test Facility",
+    "meta_description": "Joby Aviation's UAE eVTOL flight test site at Margham, Dubai. Site of the first piloted point-to-point eVTOL flight in the UAE on 9 November 2025."
+   },
+   "zh": {
+    "name": "Margham Flight Test Facility",
+    "meta_description": "Joby Aviation's UAE eVTOL flight test site at Margham, Dubai. Site of the first piloted point-to-point eVTOL flight in the UAE on 9 November 2025."
+   }
+  }
+ }
+}

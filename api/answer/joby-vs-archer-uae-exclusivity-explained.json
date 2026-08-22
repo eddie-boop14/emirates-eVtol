@@ -1,0 +1,79 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/explainers/joby-vs-archer-uae-exclusivity-explained.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "joby-vs-archer-uae-exclusivity-explained",
+  "entity_type": "answer",
+  "country": "UAE",
+  "city": null,
+  "status": "trial_only",
+  "last_verified": "2026-08-22",
+  "name": "Joby vs Archer UAE exclusivity — explained",
+  "meta_description": "Joby holds a 6-year exclusive air-taxi agreement with RTA Dubai (Feb 2024). Archer operates from Abu Dhabi via ADIO, with Abu Dhabi Aviation as launch operator. How both coexist.",
+  "latitude": 24.9342,
+  "longitude": 54.8418,
+  "sources": [
+   {
+    "id": "joby-rta-flying",
+    "name": "Flying Magazine — Joby Aviation Signs Exclusive 6-Year Deal for Electric Air Taxi Service in Dubai (Feb 2024)",
+    "url": "https://www.flyingmag.com/joby-aviation-signs-exclusive-6-year-deal-for-electric-air-taxi-service-in-dubai/",
+    "type": "official-news",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "archer-falcon-pr-2024",
+    "name": "Archer Aviation IR — Archer and Falcon Aviation to Jointly Develop Vertiport Network in Dubai and Abu Dhabi (11 Mar 2024)",
+    "url": "https://investors.archer.com/news/news-details/2024/Archer-and-Falcon-Aviation-to-Jointly-Develop-Vertiport-Network-in-Dubai-and-Abu-Dhabi-for-the-Launch-of-Flying-Car-Operations-in-UAE-as-Soon-as-2025/",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "flightglobal-2024-03",
+    "name": "FlightGlobal — Archer stakes claim to Dubai eVTOL market despite Joby's exclusive deal (Mar 2024)",
+    "url": "https://www.flightglobal.com/aerospace/archer-stakes-claim-to-dubai-evtol-market-despite-jobys-exclusive-deal/157417.article",
+    "type": "official-news",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "aviation-week-2025-10",
+    "name": "Aviation Week — Archer, Joby Advance UAE Commercial Launches In 2026 (Oct 2025)",
+    "url": "https://aviationweek.com/air-transport/aircraft-propulsion/archer-joby-advance-uae-commercial-launches-2026",
+    "type": "official-news",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "flyingmag-driftx-2024",
+    "name": "Flying Magazine — Air Taxi Manufacturers Archer, Joby Set Sights on Abu Dhabi (DriftX, April 2024)",
+    "url": "https://www.flyingmag.com/air-taxi-manufacturers-archer-joby-set-sights-on-abu-dhabi/",
+    "type": "official-news",
+    "accessed": "2026-05-01"
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "Joby vs Archer UAE exclusivity — explained",
+    "meta_description": "Joby holds a 6-year exclusive air-taxi agreement with RTA Dubai (Feb 2024). Archer operates from Abu Dhabi via ADIO and Falcon Aviation. How both coexist."
+   },
+   "ar": {
+    "name": "Joby vs Archer UAE exclusivity — explained",
+    "meta_description": "Joby holds a 6-year exclusive air-taxi agreement with RTA Dubai (Feb 2024). Archer operates from Abu Dhabi via ADIO and Falcon Aviation. How both coexist."
+   },
+   "fr": {
+    "name": "Joby vs Archer UAE exclusivity — explained",
+    "meta_description": "Joby holds a 6-year exclusive air-taxi agreement with RTA Dubai (Feb 2024). Archer operates from Abu Dhabi via ADIO and Falcon Aviation. How both coexist."
+   },
+   "de": {
+    "name": "Joby vs Archer UAE exclusivity — explained",
+    "meta_description": "Joby holds a 6-year exclusive air-taxi agreement with RTA Dubai (Feb 2024). Archer operates from Abu Dhabi via ADIO and Falcon Aviation. How both coexist."
+   },
+   "zh": {
+    "name": "Joby vs Archer UAE exclusivity — explained",
+    "meta_description": "Joby holds a 6-year exclusive air-taxi agreement with RTA Dubai (Feb 2024). Archer operates from Abu Dhabi via ADIO and Falcon Aviation. How both coexist."
+   }
+  }
+ }
+}
