@@ -74,6 +74,151 @@
     "name": "迪拜购物中心垂直起降港",
     "meta_description": "迪拜购物中心垂直起降港，2025 年 11 月 17 日由 Joby 与 RTA 共同宣布，Emaar Properties 为地产合作方。施工计划于 2026 年启动。"
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "Vertiport",
+    "i18n": {
+     "ar": {
+      "k": "النوع",
+      "v": "محطة طائرات عمودية"
+     },
+     "de": {
+      "k": "Typ"
+     },
+     "zh": {
+      "k": "类型",
+      "v": "垂直起降港"
+     }
+    }
+   },
+   {
+    "id": "operator",
+    "k": "Operator",
+    "v": "Joby Aviation (under RTA agreement)",
+    "i18n": {
+     "ar": {
+      "k": "المشغّل",
+      "v": "Joby Aviation (بموجب اتفاقية مع RTA)"
+     },
+     "fr": {
+      "k": "Exploitant",
+      "v": "Joby Aviation (sous accord avec la RTA)"
+     },
+     "de": {
+      "k": "Betreiber",
+      "v": "Joby Aviation (im Rahmen der RTA-Vereinbarung)"
+     },
+     "zh": {
+      "k": "运营方",
+      "v": "Joby Aviation（依据 RTA 合约）"
+     }
+    }
+   },
+   {
+    "id": "builder",
+    "k": "Builder",
+    "v": "Skyports Infrastructure",
+    "i18n": {
+     "ar": {
+      "k": "جهة الإنشاء"
+     },
+     "fr": {
+      "k": "Constructeur"
+     },
+     "de": {
+      "k": "Errichter"
+     },
+     "zh": {
+      "k": "建造方"
+     }
+    }
+   },
+   {
+    "id": "property_partner",
+    "k": "Property partner",
+    "v": "Emaar Properties",
+    "i18n": {
+     "ar": {
+      "k": "الشريك العقاري"
+     },
+     "fr": {
+      "k": "Partenaire foncier"
+     },
+     "de": {
+      "k": "Grundstückspartner"
+     },
+     "zh": {
+      "k": "地产合作方"
+     }
+    }
+   },
+   {
+    "id": "aircraft",
+    "k": "Aircraft",
+    "v": "Joby S4",
+    "i18n": {
+     "ar": {
+      "k": "الطائرة"
+     },
+     "fr": {
+      "k": "Aéronef"
+     },
+     "de": {
+      "k": "Luftfahrzeug"
+     },
+     "zh": {
+      "k": "飞行器"
+     }
+    }
+   },
+   {
+    "id": "status",
+    "k": "Status",
+    "v": "Planned · construction to begin in 2026",
+    "i18n": {
+     "ar": {
+      "k": "الحالة",
+      "v": "مخطط لها · بدء الإنشاء في 2026"
+     },
+     "fr": {
+      "k": "Statut",
+      "v": "Planifié · travaux à débuter en 2026"
+     },
+     "de": {
+      "v": "Geplant · Bauarbeiten beginnen 2026"
+     },
+     "zh": {
+      "k": "状态",
+      "v": "规划中 · 施工 2026 年启动"
+     }
+    }
+   },
+   {
+    "id": "exclusivity",
+    "k": "Exclusivity",
+    "v": "Joby — 6 years from commercial launch",
+    "i18n": {
+     "ar": {
+      "k": "الحصرية",
+      "v": "Joby — 6 سنوات من بدء التشغيل التجاري"
+     },
+     "fr": {
+      "k": "Exclusivité",
+      "v": "Joby — 6 ans à compter du lancement commercial"
+     },
+     "de": {
+      "k": "Exklusivität",
+      "v": "Joby — 6 Jahre ab kommerziellem Start"
+     },
+     "zh": {
+      "k": "独家权益",
+      "v": "Joby — 商业启用起 6 年"
+     }
+    }
+   }
+  ]
  }
 }

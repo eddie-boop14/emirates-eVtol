@@ -67,6 +67,103 @@
     "name": "DXB ↔ Dubai Mall",
     "meta_description": "Joby Aviation route between DXB and Dubai Mall vertiports, planned for 2026 commercial launch under exclusive RTA agreement. Primary sources verified."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "Planned commercial route",
+    "i18n": {
+     "ar": {
+      "k": "النوع"
+     },
+     "de": {
+      "k": "Typ"
+     },
+     "zh": {
+      "k": "类型"
+     }
+    }
+   },
+   {
+    "id": "operator",
+    "k": "Operator",
+    "v": "Joby Aviation (under RTA exclusive agreement)",
+    "i18n": {
+     "ar": {
+      "k": "المشغّل",
+      "v": "Joby Aviation (بموجب اتفاق حصري مع RTA)"
+     },
+     "fr": {
+      "k": "Exploitant",
+      "v": "Joby Aviation (selon accord exclusif RTA)"
+     },
+     "de": {
+      "k": "Betreiber",
+      "v": "Joby Aviation (unter RTA-Exklusivvereinbarung)"
+     },
+     "zh": {
+      "k": "运营方",
+      "v": "Joby Aviation（在道路运输局独家协议下）"
+     }
+    }
+   },
+   {
+    "id": "aircraft",
+    "k": "Aircraft",
+    "v": "Joby S4",
+    "i18n": {
+     "ar": {
+      "k": "الطائرة"
+     },
+     "fr": {
+      "k": "Aéronef"
+     },
+     "de": {
+      "k": "Luftfahrzeug"
+     },
+     "zh": {
+      "k": "飞行器"
+     }
+    }
+   },
+   {
+    "id": "endpoints",
+    "k": "Endpoints",
+    "v": "DXB Vertiport ↔ Dubai Mall Vertiport (Zabeel parking area)",
+    "i18n": {
+     "fr": {
+      "v": "DXB Vertiport ↔ Dubai Mall Vertiport (zone de parking Zabeel)"
+     },
+     "de": {
+      "v": "DXB-Vertiport ↔ Dubai Mall Vertiport (Zabeel-Parkplatzbereich)"
+     },
+     "zh": {
+      "v": "迪拜国际机场垂直起降机场↔迪拜购物中心垂直起降机场（Zabeel停车区）"
+     }
+    }
+   },
+   {
+    "id": "status",
+    "k": "Status",
+    "v": "Planned · launch targeted 2026",
+    "i18n": {
+     "ar": {
+      "k": "الحالة"
+     },
+     "fr": {
+      "k": "Statut"
+     },
+     "zh": {
+      "k": "状态"
+     }
+    }
+   },
+   {
+    "id": "flight_time",
+    "k": "Flight Time",
+    "v": "Not published"
+   }
+  ]
  }
 }

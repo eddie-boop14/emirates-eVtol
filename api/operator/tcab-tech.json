@@ -103,6 +103,127 @@
     "name": "TCab Tech (Shanghai Time Technology Co.)",
     "meta_description": "TCab Tech's UAE activity is an MoU with Abu Dhabi's Autocraft for up to 350 E20 eVTOLs. No UAE flights, no facility and no GCAA approval are on record."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "headquarters",
+    "k": "Headquarters",
+    "v": "Shanghai, People's Republic of China"
+   },
+   {
+    "id": "aircraft",
+    "k": "Aircraft",
+    "v": "E20 — five seats (1 pilot + 4 passengers), tilt-rotor, all-electric",
+    "i18n": {
+     "ar": {
+      "v": "E20 — خمسة مقاعد (1 طيار + 4 ركاب)، محركات مائلة، كهربائياً بالكامل"
+     },
+     "fr": {
+      "v": "E20 — cinq places (1 pilote + 4 passagers), tilt-rotor, entièrement électrique"
+     },
+     "de": {
+      "v": "E20 — fünf Sitze (1 Pilot + 4 Passagiere), Kipprotor, vollelektrisch"
+     },
+     "zh": {
+      "v": "E20——五座（1 名飞行员 + 4 名乘客），倾转旋翼，全电动"
+     }
+    }
+   },
+   {
+    "id": "manufacturer_stated_performance",
+    "k": "Manufacturer-stated performance",
+    "v": "320 km/h maximum speed, up to 200 km range, 450 kg payload",
+    "i18n": {
+     "ar": {
+      "v": "سرعة قصوى 320 كم/س، مدى يصل إلى 200 كم، حمولة 450 كغ"
+     },
+     "fr": {
+      "v": "Vitesse maximale 320 km/h, portée jusqu'à 200 km, charge utile 450 kg"
+     },
+     "de": {
+      "v": "320 km/h Höchstgeschwindigkeit, bis zu 200 km Reichweite, 450 kg Nutzlast"
+     },
+     "zh": {
+      "v": "最高速度 320 公里/小时，最高 200 公里航程，450 公斤有效载荷"
+     }
+    }
+   },
+   {
+    "id": "uae_partner",
+    "k": "UAE partner",
+    "v": "Autocraft, Abu Dhabi — the aviation brand of K2, which markets the aircraft as the E20+",
+    "i18n": {
+     "ar": {
+      "v": "Autocraft, Abu Dhabi — ماركة الطيران لـ K2، التي تسوق الطائرة باسم E20+"
+     },
+     "fr": {
+      "v": "Autocraft, Abu Dhabi — la marque d'aviation de K2, qui commercialise l'aéronef sous le nom d'E20+"
+     },
+     "de": {
+      "v": "Autocraft, Abu Dhabi — die Luftfahrtmarke von K2, die das Fluggerät als E20+ vermarktet"
+     },
+     "zh": {
+      "v": "Autocraft，阿布扎比——K2 的航空品牌，将飞行器推向市场为 E20+"
+     }
+    }
+   },
+   {
+    "id": "uae_commercial_status",
+    "k": "UAE commercial status",
+    "v": "Memorandum of understanding for up to 350 E20 aircraft, signed 16 July 2025; value undisclosed",
+    "i18n": {
+     "ar": {
+      "v": "مذكرة تفاهم لحتى 350 طائرة E20، موقعة 16 يوليو 2025؛ القيمة غير مكشوفة"
+     },
+     "fr": {
+      "v": "Protocole d'accord pour jusqu'à 350 aéronefs E20, signé le 16 juillet 2025 ; valeur non divulgée"
+     },
+     "de": {
+      "v": "Absichtserklärung (MoU) über bis zu 350 Fluggeräte vom Typ E20, unterzeichnet am 16. Juli 2025; Wert nicht offengelegt"
+     },
+     "zh": {
+      "v": "最多 350 架 E20 飞行器的谅解备忘录，签署于 2025 年 7 月 16 日；价值未披露"
+     }
+    }
+   },
+   {
+    "id": "certification_authority",
+    "k": "Certification authority",
+    "v": "CAAC — type certification team meeting held 10 December 2024, Aircraft Evaluation Group review launched",
+    "i18n": {
+     "ar": {
+      "v": "CAAC — اجتماع فريق شهادة النوع عُقد في 10 ديسمبر 2024، بدء مراجعة مجموعة تقييم الطائرات"
+     },
+     "fr": {
+      "v": "CAAC — réunion de l'équipe de certification de type tenue le 10 décembre 2024, examen du groupe d'évaluation d'aéronef lancé"
+     },
+     "de": {
+      "v": "CAAC — Sitzung des Musterzulassungsteams am 10. Dezember 2024, Prüfung durch die Aircraft Evaluation Group eingeleitet"
+     },
+     "zh": {
+      "v": "CAAC——型号认证小组会议于 2024 年 12 月 10 日举行，飞行器评估小组审查启动"
+     }
+    }
+   },
+   {
+    "id": "gcaa_status",
+    "k": "GCAA status",
+    "v": "No UAE type certificate, validation, test licence or operational approval located in any primary document",
+    "i18n": {
+     "ar": {
+      "v": "لا توجد شهادة نوع إماراتية أو تحقق أو ترخيص اختبار أو موافقة تشغيلية موجودة في أي وثيقة أولية"
+     },
+     "fr": {
+      "v": "Aucun certificat de type aux Émirats arabes unies, validation, licence d'essai ou approbation opérationnelle localisée dans aucun document primaire"
+     },
+     "de": {
+      "v": "In keinem Primärdokument ließ sich eine Musterzulassung, Validierung, Erprobungslizenz oder Betriebsgenehmigung der VAE auffinden"
+     },
+     "zh": {
+      "v": "任何一手资料中未找到阿联酋型号合格证、验证、测试许可或运营批准"
+     }
+    }
+   }
+  ]
  }
 }

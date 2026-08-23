@@ -127,6 +127,135 @@
     "name": "REGENT Craft, Inc.",
     "meta_description": "REGENT Craft plans Abu Dhabi seaglider manufacturing with the Strategic Development Fund. Seagliders are maritime wing-in-ground craft, not eVTOL aircraft."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "headquarters",
+    "k": "Headquarters",
+    "v": "North Kingstown, Rhode Island, United States",
+    "i18n": {
+     "fr": {
+      "v": "North Kingstown, Rhode Island, États-Unis"
+     },
+     "de": {
+      "v": "North Kingstown, Rhode Island, Vereinigte Staaten"
+     }
+    }
+   },
+   {
+    "id": "craft",
+    "k": "Craft",
+    "v": "Viceroy seaglider — 12 passengers or roughly 1,600 kg of cargo, all-electric",
+    "i18n": {
+     "ar": {
+      "v": "منزلق بحري Viceroy — 12 راكباً أو حوالي 1,600 كغ من الشحنة، كهربائياً بالكامل"
+     },
+     "fr": {
+      "v": "Seaglider Viceroy — 12 passagers ou environ 1 600 kg de fret, entièrement électrique"
+     },
+     "de": {
+      "v": "Viceroy-Seaglider — 12 Passagiere oder rund 1.600 kg Fracht, vollelektrisch"
+     },
+     "zh": {
+      "v": "Viceroy 海上滑翘艇——12 名乘客或约 1,600 公斤货物，全电动"
+     }
+    }
+   },
+   {
+    "id": "company_stated_performance",
+    "k": "Company-stated performance",
+    "v": "Up to 180 mph (about 290 km/h) on routes up to 180 miles (about 290 km) per charge",
+    "i18n": {
+     "ar": {
+      "v": "حتى 180 ميل في الساعة (حوالي 290 كم/س) على مسافات تصل إلى 180 ميلاً (حوالي 290 كم) لكل شحنة"
+     },
+     "fr": {
+      "v": "Jusqu'à 180 mph (environ 290 km/h) sur des trajets jusqu'à 180 miles (environ 290 km) par charge"
+     },
+     "de": {
+      "v": "Bis zu 180 mph (etwa 290 km/h) auf Strecken von bis zu 180 Meilen (etwa 290 km) pro Ladung"
+     },
+     "zh": {
+      "v": "每次充电可达 180 英里（约 290 公里）的航程上最高 180 英里/小时（约 290 公里/小时）"
+     }
+    }
+   },
+   {
+    "id": "regulatory_class",
+    "k": "Regulatory class",
+    "v": "Maritime vessel — Type A wing-in-ground-effect craft, not an aircraft; US Coast Guard and Lloyd's Register, not the FAA or GCAA",
+    "i18n": {
+     "ar": {
+      "v": "سفينة بحرية — سفينة من نوع A تأثير القرب من السطح، وليست طائرة؛ خفر السواحل الأمريكي و Lloyd's Register، وليس FAA أو GCAA"
+     },
+     "fr": {
+      "v": "Navire maritime — engin à effet de sol de type A, non un aéronef ; US Coast Guard et Lloyd's Register, non la FAA ou la GCAA"
+     },
+     "de": {
+      "v": "Wasserfahrzeug — Bodeneffektfahrzeug des Typs A, kein Luftfahrzeug; zuständig sind US Coast Guard und Lloyd's Register, nicht die FAA oder die GCAA"
+     },
+     "zh": {
+      "v": "海事船舶——A 型地效飞行器，不是航空器；美国海岸警卫队和劳氏船级社监管，不受美国联邦航空局或 GCAA 管制"
+     }
+    }
+   },
+   {
+    "id": "uae_anchor_partner",
+    "k": "UAE anchor partner",
+    "v": "Strategic Development Fund, an EDGE Group company; investor since 2023, initial joint-venture agreement 26 February 2025",
+    "i18n": {
+     "ar": {
+      "v": "Strategic Development Fund، شركة من مجموعة EDGE؛ مستثمر منذ 2023، اتفاقية مشروع مشترك أولية 26 فبراير 2025"
+     },
+     "fr": {
+      "v": "Strategic Development Fund, une société du groupe EDGE ; investisseur depuis 2023, accord de coentreprise initial 26 février 2025"
+     },
+     "de": {
+      "v": "Strategic Development Fund, ein Unternehmen der EDGE Group; Investor seit 2023, erste Vereinbarung über ein Gemeinschaftsunternehmen am 26. Februar 2025"
+     },
+     "zh": {
+      "v": "战略发展基金（EDGE 集团公司）；自 2023 年以来的投资者，初步联合风险协议日期 2025 年 2 月 26 日"
+     }
+    }
+   },
+   {
+    "id": "uae_government_engagement",
+    "k": "UAE government engagement",
+    "v": "Memoranda with the Abu Dhabi Investment Office and the Department of Municipalities and Transport, April 2024",
+    "i18n": {
+     "ar": {
+      "v": "مذكرات تفاهم مع مكتب استثمار أبو ظبي وإدارة البلديات والمواصلات، أبريل 2024"
+     },
+     "fr": {
+      "v": "Protocoles d'accord avec l'Abu Dhabi Investment Office et le Department of Municipalities and Transport, avril 2024"
+     },
+     "de": {
+      "v": "Absichtserklärungen mit dem Abu Dhabi Investment Office und dem Department of Municipalities and Transport, April 2024"
+     },
+     "zh": {
+      "v": "与阿布扎比投资办公室和市政与交通部的谅解备忘录，2024 年 4 月"
+     }
+    }
+   },
+   {
+    "id": "uae_service_target",
+    "k": "UAE service target",
+    "v": "2027 entry into service stated by the company and by SDF; no UAE sea trial has taken place",
+    "i18n": {
+     "ar": {
+      "v": "سنة 2027 كتاريخ دخول الخدمة ذكرتها الشركة و SDF؛ لم تجر أي تجربة بحرية في الإمارات"
+     },
+     "fr": {
+      "v": "Mise en service en 2027 affirmée par l'entreprise et par le SDF ; aucun essai en mer aux Émirats arabes unies n'a eu lieu"
+     },
+     "de": {
+      "v": "Indienststellung 2027 laut Unternehmen und laut SDF; in den VAE hat keine Seeerprobung stattgefunden"
+     },
+     "zh": {
+      "v": "公司和 SDF 声称 2027 年进入阿联酋服务；尚未进行过阿联酋海上试验"
+     }
+    }
+   }
+  ]
  }
 }

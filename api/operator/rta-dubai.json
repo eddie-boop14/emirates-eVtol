@@ -102,6 +102,60 @@
     "name": "Roads and Transport Authority — Dubai",
     "meta_description": "RTA Dubai oversees the Emirate's eVTOL air-taxi network. Holds 6-year exclusive agreement with Joby (Feb 2024) and Skyports vertiport contract."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "Government transport authority",
+    "i18n": {
+     "ar": {
+      "k": "النوع"
+     },
+     "de": {
+      "k": "Typ"
+     },
+     "zh": {
+      "k": "类型"
+     }
+    }
+   },
+   {
+    "id": "established",
+    "k": "Established",
+    "v": "Emiri Decree No. 17 of 2005"
+   },
+   {
+    "id": "director_general",
+    "k": "Director General",
+    "v": "H.E. Mattar Mohammed Al Tayer"
+   },
+   {
+    "id": "evtol_operator_partner",
+    "k": "Evtol Operator Partner",
+    "v": "Joby Aviation (6-year exclusive)"
+   },
+   {
+    "id": "evtol_vertiport_partner",
+    "k": "Evtol Vertiport Partner",
+    "v": "Skyports Infrastructure (exclusive)"
+   },
+   {
+    "id": "status",
+    "k": "Status",
+    "v": "Operational",
+    "i18n": {
+     "ar": {
+      "k": "الحالة"
+     },
+     "fr": {
+      "k": "Statut"
+     },
+     "zh": {
+      "k": "状态"
+     }
+    }
+   }
+  ]
  }
 }

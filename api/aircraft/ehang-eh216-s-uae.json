@@ -67,6 +67,98 @@
     "name": "EHang EH216-S (UAE)",
     "meta_description": "EHang EH216-S in the UAE: completed the Middle East's first passenger-carrying pilotless eVTOL demo flight in Abu Dhabi on 6 May 2024. Specs and milestones."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "Pilotless (autonomous) multirotor eVTOL",
+    "i18n": {
+     "ar": {
+      "k": "النوع"
+     },
+     "de": {
+      "k": "Typ"
+     },
+     "zh": {
+      "k": "类型"
+     }
+    }
+   },
+   {
+    "id": "manufacturer",
+    "k": "Manufacturer",
+    "v": "EHang Holdings (Nasdaq: EH)",
+    "i18n": {
+     "ar": {
+      "k": "الصانع"
+     },
+     "fr": {
+      "k": "Fabricant"
+     },
+     "de": {
+      "k": "Hersteller"
+     },
+     "zh": {
+      "k": "制造商"
+     }
+    }
+   },
+   {
+    "id": "configuration",
+    "k": "Configuration",
+    "v": "2 passengers · 16 propellers (8 arms × 2)",
+    "i18n": {
+     "fr": {
+      "v": "2 passagers · 16 hélices (8 bras × 2)"
+     },
+     "de": {
+      "v": "2 Passagiere · 16 Propeller (8 Arme × 2)"
+     },
+     "zh": {
+      "v": "2名乘客·16个螺旋桨（8臂×2）"
+     }
+    }
+   },
+   {
+    "id": "max_speed",
+    "k": "Max Speed",
+    "v": "130 km/h"
+   },
+   {
+    "id": "endurance",
+    "k": "Endurance",
+    "v": "25 minutes"
+   },
+   {
+    "id": "uae_partner",
+    "k": "Uae Partner",
+    "v": "Multi Level Group (MLG) · Wings Logistics Hub",
+    "i18n": {
+     "zh": {
+      "v": "Multi Level Group (MLG)·Wings Logistics Hub"
+     }
+    }
+   },
+   {
+    "id": "uae_status",
+    "k": "Uae Status",
+    "v": "Trial / demonstration only — no commercial UAE service",
+    "i18n": {
+     "ar": {
+      "v": "تجربة / توضيح فقط — لا توجد خدمة تجارية في الإمارات"
+     },
+     "fr": {
+      "v": "Essai/démonstration uniquement — pas de service commercial aux Émirats arabes unis"
+     },
+     "de": {
+      "v": "Nur Erprobung / Demonstration — kein kommerzieller VAE-Service"
+     },
+     "zh": {
+      "v": "仅试飞/示范——无商业UAE服务"
+     }
+    }
+   }
+  ]
  }
 }

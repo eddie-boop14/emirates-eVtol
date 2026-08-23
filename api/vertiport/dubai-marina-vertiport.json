@@ -67,6 +67,122 @@
     "name": "Dubai Marina Vertiport",
     "meta_description": "Dubai Marina Vertiport is the second node of Dubai's eVTOL network. Confirmed under construction by Skyports Infrastructure as of 16 April 2026, under Joby Aviation's exclusive RTA agreement."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "Vertiport",
+    "i18n": {
+     "ar": {
+      "k": "النوع"
+     },
+     "de": {
+      "k": "Typ"
+     },
+     "zh": {
+      "k": "类型"
+     }
+    }
+   },
+   {
+    "id": "operator",
+    "k": "Operator",
+    "v": "Joby Aviation (under RTA agreement)",
+    "i18n": {
+     "ar": {
+      "k": "المشغّل"
+     },
+     "fr": {
+      "k": "Exploitant"
+     },
+     "de": {
+      "k": "Betreiber"
+     },
+     "zh": {
+      "k": "运营方"
+     }
+    }
+   },
+   {
+    "id": "builder",
+    "k": "Builder",
+    "v": "Skyports Infrastructure",
+    "i18n": {
+     "ar": {
+      "k": "جهة الإنشاء"
+     },
+     "fr": {
+      "k": "Constructeur"
+     },
+     "de": {
+      "k": "Errichter"
+     },
+     "zh": {
+      "k": "建造方"
+     }
+    }
+   },
+   {
+    "id": "aircraft",
+    "k": "Aircraft",
+    "v": "Joby S4",
+    "i18n": {
+     "ar": {
+      "k": "الطائرة"
+     },
+     "fr": {
+      "k": "Aéronef"
+     },
+     "de": {
+      "k": "Luftfahrzeug"
+     },
+     "zh": {
+      "k": "飞行器"
+     }
+    }
+   },
+   {
+    "id": "status",
+    "k": "Status",
+    "v": "Under construction (per Skyports, 16 Apr 2026)",
+    "i18n": {
+     "ar": {
+      "k": "الحالة",
+      "v": "قيد الإنشاء (وفقاً لـ Skyports، 16 أبريل 2026)"
+     },
+     "fr": {
+      "k": "Statut",
+      "v": "En construction (selon Skyports, 16 avril 2026)"
+     },
+     "de": {
+      "v": "Unter Konstruktion (per Skyports, 16. Apr 2026)"
+     },
+     "zh": {
+      "k": "状态",
+      "v": "在建(根据Skyports，2026年4月16日)"
+     }
+    }
+   },
+   {
+    "id": "exclusivity",
+    "k": "Exclusivity",
+    "v": "Joby — 6 years from commercial launch",
+    "i18n": {
+     "ar": {
+      "k": "الحصرية"
+     },
+     "fr": {
+      "k": "Exclusivité"
+     },
+     "de": {
+      "k": "Exklusivität"
+     },
+     "zh": {
+      "k": "独家权益"
+     }
+    }
+   }
+  ]
  }
 }

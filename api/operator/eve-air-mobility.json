@@ -95,6 +95,141 @@
     "name": "Eve Air Mobility",
     "meta_description": "Eve Air Mobility's UAE record: a 2022 Falcon Aviation letter of intent for up to 35 eVTOLs and a 2023 Kookiejar Urban ATM deal. No UAE operations to date."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "parent_and_listing",
+    "k": "Parent and listing",
+    "v": "Eve Holding, Inc. (NYSE: EVEX), an Embraer company; Bahrain and other releases are carried on Embraer's official media centre.",
+    "i18n": {
+     "ar": {
+      "v": "Eve Holding, Inc. (NYSE: EVEX)، شركة تابعة لـ Embraer؛ يتم نشر إصدارات البحرين وغيرها في مركز Embraer الإعلامي الرسمي."
+     },
+     "fr": {
+      "v": "Eve Holding, Inc. (NYSE : EVEX), une société Embraer ; les communiqués de Bahrain et autres sont portés sur le centre médias officiel d'Embraer."
+     },
+     "de": {
+      "v": "Eve Holding, Inc. (NYSE: EVEX), ein Unternehmen von Embraer; die Mitteilung zu Bahrain und weitere Mitteilungen werden im offiziellen Medienzentrum von Embraer geführt."
+     },
+     "zh": {
+      "v": "Eve Holding, Inc. (NYSE: EVEX)，Embraer 公司；Bahrain 及其他声明刊登在 Embraer 官方媒体中心。"
+     }
+    }
+   },
+   {
+    "id": "aircraft",
+    "k": "Aircraft",
+    "v": "The Eve 100, a lift-plus-cruise eVTOL with eight dedicated lift rotors and fixed wings for cruise.",
+    "i18n": {
+     "ar": {
+      "v": "Eve 100، وهي طائرة eVTOL برفع زائد تجوال مع ثماني أوتار رفع مخصصة وأجنحة ثابتة للتجوال."
+     },
+     "fr": {
+      "v": "Le Eve 100, un eVTOL à portance plus croisière avec huit rotors de portance dédiés et des ailes fixes pour le vol de croisière."
+     },
+     "de": {
+      "v": "Die Eve 100, ein eVTOL in Lift-plus-Cruise-Bauweise mit acht eigenen Hubrotoren und Tragflächen für den Reiseflug."
+     },
+     "zh": {
+      "v": "Eve 100，一种升力加巡航 eVTOL，配备八个专用升力旋翼和巡航固定翼。"
+     }
+    }
+   },
+   {
+    "id": "capacity_and_range",
+    "k": "Capacity and range",
+    "v": "Four passengers plus a pilot at entry into service, with a stated range of 60 miles (100 km), per Eve's own aircraft page.",
+    "i18n": {
+     "ar": {
+      "v": "أربعة ركاب بالإضافة إلى الطيار عند الدخول إلى الخدمة، مع مدى معلن بـ 60 ميل (100 كم)، وفقاً لصفحة Eve الخاصة بالطائرات."
+     },
+     "fr": {
+      "v": "Quatre passagers plus un pilote à l'entrée en service, avec une portée déclarée de 60 miles (100 km), selon la propre page aéronef d'Eve."
+     },
+     "de": {
+      "v": "Vier Passagiere plus ein Pilot bei Indienststellung, mit einer angegebenen Reichweite von 60 Meilen (100 km), laut Eves eigener Flugzeugseite."
+     },
+     "zh": {
+      "v": "根据 Eve 自己的飞机页面，入役时为四名乘客加一名飞行员，续航里程为 60 英里 (100 公里)。"
+     }
+    }
+   },
+   {
+    "id": "uae_commitment_2022",
+    "k": "UAE commitment (2022)",
+    "v": "Letter of intent with Falcon Aviation Services for up to 35 eVTOL aircraft, announced 7 June 2022, aimed at tourist flights from Atlantis, The Palm.",
+    "i18n": {
+     "ar": {
+      "v": "خطاب نوايا مع Falcon Aviation Services لحد أقصى 35 طائرة eVTOL، معلن في 7 يونيو 2022، يهدف إلى رحلات سياحية من Atlantis, The Palm."
+     },
+     "fr": {
+      "v": "Lettre d'intention avec Falcon Aviation Services pour jusqu'à 35 aéronefs eVTOL, annoncée le 7 juin 2022, visant les vols touristiques à partir d'Atlantis, The Palm."
+     },
+     "de": {
+      "v": "Absichtserklärung mit Falcon Aviation Services über bis zu 35 eVTOL-Luftfahrzeuge, angekündigt am 7. Juni 2022, mit Blick auf Touristenflüge ab Atlantis, The Palm."
+     },
+     "zh": {
+      "v": "与 Falcon Aviation Services 的意向书，最多 35 架 eVTOL，2022 年 6 月 7 日宣布，旨在从 Atlantis, The Palm 运营观光飞行。"
+     }
+    }
+   },
+   {
+    "id": "uae_commitment_2023",
+    "k": "UAE commitment (2023)",
+    "v": "Letter of intent with Kookiejar, announced 13 November 2023, for Eve's Vector Urban ATM software to support a proposed eight-pad vertiport hub with local partner Air Chateau at Al Maktoum Airport, Dubai South.",
+    "i18n": {
+     "ar": {
+      "v": "خطاب نوايا مع Kookiejar، معلن في 13 نوفمبر 2023، لبرنامج Eve's Vector Urban ATM لدعم مركز مطار عمودي مقترح بثماني منصات مع الشريك المحلي Air Chateau في Al Maktoum Airport, Dubai South."
+     },
+     "fr": {
+      "v": "Lettre d'intention avec Kookiejar, annoncée le 13 novembre 2023, pour le logiciel Vector Urban ATM d'Eve pour soutenir un hub de vertiports proposé à huit plateformes avec le partenaire local Air Chateau à l'aéroport d'Al Maktoum, Dubai South."
+     },
+     "de": {
+      "v": "Absichtserklärung mit Kookiejar, angekündigt am 13. November 2023, über Eves Software Vector Urban ATM zur Unterstützung eines geplanten Vertiport-Knotenpunkts mit acht Landeflächen gemeinsam mit dem lokalen Partner Air Chateau am Al Maktoum Airport, Dubai South."
+     },
+     "zh": {
+      "v": "与 Kookiejar 的意向书，2023 年 11 月 13 日宣布，用于 Eve 的 Vector Urban ATM 软件，以支持在 Al Maktoum Airport, Dubai South 与当地合作伙伴 Air Chateau 的拟议八垫垂直起降机场枢纽。"
+     }
+    }
+   },
+   {
+    "id": "order_book",
+    "k": "Order book",
+    "v": "Approximately 2,700 aircraft under letters of intent and 100 aircraft under binding agreements with pre-delivery payments collected, as reported in FY2025 results on 16 March 2026.",
+    "i18n": {
+     "ar": {
+      "v": "حوالي 2,700 طائرة تحت خطابات نوايا و 100 طائرة بموجب اتفاقيات ملزمة مع المدفوعات السابقة للتسليم المجمعة، كما ورد في نتائج السنة المالية 2025 في 16 مارس 2026."
+     },
+     "fr": {
+      "v": "Environ 2 700 aéronefs en vertu de lettres d'intention et 100 aéronefs en vertu d'accords contraignants avec versements d'acompte à la livraison collectés, selon les résultats de l'exercice 2025 du 16 mars 2026."
+     },
+     "de": {
+      "v": "Rund 2.700 Luftfahrzeuge unter Absichtserklärungen und 100 Luftfahrzeuge unter verbindlichen Verträgen mit vereinnahmten Vorauszahlungen, wie in den Ergebnissen für das Geschäftsjahr 2025 am 16. März 2026 berichtet."
+     },
+     "zh": {
+      "v": "约 2,700 架飞机处于意向书下，100 架飞机处于已收取交付前付款的具有约束力的协议下，如 2026 年 3 月 16 日 FY2025 结果所报告。"
+     }
+    }
+   },
+   {
+    "id": "certification_status",
+    "k": "Certification status",
+    "v": "Type certificate application filed with Brazil's ANAC in February 2022; EASA type certificate validation application submitted in July 2026; six conforming prototypes targeted for flight test in 2027. No UAE regulator is named in Eve's certification releases.",
+    "i18n": {
+     "ar": {
+      "v": "تم تقديم طلب شهادة النوع إلى ANAC البرازيلية في فبراير 2022؛ تم تقديم طلب تصديق شهادة نوع EASA في يوليو 2026؛ ستة نماذج أولية مطابقة موجهة لاختبار الطيران في 2027. لا تذكر أي هيئة تنظيمية إماراتية في بيانات تصديق Eve."
+     },
+     "fr": {
+      "v": "Demande de certificat de type déposée auprès de l'ANAC du Brésil en février 2022 ; demande de validation de certificat de type EASA soumise en juillet 2026 ; six prototypes conformes ciblés pour essai en vol en 2027. Aucun régulateur des Émirats arabes unis n'est nommé dans les communiqués de certification d'Eve."
+     },
+     "de": {
+      "v": "Antrag auf Musterzulassung im Februar 2022 bei der brasilianischen ANAC eingereicht; Antrag auf Validierung der Musterzulassung durch die EASA im Juli 2026 eingereicht; sechs konforme Prototypen sind für die Flugerprobung im Jahr 2027 vorgesehen. In Eves Mitteilungen zur Zulassung wird keine Aufsichtsbehörde der VAE genannt."
+     },
+     "zh": {
+      "v": "型号合格证申请于 2022 年 2 月向巴西 ANAC 提交；EASA 型号合格证验证申请于 2026 年 7 月提交；六个符合标准的原型机以 2027 年飞行测试为目标。Eve 的认证声明中未提及任何 UAE 监管机构。"
+     }
+    }
+   }
+  ]
  }
 }

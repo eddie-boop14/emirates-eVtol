@@ -60,6 +60,151 @@
     "name": "Volocopter NEOM Flight & $175M Investment",
     "meta_description": "NEOM invested $175M in Volocopter (Nov 2022) with 15-aircraft order and GACA-authorized flight 21 June 2023. Volocopter filed insolvency 26 Dec 2024; acquired by Wanfeng/Diamond Aircraft March 2025 for €10M."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "Aircraft order + flight test (orphaned counterparty)",
+    "i18n": {
+     "ar": {
+      "k": "النوع",
+      "v": "طلب الطائرة + اختبار الرحلة (طرف آخر معطل)"
+     },
+     "fr": {
+      "v": "Commande d'aéronef + essai en vol (contrepartie orpheline)"
+     },
+     "de": {
+      "k": "Typ",
+      "v": "Fluggerät-Bestellung + Flugtest (verwaiste Gegenpartei)"
+     },
+     "zh": {
+      "k": "类型",
+      "v": "飞机订单+飞行测试(孤立对方)"
+     }
+    }
+   },
+   {
+    "id": "manufacturer",
+    "k": "Manufacturer",
+    "v": "Volocopter GmbH (restructured under Diamond Aircraft / Wanfeng, March 2025)",
+    "i18n": {
+     "ar": {
+      "k": "الصانع",
+      "v": "Volocopter GmbH (إعادة هيكلة تحت Diamond Aircraft / Wanfeng، مارس 2025)"
+     },
+     "fr": {
+      "k": "Fabricant",
+      "v": "Volocopter GmbH (restructurée sous Diamond Aircraft / Wanfeng, mars 2025)"
+     },
+     "de": {
+      "k": "Hersteller",
+      "v": "Volocopter GmbH (restrukturiert unter Diamond Aircraft / Wanfeng, März 2025)"
+     },
+     "zh": {
+      "k": "制造商",
+      "v": "Volocopter GmbH (已在Diamond Aircraft / Wanfeng下重组，2025年3月)"
+     }
+    }
+   },
+   {
+    "id": "operator",
+    "k": "Operator",
+    "v": "NEOM (intended)",
+    "i18n": {
+     "ar": {
+      "k": "المشغّل"
+     },
+     "fr": {
+      "k": "Exploitant"
+     },
+     "de": {
+      "k": "Betreiber"
+     },
+     "zh": {
+      "k": "运营方"
+     }
+    }
+   },
+   {
+    "id": "regulator",
+    "k": "Regulator",
+    "v": "GACA Saudi Arabia",
+    "i18n": {
+     "ar": {
+      "k": "الجهة التنظيمية"
+     },
+     "fr": {
+      "k": "Régulateur"
+     },
+     "de": {
+      "k": "Aufsichtsbehörde"
+     },
+     "zh": {
+      "k": "监管机构"
+     }
+    }
+   },
+   {
+    "id": "first_flight",
+    "k": "First flight",
+    "v": "21 June 2023 (NEOM)",
+    "i18n": {
+     "ar": {
+      "k": "الرحلة الأولى"
+     },
+     "fr": {
+      "k": "Premier vol"
+     },
+     "de": {
+      "k": "Erstflug"
+     },
+     "zh": {
+      "k": "首飞"
+     }
+    }
+   },
+   {
+    "id": "passengers",
+    "k": "Passengers",
+    "v": "2 (VoloCity)",
+    "i18n": {
+     "ar": {
+      "k": "الركاب"
+     },
+     "fr": {
+      "k": "Passagers"
+     },
+     "de": {
+      "k": "Passagiere"
+     },
+     "zh": {
+      "k": "乘客"
+     }
+    }
+   },
+   {
+    "id": "status",
+    "k": "Status",
+    "v": "Original contract orphaned; counterparty restructured; type cert pushed to 2026",
+    "i18n": {
+     "ar": {
+      "k": "الحالة",
+      "v": "العقد الأصلي معطل؛ إعادة هيكلة الطرف الآخر؛ شهادة النوع تم تأجيلها إلى 2026"
+     },
+     "fr": {
+      "k": "Statut",
+      "v": "Contrat original orphelin ; contrepartie restructurée ; certification de type repoussée à 2026"
+     },
+     "de": {
+      "v": "Originalvertrag verwaist; Gegenpartei restrukturiert; Typzertifizierung auf 2026 verschoben"
+     },
+     "zh": {
+      "k": "状态",
+      "v": "原始合同孤立；对方已重组；型号认证推迟至2026年"
+     }
+    }
+   }
+  ]
  }
 }

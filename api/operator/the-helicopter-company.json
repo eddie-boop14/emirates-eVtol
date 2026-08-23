@@ -53,6 +53,109 @@
     "name": "The Helicopter Company (THC)",
     "meta_description": "The Helicopter Company (THC) is a Saudi Public Investment Fund subsidiary. Signed MoUs with Archer Aviation and Joby Aviation in November 2025 for Saudi eVTOL sandbox testing. CEO Captain Arnaud Martinez."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "Aviation operator (helicopter + planned eVTOL)",
+    "i18n": {
+     "ar": {
+      "k": "النوع",
+      "v": "مشغل طيران (هليكوبتر + eVTOL مخطط)"
+     },
+     "fr": {
+      "v": "Opérateur aéronautique (hélicoptère + eVTOL prévu)"
+     },
+     "de": {
+      "k": "Typ",
+      "v": "Luftfahrtbetreiber (Hubschrauber + geplantes eVTOL)"
+     },
+     "zh": {
+      "k": "类型",
+      "v": "航空运营商(直升机+计划中的eVTOL)"
+     }
+    }
+   },
+   {
+    "id": "role",
+    "k": "Role",
+    "v": "Saudi eVTOL sandbox operator",
+    "i18n": {
+     "ar": {
+      "k": "الدور"
+     },
+     "fr": {
+      "k": "Rôle"
+     },
+     "de": {
+      "k": "Rolle"
+     },
+     "zh": {
+      "k": "角色"
+     }
+    }
+   },
+   {
+    "id": "jurisdiction",
+    "k": "Jurisdiction",
+    "v": "Saudi Arabia",
+    "i18n": {
+     "ar": {
+      "k": "الاختصاص"
+     },
+     "fr": {
+      "k": "Juridiction"
+     },
+     "de": {
+      "k": "Zuständigkeit"
+     },
+     "zh": {
+      "k": "管辖范围"
+     }
+    }
+   },
+   {
+    "id": "headquarters",
+    "k": "Headquarters",
+    "v": "Riyadh, Saudi Arabia",
+    "i18n": {
+     "ar": {
+      "k": "المقر"
+     },
+     "fr": {
+      "k": "Siège"
+     },
+     "de": {
+      "k": "Hauptsitz"
+     },
+     "zh": {
+      "k": "总部"
+     }
+    }
+   },
+   {
+    "id": "status",
+    "k": "Status",
+    "v": "Operational (helicopter); sandbox-stage for eVTOL",
+    "i18n": {
+     "ar": {
+      "k": "الحالة",
+      "v": "تشغيلية (هليكوبتر)؛ مرحلة رمل اختبار لـ eVTOL"
+     },
+     "fr": {
+      "k": "Statut",
+      "v": "Opérationnel (hélicoptère) ; étape bac à sable pour eVTOL"
+     },
+     "de": {
+      "v": "Betriebsfähig (Hubschrauber); Experimentierfeld-Phase für eVTOL"
+     },
+     "zh": {
+      "k": "状态",
+      "v": "运营中(直升机)；eVTOL处于沙箱阶段"
+     }
+    }
+   }
+  ]
  }
 }

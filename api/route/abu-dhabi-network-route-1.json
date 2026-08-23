@@ -67,6 +67,102 @@
     "name": "Abu Dhabi Network — Route 1 (Abu Dhabi ↔ Dubai)",
     "meta_description": "Archer Aviation and Falcon Aviation plan Abu Dhabi to Dubai eVTOL route: Marina Mall heliport (Corniche) to Falcon Heliport at Atlantis the Palm, ~30 minutes."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "Announced inter-emirate route",
+    "i18n": {
+     "ar": {
+      "k": "النوع"
+     },
+     "de": {
+      "k": "Typ"
+     },
+     "zh": {
+      "k": "类型"
+     }
+    }
+   },
+   {
+    "id": "operator",
+    "k": "Operator",
+    "v": "Falcon Aviation (operating Archer Midnight under MOU)",
+    "i18n": {
+     "ar": {
+      "k": "المشغّل",
+      "v": "Falcon Aviation (تشغيل Archer Midnight تحت مذكرة تفاهم)"
+     },
+     "fr": {
+      "k": "Exploitant",
+      "v": "Falcon Aviation (exploitation du Archer Midnight en vertu d'un protocole d'accord)"
+     },
+     "de": {
+      "k": "Betreiber"
+     },
+     "zh": {
+      "k": "运营方",
+      "v": "Falcon Aviation(根据谅解备忘录运营Archer Midnight)"
+     }
+    }
+   },
+   {
+    "id": "aircraft",
+    "k": "Aircraft",
+    "v": "Archer Midnight",
+    "i18n": {
+     "ar": {
+      "k": "الطائرة"
+     },
+     "fr": {
+      "k": "Aéronef"
+     },
+     "de": {
+      "k": "Luftfahrzeug"
+     },
+     "zh": {
+      "k": "飞行器"
+     }
+    }
+   },
+   {
+    "id": "expected_duration",
+    "k": "Expected Duration",
+    "v": "As little as 30 minutes (Archer)"
+   },
+   {
+    "id": "endpoints",
+    "k": "Endpoints",
+    "v": "Marina Mall heliport, Abu Dhabi Corniche ↔ Falcon Heliport at Atlantis the Palm, Dubai",
+    "i18n": {
+     "ar": {
+      "v": "مطار Marina Mall للهليكوبتر، كورنيش Abu Dhabi ↔ مطار Falcon Heliport في Atlantis the Palm، Dubai"
+     },
+     "fr": {
+      "v": "Héliport du Marina Mall, Corniche d'Abu Dhabi ↔ Héliport de Falcon à Atlantis The Palm, Dubaï"
+     },
+     "zh": {
+      "v": "Marina Mall直升机场，Abu Dhabi Corniche ↔ Atlantis the Palm上的Falcon Heliport，Dubai"
+     }
+    }
+   },
+   {
+    "id": "status",
+    "k": "Status",
+    "v": "Announced — not yet operational",
+    "i18n": {
+     "ar": {
+      "k": "الحالة"
+     },
+     "fr": {
+      "k": "Statut"
+     },
+     "zh": {
+      "k": "状态"
+     }
+    }
+   }
+  ]
  }
 }

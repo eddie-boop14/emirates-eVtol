@@ -60,6 +60,128 @@
     "name": "Al Bateen Executive Airport (AZI) Vertiport",
     "meta_description": "Al Bateen Executive Airport (AZI) Vertiport is under construction as the second foundational node of Abu Dhabi's 10-vertiport network. Site of Archer Midnight's first Abu Dhabi flight on 2 July 2025."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "Vertiport",
+    "i18n": {
+     "ar": {
+      "k": "النوع"
+     },
+     "de": {
+      "k": "Typ"
+     },
+     "zh": {
+      "k": "类型"
+     }
+    }
+   },
+   {
+    "id": "operator",
+    "k": "Operator",
+    "v": "Abu Dhabi Aviation (under Archer agreement)",
+    "i18n": {
+     "ar": {
+      "k": "المشغّل",
+      "v": "Abu Dhabi Aviation (بموجب اتفاق Archer)"
+     },
+     "fr": {
+      "k": "Exploitant",
+      "v": "Abu Dhabi Aviation (selon l'accord Archer)"
+     },
+     "de": {
+      "k": "Betreiber"
+     },
+     "zh": {
+      "k": "运营方",
+      "v": "Abu Dhabi Aviation（根据 Archer 协议）"
+     }
+    }
+   },
+   {
+    "id": "builder",
+    "k": "Builder",
+    "v": "Skyports Infrastructure",
+    "i18n": {
+     "ar": {
+      "k": "جهة الإنشاء"
+     },
+     "fr": {
+      "k": "Constructeur"
+     },
+     "de": {
+      "k": "Errichter"
+     },
+     "zh": {
+      "k": "建造方"
+     }
+    }
+   },
+   {
+    "id": "regulator",
+    "k": "Regulator",
+    "v": "GCAA (UAE) + Integrated Transport Centre (Abu Dhabi)",
+    "i18n": {
+     "ar": {
+      "k": "الجهة التنظيمية",
+      "v": "GCAA (الإمارات) + مركز النقل المتكامل (Abu Dhabi)"
+     },
+     "fr": {
+      "k": "Régulateur",
+      "v": "GCAA (EAU) + Centre de Transport Intégré (Abu Dhabi)"
+     },
+     "de": {
+      "k": "Aufsichtsbehörde"
+     },
+     "zh": {
+      "k": "监管机构",
+      "v": "GCAA（阿联酋）+ 综合交通中心（阿布扎比）"
+     }
+    }
+   },
+   {
+    "id": "aircraft",
+    "k": "Aircraft",
+    "v": "Archer Midnight",
+    "i18n": {
+     "ar": {
+      "k": "الطائرة"
+     },
+     "fr": {
+      "k": "Aéronef"
+     },
+     "de": {
+      "k": "Luftfahrzeug"
+     },
+     "zh": {
+      "k": "飞行器"
+     }
+    }
+   },
+   {
+    "id": "status",
+    "k": "Status",
+    "v": "Under construction; Q1 2026 completion projected (now slipped); flight-tested 2 Jul 2025",
+    "i18n": {
+     "ar": {
+      "k": "الحالة",
+      "v": "تحت الإنشاء؛ إنجاز متوقع في Q1 2026 (الآن تأخر)؛ تم اختباره برحلة في 2 يوليو 2025"
+     },
+     "fr": {
+      "k": "Statut",
+      "v": "En construction ; achèvement Q1 2026 projeté (maintenant glissé) ; essai en vol 2 juillet 2025"
+     },
+     "de": {
+      "v": "Unter Konstruktion; Q1 2026 Fertigungsziel projiziert (jetzt verschoben); Flugerprobung 2. Juli 2025"
+     },
+     "zh": {
+      "k": "状态",
+      "v": "建设中；预计 Q1 2026 完成（现已推迟）；2025年7月2日飞行测试"
+     }
+    }
+   }
+  ]
  }
 }

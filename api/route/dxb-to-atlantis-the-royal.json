@@ -60,6 +60,100 @@
     "name": "DXB ↔ Atlantis The Royal",
     "meta_description": "Joby Aviation route between DXB and Atlantis The Royal vertiport, Palm Jumeirah: ~10-minute flight planned for 2026 launch under RTA exclusive agreement."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "Planned commercial route",
+    "i18n": {
+     "ar": {
+      "k": "النوع"
+     },
+     "de": {
+      "k": "Typ"
+     },
+     "zh": {
+      "k": "类型"
+     }
+    }
+   },
+   {
+    "id": "operator",
+    "k": "Operator",
+    "v": "Joby Aviation (under RTA exclusive agreement)",
+    "i18n": {
+     "ar": {
+      "k": "المشغّل",
+      "v": "Joby Aviation (بموجب اتفاق حصري مع RTA)"
+     },
+     "fr": {
+      "k": "Exploitant",
+      "v": "Joby Aviation (selon accord exclusif RTA)"
+     },
+     "de": {
+      "k": "Betreiber",
+      "v": "Joby Aviation (unter RTA-Exklusivvereinbarung)"
+     },
+     "zh": {
+      "k": "运营方",
+      "v": "Joby Aviation（在道路运输局独家协议下）"
+     }
+    }
+   },
+   {
+    "id": "aircraft",
+    "k": "Aircraft",
+    "v": "Joby S4",
+    "i18n": {
+     "ar": {
+      "k": "الطائرة"
+     },
+     "fr": {
+      "k": "Aéronef"
+     },
+     "de": {
+      "k": "Luftfahrzeug"
+     },
+     "zh": {
+      "k": "飞行器"
+     }
+    }
+   },
+   {
+    "id": "expected_duration",
+    "k": "Expected Duration",
+    "v": "~10 minutes (RTA)"
+   },
+   {
+    "id": "endpoints",
+    "k": "Endpoints",
+    "v": "DXB Vertiport ↔ Atlantis the Royal Vertiport (Palm Jumeirah)",
+    "i18n": {
+     "de": {
+      "v": "DXB-Vertiport ↔ Atlantis the Royal Vertiport (Palm Jumeirah)"
+     },
+     "zh": {
+      "v": "迪拜国际机场垂直起降机场↔亚特兰蒂斯皇家酒店垂直起降机场（棕榈岛）"
+     }
+    }
+   },
+   {
+    "id": "status",
+    "k": "Status",
+    "v": "Planned · launch targeted 2026",
+    "i18n": {
+     "ar": {
+      "k": "الحالة"
+     },
+     "fr": {
+      "k": "Statut"
+     },
+     "zh": {
+      "k": "状态"
+     }
+    }
+   }
+  ]
  }
 }

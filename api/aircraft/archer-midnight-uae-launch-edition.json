@@ -53,6 +53,141 @@
     "name": "Archer Midnight — UAE Launch Edition Flight Test Campaign",
     "meta_description": "Archer Aviation's Midnight eVTOL completed in-country UAE flight test campaign culminating 14 November 2025. Full-envelope desert testing as part of the Launch Edition program with Abu Dhabi Aviation."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "Aircraft (eVTOL, fixed-wing tilt-rotor)",
+    "i18n": {
+     "ar": {
+      "k": "النوع"
+     },
+     "de": {
+      "k": "Typ"
+     },
+     "zh": {
+      "k": "类型"
+     }
+    }
+   },
+   {
+    "id": "manufacturer",
+    "k": "Manufacturer",
+    "v": "Archer Aviation (NYSE:ACHR)",
+    "i18n": {
+     "ar": {
+      "k": "الصانع"
+     },
+     "fr": {
+      "k": "Fabricant"
+     },
+     "de": {
+      "k": "Hersteller"
+     },
+     "zh": {
+      "k": "制造商"
+     }
+    }
+   },
+   {
+    "id": "operator",
+    "k": "Operator",
+    "v": "Abu Dhabi Aviation (ADA)",
+    "i18n": {
+     "ar": {
+      "k": "المشغّل"
+     },
+     "fr": {
+      "k": "Exploitant"
+     },
+     "de": {
+      "k": "Betreiber"
+     },
+     "zh": {
+      "k": "运营方"
+     }
+    }
+   },
+   {
+    "id": "regulator",
+    "k": "Regulator",
+    "v": "GCAA UAE",
+    "i18n": {
+     "ar": {
+      "k": "الجهة التنظيمية"
+     },
+     "fr": {
+      "k": "Régulateur"
+     },
+     "de": {
+      "k": "Aufsichtsbehörde"
+     },
+     "zh": {
+      "k": "监管机构"
+     }
+    }
+   },
+   {
+    "id": "first_flight",
+    "k": "First flight",
+    "v": "2 July 2025 (Al Bateen, Abu Dhabi)",
+    "i18n": {
+     "ar": {
+      "k": "الرحلة الأولى"
+     },
+     "fr": {
+      "k": "Premier vol"
+     },
+     "de": {
+      "k": "Erstflug"
+     },
+     "zh": {
+      "k": "首飞"
+     }
+    }
+   },
+   {
+    "id": "passengers",
+    "k": "Passengers",
+    "v": "1 pilot + 4 passengers",
+    "i18n": {
+     "ar": {
+      "k": "الركاب"
+     },
+     "fr": {
+      "k": "Passagers"
+     },
+     "de": {
+      "k": "Passagiere"
+     },
+     "zh": {
+      "k": "乘客"
+     }
+    }
+   },
+   {
+    "id": "status",
+    "k": "Status",
+    "v": "Full-envelope flight test complete; commercial operations gated on GCAA certification",
+    "i18n": {
+     "ar": {
+      "k": "الحالة",
+      "v": "اختبار الطيران الشامل مكتمل؛ العمليات التجارية معلقة على الموافقة من GCAA"
+     },
+     "fr": {
+      "k": "Statut",
+      "v": "Essai en vol à enveloppe complète réalisé ; les opérations commerciales dépendent de la certification GCAA"
+     },
+     "de": {
+      "v": "Vollenvelope-Flugversuch abgeschlossen; kommerzielle Operationen an GCAA-Zertifizierung gebunden"
+     },
+     "zh": {
+      "k": "状态",
+      "v": "全包线飞行测试完成；商业运营以GCAA认证为前置条件"
+     }
+    }
+   }
+  ]
  }
 }

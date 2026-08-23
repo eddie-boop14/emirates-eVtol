@@ -95,6 +95,141 @@
     "name": "Vertical Aerospace",
     "meta_description": "UK-based Vertical Aerospace has no documented UAE presence - no order, vertiport or GCAA agreement. Its only Gulf activity is a set of Saudi MoUs from 2026."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "headquarters_and_listing",
+    "k": "Headquarters and listing",
+    "v": "Bristol, United Kingdom; listed on the New York Stock Exchange as EVTL.",
+    "i18n": {
+     "ar": {
+      "v": "Bristol، المملكة المتحدة؛ مدرجة في بورصة نيويورك تحت الرمز EVTL."
+     },
+     "fr": {
+      "v": "Bristol, Royaume-Uni ; coté à la Bourse de New York sous le symbole EVTL."
+     },
+     "de": {
+      "v": "Bristol, Vereinigtes Königreich; an der New York Stock Exchange unter dem Kürzel EVTL notiert."
+     },
+     "zh": {
+      "v": "Bristol，United Kingdom；在New York Stock Exchange上市，代码为EVTL。"
+     }
+    }
+   },
+   {
+    "id": "aircraft",
+    "k": "Aircraft",
+    "v": "Valo, a piloted four-seat eVTOL unveiled in December 2025 as the successor to the VX4 prototype; up to 100 miles range and up to 150 mph, with a hybrid-electric variant in development.",
+    "i18n": {
+     "ar": {
+      "v": "Valo، وهي طائرة eVTOL رباعية المقاعد مأهولة بالركاب، كشفت عنها في ديسمبر 2025 كخليفة لنموذج VX4 الأولي؛ بمدى يصل إلى 100 ميل وسرعة تصل إلى 150 ميل/ساعة، مع متغير هجين كهربائي قيد التطوير."
+     },
+     "fr": {
+      "v": "Valo, un eVTOL piloté à quatre places dévoilé en décembre 2025 en tant que successeur du prototype VX4 ; portée jusqu'à 100 milles et vitesse de croisière jusqu'à 150 mph, avec une variante hybride-électrique en développement."
+     },
+     "de": {
+      "v": "Valo, ein pilotengesteuertes viersitziges eVTOL, im Dezember 2025 als Nachfolger des Prototyps VX4 vorgestellt; bis zu 100 Meilen Reichweite und bis zu 150 mph, eine hybridelektrische Variante befindet sich in Entwicklung."
+     },
+     "zh": {
+      "v": "Valo，一架有人驾驶四座eVTOL，于2025年12月作为VX4原型机的继承者推出；最大航程100英里，最高速度150英里/小时，混合动力版本正在开发中。"
+     }
+    }
+   },
+   {
+    "id": "documented_uae_presence",
+    "k": "Documented UAE presence",
+    "v": "None. No Vertical Aerospace press release, and no UAE regulator or government announcement reviewed, records a UAE order, LOI, vertiport, test site or certification arrangement as of 28 July 2026.",
+    "i18n": {
+     "ar": {
+      "v": "لا شيء. لا توجد بيانات صحفية من Vertical Aerospace، ولا أي إعلان من هيئة تنظيمية إماراتية أو حكومية تم مراجعته، يسجل أي طلب إماراتي أو خطاب نوايا أو مطار عمودي أو موقع اختبار أو ترتيب شهادة نوع من 28 يوليو 2026."
+     },
+     "fr": {
+      "v": "Aucune. Aucun communiqué de presse de Vertical Aerospace, et aucune annonce d'autorité réglementaire ou de gouvernement des EAU examinée, n'enregistre une commande des EAU, une lettre d'intention, un vertiport, un site d'essai ou un arrangement de certification en date du 28 juillet 2026."
+     },
+     "de": {
+      "v": "Keine. Weder eine Pressemitteilung von Vertical Aerospace noch eine geprüfte Bekanntmachung einer Aufsichtsbehörde oder Regierungsstelle der VAE verzeichnet mit Stand vom 28. Juli 2026 eine Bestellung, eine Absichtserklärung (LOI), einen Vertiport, einen Teststandort oder eine Zulassungsvereinbarung in den VAE."
+     },
+     "zh": {
+      "v": "无。截至2026年7月28日，没有Vertical Aerospace新闻稿，也没有阿联酋监管机构或政府公告记录了阿联酋订单、意向书、垂直起降机场、测试场地或认证安排。"
+     }
+    }
+   },
+   {
+    "id": "gulf_activity_saudi_arabia_only",
+    "k": "Gulf activity (Saudi Arabia only)",
+    "v": "MoU with Saudi Arabia's General Authority of Civil Aviation (GACA) on AAM certification and regulatory framework, plus an MoU with Cluster2 Airports Company, both announced 22 July 2026; earlier three-party MoU with AHQ Group and the Saudi National Industrial Development Centre announced 10 February 2026.",
+    "i18n": {
+     "ar": {
+      "v": "مذكرة تفاهم مع هيئة GACA (General Authority of Civil Aviation) السعودية بشأن شهادة نوع AAM والإطار التنظيمي، بالإضافة إلى مذكرة تفاهم مع Cluster2 Airports Company، وكلاهما أعلن في 22 يوليو 2026؛ مذكرة تفاهم ثلاثية الأطراف سابقة مع AHQ Group والمركز السعودي للتطوير الصناعي أعلنت في 10 فبراير 2026."
+     },
+     "fr": {
+      "v": "Protocole d'accord avec l'Autorité générale de l'aviation civile (GACA) de l'Arabie saoudite sur la certification AAM et le cadre réglementaire, plus un protocole d'accord avec la Cluster2 Airports Company, tous deux annoncés le 22 juillet 2026 ; protocole d'accord tripartite antérieur avec AHQ Group et le Centre national du développement industriel d'Arabie saoudite annoncé le 10 février 2026."
+     },
+     "de": {
+      "v": "Absichtserklärung (MoU) mit der General Authority of Civil Aviation (GACA) Saudi-Arabiens über die AAM-Zulassung und einen regulatorischen Rahmen sowie eine Absichtserklärung mit der Cluster2 Airports Company, beide am 22. Juli 2026 bekanntgegeben; zuvor eine dreiseitige Absichtserklärung mit der AHQ Group und dem saudischen National Industrial Development Centre, bekanntgegeben am 10. Februar 2026."
+     },
+     "zh": {
+      "v": "与沙特阿拉伯民用航空总局(GACA)关于AAM认证和监管框架的谅解备忘录，加上与Cluster2 Airports Company的谅解备忘录，两份均于2026年7月22日宣布；之前与AHQ Group和沙特国家工业发展中心的三方谅解备忘录于2026年2月10日宣布。"
+     }
+    }
+   },
+   {
+    "id": "certification_path",
+    "k": "Certification path",
+    "v": "UK Civil Aviation Authority as primary certifying authority, working with EASA, under Vertical's Design Organisation Approval. No UAE GCAA validation programme has been announced.",
+    "i18n": {
+     "ar": {
+      "v": "سلطة الطيران المدني في المملكة المتحدة كسلطة شهادة نوع أساسية، تعمل مع EASA، بموجب موافقة تنظيم التصميم من Vertical. لم يتم الإعلان عن أي برنامج مصادقة GCAA إماراتي."
+     },
+     "fr": {
+      "v": "Autorité de l'aviation civile britannique en tant qu'autorité de certification principale, travaillant avec l'EASA, en vertu de l'agrément d'organisme de conception de Vertical. Aucun programme de validation GCAA des EAU n'a été annoncé."
+     },
+     "de": {
+      "v": "Die britische Civil Aviation Authority als primäre Zulassungsbehörde, in Zusammenarbeit mit der EASA, auf Grundlage der Genehmigung als Entwicklungsbetrieb von Vertical. Ein Validierungsprogramm der GCAA in den VAE wurde nicht angekündigt."
+     },
+     "zh": {
+      "v": "UK CAA作为主要认证当局，与EASA合作，根据Vertical的设计机构批准。没有宣布任何阿联酋GCAA验证计划。"
+     }
+    }
+   },
+   {
+    "id": "certification_target",
+    "k": "Certification target",
+    "v": "Type Certification expected in 2029, revised from a 2028 target in the company's 13 July 2026 business update.",
+    "i18n": {
+     "ar": {
+      "v": "شهادة النوع متوقعة في 2029، تم تعديلها من هدف 2028 في تحديث الأعمال للشركة في 13 يوليو 2026."
+     },
+     "fr": {
+      "v": "Certificat de type prévu en 2029, révisé à partir d'un objectif 2028 dans la mise à jour commerciale de l'entreprise du 13 juillet 2026."
+     },
+     "de": {
+      "v": "Die Musterzulassung wird für 2029 erwartet, verschoben vom ursprünglichen Ziel 2028 im Geschäftsupdate des Unternehmens vom 13. Juli 2026."
+     },
+     "zh": {
+      "v": "型号合格证预期在2029年，从公司2026年7月13日的业务更新中的2028年目标进行了修改。"
+     }
+    }
+   },
+   {
+    "id": "flight_test_status_2026",
+    "k": "Flight test status 2026",
+    "v": "First piloted two-way transition flight in April 2026 under UK CAA oversight; expanded UK CAA Permit to Fly granted 10 July 2026; first public eVTOL transition flight flown at the Farnborough International Airshow on 20 July 2026. Critical Design Review targeted for end-2026, hybrid-electric flight testing for H1 2027.",
+    "i18n": {
+     "ar": {
+      "v": "أول رحلة انتقالية ثنائية الاتجاه مأهولة بالركاب في أبريل 2026 تحت إشراف CAA في المملكة المتحدة؛ تم منح رخصة طيران موسعة من CAA في المملكة المتحدة في 10 يوليو 2026؛ أول رحلة انتقالية eVTOL عامة تم تنفيذها في Farnborough International Airshow في 20 يوليو 2026. تم استهداف المراجعة الحرجة للتصميم لنهاية 2026، اختبارات الطيران الهجين الكهربائي لـ H1 2027."
+     },
+     "fr": {
+      "v": "Premier vol en transition bidirectionnel piloté en avril 2026 sous la supervision de la CAA britannique ; permis de voler CAA britannique étendu accordé le 10 juillet 2026 ; premier vol public en transition d'eVTOL effectué au Salon international de Farnborough le 20 juillet 2026. Examen critique de la conception ciblé pour la fin 2026, essais de vol hybride-électrique pour le premier semestre 2027."
+     },
+     "de": {
+      "v": "Erster pilotengesteuerter Transitionsflug in beide Richtungen im April 2026 unter Aufsicht der britischen CAA; erweiterte Fluggenehmigung (Permit to Fly) der britischen CAA am 10. Juli 2026 erteilt; erster öffentlicher eVTOL-Transitionsflug am 20. Juli 2026 auf der Farnborough International Airshow. Das Critical Design Review ist für Ende 2026 vorgesehen, die Flugerprobung des Hybridantriebs für das erste Halbjahr 2027."
+     },
+     "zh": {
+      "v": "2026年4月在UK CAA监督下完成首次有人驾驶双向过渡飞行；扩展的UK CAA飞行许可证于2026年7月10日获得；首次公开eVTOL过渡飞行于2026年7月20日在Farnborough国际航展飞行。关键设计审查以2026年年底为目标，混合动力飞行测试计划于2027年上半年进行。"
+     }
+    }
+   }
+  ]
  }
 }

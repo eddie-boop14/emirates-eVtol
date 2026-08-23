@@ -53,6 +53,157 @@
     "name": "Margham → Al Maktoum International (DWC)",
     "meta_description": "The Joby S4 completed the first electric-air-taxi point-to-point flight in the UAE on 9 November 2025, flying piloted from Margham to Al Maktoum International (DWC) in 17 minutes."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "Flight test route (trial)",
+    "i18n": {
+     "ar": {
+      "k": "النوع"
+     },
+     "de": {
+      "k": "Typ"
+     },
+     "zh": {
+      "k": "类型"
+     }
+    }
+   },
+   {
+    "id": "operator",
+    "k": "Operator",
+    "v": "Joby Aviation",
+    "i18n": {
+     "ar": {
+      "k": "المشغّل"
+     },
+     "fr": {
+      "k": "Exploitant"
+     },
+     "de": {
+      "k": "Betreiber"
+     },
+     "zh": {
+      "k": "运营方"
+     }
+    }
+   },
+   {
+    "id": "regulator",
+    "k": "Regulator",
+    "v": "GCAA + RTA + DCAA + DANS",
+    "i18n": {
+     "ar": {
+      "k": "الجهة التنظيمية"
+     },
+     "fr": {
+      "k": "Régulateur"
+     },
+     "de": {
+      "k": "Aufsichtsbehörde"
+     },
+     "zh": {
+      "k": "监管机构"
+     }
+    }
+   },
+   {
+    "id": "aircraft",
+    "k": "Aircraft",
+    "v": "Joby S4",
+    "i18n": {
+     "ar": {
+      "k": "الطائرة"
+     },
+     "fr": {
+      "k": "Aéronef"
+     },
+     "de": {
+      "k": "Luftfahrzeug"
+     },
+     "zh": {
+      "k": "飞行器"
+     }
+    }
+   },
+   {
+    "id": "origin",
+    "k": "Origin",
+    "v": "Margham flight-test facility",
+    "i18n": {
+     "ar": {
+      "k": "المنشأ"
+     },
+     "fr": {
+      "k": "Origine"
+     },
+     "de": {
+      "k": "Ursprung"
+     },
+     "zh": {
+      "k": "起点"
+     }
+    }
+   },
+   {
+    "id": "destination",
+    "k": "Destination",
+    "v": "Al Maktoum International Airport (DWC)",
+    "i18n": {
+     "ar": {
+      "k": "الوجهة"
+     },
+     "de": {
+      "k": "Ziel"
+     },
+     "zh": {
+      "k": "终点"
+     }
+    }
+   },
+   {
+    "id": "duration",
+    "k": "Duration",
+    "v": "17 minutes piloted",
+    "i18n": {
+     "ar": {
+      "k": "المدة"
+     },
+     "fr": {
+      "k": "Durée"
+     },
+     "de": {
+      "k": "Dauer"
+     },
+     "zh": {
+      "k": "时长"
+     }
+    }
+   },
+   {
+    "id": "status",
+    "k": "Status",
+    "v": "Flight-tested 9 Nov 2025; commercial operations 2026",
+    "i18n": {
+     "ar": {
+      "k": "الحالة",
+      "v": "اختبرت بالطيران 9 نوفمبر 2025؛ العمليات التجارية 2026"
+     },
+     "fr": {
+      "k": "Statut",
+      "v": "Essai en vol 9 nov 2025 ; exploitation commerciale 2026"
+     },
+     "de": {
+      "v": "Flugerprobung 9. Nov 2025; kommerzieller Betrieb 2026"
+     },
+     "zh": {
+      "k": "状态",
+      "v": "飞行测试2025年11月9日；商业运营2026年"
+     }
+    }
+   }
+  ]
  }
 }

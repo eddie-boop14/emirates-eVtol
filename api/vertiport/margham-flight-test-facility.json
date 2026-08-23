@@ -74,6 +74,102 @@
     "name": "Margham Flight Test Facility",
     "meta_description": "Joby Aviation's UAE eVTOL flight test site at Margham, Dubai. Site of the first piloted point-to-point eVTOL flight in the UAE on 9 November 2025."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "Flight test facility (helipad)",
+    "i18n": {
+     "ar": {
+      "k": "النوع"
+     },
+     "de": {
+      "k": "Typ"
+     },
+     "zh": {
+      "k": "类型"
+     }
+    }
+   },
+   {
+    "id": "operator",
+    "k": "Operator",
+    "v": "Joby Aviation",
+    "i18n": {
+     "ar": {
+      "k": "المشغّل"
+     },
+     "fr": {
+      "k": "Exploitant"
+     },
+     "de": {
+      "k": "Betreiber"
+     },
+     "zh": {
+      "k": "运营方"
+     }
+    }
+   },
+   {
+    "id": "host_authorities",
+    "k": "Host Authorities",
+    "v": "GCAA · DCAA · DANS · RTA Dubai"
+   },
+   {
+    "id": "aircraft",
+    "k": "Aircraft",
+    "v": "Joby S4 (development articles)",
+    "i18n": {
+     "ar": {
+      "k": "الطائرة"
+     },
+     "fr": {
+      "k": "Aéronef"
+     },
+     "de": {
+      "k": "Luftfahrzeug"
+     },
+     "zh": {
+      "k": "飞行器"
+     }
+    }
+   },
+   {
+    "id": "status",
+    "k": "Status",
+    "v": "Operational — test only",
+    "i18n": {
+     "ar": {
+      "k": "الحالة"
+     },
+     "fr": {
+      "k": "Statut"
+     },
+     "zh": {
+      "k": "状态"
+     }
+    }
+   },
+   {
+    "id": "commercial_role",
+    "k": "Commercial Role",
+    "v": "Not part of announced commercial vertiport network",
+    "i18n": {
+     "ar": {
+      "v": "ليست جزءاً من شبكة المطار العمودي التجاري المعلن عنها"
+     },
+     "fr": {
+      "v": "Ne fait pas partie du réseau commercial de vertiports annoncé"
+     },
+     "de": {
+      "v": "Nicht Teil des angekuendigten kommerziellen Vertiport-Netzwerks"
+     },
+     "zh": {
+      "v": "不是已公布的商业垂直起降机场网络的一部分"
+     }
+    }
+   }
+  ]
  }
 }

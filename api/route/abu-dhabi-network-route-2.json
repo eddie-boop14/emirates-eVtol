@@ -67,6 +67,94 @@
     "name": "Abu Dhabi Network — Route 2",
     "meta_description": "Abu Dhabi Network Route 2 is the second corridor in the emirate 10+ vertiport plan. Endpoints not yet published; AUH and AZI confirmed as first anchors."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "eVTOL Route (placeholder)",
+    "i18n": {
+     "ar": {
+      "k": "النوع"
+     },
+     "de": {
+      "k": "Typ"
+     },
+     "zh": {
+      "k": "类型"
+     }
+    }
+   },
+   {
+    "id": "operator_consortium",
+    "k": "Operator Consortium",
+    "v": "ADIO, GCAA, Abu Dhabi Mobility (DMT/ITC), Abu Dhabi Airports, Skyports Infrastructure",
+    "i18n": {
+     "zh": {
+      "v": "阿布扎比投资办公室、阿联酋民用航空局、阿布扎比出行公司（交通运输部/综合运输中心）、阿布扎比机场、Skyports Infrastructure"
+     }
+    }
+   },
+   {
+    "id": "anchor_aircraft",
+    "k": "Anchor Aircraft",
+    "v": "Archer Midnight (Launch Edition; piloted, 4 passengers)",
+    "i18n": {
+     "ar": {
+      "v": "Archer Midnight (Launch Edition؛ مأهولة بالطاقم، 4 ركاب)"
+     },
+     "fr": {
+      "v": "Archer Midnight (Launch Edition; piloté, 4 passagers)"
+     },
+     "de": {
+      "v": "Archer Midnight (Launch Edition; pilotiert, 4 Passagiere)"
+     },
+     "zh": {
+      "v": "Archer Midnight（发布版；有人驾驶，4名乘客）"
+     }
+    }
+   },
+   {
+    "id": "status",
+    "k": "Status",
+    "v": "Announced · phase 2 corridor not yet published",
+    "i18n": {
+     "ar": {
+      "k": "الحالة",
+      "v": "معلنة · لم يتم نشر ممر المرحلة 2 بعد"
+     },
+     "fr": {
+      "k": "Statut",
+      "v": "Annoncé · corridor phase 2 non encore publié"
+     },
+     "de": {
+      "v": "Angekündigt · Phase-2-Korridor noch nicht veröffentlicht"
+     },
+     "zh": {
+      "k": "状态",
+      "v": "已发布·第2阶段走廊尚未公布"
+     }
+    }
+   },
+   {
+    "id": "network_scope",
+    "k": "Network Scope",
+    "v": "More than 10 vertiport sites planned across the emirate",
+    "i18n": {
+     "ar": {
+      "v": "أكثر من 10 مواقع مطار عمودي مخططة عبر الإمارة"
+     },
+     "fr": {
+      "v": "Plus de 10 sites vertiport prévus dans tout l'émirat"
+     },
+     "de": {
+      "v": "Mehr als 10 Vertiports in der Emirate geplant"
+     },
+     "zh": {
+      "v": "计划在酋长国各地建设10多个垂直起降机场"
+     }
+    }
+   }
+  ]
  }
 }

@@ -60,6 +60,126 @@
     "name": "Lilium Jet — Saudia Group Sales Agreement",
     "meta_description": "Saudia and Lilium signed a binding sales agreement on 18 July 2024 for up to 100 Lilium Jets. Lilium filed final insolvency 21 February 2025; prototypes scrapped April 2026. Contract orphaned."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "Aircraft sales agreement (orphaned)",
+    "i18n": {
+     "ar": {
+      "k": "النوع"
+     },
+     "de": {
+      "k": "Typ"
+     },
+     "zh": {
+      "k": "类型"
+     }
+    }
+   },
+   {
+    "id": "manufacturer",
+    "k": "Manufacturer",
+    "v": "Lilium GmbH (dissolved 21 Feb 2025)",
+    "i18n": {
+     "ar": {
+      "k": "الصانع"
+     },
+     "fr": {
+      "k": "Fabricant"
+     },
+     "de": {
+      "k": "Hersteller"
+     },
+     "zh": {
+      "k": "制造商"
+     }
+    }
+   },
+   {
+    "id": "operator",
+    "k": "Operator",
+    "v": "Saudia Group",
+    "i18n": {
+     "ar": {
+      "k": "المشغّل"
+     },
+     "fr": {
+      "k": "Exploitant"
+     },
+     "de": {
+      "k": "Betreiber"
+     },
+     "zh": {
+      "k": "运营方"
+     }
+    }
+   },
+   {
+    "id": "regulator",
+    "k": "Regulator",
+    "v": "GACA Saudi Arabia",
+    "i18n": {
+     "ar": {
+      "k": "الجهة التنظيمية"
+     },
+     "fr": {
+      "k": "Régulateur"
+     },
+     "de": {
+      "k": "Aufsichtsbehörde"
+     },
+     "zh": {
+      "k": "监管机构"
+     }
+    }
+   },
+   {
+    "id": "passengers",
+    "k": "Passengers",
+    "v": "Up to 6 passengers (Lilium Jet design specification)",
+    "i18n": {
+     "ar": {
+      "k": "الركاب",
+      "v": "حتى 6 ركاب (مواصفات تصميم Lilium Jet)"
+     },
+     "fr": {
+      "k": "Passagers",
+      "v": "Jusqu'à 6 passagers (spécification de conception Lilium Jet)"
+     },
+     "de": {
+      "k": "Passagiere",
+      "v": "Bis zu 6 Passagiere (Lilium Jet Designspezifikation)"
+     },
+     "zh": {
+      "k": "乘客",
+      "v": "最多6名乘客(Lilium Jet设计规格)"
+     }
+    }
+   },
+   {
+    "id": "status",
+    "k": "Status",
+    "v": "Binding contract signed; counterparty Lilium dissolved; no successor",
+    "i18n": {
+     "ar": {
+      "k": "الحالة",
+      "v": "تم التوقيع على عقد ملزم؛ تم حل طرف Lilium الآخر؛ لا يوجد خليفة"
+     },
+     "fr": {
+      "k": "Statut",
+      "v": "Contrat contraignant signé ; contrepartie Lilium dissoute ; aucun successeur"
+     },
+     "de": {
+      "v": "Bindender Vertrag unterzeichnet; Gegenpartei Lilium aufgelöst; kein Nachfolger"
+     },
+     "zh": {
+      "k": "状态",
+      "v": "已签署具有约束力的合同；对方Lilium已解散；无继承者"
+     }
+    }
+   }
+  ]
  }
 }

@@ -67,6 +67,141 @@
     "name": "Palm Jumeirah Vertiport at Atlantis the Royal",
     "meta_description": "Palm Jumeirah Vertiport at Atlantis the Royal, named by Joby and the RTA on 17 November 2025. Construction set to begin in months following Skyports' 16 April 2026 update."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "Vertiport",
+    "i18n": {
+     "ar": {
+      "k": "النوع"
+     },
+     "de": {
+      "k": "Typ"
+     },
+     "zh": {
+      "k": "类型"
+     }
+    }
+   },
+   {
+    "id": "operator",
+    "k": "Operator",
+    "v": "Joby Aviation (under RTA agreement)",
+    "i18n": {
+     "ar": {
+      "k": "المشغّل"
+     },
+     "fr": {
+      "k": "Exploitant"
+     },
+     "de": {
+      "k": "Betreiber"
+     },
+     "zh": {
+      "k": "运营方"
+     }
+    }
+   },
+   {
+    "id": "builder",
+    "k": "Builder",
+    "v": "Skyports Infrastructure",
+    "i18n": {
+     "ar": {
+      "k": "جهة الإنشاء"
+     },
+     "fr": {
+      "k": "Constructeur"
+     },
+     "de": {
+      "k": "Errichter"
+     },
+     "zh": {
+      "k": "建造方"
+     }
+    }
+   },
+   {
+    "id": "property_partner",
+    "k": "Property partner",
+    "v": "Atlantis the Royal",
+    "i18n": {
+     "ar": {
+      "k": "الشريك العقاري"
+     },
+     "fr": {
+      "k": "Partenaire foncier"
+     },
+     "de": {
+      "k": "Grundstückspartner"
+     },
+     "zh": {
+      "k": "地产合作方"
+     }
+    }
+   },
+   {
+    "id": "aircraft",
+    "k": "Aircraft",
+    "v": "Joby S4",
+    "i18n": {
+     "ar": {
+      "k": "الطائرة"
+     },
+     "fr": {
+      "k": "Aéronef"
+     },
+     "de": {
+      "k": "Luftfahrzeug"
+     },
+     "zh": {
+      "k": "飞行器"
+     }
+    }
+   },
+   {
+    "id": "status",
+    "k": "Status",
+    "v": "Contracted · construction to begin shortly after April 2026",
+    "i18n": {
+     "ar": {
+      "k": "الحالة",
+      "v": "متعاقد عليه · يتعين بدء البناء قريباً بعد أبريل 2026"
+     },
+     "fr": {
+      "k": "Statut",
+      "v": "Contracté · construction à débuter peu après avril 2026"
+     },
+     "de": {
+      "v": "Vertraglich vereinbart · Baubeginn kurz nach April 2026"
+     },
+     "zh": {
+      "k": "状态",
+      "v": "已合约 · 2026年4月后不久开始施工"
+     }
+    }
+   },
+   {
+    "id": "exclusivity",
+    "k": "Exclusivity",
+    "v": "Joby — 6 years from commercial launch",
+    "i18n": {
+     "ar": {
+      "k": "الحصرية"
+     },
+     "fr": {
+      "k": "Exclusivité"
+     },
+     "de": {
+      "k": "Exklusivität"
+     },
+     "zh": {
+      "k": "独家权益"
+     }
+    }
+   }
+  ]
  }
 }
