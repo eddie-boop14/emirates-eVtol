@@ -1,5 +1,8 @@
 # Continuous deployment config — UAE eVTOL directory (evtolemirates.com).
 # Pre-generated static site: HTML at repo root, no build step.
+[functions]
+  directory = "netlify/functions"
+
 [build]
   publish = "."
   command = "./guard.sh"
