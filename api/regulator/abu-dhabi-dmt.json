@@ -81,6 +81,74 @@
     "name": "Abu Dhabi Department of Municipalities and Transport (DMT)",
     "meta_description": "Abu Dhabi DMT, established by Law No. 30 of 2019, oversees urban planning and transport in the emirate via affiliates including Abu Dhabi Mobility (ITC)."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "Emirate-level transport and municipal authority",
+    "i18n": {
+     "ar": {
+      "k": "النوع",
+      "v": "سلطة المواصلات والبلديات على مستوى الإمارة"
+     },
+     "fr": {
+      "v": "Autorité des transports et municipale au niveau de l'émirat"
+     },
+     "de": {
+      "k": "Typ",
+      "v": "Emiratsbehörde für Transport und Gemeinden"
+     },
+     "zh": {
+      "k": "类型",
+      "v": "酋长级运输和市政机构"
+     }
+    }
+   },
+   {
+    "id": "chairman",
+    "k": "Chairman",
+    "v": "H.E. Mohamed Ali Al Shorafa"
+   },
+   {
+    "id": "established",
+    "k": "Established",
+    "v": "Abu Dhabi Law No. 30 of 2019"
+   },
+   {
+    "id": "key_evtol_arm",
+    "k": "Key EVTOL Arm",
+    "v": "Integrated Transport Centre (Abu Dhabi Mobility)",
+    "i18n": {
+     "ar": {
+      "v": "مركز النقل المتكامل (أبو ظبي موبيليتي)"
+     },
+     "zh": {
+      "v": "综合运输中心（阿布扎比交通）"
+     }
+    }
+   },
+   {
+    "id": "status",
+    "k": "Status",
+    "v": "Operational",
+    "i18n": {
+     "ar": {
+      "k": "الحالة"
+     },
+     "fr": {
+      "k": "Statut"
+     },
+     "zh": {
+      "k": "状态"
+     }
+    }
+   },
+   {
+    "id": "scope",
+    "k": "Scope",
+    "v": "Abu Dhabi City, Al Ain, Al Dhafra"
+   }
+  ]
  }
 }

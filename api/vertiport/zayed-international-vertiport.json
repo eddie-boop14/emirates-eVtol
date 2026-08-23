@@ -60,6 +60,130 @@
     "name": "Zayed International (AUH) Vertiport",
     "meta_description": "AUH Vertiport at Zayed International Airport is under construction as the first node of Abu Dhabi's 10-vertiport advanced air mobility network. Partnership between Abu Dhabi Airports, Skyports Infrastructure, and ADIO."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "Vertiport",
+    "i18n": {
+     "ar": {
+      "k": "النوع"
+     },
+     "de": {
+      "k": "Typ"
+     },
+     "zh": {
+      "k": "类型"
+     }
+    }
+   },
+   {
+    "id": "operator",
+    "k": "Operator",
+    "v": "Abu Dhabi Aviation (under Archer agreement)",
+    "i18n": {
+     "ar": {
+      "k": "المشغّل",
+      "v": "Abu Dhabi Aviation (تحت اتفاقية Archer)"
+     },
+     "fr": {
+      "k": "Exploitant",
+      "v": "Abu Dhabi Aviation (selon l'accord Archer)"
+     },
+     "de": {
+      "k": "Betreiber",
+      "v": "Abu Dhabi Aviation (unter Archer-Vereinbarung)"
+     },
+     "zh": {
+      "k": "运营方",
+      "v": "阿布扎比航空公司（根据Archer协议）"
+     }
+    }
+   },
+   {
+    "id": "builder",
+    "k": "Builder",
+    "v": "Skyports Infrastructure",
+    "i18n": {
+     "ar": {
+      "k": "جهة الإنشاء"
+     },
+     "fr": {
+      "k": "Constructeur"
+     },
+     "de": {
+      "k": "Errichter"
+     },
+     "zh": {
+      "k": "建造方"
+     }
+    }
+   },
+   {
+    "id": "regulator",
+    "k": "Regulator",
+    "v": "GCAA (UAE) + Integrated Transport Centre (Abu Dhabi)",
+    "i18n": {
+     "ar": {
+      "k": "الجهة التنظيمية",
+      "v": "GCAA (الإمارات العربية المتحدة) + مركز النقل المتكامل (أبو ظبي)"
+     },
+     "fr": {
+      "k": "Régulateur",
+      "v": "GCAA (ÉAU) + Integrated Transport Centre (Abu Dhabi)"
+     },
+     "de": {
+      "k": "Aufsichtsbehörde",
+      "v": "GCAA (VAE) + Integrated Transport Centre (Abu Dhabi)"
+     },
+     "zh": {
+      "k": "监管机构",
+      "v": "GCAA（阿联酋）+综合运输中心（阿布扎比）"
+     }
+    }
+   },
+   {
+    "id": "aircraft",
+    "k": "Aircraft",
+    "v": "Archer Midnight (anticipated)",
+    "i18n": {
+     "ar": {
+      "k": "الطائرة"
+     },
+     "fr": {
+      "k": "Aéronef"
+     },
+     "de": {
+      "k": "Luftfahrzeug"
+     },
+     "zh": {
+      "k": "飞行器"
+     }
+    }
+   },
+   {
+    "id": "status",
+    "k": "Status",
+    "v": "Under construction; Q1 2026 completion projected (Skyports, Nov 2025)",
+    "i18n": {
+     "ar": {
+      "k": "الحالة",
+      "v": "تحت الإنشاء؛ الانتهاء المتوقع في الربع الأول من 2026 (Skyports، نوفمبر 2025)"
+     },
+     "fr": {
+      "k": "Statut",
+      "v": "En construction ; achèvement prévu au Q1 2026 (Skyports, novembre 2025)"
+     },
+     "de": {
+      "v": "Im Bau; Q1 2026 Fertigstellung geplant (Skyports, Nov. 2025)"
+     },
+     "zh": {
+      "k": "状态",
+      "v": "施工中；预计2026年第一季度完成（Skyports，2025年11月）"
+     }
+    }
+   }
+  ]
  }
 }

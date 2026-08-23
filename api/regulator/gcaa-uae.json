@@ -81,6 +81,65 @@
     "name": "General Civil Aviation Authority — UAE",
     "meta_description": "GCAA UAE is the federal civil aviation regulator overseeing eVTOL type certification, vertiport regulations and Air Operator Certificates in the UAE."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "Federal civil aviation regulator",
+    "i18n": {
+     "ar": {
+      "k": "النوع"
+     },
+     "de": {
+      "k": "Typ"
+     },
+     "zh": {
+      "k": "类型"
+     }
+    }
+   },
+   {
+    "id": "hq",
+    "k": "Hq",
+    "v": "Abu Dhabi, UAE"
+   },
+   {
+    "id": "director_general",
+    "k": "Director General",
+    "v": "H.E. Saif Mohammed Al Suwaidi"
+   },
+   {
+    "id": "evtol_programmes",
+    "k": "Evtol Programmes",
+    "v": "Joby S4, Archer Midnight, EHang EH216-S"
+   },
+   {
+    "id": "first_world_vertiport_regulation",
+    "k": "First World Vertiport Regulation",
+    "v": "2023"
+   },
+   {
+    "id": "hybrid_heliport_framework",
+    "k": "Hybrid Heliport Framework",
+    "v": "July 2025"
+   },
+   {
+    "id": "status",
+    "k": "Status",
+    "v": "Operational",
+    "i18n": {
+     "ar": {
+      "k": "الحالة"
+     },
+     "fr": {
+      "k": "Statut"
+     },
+     "zh": {
+      "k": "状态"
+     }
+    }
+   }
+  ]
  }
 }

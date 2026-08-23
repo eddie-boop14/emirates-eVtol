@@ -74,6 +74,135 @@
     "name": "American University of Dubai Vertiport",
     "meta_description": "American University of Dubai Vertiport — the Dubai Marina node of Dubai's eVTOL network, sited per the RTA 'at Dubai Marina, within the American University in Dubai parking area', Wasl as property partner. Under construction (Skyports, 16 April 2026)."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "Vertiport",
+    "i18n": {
+     "ar": {
+      "k": "النوع"
+     },
+     "de": {
+      "k": "Typ"
+     },
+     "zh": {
+      "k": "类型"
+     }
+    }
+   },
+   {
+    "id": "operator",
+    "k": "Operator",
+    "v": "Joby Aviation (under RTA agreement)",
+    "i18n": {
+     "ar": {
+      "k": "المشغّل"
+     },
+     "fr": {
+      "k": "Exploitant"
+     },
+     "de": {
+      "k": "Betreiber"
+     },
+     "zh": {
+      "k": "运营方"
+     }
+    }
+   },
+   {
+    "id": "builder",
+    "k": "Builder",
+    "v": "Skyports Infrastructure",
+    "i18n": {
+     "ar": {
+      "k": "جهة الإنشاء"
+     },
+     "fr": {
+      "k": "Constructeur"
+     },
+     "de": {
+      "k": "Errichter"
+     },
+     "zh": {
+      "k": "建造方"
+     }
+    }
+   },
+   {
+    "id": "property_partner",
+    "k": "Property partner",
+    "v": "Wasl Asset Management Group",
+    "i18n": {
+     "ar": {
+      "k": "الشريك العقاري"
+     },
+     "fr": {
+      "k": "Partenaire foncier"
+     },
+     "de": {
+      "k": "Grundstückspartner"
+     },
+     "zh": {
+      "k": "地产合作方"
+     }
+    }
+   },
+   {
+    "id": "aircraft",
+    "k": "Aircraft",
+    "v": "Joby S4",
+    "i18n": {
+     "ar": {
+      "k": "الطائرة"
+     },
+     "fr": {
+      "k": "Aéronef"
+     },
+     "de": {
+      "k": "Luftfahrzeug"
+     },
+     "zh": {
+      "k": "飞行器"
+     }
+    }
+   },
+   {
+    "id": "status",
+    "k": "Status",
+    "v": "Under construction · 2026 network",
+    "i18n": {
+     "ar": {
+      "k": "الحالة"
+     },
+     "fr": {
+      "k": "Statut"
+     },
+     "zh": {
+      "k": "状态"
+     }
+    }
+   },
+   {
+    "id": "exclusivity",
+    "k": "Exclusivity",
+    "v": "Joby — 6 years from commercial launch",
+    "i18n": {
+     "ar": {
+      "k": "الحصرية"
+     },
+     "fr": {
+      "k": "Exclusivité"
+     },
+     "de": {
+      "k": "Exklusivität"
+     },
+     "zh": {
+      "k": "独家权益"
+     }
+    }
+   }
+  ]
  }
 }

@@ -88,6 +88,76 @@
     "name": "Dubai Future Foundation",
     "meta_description": "Dubai Future Foundation: Dubai Government's foresight authority. Convening role on eVTOL via Dubai Self-Driving Strategy, drone programme, accelerator cohorts."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "Government foresight & innovation authority",
+    "i18n": {
+     "ar": {
+      "k": "النوع",
+      "v": "سلطة التنبؤ الحكومي والابتكار"
+     },
+     "fr": {
+      "v": "Autorité gouvernementale de prospective et d'innovation"
+     },
+     "de": {
+      "k": "Typ",
+      "v": "Regierungsbehörde für Vorausschau und Innovation"
+     },
+     "zh": {
+      "k": "类型",
+      "v": "政府战略预见与创新机构"
+     }
+    }
+   },
+   {
+    "id": "established",
+    "k": "Established",
+    "v": "2016"
+   },
+   {
+    "id": "founder",
+    "k": "Founder",
+    "v": "H.H. Sheikh Mohammed bin Rashid Al Maktoum"
+   },
+   {
+    "id": "chairman",
+    "k": "Chairman",
+    "v": "H.H. Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum"
+   },
+   {
+    "id": "ceo",
+    "k": "Ceo",
+    "v": "H.E. Khalfan Juma Belhoul"
+   },
+   {
+    "id": "hq",
+    "k": "Hq",
+    "v": "Emirates Towers, Dubai"
+   },
+   {
+    "id": "evtol_role",
+    "k": "Evtol Role",
+    "v": "Strategy, foresight, sandbox enabler"
+   },
+   {
+    "id": "status",
+    "k": "Status",
+    "v": "Operational",
+    "i18n": {
+     "ar": {
+      "k": "الحالة"
+     },
+     "fr": {
+      "k": "Statut"
+     },
+     "zh": {
+      "k": "状态"
+     }
+    }
+   }
+  ]
  }
 }

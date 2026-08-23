@@ -102,6 +102,167 @@
     "name": "Dubai air taxi launch tracker",
     "meta_description": "Not flying yet. As of 22 August 2026 Dubai's air taxi has a certified vertiport (VDX, 7 Jul 2026) and a target of first passengers before the end of 2026. Every milestone on the road to launch, dated and sourced."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "commercial_service",
+    "k": "Commercial service",
+    "v": "NOT LAUNCHED (as of 22 Aug 2026)",
+    "i18n": {
+     "ar": {
+      "k": "الخدمة التجارية",
+      "v": "لم تُطلق (حتى 22 أغسطس 2026)"
+     },
+     "fr": {
+      "k": "Service commercial",
+      "v": "NON LANCÉ (au 22 août 2026)"
+     },
+     "de": {
+      "k": "Kommerzieller Dienst",
+      "v": "NICHT GESTARTET (Stand 22. Aug. 2026)"
+     },
+     "zh": {
+      "k": "商业服务",
+      "v": "未开通（截至 2026-08-22）"
+     }
+    }
+   },
+   {
+    "id": "stated_target",
+    "k": "Stated target",
+    "v": "First passengers before end of 2026 (Joby, Feb 2026)",
+    "i18n": {
+     "ar": {
+      "k": "الهدف المعلن",
+      "v": "أول الركاب قبل نهاية 2026 (جوبي، فبراير 2026)"
+     },
+     "fr": {
+      "k": "Objectif affiché",
+      "v": "Premiers passagers avant fin 2026 (Joby, fév. 2026)"
+     },
+     "de": {
+      "k": "Erklärtes Ziel",
+      "v": "Erste Passagiere vor Ende 2026 (Joby, Feb. 2026)"
+     },
+     "zh": {
+      "k": "官方目标",
+      "v": "2026 年底前搭载首批乘客（Joby，2026 年 2 月）"
+     }
+    }
+   },
+   {
+    "id": "vertiport",
+    "k": "Vertiport",
+    "v": "VDX at DXB — GCAA-certified 7 Jul 2026",
+    "i18n": {
+     "ar": {
+      "k": "الفرتيبورت",
+      "v": "VDX عند مطار دبي — معتمد في 7 يوليو 2026"
+     },
+     "fr": {
+      "v": "VDX à DXB — certifié GCAA le 7 juil. 2026"
+     },
+     "de": {
+      "v": "VDX am DXB — GCAA-zertifiziert 7. Juli 2026"
+     },
+     "zh": {
+      "k": "垂直起降场",
+      "v": "DXB 旁 VDX — 2026-07-07 获 GCAA 认证"
+     }
+    }
+   },
+   {
+    "id": "flight_testing",
+    "k": "Flight testing",
+    "v": "Piloted campaign complete incl. 17-min point-to-point",
+    "i18n": {
+     "ar": {
+      "k": "اختبارات الطيران",
+      "v": "حملة مأهولة مكتملة تشمل رحلة 17 دقيقة"
+     },
+     "fr": {
+      "k": "Essais en vol",
+      "v": "Campagne pilotée achevée, dont un vol de 17 min"
+     },
+     "de": {
+      "k": "Flugerprobung",
+      "v": "Pilotierte Kampagne abgeschlossen, inkl. 17-Min.-Flug"
+     },
+     "zh": {
+      "k": "试飞",
+      "v": "有人驾驶试飞完成，含 17 分钟点对点飞行"
+     }
+    }
+   },
+   {
+    "id": "booking",
+    "k": "Booking",
+    "v": "Uber app at launch — announced 25 Feb 2026",
+    "i18n": {
+     "ar": {
+      "k": "الحجز",
+      "v": "تطبيق أوبر عند الإطلاق — أُعلن 25 فبراير 2026"
+     },
+     "fr": {
+      "k": "Réservation",
+      "v": "App Uber au lancement — annoncé le 25 fév. 2026"
+     },
+     "de": {
+      "k": "Buchung",
+      "v": "Uber-App zum Start — angekündigt 25. Feb. 2026"
+     },
+     "zh": {
+      "k": "预订",
+      "v": "开通后经 Uber 应用 — 2026-02-25 宣布"
+     }
+    }
+   },
+   {
+    "id": "fares",
+    "k": "Fares",
+    "v": "Not announced",
+    "i18n": {
+     "ar": {
+      "k": "الأجرة",
+      "v": "غير معلنة"
+     },
+     "fr": {
+      "k": "Tarifs",
+      "v": "Non annoncés"
+     },
+     "de": {
+      "k": "Preise",
+      "v": "Nicht angekündigt"
+     },
+     "zh": {
+      "k": "票价",
+      "v": "未公布"
+     }
+    }
+   },
+   {
+    "id": "still_pending",
+    "k": "Still pending",
+    "v": "Joby operational certification with the GCAA; first passenger flight",
+    "i18n": {
+     "ar": {
+      "k": "ما زال معلقاً",
+      "v": "اعتماد جوبي التشغيلي من الهيئة؛ أول رحلة ركاب"
+     },
+     "fr": {
+      "k": "Encore en attente",
+      "v": "Certification opérationnelle GCAA de Joby ; premier vol passagers"
+     },
+     "de": {
+      "k": "Noch offen",
+      "v": "GCAA-Betriebszertifizierung für Joby; erster Passagierflug"
+     },
+     "zh": {
+      "k": "仍待完成",
+      "v": "Joby 的 GCAA 运营认证；首个载客航班"
+     }
+    }
+   }
+  ]
  }
 }

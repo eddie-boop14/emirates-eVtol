@@ -1,0 +1,623 @@
+{
+ "Aircraft": {
+  "ar": {
+   "label": "الطائرة"
+  },
+  "fr": {
+   "label": "Aéronef",
+   "variants": [
+    "Appareil"
+   ]
+  },
+  "de": {
+   "label": "Luftfahrzeug",
+   "variants": [
+    "Fluggerät"
+   ]
+  },
+  "zh": {
+   "label": "飞行器",
+   "variants": [
+    "机型"
+   ]
+  }
+ },
+ "Aircraft speed": {
+  "ar": {
+   "label": "سرعة الطائرة"
+  },
+  "fr": {
+   "label": "Vitesse de l’appareil"
+  },
+  "de": {
+   "label": "Fluggerät"
+  },
+  "zh": {
+   "label": "机型性能"
+  }
+ },
+ "Bookable today": {
+  "ar": {
+   "label": "الحجز متاح اليوم؟"
+  },
+  "fr": {
+   "label": "Réservable aujourd’hui"
+  },
+  "de": {
+   "label": "Heute buchbar"
+  },
+  "zh": {
+   "label": "今天能预订吗"
+  }
+ },
+ "Booking": {
+  "ar": {
+   "label": "الحجز"
+  },
+  "fr": {
+   "label": "Réservation"
+  },
+  "de": {
+   "label": "Buchung"
+  },
+  "zh": {
+   "label": "预订"
+  }
+ },
+ "Booking channel": {
+  "ar": {
+   "label": "قناة الحجز"
+  },
+  "fr": {
+   "label": "Canal de réservation"
+  },
+  "de": {
+   "label": "Buchungskanal"
+  },
+  "zh": {
+   "label": "预订渠道"
+  }
+ },
+ "Builder": {
+  "ar": {
+   "label": "جهة الإنشاء"
+  },
+  "fr": {
+   "label": "Constructeur"
+  },
+  "de": {
+   "label": "Errichter"
+  },
+  "zh": {
+   "label": "建造方"
+  }
+ },
+ "Certification": {
+  "ar": {
+   "label": "الشهادة"
+  },
+  "de": {
+   "label": "Zertifizierung"
+  },
+  "zh": {
+   "label": "认证"
+  }
+ },
+ "Commercial routes flying": {
+  "ar": {
+   "label": "مسارات تجارية تعمل"
+  },
+  "fr": {
+   "label": "Lignes commerciales actives"
+  },
+  "de": {
+   "label": "Aktive kommerzielle Strecken"
+  },
+  "zh": {
+   "label": "运营中的商业航线"
+  }
+ },
+ "Commercial service": {
+  "ar": {
+   "label": "الخدمة التجارية"
+  },
+  "fr": {
+   "label": "Service commercial"
+  },
+  "de": {
+   "label": "Kommerzieller Dienst"
+  },
+  "zh": {
+   "label": "商业服务"
+  }
+ },
+ "Destination": {
+  "ar": {
+   "label": "الوجهة"
+  },
+  "de": {
+   "label": "Ziel"
+  },
+  "zh": {
+   "label": "终点"
+  }
+ },
+ "Dubai Marina site": {
+  "ar": {
+   "label": "موقع دبي مارينا"
+  },
+  "fr": {
+   "label": "Site Dubai Marina"
+  },
+  "de": {
+   "label": "Standort Dubai Marina"
+  },
+  "zh": {
+   "label": "迪拜码头站点"
+  }
+ },
+ "Duration": {
+  "ar": {
+   "label": "المدة"
+  },
+  "fr": {
+   "label": "Durée"
+  },
+  "de": {
+   "label": "Dauer"
+  },
+  "zh": {
+   "label": "时长"
+  }
+ },
+ "Exclusivity": {
+  "ar": {
+   "label": "الحصرية"
+  },
+  "fr": {
+   "label": "Exclusivité"
+  },
+  "de": {
+   "label": "Exklusivität"
+  },
+  "zh": {
+   "label": "独家权益"
+  }
+ },
+ "Fares": {
+  "ar": {
+   "label": "الأجرة"
+  },
+  "fr": {
+   "label": "Tarifs"
+  },
+  "de": {
+   "label": "Preise"
+  },
+  "zh": {
+   "label": "票价"
+  }
+ },
+ "First flight": {
+  "ar": {
+   "label": "الرحلة الأولى"
+  },
+  "fr": {
+   "label": "Premier vol"
+  },
+  "de": {
+   "label": "Erstflug"
+  },
+  "zh": {
+   "label": "首飞"
+  }
+ },
+ "First route base": {
+  "ar": {
+   "label": "نقطة الانطلاق الأولى"
+  },
+  "fr": {
+   "label": "Premier point de départ"
+  },
+  "de": {
+   "label": "Erster Startpunkt"
+  },
+  "zh": {
+   "label": "首发起点"
+  }
+ },
+ "Flight testing": {
+  "ar": {
+   "label": "اختبارات الطيران"
+  },
+  "fr": {
+   "label": "Essais en vol"
+  },
+  "de": {
+   "label": "Flugerprobung"
+  },
+  "zh": {
+   "label": "试飞"
+  }
+ },
+ "Headquarters": {
+  "ar": {
+   "label": "المقر"
+  },
+  "fr": {
+   "label": "Siège"
+  },
+  "de": {
+   "label": "Hauptsitz"
+  },
+  "zh": {
+   "label": "总部"
+  }
+ },
+ "How it works": {
+  "ar": {
+   "label": "آلية العمل"
+  },
+  "fr": {
+   "label": "Fonctionnement"
+  },
+  "de": {
+   "label": "Ablauf"
+  },
+  "zh": {
+   "label": "使用方式"
+  }
+ },
+ "Jurisdiction": {
+  "ar": {
+   "label": "الاختصاص"
+  },
+  "fr": {
+   "label": "Juridiction"
+  },
+  "de": {
+   "label": "Zuständigkeit"
+  },
+  "zh": {
+   "label": "管辖范围"
+  }
+ },
+ "Launch fare": {
+  "ar": {
+   "label": "أجرة الإطلاق"
+  },
+  "fr": {
+   "label": "Tarif de lancement"
+  },
+  "de": {
+   "label": "Startpreis"
+  },
+  "zh": {
+   "label": "首发票价"
+  }
+ },
+ "Launch vertiports": {
+  "ar": {
+   "label": "فرتيبورت الإطلاق"
+  },
+  "fr": {
+   "label": "Vertiports de lancement"
+  },
+  "de": {
+   "label": "Start-Vertiports"
+  },
+  "zh": {
+   "label": "首发起降场"
+  }
+ },
+ "Launch window": {
+  "ar": {
+   "label": "نافذة الإطلاق"
+  },
+  "fr": {
+   "label": "Fenêtre de lancement"
+  },
+  "de": {
+   "label": "Startfenster"
+  },
+  "zh": {
+   "label": "开通窗口"
+  }
+ },
+ "Long-term aim": {
+  "ar": {
+   "label": "الهدف بعيد المدى"
+  },
+  "fr": {
+   "label": "Objectif long terme"
+  },
+  "de": {
+   "label": "Langfristziel"
+  },
+  "zh": {
+   "label": "长期目标"
+  }
+ },
+ "Manufacturer": {
+  "ar": {
+   "label": "الصانع"
+  },
+  "fr": {
+   "label": "Fabricant"
+  },
+  "de": {
+   "label": "Hersteller"
+  },
+  "zh": {
+   "label": "制造商"
+  }
+ },
+ "Measured flight time": {
+  "ar": {
+   "label": "زمن رحلة مُقاس"
+  },
+  "fr": {
+   "label": "Temps de vol mesuré"
+  },
+  "de": {
+   "label": "Gemessene Flugzeit"
+  },
+  "zh": {
+   "label": "实测飞行时间"
+  }
+ },
+ "Official waitlist": {
+  "ar": {
+   "label": "قائمة انتظار رسمية"
+  },
+  "fr": {
+   "label": "Liste d’attente officielle"
+  },
+  "de": {
+   "label": "Offizielle Warteliste"
+  },
+  "zh": {
+   "label": "官方候补名单"
+  }
+ },
+ "Operator": {
+  "ar": {
+   "label": "المشغّل"
+  },
+  "fr": {
+   "label": "Exploitant"
+  },
+  "de": {
+   "label": "Betreiber"
+  },
+  "zh": {
+   "label": "运营方"
+  }
+ },
+ "Origin": {
+  "ar": {
+   "label": "المنشأ"
+  },
+  "fr": {
+   "label": "Origine"
+  },
+  "de": {
+   "label": "Ursprung"
+  },
+  "zh": {
+   "label": "起点"
+  }
+ },
+ "Passengers": {
+  "ar": {
+   "label": "الركاب"
+  },
+  "fr": {
+   "label": "Passagers"
+  },
+  "de": {
+   "label": "Passagiere"
+  },
+  "zh": {
+   "label": "乘客"
+  }
+ },
+ "Price anchor": {
+  "ar": {
+   "label": "السقف المعلن"
+  },
+  "fr": {
+   "label": "Plafond annoncé"
+  },
+  "de": {
+   "label": "Genannte Obergrenze"
+  },
+  "zh": {
+   "label": "价格上限"
+  }
+ },
+ "Property partner": {
+  "ar": {
+   "label": "الشريك العقاري"
+  },
+  "fr": {
+   "label": "Partenaire foncier"
+  },
+  "de": {
+   "label": "Grundstückspartner"
+  },
+  "zh": {
+   "label": "地产合作方"
+  }
+ },
+ "RTA on record": {
+  "ar": {
+   "label": "تصريح هيئة الطرق"
+  },
+  "fr": {
+   "label": "RTA officielle"
+  },
+  "de": {
+   "label": "RTA offiziell"
+  },
+  "zh": {
+   "label": "RTA 表态"
+  }
+ },
+ "Range": {
+  "ar": {
+   "label": "المدى"
+  },
+  "fr": {
+   "label": "Autonomie"
+  },
+  "de": {
+   "label": "Reichweite"
+  },
+  "zh": {
+   "label": "航程"
+  }
+ },
+ "Regulator": {
+  "ar": {
+   "label": "الجهة التنظيمية"
+  },
+  "fr": {
+   "label": "Régulateur"
+  },
+  "de": {
+   "label": "Aufsichtsbehörde"
+  },
+  "zh": {
+   "label": "监管机构"
+  }
+ },
+ "Role": {
+  "ar": {
+   "label": "الدور"
+  },
+  "fr": {
+   "label": "Rôle"
+  },
+  "de": {
+   "label": "Rolle"
+  },
+  "zh": {
+   "label": "角色"
+  }
+ },
+ "Service status": {
+  "ar": {
+   "label": "حالة الخدمة"
+  },
+  "fr": {
+   "label": "État du service"
+  },
+  "de": {
+   "label": "Dienststatus"
+  },
+  "zh": {
+   "label": "服务状态"
+  }
+ },
+ "Stated target": {
+  "ar": {
+   "label": "الهدف المعلن"
+  },
+  "fr": {
+   "label": "Objectif affiché"
+  },
+  "de": {
+   "label": "Erklärtes Ziel"
+  },
+  "zh": {
+   "label": "官方目标"
+  }
+ },
+ "Status": {
+  "ar": {
+   "label": "الحالة"
+  },
+  "fr": {
+   "label": "Statut"
+  },
+  "zh": {
+   "label": "状态"
+  }
+ },
+ "Still pending": {
+  "ar": {
+   "label": "ما زال معلقاً"
+  },
+  "fr": {
+   "label": "Encore en attente"
+  },
+  "de": {
+   "label": "Noch offen"
+  },
+  "zh": {
+   "label": "仍待完成"
+  }
+ },
+ "The AED 350 claim": {
+  "ar": {
+   "label": "رقم 350 درهماً"
+  },
+  "fr": {
+   "label": "Le chiffre 350 AED"
+  },
+  "de": {
+   "label": "Die 350-AED-Zahl"
+  },
+  "zh": {
+   "label": "350 迪拉姆之说"
+  }
+ },
+ "Type": {
+  "ar": {
+   "label": "النوع"
+  },
+  "de": {
+   "label": "Typ"
+  },
+  "zh": {
+   "label": "类型"
+  }
+ },
+ "VDX capacity": {
+  "ar": {
+   "label": "سعة VDX"
+  },
+  "fr": {
+   "label": "Capacité VDX"
+  },
+  "de": {
+   "label": "VDX-Kapazität"
+  },
+  "zh": {
+   "label": "VDX 容量"
+  }
+ },
+ "VDX status": {
+  "ar": {
+   "label": "حالة VDX"
+  },
+  "fr": {
+   "label": "Statut VDX"
+  },
+  "de": {
+   "label": "VDX-Status"
+  },
+  "zh": {
+   "label": "VDX 状态"
+  }
+ },
+ "Vertiport": {
+  "ar": {
+   "label": "الفرتيبورت"
+  },
+  "zh": {
+   "label": "垂直起降场"
+  }
+ }
+}

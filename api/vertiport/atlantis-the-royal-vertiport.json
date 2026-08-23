@@ -81,6 +81,135 @@
     "name": "Atlantis The Royal Vertiport",
     "meta_description": "Atlantis The Royal Vertiport, Palm Jumeirah node of Dubai's eVTOL network announced 17 November 2025. Joby Aviation, RTA, Skyports - status and sources."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "Vertiport (announced - planning stage)",
+    "i18n": {
+     "ar": {
+      "k": "النوع"
+     },
+     "de": {
+      "k": "Typ"
+     },
+     "zh": {
+      "k": "类型"
+     }
+    }
+   },
+   {
+    "id": "operator",
+    "k": "Operator",
+    "v": "Skyports Infrastructure (vertiport) / Joby Aviation (air taxi)",
+    "i18n": {
+     "ar": {
+      "k": "المشغّل",
+      "v": "Skyports Infrastructure (مطار عمودي) / Joby Aviation (سيارة أجرة جوية)"
+     },
+     "fr": {
+      "k": "Exploitant",
+      "v": "Skyports Infrastructure (vertiport) / Joby Aviation (taxi aérien)"
+     },
+     "de": {
+      "k": "Betreiber",
+      "v": "Skyports Infrastructure (Vertiport) / Joby Aviation (Flugtaxi)"
+     },
+     "zh": {
+      "k": "运营方",
+      "v": "Skyports Infrastructure (垂直起降机场) / Joby Aviation (空中出租车)"
+     }
+    }
+   },
+   {
+    "id": "builder",
+    "k": "Builder",
+    "v": "Skyports Infrastructure",
+    "i18n": {
+     "ar": {
+      "k": "جهة الإنشاء"
+     },
+     "fr": {
+      "k": "Constructeur"
+     },
+     "de": {
+      "k": "Errichter"
+     },
+     "zh": {
+      "k": "建造方"
+     }
+    }
+   },
+   {
+    "id": "land_partner",
+    "k": "Land Partner",
+    "v": "Atlantis The Royal"
+   },
+   {
+    "id": "aircraft",
+    "k": "Aircraft",
+    "v": "Joby S4",
+    "i18n": {
+     "ar": {
+      "k": "الطائرة"
+     },
+     "fr": {
+      "k": "Aéronef"
+     },
+     "de": {
+      "k": "Luftfahrzeug"
+     },
+     "zh": {
+      "k": "飞行器"
+     }
+    }
+   },
+   {
+    "id": "status",
+    "k": "Status",
+    "v": "Announced 17 November 2025 - no construction reported",
+    "i18n": {
+     "ar": {
+      "k": "الحالة",
+      "v": "معلن 17 نوفمبر 2025 - لم يتم الإبلاغ عن بناء"
+     },
+     "fr": {
+      "k": "Statut",
+      "v": "Annoncé le 17 novembre 2025 - aucune construction rapportée"
+     },
+     "de": {
+      "v": "Angekuendigt 17. November 2025 - keine Bautaetigkeit berichtet"
+     },
+     "zh": {
+      "k": "状态",
+      "v": "于 2025 年 11 月 17 日宣布 - 未报告建设"
+     }
+    }
+   },
+   {
+    "id": "exclusivity",
+    "k": "Exclusivity",
+    "v": "Joby - 6-year exclusive RTA agreement signed 11 February 2024",
+    "i18n": {
+     "ar": {
+      "k": "الحصرية",
+      "v": "Joby - اتفاقية RTA حصرية لمدة 6 سنوات وقعت في 11 فبراير 2024"
+     },
+     "fr": {
+      "k": "Exclusivité",
+      "v": "Joby - accord RTA exclusif de 6 ans signé le 11 février 2024"
+     },
+     "de": {
+      "k": "Exklusivität",
+      "v": "Joby - 6-Jahre Exklusiv-RTA-Vereinbarung unterzeichnet 11. Februar 2024"
+     },
+     "zh": {
+      "k": "独家权益",
+      "v": "Joby - 6 年独家 RTA 协议于 2024 年 2 月 11 日签署"
+     }
+    }
+   }
+  ]
  }
 }

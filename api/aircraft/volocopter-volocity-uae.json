@@ -74,6 +74,111 @@
     "name": "Volocopter VoloCity (UAE History)",
     "meta_description": "Volocopter VoloCity UAE history: world-first autonomous air taxi flight in Dubai 25 September 2017. Programme ended after Volocopter insolvency December 2024."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "Multirotor pilotless eVTOL (Volocopter 2X / VoloCity)",
+    "i18n": {
+     "ar": {
+      "k": "النوع",
+      "v": "طائرة eVTOL بدون طيار متعددة الأجنحة (Volocopter 2X / VoloCity)"
+     },
+     "fr": {
+      "v": "eVTOL multirotor sans pilote (Volocopter 2X / VoloCity)"
+     },
+     "de": {
+      "k": "Typ",
+      "v": "Multirotor-Drohnen-eVTOL (Volocopter 2X / VoloCity)"
+     },
+     "zh": {
+      "k": "类型",
+      "v": "多旋翼无人eVTOL(Volocopter 2X / VoloCity)"
+     }
+    }
+   },
+   {
+    "id": "manufacturer",
+    "k": "Manufacturer",
+    "v": "Volocopter GmbH (Bruchsal, Germany)",
+    "i18n": {
+     "ar": {
+      "k": "الصانع"
+     },
+     "fr": {
+      "k": "Fabricant"
+     },
+     "de": {
+      "k": "Hersteller"
+     },
+     "zh": {
+      "k": "制造商"
+     }
+    }
+   },
+   {
+    "id": "configuration",
+    "k": "Configuration",
+    "v": "2 passengers · 18 rotors (autonomous)"
+   },
+   {
+    "id": "uae_partner_historic",
+    "k": "Uae Partner Historic",
+    "v": "Roads and Transport Authority (RTA) Dubai",
+    "i18n": {
+     "ar": {
+      "v": "هيئة الطرق والمواصلات (RTA) دبي"
+     },
+     "fr": {
+      "v": "Autorité des routes et transports de Dubaï (RTA)"
+     },
+     "zh": {
+      "v": "迪拜道路与运输局(RTA)"
+     }
+    }
+   },
+   {
+    "id": "uae_first_flight",
+    "k": "Uae First Flight",
+    "v": "25 September 2017 (Volocopter 2X, near Jumeirah Beach Park)",
+    "i18n": {
+     "ar": {
+      "v": "25 سبتمبر 2017 (Volocopter 2X، بالقرب من حديقة جميرا الشاطئية)"
+     },
+     "fr": {
+      "v": "25 septembre 2017 (Volocopter 2X, près de Jumeirah Beach Park)"
+     },
+     "de": {
+      "v": "25. September 2017 (Volocopter 2X, in der Nähe von Jumeirah Beach Park)"
+     },
+     "zh": {
+      "v": "2017年9月25日(Volocopter 2X，Jumeirah Beach Park附近)"
+     }
+    }
+   },
+   {
+    "id": "status",
+    "k": "Status",
+    "v": "Decommissioned — Volocopter insolvency 2024–2025",
+    "i18n": {
+     "ar": {
+      "k": "الحالة",
+      "v": "مستبعدة من الخدمة — إفلاس Volocopter 2024–2025"
+     },
+     "fr": {
+      "k": "Statut",
+      "v": "Désaffectée — insolvabilité de Volocopter 2024–2025"
+     },
+     "de": {
+      "v": "Außer Betrieb — Volocopter-Insolvenz 2024–2025"
+     },
+     "zh": {
+      "k": "状态",
+      "v": "已停用——Volocopter破产2024–2025"
+     }
+    }
+   }
+  ]
  }
 }

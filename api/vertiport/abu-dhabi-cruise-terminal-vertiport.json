@@ -60,6 +60,125 @@
     "name": "Abu Dhabi Cruise Terminal Hybrid Heliport",
     "meta_description": "GCAA design approval announced 23 April 2025. UAE's first hybrid heliport, converting an existing helipad to dual heliport/vertiport use. Partnership between Archer Aviation, Falcon Aviation Services, and Abu Dhabi Aviation."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "Hybrid heliport (rotorcraft + eVTOL)",
+    "i18n": {
+     "ar": {
+      "k": "النوع"
+     },
+     "de": {
+      "k": "Typ"
+     },
+     "zh": {
+      "k": "类型"
+     }
+    }
+   },
+   {
+    "id": "operator",
+    "k": "Operator",
+    "v": "Abu Dhabi Aviation (under Archer agreement)",
+    "i18n": {
+     "ar": {
+      "k": "المشغّل",
+      "v": "Abu Dhabi Aviation (بموجب اتفاق Archer)"
+     },
+     "fr": {
+      "k": "Exploitant",
+      "v": "Abu Dhabi Aviation (selon l'accord Archer)"
+     },
+     "de": {
+      "k": "Betreiber"
+     },
+     "zh": {
+      "k": "运营方",
+      "v": "Abu Dhabi Aviation（根据 Archer 协议）"
+     }
+    }
+   },
+   {
+    "id": "builder",
+    "k": "Builder",
+    "v": "Falcon Aviation Services",
+    "i18n": {
+     "ar": {
+      "k": "جهة الإنشاء"
+     },
+     "fr": {
+      "k": "Constructeur"
+     },
+     "de": {
+      "k": "Errichter"
+     },
+     "zh": {
+      "k": "建造方"
+     }
+    }
+   },
+   {
+    "id": "regulator",
+    "k": "Regulator",
+    "v": "GCAA (UAE)",
+    "i18n": {
+     "ar": {
+      "k": "الجهة التنظيمية"
+     },
+     "fr": {
+      "k": "Régulateur"
+     },
+     "de": {
+      "k": "Aufsichtsbehörde"
+     },
+     "zh": {
+      "k": "监管机构"
+     }
+    }
+   },
+   {
+    "id": "aircraft",
+    "k": "Aircraft",
+    "v": "Archer Midnight",
+    "i18n": {
+     "ar": {
+      "k": "الطائرة"
+     },
+     "fr": {
+      "k": "Aéronef"
+     },
+     "de": {
+      "k": "Luftfahrzeug"
+     },
+     "zh": {
+      "k": "飞行器"
+     }
+    }
+   },
+   {
+    "id": "status",
+    "k": "Status",
+    "v": "Design approved by GCAA (23 Apr 2025); H2 2025 completion target slipped",
+    "i18n": {
+     "ar": {
+      "k": "الحالة",
+      "v": "الموافقة على التصميم من قبل GCAA (23 أبريل 2025)؛ هدف الإنجاز في النصف الثاني من 2025 تأخر"
+     },
+     "fr": {
+      "k": "Statut",
+      "v": "Conception approuvée par la GCAA (23 avril 2025) ; l'objectif d'achèvement H2 2025 a glissé"
+     },
+     "de": {
+      "v": "Design genehmigt durch GCAA (23. April 2025); H2 2025 Fertigungsziel verschoben"
+     },
+     "zh": {
+      "k": "状态",
+      "v": "GCAA 设计批准（2025年4月23日）；H2 2025 完成目标已推迟"
+     }
+    }
+   }
+  ]
  }
 }

@@ -53,6 +53,108 @@
     "name": "Margham → Al Maktoum International (DWC)",
     "meta_description": "Joby flew the UAE's first piloted point-to-point eVTOL route on 9 November 2025: 17 minutes from Margham flight test facility to DWC. Sources verified."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "Demonstration route (point-to-point)",
+    "i18n": {
+     "ar": {
+      "k": "النوع"
+     },
+     "de": {
+      "k": "Typ"
+     },
+     "zh": {
+      "k": "类型"
+     }
+    }
+   },
+   {
+    "id": "operator",
+    "k": "Operator",
+    "v": "Joby Aviation",
+    "i18n": {
+     "ar": {
+      "k": "المشغّل"
+     },
+     "fr": {
+      "k": "Exploitant"
+     },
+     "de": {
+      "k": "Betreiber"
+     },
+     "zh": {
+      "k": "运营方"
+     }
+    }
+   },
+   {
+    "id": "aircraft",
+    "k": "Aircraft",
+    "v": "Joby S4 (piloted, all-electric)",
+    "i18n": {
+     "ar": {
+      "k": "الطائرة"
+     },
+     "fr": {
+      "k": "Aéronef"
+     },
+     "de": {
+      "k": "Luftfahrzeug"
+     },
+     "zh": {
+      "k": "飞行器"
+     }
+    }
+   },
+   {
+    "id": "duration",
+    "k": "Duration",
+    "v": "17 minutes",
+    "i18n": {
+     "ar": {
+      "k": "المدة"
+     },
+     "fr": {
+      "k": "Durée"
+     },
+     "de": {
+      "k": "Dauer"
+     },
+     "zh": {
+      "k": "时长"
+     }
+    }
+   },
+   {
+    "id": "first_flown",
+    "k": "First Flown",
+    "v": "9 November 2025"
+   },
+   {
+    "id": "status",
+    "k": "Status",
+    "v": "Trial only · not part of announced commercial network",
+    "i18n": {
+     "ar": {
+      "k": "الحالة",
+      "v": "تجربة فقط · ليست جزءاً من الشبكة التجارية المعلنة"
+     },
+     "fr": {
+      "k": "Statut",
+      "v": "Essai uniquement · ne fait pas partie du réseau commercial annoncé"
+     },
+     "de": {
+      "v": "Nur Erprobung · nicht Teil des angekündigten kommerziellen Netzes"
+     },
+     "zh": {
+      "k": "状态",
+      "v": "仅为试验飞行·不属于已公布的商业网络"
+     }
+    }
+   }
+  ]
  }
 }

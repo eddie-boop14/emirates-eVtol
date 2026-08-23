@@ -88,6 +88,119 @@
     "name": "Gulf eVTOL — UAE vs Qatar compared",
     "meta_description": "Compares the UAE eVTOL programme (Joby S4 piloted, Dubai 2026 launch) and the Qatar eVTOL programme (EHang EH216-S pilotless, Doha trial Nov 2025)."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "Answer page (cross-country comparison)",
+    "i18n": {
+     "ar": {
+      "k": "النوع"
+     },
+     "de": {
+      "k": "Typ"
+     },
+     "zh": {
+      "k": "类型"
+     }
+    }
+   },
+   {
+    "id": "uae_lead_operator",
+    "k": "Uae Lead Operator",
+    "v": "Joby Aviation (Dubai exclusive 6 yrs from launch)",
+    "i18n": {
+     "fr": {
+      "v": "Joby Aviation (exclusivité Dubai 6 ans à partir du lancement)"
+     },
+     "de": {
+      "v": "Joby Aviation (Dubai exklusiv 6 Jahre ab Start)"
+     },
+     "zh": {
+      "v": "Joby Aviation(Dubai独占6年起始于发布)"
+     }
+    }
+   },
+   {
+    "id": "uae_secondary_operator",
+    "k": "Uae Secondary Operator",
+    "v": "Archer Aviation (Abu Dhabi)"
+   },
+   {
+    "id": "uae_aircraft",
+    "k": "Uae Aircraft",
+    "v": "Joby S4 (piloted, 1+4) · Archer Midnight (piloted, 1+4)",
+    "i18n": {
+     "ar": {
+      "v": "Joby S4 (برقيب، 1+4) · Archer Midnight (برقيب، 1+4)"
+     },
+     "fr": {
+      "v": "Joby S4 (piloté, 1+4) · Archer Midnight (piloté, 1+4)"
+     },
+     "de": {
+      "v": "Joby S4 (pilotiert, 1+4) · Archer Midnight (pilotiert, 1+4)"
+     },
+     "zh": {
+      "v": "Joby S4(有人驾驶，1+4) · Archer Midnight(有人驾驶，1+4)"
+     }
+    }
+   },
+   {
+    "id": "uae_first_pp_flight",
+    "k": "Uae First Pp Flight",
+    "v": "Joby S4 — Margham → DWC, 9 Nov 2025, 17 minutes",
+    "i18n": {
+     "fr": {
+      "v": "Joby S4 — Margham → DWC, 9 nov 2025, 17 minutes"
+     },
+     "de": {
+      "v": "Joby S4 — Margham → DWC, 9. November 2025, 17 Minuten"
+     },
+     "zh": {
+      "v": "Joby S4 — Margham → DWC，2025年11月9日，17分钟"
+     }
+    }
+   },
+   {
+    "id": "uae_commercial_target",
+    "k": "Uae Commercial Target",
+    "v": "2026 (Dubai)"
+   },
+   {
+    "id": "qatar_lead_operator",
+    "k": "Qatar Lead Operator",
+    "v": "EHang (with MoT and QCAA)"
+   },
+   {
+    "id": "qatar_aircraft",
+    "k": "Qatar Aircraft",
+    "v": "EHang EH216-S (pilotless, 2 seats)"
+   },
+   {
+    "id": "qatar_first_pp_flight",
+    "k": "Qatar First Pp Flight",
+    "v": "EH216-S — Old Doha Port ↔ Katara, 17 Nov 2025, 8 minutes",
+    "i18n": {
+     "ar": {
+      "v": "EH216-S — Old Doha Port ↔ Katara، 17 نوفمبر 2025، 8 دقائق"
+     },
+     "fr": {
+      "v": "EH216-S — Old Doha Port ↔ Katara, 17 nov 2025, 8 minutes"
+     },
+     "de": {
+      "v": "EH216-S — Old Doha Port ↔ Katara, 17. November 2025, 8 Minuten"
+     },
+     "zh": {
+      "v": "EH216-S — Old Doha Port ↔ Katara，2025年11月17日，8分钟"
+     }
+    }
+   },
+   {
+    "id": "qatar_commercial_target",
+    "k": "Qatar Commercial Target",
+    "v": "Not published"
+   }
+  ]
  }
 }

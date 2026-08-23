@@ -81,6 +81,167 @@
     "name": "Dubai air taxi routes & flight times",
     "meta_description": "Four launch vertiports: VDX at DXB (GCAA-certified 7 Jul 2026, world's first), Dubai Marina (under construction), Dubai Mall and Palm Jumeirah. First point-to-point flight took 17 minutes (Margham to DWC, 9 Nov 2025)."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "launch_vertiports",
+    "k": "Launch vertiports",
+    "v": "VDX (DXB) · Dubai Marina · Dubai Mall · Palm Jumeirah",
+    "i18n": {
+     "ar": {
+      "k": "فرتيبورت الإطلاق",
+      "v": "VDX (مطار دبي) · دبي مارينا · دبي مول · نخلة جميرا"
+     },
+     "fr": {
+      "k": "Vertiports de lancement"
+     },
+     "de": {
+      "k": "Start-Vertiports"
+     },
+     "zh": {
+      "k": "首发起降场",
+      "v": "VDX（DXB）· 迪拜码头 · 迪拜购物中心 · 朱美拉棕榈岛"
+     }
+    }
+   },
+   {
+    "id": "vdx_status",
+    "k": "VDX status",
+    "v": "GCAA-certified 7 Jul 2026 — world’s first",
+    "i18n": {
+     "ar": {
+      "k": "حالة VDX",
+      "v": "معتمد في 7 يوليو 2026 — الأول عالمياً"
+     },
+     "fr": {
+      "k": "Statut VDX",
+      "v": "Certifié GCAA le 7 juil. 2026 — première mondiale"
+     },
+     "de": {
+      "k": "VDX-Status",
+      "v": "GCAA-zertifiziert 7. Juli 2026 — weltweit erster"
+     },
+     "zh": {
+      "k": "VDX 状态",
+      "v": "2026-07-07 获 GCAA 认证 — 全球首例"
+     }
+    }
+   },
+   {
+    "id": "vdx_capacity",
+    "k": "VDX capacity",
+    "v": "Up to 170,000 passengers/year",
+    "i18n": {
+     "ar": {
+      "k": "سعة VDX",
+      "v": "حتى 170,000 راكب سنوياً"
+     },
+     "fr": {
+      "k": "Capacité VDX",
+      "v": "Jusqu’à 170 000 passagers/an"
+     },
+     "de": {
+      "k": "VDX-Kapazität",
+      "v": "Bis zu 170.000 Passagiere/Jahr"
+     },
+     "zh": {
+      "k": "VDX 容量",
+      "v": "每年最多 17 万人次"
+     }
+    }
+   },
+   {
+    "id": "dubai_marina_site",
+    "k": "Dubai Marina site",
+    "v": "AUD parking area (Wasl) — under construction",
+    "i18n": {
+     "ar": {
+      "k": "موقع دبي مارينا",
+      "v": "موقف الجامعة الأمريكية في دبي (وصل) — قيد الإنشاء"
+     },
+     "fr": {
+      "k": "Site Dubai Marina",
+      "v": "Parking de l’AUD (Wasl) — en construction"
+     },
+     "de": {
+      "k": "Standort Dubai Marina",
+      "v": "AUD-Parkgelände (Wasl) — im Bau"
+     },
+     "zh": {
+      "k": "迪拜码头站点",
+      "v": "迪拜美国大学停车场（Wasl 管理）— 建设中"
+     }
+    }
+   },
+   {
+    "id": "measured_flight_time",
+    "k": "Measured flight time",
+    "v": "Margham → DWC: 17 minutes (9 Nov 2025)",
+    "i18n": {
+     "ar": {
+      "k": "زمن رحلة مُقاس",
+      "v": "مرغم ← مطار آل مكتوم: 17 دقيقة (9 نوفمبر 2025)"
+     },
+     "fr": {
+      "k": "Temps de vol mesuré",
+      "v": "Margham → DWC : 17 minutes (9 nov. 2025)"
+     },
+     "de": {
+      "k": "Gemessene Flugzeit",
+      "v": "Margham → DWC: 17 Minuten (9. Nov. 2025)"
+     },
+     "zh": {
+      "k": "实测飞行时间",
+      "v": "Margham → DWC：17 分钟（2025-11-09）"
+     }
+    }
+   },
+   {
+    "id": "aircraft_speed",
+    "k": "Aircraft speed",
+    "v": "Joby S4 — up to 200 mph, 100 miles range",
+    "i18n": {
+     "ar": {
+      "k": "سرعة الطائرة",
+      "v": "جوبي S4 — حتى 320 كم/س، مدى 160 كم"
+     },
+     "fr": {
+      "k": "Vitesse de l’appareil",
+      "v": "Joby S4 — jusqu’à 320 km/h, autonomie 160 km"
+     },
+     "de": {
+      "k": "Fluggerät",
+      "v": "Joby S4 — bis 320 km/h, 160 km Reichweite"
+     },
+     "zh": {
+      "k": "机型性能",
+      "v": "Joby S4 — 最高约 320 公里/小时，续航约 160 公里"
+     }
+    }
+   },
+   {
+    "id": "commercial_routes_flying",
+    "k": "Commercial routes flying",
+    "v": "None yet (as of 22 Aug 2026)",
+    "i18n": {
+     "ar": {
+      "k": "مسارات تجارية تعمل",
+      "v": "لا شيء بعد (حتى 22 أغسطس 2026)"
+     },
+     "fr": {
+      "k": "Lignes commerciales actives",
+      "v": "Aucune (au 22 août 2026)"
+     },
+     "de": {
+      "k": "Aktive kommerzielle Strecken",
+      "v": "Keine (Stand 22. Aug. 2026)"
+     },
+     "zh": {
+      "k": "运营中的商业航线",
+      "v": "暂无（截至 2026-08-22）"
+     }
+    }
+   }
+  ]
  }
 }

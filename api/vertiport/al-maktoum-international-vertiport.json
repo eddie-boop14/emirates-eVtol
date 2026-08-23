@@ -60,6 +60,144 @@
     "name": "Al Maktoum International Airport Vertiport (DWC)",
     "meta_description": "Al Maktoum International Airport (DWC) was the landing site of the UAE's first piloted eVTOL flight on 9 November 2025. A formal vertiport is not confirmed by primary sources."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "Vertiport (announced — not confirmed by primary source)",
+    "i18n": {
+     "ar": {
+      "k": "النوع",
+      "v": "مطار عمودي (معلن — لم يتم تأكيده من قبل مصدر أولي)"
+     },
+     "fr": {
+      "v": "Vertiport (annoncé — non confirmé par source primaire)"
+     },
+     "de": {
+      "k": "Typ",
+      "v": "Vertiport (angekuendigt - nicht durch Primaerquelle bestaetigt)"
+     },
+     "zh": {
+      "k": "类型",
+      "v": "垂直起降机场(已宣布——未获一手资料确认)"
+     }
+    }
+   },
+   {
+    "id": "operator",
+    "k": "Operator",
+    "v": "Not published",
+    "i18n": {
+     "ar": {
+      "k": "المشغّل",
+      "v": "غير منشور"
+     },
+     "fr": {
+      "k": "Exploitant",
+      "v": "Non publié"
+     },
+     "de": {
+      "k": "Betreiber",
+      "v": "Nicht veröffentlicht"
+     },
+     "zh": {
+      "k": "运营方",
+      "v": "未公布"
+     }
+    }
+   },
+   {
+    "id": "builder",
+    "k": "Builder",
+    "v": "Not published",
+    "i18n": {
+     "ar": {
+      "k": "جهة الإنشاء",
+      "v": "غير منشور"
+     },
+     "fr": {
+      "k": "Constructeur",
+      "v": "Non publié"
+     },
+     "de": {
+      "k": "Errichter",
+      "v": "Nicht veröffentlicht"
+     },
+     "zh": {
+      "k": "建造方",
+      "v": "未公布"
+     }
+    }
+   },
+   {
+    "id": "aircraft",
+    "k": "Aircraft",
+    "v": "Joby S4 (used for 9 Nov 2025 flight test landing)",
+    "i18n": {
+     "ar": {
+      "k": "الطائرة",
+      "v": "Joby S4 (استخدمت في اختبار رحلة الهبوط في 9 نوفمبر 2025)"
+     },
+     "fr": {
+      "k": "Aéronef",
+      "v": "Joby S4 (utilisé pour l'atterrissage du test de vol du 9 novembre 2025)"
+     },
+     "de": {
+      "k": "Luftfahrzeug",
+      "v": "Joby S4 (verwendet fuer Testfluglandung am 9. November 2025)"
+     },
+     "zh": {
+      "k": "飞行器",
+      "v": "Joby S4 (用于 2025 年 11 月 9 日飞行测试着陆)"
+     }
+    }
+   },
+   {
+    "id": "status",
+    "k": "Status",
+    "v": "Announced in non-primary media; not confirmed by Joby IR, RTA, Skyports or GCAA",
+    "i18n": {
+     "ar": {
+      "k": "الحالة",
+      "v": "معلن في وسائل إعلام غير أولية؛ لم يتم تأكيده من قبل Joby IR أو RTA أو Skyports أو GCAA"
+     },
+     "fr": {
+      "k": "Statut",
+      "v": "Annoncé dans les médias non primaires ; non confirmé par Joby IR, RTA, Skyports ou GCAA"
+     },
+     "de": {
+      "v": "In nicht-primaeren Medien angekuendigt; nicht bestaetigt durch Joby IR, RTA, Skyports oder GCAA"
+     },
+     "zh": {
+      "k": "状态",
+      "v": "已在非一手媒体中宣布;未获 Joby IR、RTA、Skyports 或 GCAA 确认"
+     }
+    }
+   },
+   {
+    "id": "exclusivity",
+    "k": "Exclusivity",
+    "v": "Joby — 6 years from commercial launch (UAE-wide RTA agreement)",
+    "i18n": {
+     "ar": {
+      "k": "الحصرية",
+      "v": "Joby — 6 سنوات من الإطلاق التجاري (اتفاق RTA في جميع أنحاء الإمارات)"
+     },
+     "fr": {
+      "k": "Exclusivité",
+      "v": "Joby — 6 ans à partir du lancement commercial (accord RTA à l'échelle des EAU)"
+     },
+     "de": {
+      "k": "Exklusivität",
+      "v": "Joby - 6 Jahre ab Betriebsbeginn (UAE-weite RTA-Vereinbarung)"
+     },
+     "zh": {
+      "k": "独家权益",
+      "v": "Joby——商业运营启动后 6 年(阿联酋范围内的 RTA 协议)"
+     }
+    }
+   }
+  ]
  }
 }

@@ -80,6 +80,111 @@
     "name": "Joby S4 Hybrid-Electric Demonstrator",
     "meta_description": "Joby S4-T hybrid-electric demonstrator: first flight 7 November 2025, Marina California. Defense-focused; no UAE deployment announced. Sources verified."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "Hybrid-electric VTOL demonstrator (uncrewed)",
+    "i18n": {
+     "ar": {
+      "k": "النوع",
+      "v": "توضيح VTOL هجين كهربائي (بدون طاقم)"
+     },
+     "fr": {
+      "v": "Démonstrateur VTOL hybride-électrique sans équipage"
+     },
+     "de": {
+      "k": "Typ",
+      "v": "Hybrid-elektrischer VTOL-Demonstrator (unbemannt)"
+     },
+     "zh": {
+      "k": "类型",
+      "v": "混合电动VTOL演示器（无人驾驶）"
+     }
+    }
+   },
+   {
+    "id": "operator",
+    "k": "Operator",
+    "v": "Joby Aviation (developer) / L3Harris (mission integration)",
+    "i18n": {
+     "ar": {
+      "k": "المشغّل"
+     },
+     "fr": {
+      "k": "Exploitant",
+      "v": "Joby Aviation (développeur) / L3Harris (intégration de mission)"
+     },
+     "de": {
+      "k": "Betreiber",
+      "v": "Joby Aviation (Entwickler) / L3Harris (Missionsintegration)"
+     },
+     "zh": {
+      "k": "运营方",
+      "v": "Joby Aviation (开发者) / L3Harris (任务集成)"
+     }
+    }
+   },
+   {
+    "id": "builder",
+    "k": "Builder",
+    "v": "Joby Aviation",
+    "i18n": {
+     "ar": {
+      "k": "جهة الإنشاء"
+     },
+     "fr": {
+      "k": "Constructeur"
+     },
+     "de": {
+      "k": "Errichter"
+     },
+     "zh": {
+      "k": "建造方"
+     }
+    }
+   },
+   {
+    "id": "aircraft",
+    "k": "Aircraft",
+    "v": "S4-T (modified preproduction S4)",
+    "i18n": {
+     "ar": {
+      "k": "الطائرة"
+     },
+     "fr": {
+      "k": "Aéronef"
+     },
+     "de": {
+      "k": "Luftfahrzeug"
+     },
+     "zh": {
+      "k": "飞行器"
+     }
+    }
+   },
+   {
+    "id": "status",
+    "k": "Status",
+    "v": "Demonstrator · First flight 7 Nov 2025",
+    "i18n": {
+     "ar": {
+      "k": "الحالة"
+     },
+     "fr": {
+      "k": "Statut"
+     },
+     "zh": {
+      "k": "状态"
+     }
+    }
+   },
+   {
+    "id": "uae_status",
+    "k": "Uae Status",
+    "v": "No deployment announced"
+   }
+  ]
  }
 }

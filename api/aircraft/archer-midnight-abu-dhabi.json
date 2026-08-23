@@ -67,6 +67,120 @@
     "name": "Archer Midnight (Abu Dhabi)",
     "meta_description": "Archer Aviation Midnight in Abu Dhabi: first UAE flight 2 July 2025 at Al Bateen, full eVTOL envelope completed November 2025 with Abu Dhabi Aviation."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "All-electric eVTOL air taxi (12-tilt-6 configuration)",
+    "i18n": {
+     "ar": {
+      "k": "النوع",
+      "v": "سيارة أجرة جوية من eVTOL كهربائية بالكامل (تكوين 12-tilt-6)"
+     },
+     "fr": {
+      "v": "Taxi aérien eVTOL tout électrique (configuration 12-tilt-6)"
+     },
+     "de": {
+      "k": "Typ",
+      "v": "Vollelektrisches eVTOL-Lufttaxi (12-tilt-6-Konfiguration)"
+     },
+     "zh": {
+      "k": "类型",
+      "v": "全电动eVTOL空中出租车 (12-tilt-6配置)"
+     }
+    }
+   },
+   {
+    "id": "manufacturer",
+    "k": "Manufacturer",
+    "v": "Archer Aviation",
+    "i18n": {
+     "ar": {
+      "k": "الصانع"
+     },
+     "fr": {
+      "k": "Fabricant"
+     },
+     "de": {
+      "k": "Hersteller"
+     },
+     "zh": {
+      "k": "制造商"
+     }
+    }
+   },
+   {
+    "id": "configuration",
+    "k": "Configuration",
+    "v": "Pilot + 4 passengers · 12 propellers"
+   },
+   {
+    "id": "cruise_speed",
+    "k": "Cruise Speed",
+    "v": "Up to 150 mph (≈241 km/h)"
+   },
+   {
+    "id": "range",
+    "k": "Range",
+    "v": "Up to 100 miles (≈161 km), optimised for back-to-back 20-mile trips",
+    "i18n": {
+     "ar": {
+      "k": "المدى",
+      "v": "حتى 100 ميل (≈161 كم)، محسّنة للرحلات المتتالية بطول 20 ميل"
+     },
+     "fr": {
+      "k": "Autonomie",
+      "v": "Jusqu'à 100 miles (≈161 km), optimisé pour les trajets consécutifs de 20 miles"
+     },
+     "de": {
+      "k": "Reichweite",
+      "v": "Bis zu 100 Meilen (≈161 km), optimiert für aufeinander folgende 20-Meilen-Flüge"
+     },
+     "zh": {
+      "k": "航程",
+      "v": "最多100英里 (≈161公里)，针对连续20英里航程进行优化"
+     }
+    }
+   },
+   {
+    "id": "uae_operator",
+    "k": "Uae Operator",
+    "v": "Abu Dhabi Aviation (Launch Edition customer)",
+    "i18n": {
+     "ar": {
+      "v": "Abu Dhabi Aviation (عميل Launch Edition)"
+     },
+     "fr": {
+      "v": "Abu Dhabi Aviation (client Launch Edition)"
+     },
+     "de": {
+      "v": "Abu Dhabi Aviation (Launch-Edition-Kunde)"
+     },
+     "zh": {
+      "v": "阿布扎比航空 (Launch Edition客户)"
+     }
+    }
+   },
+   {
+    "id": "uae_status",
+    "k": "Uae Status",
+    "v": "Trial / pre-commercial — Launch Edition programme",
+    "i18n": {
+     "ar": {
+      "v": "تجربة / ما قبل تجاري — برنامج Launch Edition"
+     },
+     "fr": {
+      "v": "Essai / pré-commercial — programme Launch Edition"
+     },
+     "de": {
+      "v": "Erprobung/vor-kommerziell – Launch-Edition-Programm"
+     },
+     "zh": {
+      "v": "试验/商前——Launch Edition计划"
+     }
+    }
+   }
+  ]
  }
 }

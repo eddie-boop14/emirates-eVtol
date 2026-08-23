@@ -111,6 +111,141 @@
     "name": "VPorts",
     "meta_description": "VPorts signed a 2022 agreement with the UAE GCAA and Dubai South for a 37,000 sqm advanced air mobility integrator centre. No primary evidence it was built."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "dubai_site",
+    "k": "Dubai site",
+    "v": "37,000 sqm at Mohammed bin Rashid Aerospace Hub (MBRAH), Dubai South, under a 25-year exclusive lease renewable for a further 25 years",
+    "i18n": {
+     "ar": {
+      "v": "37000 متر مربع في Mohammed bin Rashid Aerospace Hub (MBRAH)، Dubai South، بموجب عقد إيجار حصري لمدة 25 سنة قابل للتجديد لمدة 25 سنة إضافية"
+     },
+     "fr": {
+      "v": "37 000 m² au Mohammed bin Rashid Aerospace Hub (MBRAH), Dubai South, en vertu d'un bail exclusif de 25 ans renouvelable pour une période supplémentaire de 25 ans"
+     },
+     "de": {
+      "v": "37.000 m² am Mohammed bin Rashid Aerospace Hub (MBRAH), Dubai South, im Rahmen eines exklusiven Pachtvertrags über 25 Jahre mit Verlängerungsoption um weitere 25 Jahre"
+     },
+     "zh": {
+      "v": "37000平方米位于Mohammed bin Rashid Aerospace Hub(MBRAH)，Dubai South，根据可再续25年的25年独占租约"
+     }
+    }
+   },
+   {
+    "id": "agreement_date",
+    "k": "Agreement date",
+    "v": "Announced 7-8 December 2022 by VPorts and Dubai Media Office",
+    "i18n": {
+     "ar": {
+      "v": "أعلن عنه في 7-8 ديسمبر 2022 بواسطة VPorts و Dubai Media Office"
+     },
+     "fr": {
+      "v": "Annoncé les 7-8 décembre 2022 par VPorts et le Bureau des médias de Dubaï"
+     },
+     "de": {
+      "v": "Am 7./8. Dezember 2022 von VPorts und dem Dubai Media Office bekanntgegeben"
+     },
+     "zh": {
+      "v": "2022年12月7-8日由VPorts和Dubai Media Office宣布"
+     }
+    }
+   },
+   {
+    "id": "named_counterparties",
+    "k": "Named counterparties",
+    "v": "UAE General Civil Aviation Authority (GCAA) and MBRAH / Dubai South; GCAA cited as allocating segregated airspace for flight testing",
+    "i18n": {
+     "ar": {
+      "v": "هيئة الطيران المدني العام الإماراتية (GCAA) و MBRAH / Dubai South؛ تم نقل GCAA على أنها تخصص المجال الجوي المنفصل لاختبار الطيران"
+     },
+     "fr": {
+      "v": "Autorité générale de l'aviation civile des EAU (GCAA) et MBRAH / Dubai South ; GCAA cité comme allouant l'espace aérien ségrégué pour les essais en vol"
+     },
+     "de": {
+      "v": "General Civil Aviation Authority (GCAA) der VAE sowie MBRAH / Dubai South; die GCAA wird als die Stelle genannt, die abgetrennten Luftraum für die Flugerprobung zuweist"
+     },
+     "zh": {
+      "v": "阿联酋民用航空总局(GCAA)和MBRAH / Dubai South；GCAA被引述为为飞行测试分配隔离空域"
+     }
+    }
+   },
+   {
+    "id": "announced_investment",
+    "k": "Announced investment",
+    "v": "US$40 million initial investment over three years; lead investor named as NEXA Capital Partners",
+    "i18n": {
+     "ar": {
+      "v": "استثمار أولي بقيمة 40 مليون دولار أمريكي على مدى ثلاث سنوات؛ تم تسمية المستثمر الرائد بـ NEXA Capital Partners"
+     },
+     "fr": {
+      "v": "Investissement initial de 40 millions de dollars américains sur trois ans ; principal investisseur nommé comme NEXA Capital Partners"
+     },
+     "de": {
+      "v": "Anfangsinvestition von 40 Millionen US-Dollar über drei Jahre; als Hauptinvestor wird NEXA Capital Partners genannt"
+     },
+     "zh": {
+      "v": "三年内4000万美元初始投资；首席投资者为NEXA Capital Partners"
+     }
+    }
+   },
+   {
+    "id": "announced_timeline",
+    "k": "Announced timeline",
+    "v": "Construction from 2023, operations and first flight testing from 2024 — no primary source confirms either occurred",
+    "i18n": {
+     "ar": {
+      "v": "البناء من 2023، العمليات واختبار الطيران الأول من 2024 — لا يوجد مصدر أولي يؤكد حدوث أي منهما"
+     },
+     "fr": {
+      "v": "Construction à partir de 2023, opérations et premiers essais en vol à partir de 2024 — aucune source primaire ne confirme que l'une ou l'autre s'est produite"
+     },
+     "de": {
+      "v": "Bau ab 2023, Betrieb und erste Flugerprobung ab 2024 — keine Primärquelle bestätigt, dass eines von beidem eingetreten ist"
+     },
+     "zh": {
+      "v": "2023年开始建设，2024年开始运营和首次飞行测试——没有一手资料确认其中任何一个发生过"
+     }
+    }
+   },
+   {
+    "id": "aircraft_developer_agreements",
+    "k": "Aircraft-developer agreements",
+    "v": "Electra.aero, Falcon Aviation and SkyDrive announced 15 March 2023; Electra and SkyDrive confirm on their own newsrooms, Falcon does not",
+    "i18n": {
+     "ar": {
+      "v": "تم الإعلان عن Electra.aero و Falcon Aviation و SkyDrive في 15 مارس 2023؛ Electra و SkyDrive تؤكدان في غرف أخبارهما الخاصة، Falcon لا تفعل"
+     },
+     "fr": {
+      "v": "Electra.aero, Falcon Aviation et SkyDrive annoncés les 15 mars 2023 ; Electra et SkyDrive confirment sur leurs propres salles de presse, Falcon ne le fait pas"
+     },
+     "de": {
+      "v": "Electra.aero, Falcon Aviation und SkyDrive, bekanntgegeben am 15. März 2023; Electra und SkyDrive bestätigen dies in ihren eigenen Newsrooms, Falcon nicht"
+     },
+     "zh": {
+      "v": "Electra.aero、Falcon Aviation和SkyDrive于2023年3月15日宣布；Electra和SkyDrive在各自的新闻室确认，Falcon没有"
+     }
+    }
+   },
+   {
+    "id": "second_uae_site",
+    "k": "Second UAE site",
+    "v": "A vertiport at Ras Al Khaimah International Airport announced 15 March 2023 with RAK Airport and RAK Department of Civil Aviation; no timeline given",
+    "i18n": {
+     "ar": {
+      "v": "تم الإعلان عن مطار عمودي في Ras Al Khaimah International Airport في 15 مارس 2023 مع RAK Airport و RAK Department of Civil Aviation؛ لم يتم إعطاء جدول زمني"
+     },
+     "fr": {
+      "v": "Un vertiport à Ras Al Khaimah International Airport annoncé les 15 mars 2023 avec RAK Airport et le Département de l'aviation civile de RAK ; aucun calendrier donné"
+     },
+     "de": {
+      "v": "Ein am 15. März 2023 angekündigter Vertiport am Ras Al Khaimah International Airport gemeinsam mit dem RAK Airport und dem RAK Department of Civil Aviation; ohne Zeitplan"
+     },
+     "zh": {
+      "v": "Ras Al Khaimah International Airport的一座垂直起降机场于2023年3月15日与RAK Airport和RAK Department of Civil Aviation宣布；没有给出时间表"
+     }
+    }
+   }
+  ]
  }
 }

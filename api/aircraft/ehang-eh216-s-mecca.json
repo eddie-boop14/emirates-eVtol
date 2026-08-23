@@ -46,6 +46,157 @@
     "name": "EHang EH216-S Mecca Hajj Flight",
     "meta_description": "The EHang EH216-S pilotless eVTOL completed its debut flight in Saudi Arabia on 12 June 2024 during the Hajj season in Mecca. First autonomous eVTOL passenger trial in the Kingdom."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "Aircraft (autonomous eVTOL)",
+    "i18n": {
+     "ar": {
+      "k": "النوع"
+     },
+     "de": {
+      "k": "Typ"
+     },
+     "zh": {
+      "k": "类型"
+     }
+    }
+   },
+   {
+    "id": "manufacturer",
+    "k": "Manufacturer",
+    "v": "EHang Holdings (NASDAQ:EH)",
+    "i18n": {
+     "ar": {
+      "k": "الصانع"
+     },
+     "fr": {
+      "k": "Fabricant"
+     },
+     "de": {
+      "k": "Hersteller"
+     },
+     "zh": {
+      "k": "制造商"
+     }
+    }
+   },
+   {
+    "id": "operator",
+    "k": "Operator",
+    "v": "Front End Limited Company (partner)",
+    "i18n": {
+     "ar": {
+      "k": "المشغّل"
+     },
+     "fr": {
+      "k": "Exploitant"
+     },
+     "de": {
+      "k": "Betreiber"
+     },
+     "zh": {
+      "k": "运营方"
+     }
+    }
+   },
+   {
+    "id": "regulator",
+    "k": "Regulator",
+    "v": "GACA Saudi Arabia",
+    "i18n": {
+     "ar": {
+      "k": "الجهة التنظيمية"
+     },
+     "fr": {
+      "k": "Régulateur"
+     },
+     "de": {
+      "k": "Aufsichtsbehörde"
+     },
+     "zh": {
+      "k": "监管机构"
+     }
+    }
+   },
+   {
+    "id": "first_flight",
+    "k": "First flight",
+    "v": "12 June 2024 (Mecca)",
+    "i18n": {
+     "ar": {
+      "k": "الرحلة الأولى"
+     },
+     "fr": {
+      "k": "Premier vol"
+     },
+     "de": {
+      "k": "Erstflug"
+     },
+     "zh": {
+      "k": "首飞"
+     }
+    }
+   },
+   {
+    "id": "passengers",
+    "k": "Passengers",
+    "v": "2 passengers (no pilot)",
+    "i18n": {
+     "ar": {
+      "k": "الركاب"
+     },
+     "fr": {
+      "k": "Passagers"
+     },
+     "de": {
+      "k": "Passagiere"
+     },
+     "zh": {
+      "k": "乘客"
+     }
+    }
+   },
+   {
+    "id": "certification",
+    "k": "Certification",
+    "v": "CAAC China type certificate (world's first autonomous eVTOL TC)",
+    "i18n": {
+     "ar": {
+      "k": "الشهادة",
+      "v": "شهادة نوع CAAC الصين (أول شهادة نوع eVTOL مستقل في العالم)"
+     },
+     "fr": {
+      "v": "Certificat de type CAAC Chine (premier certificat de type eVTOL autonome au monde)"
+     },
+     "de": {
+      "k": "Zertifizierung",
+      "v": "CAAC China Flugmuster-Zertifikat (erstes autonomes eVTOL-TC der Welt)"
+     },
+     "zh": {
+      "k": "认证",
+      "v": "CAAC China型号证书（全球首个自主eVTOL TC）"
+     }
+    }
+   },
+   {
+    "id": "status",
+    "k": "Status",
+    "v": "Trial flight",
+    "i18n": {
+     "ar": {
+      "k": "الحالة"
+     },
+     "fr": {
+      "k": "Statut"
+     },
+     "zh": {
+      "k": "状态"
+     }
+    }
+   }
+  ]
  }
 }

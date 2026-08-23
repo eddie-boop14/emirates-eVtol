@@ -31,7 +31,7 @@ CFG = {
         region='United Arab Emirates',
         brand='UAE <em>eVTOL</em>',
         sister='https://qatarevtol.com',
-        doi=None,  # set after the emirates-eVtol Zenodo release mints one
+        doi='10.5281/zenodo.22068156',  # Zenodo concept DOI, always latest version
     ),
     'qatarevtol.com': dict(
         title='Qatar eVTOL Reference Dataset',

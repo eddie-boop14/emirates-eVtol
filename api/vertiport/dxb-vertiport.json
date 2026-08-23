@@ -88,6 +88,122 @@
     "name": "DXB Vertiport",
     "meta_description": "DXB Vertiport (registered VDX) received UAE GCAA certification on 7 July 2026 — the world's first purpose-built commercial vertiport, developed by Skyports Infrastructure at Dubai International Airport. Certified for eVTOL operations; Joby Aviation passenger service pending launch."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "Vertiport",
+    "i18n": {
+     "ar": {
+      "k": "النوع"
+     },
+     "de": {
+      "k": "Typ"
+     },
+     "zh": {
+      "k": "类型"
+     }
+    }
+   },
+   {
+    "id": "operator",
+    "k": "Operator",
+    "v": "Joby Aviation (under RTA agreement)",
+    "i18n": {
+     "ar": {
+      "k": "المشغّل"
+     },
+     "fr": {
+      "k": "Exploitant"
+     },
+     "de": {
+      "k": "Betreiber"
+     },
+     "zh": {
+      "k": "运营方"
+     }
+    }
+   },
+   {
+    "id": "builder",
+    "k": "Builder",
+    "v": "Skyports Infrastructure",
+    "i18n": {
+     "ar": {
+      "k": "جهة الإنشاء"
+     },
+     "fr": {
+      "k": "Constructeur"
+     },
+     "de": {
+      "k": "Errichter"
+     },
+     "zh": {
+      "k": "建造方"
+     }
+    }
+   },
+   {
+    "id": "aircraft",
+    "k": "Aircraft",
+    "v": "Joby S4",
+    "i18n": {
+     "ar": {
+      "k": "الطائرة"
+     },
+     "fr": {
+      "k": "Aéronef"
+     },
+     "de": {
+      "k": "Luftfahrzeug"
+     },
+     "zh": {
+      "k": "飞行器"
+     }
+    }
+   },
+   {
+    "id": "status",
+    "k": "Status",
+    "v": "GCAA-certified 7 July 2026; commercial operations targeted 2026",
+    "i18n": {
+     "ar": {
+      "k": "الحالة",
+      "v": "معتمد من الهيئة العامة للطيران المدني في 7 يوليو 2026؛ التشغيل التجاري مستهدف في 2026"
+     },
+     "fr": {
+      "k": "Statut",
+      "v": "Certifié GCAA le 7 juillet 2026 ; opérations commerciales visées en 2026"
+     },
+     "de": {
+      "v": "GCAA-zertifiziert am 7. Juli 2026; kommerzieller Betrieb für 2026 angepeilt"
+     },
+     "zh": {
+      "k": "状态",
+      "v": "2026 年 7 月 7 日获 GCAA 认证；商业运营目标 2026 年"
+     }
+    }
+   },
+   {
+    "id": "exclusivity",
+    "k": "Exclusivity",
+    "v": "Joby — 6 years from commercial launch",
+    "i18n": {
+     "ar": {
+      "k": "الحصرية"
+     },
+     "fr": {
+      "k": "Exclusivité"
+     },
+     "de": {
+      "k": "Exklusivität"
+     },
+     "zh": {
+      "k": "独家权益"
+     }
+    }
+   }
+  ]
  }
 }

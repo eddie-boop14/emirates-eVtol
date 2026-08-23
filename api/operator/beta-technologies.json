@@ -79,6 +79,107 @@
     "name": "BETA Technologies, Inc.",
     "meta_description": "BETA Technologies supplies eVTOL charging hardware to Abu Dhabi Airports. Its first Charge Cube is commissioned at Al Bateen Executive Airport, Abu Dhabi."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "headquarters",
+    "k": "Headquarters",
+    "v": "South Burlington, Vermont, United States",
+    "i18n": {
+     "fr": {
+      "v": "South Burlington, Vermont, États-Unis"
+     },
+     "de": {
+      "v": "South Burlington, Vermont, Vereinigte Staaten"
+     }
+    }
+   },
+   {
+    "id": "uae_role",
+    "k": "UAE role",
+    "v": "eVTOL charging infrastructure supplier"
+   },
+   {
+    "id": "uae_partner",
+    "k": "UAE partner",
+    "v": "Abu Dhabi Airports"
+   },
+   {
+    "id": "first_uae_activity",
+    "k": "First UAE activity",
+    "v": "GCAA test licence signed with UPS, March 2023",
+    "i18n": {
+     "ar": {
+      "v": "تم توقيع رخصة اختبار GCAA مع UPS، مارس 2023"
+     },
+     "fr": {
+      "v": "Licence d'essai GCAA signée avec UPS, mars 2023"
+     },
+     "de": {
+      "v": "GCAA-Testlizenz unterzeichnet mit UPS, März 2023"
+     },
+     "zh": {
+      "v": "GCAA 测试许可证与 UPS 签署，2023 年 3 月"
+     }
+    }
+   },
+   {
+    "id": "uae_hardware",
+    "k": "UAE hardware",
+    "v": "Charge Cube commissioned at Al Bateen Executive Airport (AZI)",
+    "i18n": {
+     "ar": {
+      "v": "تم تشغيل Charge Cube في Al Bateen Executive Airport (AZI)"
+     },
+     "fr": {
+      "v": "Charge Cube mis en service à l'aéroport exécutif d'Al Bateen (AZI)"
+     },
+     "de": {
+      "v": "Charge Cube am Al Bateen Executive Airport (AZI) in Betrieb genommen"
+     },
+     "zh": {
+      "v": "Charge Cube 在 Al Bateen Executive Airport (AZI) 投入运营"
+     }
+    }
+   },
+   {
+    "id": "aircraft",
+    "k": "Aircraft",
+    "v": "ALIA family — no UAE deployment documented",
+    "i18n": {
+     "ar": {
+      "v": "عائلة ALIA — لا توجد عملية نشر موثّقة في الإمارات العربية المتحدة"
+     },
+     "fr": {
+      "v": "Famille ALIA — aucun déploiement aux EAU documenté"
+     },
+     "de": {
+      "v": "ALIA-Familie – kein Einsatz in den VAE dokumentiert"
+     },
+     "zh": {
+      "v": "ALIA 系列 — 未记录 UAE 部署"
+     }
+    }
+   },
+   {
+    "id": "certification",
+    "k": "Certification",
+    "v": "No GCAA type certificate or validation on record",
+    "i18n": {
+     "ar": {
+      "v": "لا توجد شهادة نوع GCAA أو تصديق في السجلات"
+     },
+     "fr": {
+      "v": "Aucun certificat de type GCAA ou validation enregistré"
+     },
+     "de": {
+      "v": "Keine GCAA-Musterzulassung oder Validierung dokumentiert"
+     },
+     "zh": {
+      "v": "GCAA 无记录的型号合格证或验证"
+     }
+    }
+   }
+  ]
  }
 }

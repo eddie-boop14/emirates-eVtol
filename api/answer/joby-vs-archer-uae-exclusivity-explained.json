@@ -74,6 +74,137 @@
     "name": "Joby vs Archer UAE exclusivity — explained",
     "meta_description": "Joby holds a 6-year exclusive air-taxi agreement with RTA Dubai (Feb 2024). Archer operates from Abu Dhabi via ADIO and Falcon Aviation. How both coexist."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "Answer page (regulatory / contractual explainer)",
+    "i18n": {
+     "ar": {
+      "k": "النوع",
+      "v": "صفحة إجابة (شارح تنظيمي / تعاقدي)"
+     },
+     "fr": {
+      "v": "Page de réponse (expliquant réglementaire / contractuel)"
+     },
+     "de": {
+      "k": "Typ",
+      "v": "Antwort-Seite (regulatorischer / vertraglicher Erklär)"
+     },
+     "zh": {
+      "k": "类型",
+      "v": "答疑页面（监管/合同说明）"
+     }
+    }
+   },
+   {
+    "id": "joby_agreement",
+    "k": "Joby Agreement",
+    "v": "RTA Dubai — 6-year exclusive air-taxi rights from commercial launch",
+    "i18n": {
+     "ar": {
+      "v": "سلطة الطرق والمواصلات دبي — حقوق حصرية لمدة 6 سنوات لسيارات الأجرة الجوية من البدء التجاري"
+     },
+     "fr": {
+      "v": "RTA Dubaï — droits exclusifs de taxi aérien de 6 ans à partir du lancement commercial"
+     },
+     "de": {
+      "v": "RTA Dubai — 6-jährige exklusive Air-Taxi-Rechte ab kommerziellem Start"
+     },
+     "zh": {
+      "v": "RTA 迪拜 — 从商业启动之日起的6年独占空中出租车权利"
+     }
+    }
+   },
+   {
+    "id": "joby_signed",
+    "k": "Joby Signed",
+    "v": "11 February 2024 (World Governments Summit, Dubai)",
+    "i18n": {
+     "ar": {
+      "v": "11 فبراير 2024 (قمة الحكومات العالمية، دبي)"
+     },
+     "fr": {
+      "v": "11 février 2024 (Sommet mondial des gouvernements, Dubaï)"
+     },
+     "de": {
+      "v": "11. Februar 2024 (World Governments Summit, Dubai)"
+     },
+     "zh": {
+      "v": "2024年2月11日（世界政府首脑峰会，迪拜）"
+     }
+    }
+   },
+   {
+    "id": "archer_agreement",
+    "k": "Archer Agreement",
+    "v": "Abu Dhabi Investment Office (ADIO) framework + Falcon Aviation vertiport partnership",
+    "i18n": {
+     "ar": {
+      "v": "إطار عمل مكتب أبو ظبي للاستثمار (ADIO) + شراكة مطار عمودي مع Falcon Aviation"
+     },
+     "fr": {
+      "v": "Protocole du Bureau d'Investissement d'Abu Dhabi (ADIO) + partenariat vertiport Falcon Aviation"
+     },
+     "de": {
+      "v": "Abu Dhabi Investment Office (ADIO) Rahmen + Falcon Aviation Vertiport-Partnerschaft"
+     },
+     "zh": {
+      "v": "阿布扎比投资办公室 (ADIO) 框架 + Falcon Aviation 垂直起降机场合作伙伴关系"
+     }
+    }
+   },
+   {
+    "id": "archer_signed",
+    "k": "Archer Signed",
+    "v": "ADIO: October 2023 · Falcon: 11 March 2024",
+    "i18n": {
+     "ar": {
+      "v": "ADIO: أكتوبر 2023 · Falcon: 11 مارس 2024"
+     },
+     "fr": {
+      "v": "ADIO : octobre 2023 · Falcon : 11 mars 2024"
+     },
+     "de": {
+      "v": "ADIO: Oktober 2023 · Falcon: 11. März 2024"
+     },
+     "zh": {
+      "v": "ADIO：2023年10月 · Falcon：2024年3月11日"
+     }
+    }
+   },
+   {
+    "id": "joby_aircraft",
+    "k": "Joby Aircraft",
+    "v": "Joby S4 (piloted, 4 passengers)"
+   },
+   {
+    "id": "archer_aircraft",
+    "k": "Archer Aircraft",
+    "v": "Archer Midnight (piloted, 4 passengers)"
+   },
+   {
+    "id": "joby_partner_dubai",
+    "k": "Joby Partner Dubai",
+    "v": "Skyports Infrastructure (vertiports)"
+   },
+   {
+    "id": "archer_partner_uae",
+    "k": "Archer Partner Uae",
+    "v": "Falcon Aviation (vertiports), Abu Dhabi Aviation, Etihad Aviation Training, JetEx, Air Chateau",
+    "i18n": {
+     "ar": {
+      "v": "Falcon Aviation (مطارات عمودية)، Abu Dhabi Aviation، Etihad Aviation Training، JetEx، Air Chateau"
+     },
+     "de": {
+      "v": "Falcon Aviation (Vertiports), Abu Dhabi Aviation, Etihad Aviation Training, JetEx, Air Chateau"
+     },
+     "zh": {
+      "v": "Falcon Aviation（垂直起降机场）、Abu Dhabi Aviation、Etihad Aviation Training、JetEx、Air Chateau"
+     }
+    }
+   }
+  ]
  }
 }

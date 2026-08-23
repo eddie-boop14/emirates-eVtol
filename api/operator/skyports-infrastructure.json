@@ -95,6 +95,76 @@
     "name": "Skyports Infrastructure",
     "meta_description": "Skyports Infrastructure: London-based vertiport developer, exclusive builder of Dubai's Joby/RTA vertiport network. VDX technically complete April 2026."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "Vertiport developer & operator",
+    "i18n": {
+     "ar": {
+      "k": "النوع"
+     },
+     "de": {
+      "k": "Typ"
+     },
+     "zh": {
+      "k": "类型"
+     }
+    }
+   },
+   {
+    "id": "hq",
+    "k": "Hq",
+    "v": "London, United Kingdom"
+   },
+   {
+    "id": "ceo",
+    "k": "Ceo",
+    "v": "Duncan Walker"
+   },
+   {
+    "id": "lead_investor",
+    "k": "Lead Investor",
+    "v": "ACS Group (via Iridium) — Series C April 2024",
+    "i18n": {
+     "zh": {
+      "v": "ACS Group (via Iridium) — C轮 2024年4月"
+     }
+    }
+   },
+   {
+    "id": "dubai_role",
+    "k": "Dubai Role",
+    "v": "Exclusive vertiport builder & operator"
+   },
+   {
+    "id": "first_vertiport",
+    "k": "First Vertiport",
+    "v": "VDX (Dubai International Airport)"
+   },
+   {
+    "id": "status",
+    "k": "Status",
+    "v": "Operational; VDX GCAA-certified 7 July 2026",
+    "i18n": {
+     "ar": {
+      "k": "الحالة",
+      "v": "قيد التشغيل؛ حصل مطار VDX العمودي على شهادة هيئة الطيران المدني الإماراتية في 7 يوليو 2026"
+     },
+     "fr": {
+      "k": "Statut",
+      "v": "Opérationnel ; VDX certifié par la GCAA le 7 juillet 2026"
+     },
+     "de": {
+      "v": "In Betrieb; VDX am 7. Juli 2026 von der GCAA zertifiziert"
+     },
+     "zh": {
+      "k": "状态",
+      "v": "已投入运营；VDX于2026年7月7日获得阿联酋民航总局（GCAA）认证"
+     }
+    }
+   }
+  ]
  }
 }

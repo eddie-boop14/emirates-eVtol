@@ -102,6 +102,107 @@
     "name": "Archer Aviation — Abu Dhabi",
     "meta_description": "Archer Aviation's Abu Dhabi launch programme: Midnight eVTOL, ADIO and Abu Dhabi Aviation partnership, vertiport network, GCAA certification status."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "Operator (eVTOL OEM + launch programme)",
+    "i18n": {
+     "ar": {
+      "k": "النوع"
+     },
+     "de": {
+      "k": "Typ"
+     },
+     "zh": {
+      "k": "类型"
+     }
+    }
+   },
+   {
+    "id": "operator",
+    "k": "Operator",
+    "v": "Archer Aviation Inc.",
+    "i18n": {
+     "ar": {
+      "k": "المشغّل"
+     },
+     "fr": {
+      "k": "Exploitant"
+     },
+     "de": {
+      "k": "Betreiber"
+     },
+     "zh": {
+      "k": "运营方"
+     }
+    }
+   },
+   {
+    "id": "launch_customer",
+    "k": "Launch Customer",
+    "v": "Abu Dhabi Aviation (ADA)"
+   },
+   {
+    "id": "aircraft",
+    "k": "Aircraft",
+    "v": "Archer Midnight",
+    "i18n": {
+     "ar": {
+      "k": "الطائرة"
+     },
+     "fr": {
+      "k": "Aéronef"
+     },
+     "de": {
+      "k": "Luftfahrzeug"
+     },
+     "zh": {
+      "k": "飞行器"
+     }
+    }
+   },
+   {
+    "id": "anchor_partner",
+    "k": "Anchor Partner",
+    "v": "Abu Dhabi Investment Office (ADIO)"
+   },
+   {
+    "id": "regulator",
+    "k": "Regulator",
+    "v": "GCAA (UAE)",
+    "i18n": {
+     "ar": {
+      "k": "الجهة التنظيمية"
+     },
+     "fr": {
+      "k": "Régulateur"
+     },
+     "de": {
+      "k": "Aufsichtsbehörde"
+     },
+     "zh": {
+      "k": "监管机构"
+     }
+    }
+   },
+   {
+    "id": "status",
+    "k": "Status",
+    "v": "Announced · in-country flight test 2025",
+    "i18n": {
+     "ar": {
+      "k": "الحالة"
+     },
+     "fr": {
+      "k": "Statut"
+     },
+     "zh": {
+      "k": "状态"
+     }
+    }
+   }
+  ]
  }
 }

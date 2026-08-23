@@ -102,6 +102,102 @@
     "name": "Joby S4 (UAE Operations)",
     "meta_description": "Joby S4 in UAE service: all-electric eVTOL flown in Dubai since June 2025, first UAE point-to-point flight on 9 November 2025. Specs, milestones, sources."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "type",
+    "k": "Type",
+    "v": "All-electric tilt-propeller eVTOL air taxi",
+    "i18n": {
+     "ar": {
+      "k": "النوع",
+      "v": "سيارة جوية eVTOL كهربائية بالكامل ذات مراوح قابلة للإمالة"
+     },
+     "fr": {
+      "v": "Air taxi eVTOL à hélices basculantes entièrement électrique"
+     },
+     "de": {
+      "k": "Typ",
+      "v": "Vollelektrisches Kipp-Propeller-eVTOL-Flugtaxi"
+     },
+     "zh": {
+      "k": "类型",
+      "v": "全电动倾转螺旋桨eVTOL空中出租车"
+     }
+    }
+   },
+   {
+    "id": "manufacturer",
+    "k": "Manufacturer",
+    "v": "Joby Aviation",
+    "i18n": {
+     "ar": {
+      "k": "الصانع"
+     },
+     "fr": {
+      "k": "Fabricant"
+     },
+     "de": {
+      "k": "Hersteller"
+     },
+     "zh": {
+      "k": "制造商"
+     }
+    }
+   },
+   {
+    "id": "configuration",
+    "k": "Configuration",
+    "v": "Pilot + 4 passengers · 6 tilting propellers",
+    "i18n": {
+     "ar": {
+      "v": "طيار + 4 ركاب · 6 مراوح مائلة"
+     },
+     "fr": {
+      "v": "Pilote + 4 passagers · 6 hélices basculantes"
+     },
+     "de": {
+      "v": "Pilot + 4 Passagiere · 6 kippbare Propeller"
+     },
+     "zh": {
+      "v": "1名飞行员 + 4名乘客 · 6个倾转螺旋桨"
+     }
+    }
+   },
+   {
+    "id": "cruise_speed",
+    "k": "Cruise Speed",
+    "v": "Up to 200 mph (≈320 km/h)"
+   },
+   {
+    "id": "range",
+    "k": "Range",
+    "v": "150 miles (≈241 km)",
+    "i18n": {
+     "ar": {
+      "k": "المدى"
+     },
+     "fr": {
+      "k": "Autonomie"
+     },
+     "de": {
+      "k": "Reichweite"
+     },
+     "zh": {
+      "k": "航程"
+     }
+    }
+   },
+   {
+    "id": "uae_operator",
+    "k": "Uae Operator",
+    "v": "Joby Aviation (under RTA agreement)"
+   },
+   {
+    "id": "uae_status",
+    "k": "Uae Status",
+    "v": "Trial / pre-commercial · 2026 target"
+   }
+  ]
  }
 }

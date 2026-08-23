@@ -74,6 +74,169 @@
     "name": "Dubai air taxi price — what is confirmed",
     "meta_description": "No fare has been announced for Dubai's air taxi as of August 2026. The RTA says pricing is undecided — 'cheaper than helicopters', aiming at Uber/Careem parity over time. The AED 350 figure circulating online is unsourced."
    }
-  }
+  },
+  "facts": [
+   {
+    "id": "launch_fare",
+    "k": "Launch fare",
+    "v": "Not announced (as of 22 Aug 2026)",
+    "i18n": {
+     "ar": {
+      "k": "أجرة الإطلاق",
+      "v": "غير معلنة (حتى 22 أغسطس 2026)"
+     },
+     "fr": {
+      "k": "Tarif de lancement",
+      "v": "Non annoncé (au 22 août 2026)"
+     },
+     "de": {
+      "k": "Startpreis",
+      "v": "Nicht angekündigt (Stand 22. Aug. 2026)"
+     },
+     "zh": {
+      "k": "首发票价",
+      "v": "未公布（截至 2026-08-22）"
+     }
+    }
+   },
+   {
+    "id": "rta_on_record",
+    "k": "RTA on record",
+    "v": "'We have not decided the price yet' — 20 Nov 2025",
+    "i18n": {
+     "ar": {
+      "k": "تصريح هيئة الطرق",
+      "v": "\"لم نحدد السعر بعد\" — 20 نوفمبر 2025"
+     },
+     "fr": {
+      "k": "RTA officielle",
+      "v": "« Nous n’avons pas encore décidé du prix » — 20 nov. 2025"
+     },
+     "de": {
+      "k": "RTA offiziell",
+      "v": "„Preis noch nicht festgelegt“ — 20. Nov. 2025"
+     },
+     "zh": {
+      "k": "RTA 表态",
+      "v": "“价格尚未确定” — 2025-11-20"
+     }
+    }
+   },
+   {
+    "id": "price_anchor",
+    "k": "Price anchor",
+    "v": "'Cheaper than helicopters today in Dubai' (RTA)",
+    "i18n": {
+     "ar": {
+      "k": "السقف المعلن",
+      "v": "\"أرخص من المروحيات اليوم في دبي\""
+     },
+     "fr": {
+      "k": "Plafond annoncé",
+      "v": "« Moins cher que les hélicoptères aujourd’hui à Dubaï »"
+     },
+     "de": {
+      "k": "Genannte Obergrenze",
+      "v": "„Billiger als Helikopter heute in Dubai“"
+     },
+     "zh": {
+      "k": "价格上限",
+      "v": "“比今天迪拜的直升机便宜”（RTA）"
+     }
+    }
+   },
+   {
+    "id": "long_term_aim",
+    "k": "Long-term aim",
+    "v": "'Equivalent to almost an Uber or Careem trip' (RTA)",
+    "i18n": {
+     "ar": {
+      "k": "الهدف بعيد المدى",
+      "v": "\"تعادل تقريباً رحلة أوبر أو كريم\""
+     },
+     "fr": {
+      "k": "Objectif long terme",
+      "v": "« Équivalent à une course Uber ou Careem »"
+     },
+     "de": {
+      "k": "Langfristziel",
+      "v": "„Etwa eine Uber- oder Careem-Fahrt“"
+     },
+     "zh": {
+      "k": "长期目标",
+      "v": "“大致相当于 Uber 或 Careem 一趟行程”"
+     }
+    }
+   },
+   {
+    "id": "the_aed_350_claim",
+    "k": "The AED 350 claim",
+    "v": "Unsourced — appears only on aggregator sites",
+    "i18n": {
+     "ar": {
+      "k": "رقم 350 درهماً",
+      "v": "بلا مصدر — يظهر فقط على مواقع تجميع المحتوى"
+     },
+     "fr": {
+      "k": "Le chiffre 350 AED",
+      "v": "Sans source — uniquement sur des sites agrégateurs"
+     },
+     "de": {
+      "k": "Die 350-AED-Zahl",
+      "v": "Unbelegt — nur auf Aggregator-Seiten"
+     },
+     "zh": {
+      "k": "350 迪拉姆之说",
+      "v": "无出处 — 仅见于内容聚合网站"
+     }
+    }
+   },
+   {
+    "id": "booking_channel",
+    "k": "Booking channel",
+    "v": "Uber app (Uber Air powered by Joby), announced 25 Feb 2026",
+    "i18n": {
+     "ar": {
+      "k": "قناة الحجز",
+      "v": "تطبيق أوبر (Uber Air powered by Joby) — أُعلن 25 فبراير 2026"
+     },
+     "fr": {
+      "k": "Canal de réservation",
+      "v": "App Uber (Uber Air powered by Joby) — annoncé le 25 fév. 2026"
+     },
+     "de": {
+      "k": "Buchungskanal",
+      "v": "Uber-App (Uber Air powered by Joby) — 25. Feb. 2026"
+     },
+     "zh": {
+      "k": "预订渠道",
+      "v": "Uber 应用（Uber Air powered by Joby）— 2026-02-25 宣布"
+     }
+    }
+   },
+   {
+    "id": "service_status",
+    "k": "Service status",
+    "v": "Not launched; expected before end of 2026",
+    "i18n": {
+     "ar": {
+      "k": "حالة الخدمة",
+      "v": "لم تنطلق؛ متوقعة قبل نهاية 2026"
+     },
+     "fr": {
+      "k": "État du service",
+      "v": "Non lancé ; attendu avant fin 2026"
+     },
+     "de": {
+      "k": "Dienststatus",
+      "v": "Nicht gestartet; erwartet vor Ende 2026"
+     },
+     "zh": {
+      "k": "服务状态",
+      "v": "尚未开通；预计 2026 年底前"
+     }
+    }
+   }
+  ]
  }
 }
