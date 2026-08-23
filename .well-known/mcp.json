@@ -1,0 +1,14 @@
+{
+ "name": "evtolemirates.com MCP server",
+ "endpoint": "https://evtolemirates.com/mcp",
+ "transport": "streamable-http",
+ "protocolVersion": "2025-06-18",
+ "tools": [
+  "get_entity",
+  "search_entities",
+  "list_changes"
+ ],
+ "description": "Primary-source eVTOL reference for the Gulf as a queryable MCP tool server. CC BY 4.0.",
+ "data": "https://evtolemirates.com/data.html",
+ "openapi": "https://evtolemirates.com/.well-known/openapi.json"
+}

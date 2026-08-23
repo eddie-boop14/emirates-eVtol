@@ -1,0 +1,65 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/aircraft/volocopter-neom-historical.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "volocopter-neom-historical",
+  "entity_type": "aircraft",
+  "country": "Saudi Arabia",
+  "city": "NEOM",
+  "status": "orphaned",
+  "last_verified": "2026-08-22",
+  "name": "Volocopter NEOM Flight & $175M Investment",
+  "meta_description": "NEOM invested $175M in Volocopter (Nov 2022) with 15-aircraft order and GACA-authorized flight 21 June 2023. Volocopter filed insolvency 26 Dec 2024; acquired by Wanfeng/Diamond Aircraft March 2025 for €10M.",
+  "latitude": 27.9881,
+  "longitude": 35.1064,
+  "sources": [
+   {
+    "id": "thenational-2022-11-03",
+    "name": "The National — Saudi Arabia's NEOM invests $175m in Volocopter (3 Nov 2022)",
+    "url": "https://www.thenationalnews.com/business/technology/2022/11/03/saudi-arabias-neom-invests-175m-in-volocopter/",
+    "type": "primary",
+    "accessed": "2026-05-20"
+   },
+   {
+    "id": "volocopter-2023-06-21",
+    "name": "Volocopter — NEOM and Volocopter: First Electric Air Taxi Flight in Saudi Arabia (21 June 2023)",
+    "url": "https://www.volocopter.com/en/newsroom/volocopter-flies-in-neom",
+    "type": "operator-ir",
+    "accessed": "2026-05-20"
+   },
+   {
+    "id": "volocopter-2024-12-30",
+    "name": "Volocopter — Volocopter GmbH Files for Insolvency While Seeking Investors (30 Dec 2024) (archived copy)",
+    "url": "https://web.archive.org/web/2025/https://www.volocopter.com/en/newsroom/volocopter-files-for-insolvency-in-germany",
+    "type": "operator-ir",
+    "accessed": "2026-08-22"
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "Volocopter NEOM Flight & $175M Investment",
+    "meta_description": "NEOM invested $175M in Volocopter (Nov 2022) with 15-aircraft order and GACA-authorized flight 21 June 2023. Volocopter filed insolvency 26 Dec 2024; acquired by Wanfeng/Diamond Aircraft March 2025 for €10M."
+   },
+   "ar": {
+    "name": "Volocopter NEOM Flight & $175M Investment",
+    "meta_description": "NEOM invested $175M in Volocopter (Nov 2022) with 15-aircraft order and GACA-authorized flight 21 June 2023. Volocopter filed insolvency 26 Dec 2024; acquired by Wanfeng/Diamond Aircraft March 2025 for €10M."
+   },
+   "fr": {
+    "name": "Volocopter NEOM Flight & $175M Investment",
+    "meta_description": "NEOM invested $175M in Volocopter (Nov 2022) with 15-aircraft order and GACA-authorized flight 21 June 2023. Volocopter filed insolvency 26 Dec 2024; acquired by Wanfeng/Diamond Aircraft March 2025 for €10M."
+   },
+   "de": {
+    "name": "Volocopter NEOM Flight & $175M Investment",
+    "meta_description": "NEOM invested $175M in Volocopter (Nov 2022) with 15-aircraft order and GACA-authorized flight 21 June 2023. Volocopter filed insolvency 26 Dec 2024; acquired by Wanfeng/Diamond Aircraft March 2025 for €10M."
+   },
+   "zh": {
+    "name": "Volocopter NEOM Flight & $175M Investment",
+    "meta_description": "NEOM invested $175M in Volocopter (Nov 2022) with 15-aircraft order and GACA-authorized flight 21 June 2023. Volocopter filed insolvency 26 Dec 2024; acquired by Wanfeng/Diamond Aircraft March 2025 for €10M."
+   }
+  }
+ }
+}

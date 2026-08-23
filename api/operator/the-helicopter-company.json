@@ -1,0 +1,58 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/operators/the-helicopter-company.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "the-helicopter-company",
+  "entity_type": "operator",
+  "country": "Saudi Arabia",
+  "city": "Riyadh",
+  "status": "operational",
+  "last_verified": "2026-08-22",
+  "name": "The Helicopter Company (THC)",
+  "meta_description": "The Helicopter Company (THC) is a Saudi Public Investment Fund subsidiary. Signed MoUs with Archer Aviation and Joby Aviation in November 2025 for Saudi eVTOL sandbox testing. CEO Captain Arnaud Martinez.",
+  "latitude": 24.7136,
+  "longitude": 46.6753,
+  "sources": [
+   {
+    "id": "archer-ir-2025-11-19-thc",
+    "name": "Archer Aviation IR — PIF's The Helicopter Company, Archer Aviation, and Red Sea Global Partner to Launch eVTOL Air Mobility in Saudi Arabia (19 Nov 2025)",
+    "url": "https://investors.archer.com/news/news-details/2025/PIFs-The-Helicopter-Company-Archer-Aviation-and-Red-Sea-Global-Partner-to-Launch-eVTOL-Air-Mobility-in-Saudi-Arabia/default.aspx",
+    "type": "operator-ir",
+    "accessed": "2026-05-20"
+   },
+   {
+    "id": "archer-ir-2025-12-10",
+    "name": "Archer Aviation IR — Saudi Arabia's GACA Advances Archer's Pathway for Electric Air Taxi Deployment (10 Dec 2025)",
+    "url": "https://investors.archer.com/news/news-details/2025/Saudi-Arabias-General-Authority-of-Civil-Aviation-Advances-Archers-Pathway-for-Electric-Air-Taxi-Deployment/default.aspx",
+    "type": "operator-ir",
+    "accessed": "2026-05-20"
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "The Helicopter Company (THC)",
+    "meta_description": "The Helicopter Company (THC) is a Saudi Public Investment Fund subsidiary. Signed MoUs with Archer Aviation and Joby Aviation in November 2025 for Saudi eVTOL sandbox testing. CEO Captain Arnaud Martinez."
+   },
+   "ar": {
+    "name": "The Helicopter Company (THC)",
+    "meta_description": "The Helicopter Company (THC) is a Saudi Public Investment Fund subsidiary. Signed MoUs with Archer Aviation and Joby Aviation in November 2025 for Saudi eVTOL sandbox testing. CEO Captain Arnaud Martinez."
+   },
+   "fr": {
+    "name": "The Helicopter Company (THC)",
+    "meta_description": "The Helicopter Company (THC) is a Saudi Public Investment Fund subsidiary. Signed MoUs with Archer Aviation and Joby Aviation in November 2025 for Saudi eVTOL sandbox testing. CEO Captain Arnaud Martinez."
+   },
+   "de": {
+    "name": "The Helicopter Company (THC)",
+    "meta_description": "The Helicopter Company (THC) is a Saudi Public Investment Fund subsidiary. Signed MoUs with Archer Aviation and Joby Aviation in November 2025 for Saudi eVTOL sandbox testing. CEO Captain Arnaud Martinez."
+   },
+   "zh": {
+    "name": "The Helicopter Company (THC)",
+    "meta_description": "The Helicopter Company (THC) is a Saudi Public Investment Fund subsidiary. Signed MoUs with Archer Aviation and Joby Aviation in November 2025 for Saudi eVTOL sandbox testing. CEO Captain Arnaud Martinez."
+   }
+  }
+ }
+}

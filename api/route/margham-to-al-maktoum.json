@@ -1,0 +1,58 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/routes/margham-to-al-maktoum.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "margham-to-al-maktoum",
+  "entity_type": "route",
+  "country": "UAE",
+  "city": "Dubai",
+  "status": "trial_only",
+  "last_verified": "2026-08-22",
+  "name": "Margham → Al Maktoum International (DWC)",
+  "meta_description": "Joby flew the UAE's first piloted point-to-point eVTOL route on 9 November 2025: 17 minutes from Margham flight test facility to DWC. Sources verified.",
+  "latitude": 24.9315,
+  "longitude": 55.3475,
+  "sources": [
+   {
+    "id": "joby-ir-2025-11-17",
+    "name": "Joby Aviation IR — Dubai Air Taxi Network Takes Flight (17 Nov 2025)",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/162/dubai-air-taxi-network-takes-flight-joby-completes",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "joby-ir-2024-02",
+    "name": "Joby Aviation IR — Joby to Launch Air Taxi Service in UAE (11 Feb 2024)",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/87/joby-to-launch-air-taxi-service-in-uae",
+    "type": "operator-ir",
+    "accessed": "2026-08-22"
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "Margham → Al Maktoum International (DWC)",
+    "meta_description": "Joby flew the UAE's first piloted point-to-point eVTOL route on 9 November 2025: 17 minutes from Margham flight test facility to DWC. Sources verified."
+   },
+   "ar": {
+    "name": "Margham → Al Maktoum International (DWC)",
+    "meta_description": "Joby flew the UAE's first piloted point-to-point eVTOL route on 9 November 2025: 17 minutes from Margham flight test facility to DWC. Sources verified."
+   },
+   "fr": {
+    "name": "Margham → Al Maktoum International (DWC)",
+    "meta_description": "Joby flew the UAE's first piloted point-to-point eVTOL route on 9 November 2025: 17 minutes from Margham flight test facility to DWC. Sources verified."
+   },
+   "de": {
+    "name": "Margham → Al Maktoum International (DWC)",
+    "meta_description": "Joby flew the UAE's first piloted point-to-point eVTOL route on 9 November 2025: 17 minutes from Margham flight test facility to DWC. Sources verified."
+   },
+   "zh": {
+    "name": "Margham → Al Maktoum International (DWC)",
+    "meta_description": "Joby flew the UAE's first piloted point-to-point eVTOL route on 9 November 2025: 17 minutes from Margham flight test facility to DWC. Sources verified."
+   }
+  }
+ }
+}

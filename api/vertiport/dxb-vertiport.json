@@ -1,0 +1,93 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/vertiports/dxb-vertiport.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "dxb-vertiport",
+  "entity_type": "vertiport",
+  "country": "UAE",
+  "city": "Dubai",
+  "status": "certified",
+  "last_verified": "2026-08-22",
+  "name": "DXB Vertiport",
+  "meta_description": "DXB Vertiport (registered VDX) received UAE GCAA certification on 7 July 2026 — the world's first purpose-built commercial vertiport, developed by Skyports Infrastructure at Dubai International Airport. Certified for eVTOL operations; Joby Aviation passenger service pending launch.",
+  "latitude": 25.2532,
+  "longitude": 55.3657,
+  "sources": [
+   {
+    "id": "skyports-2026-07-07",
+    "name": "Skyports Infrastructure — UAE Makes Global Aviation History with GCAA's Certification of the World's First Purpose-Built Commercial Vertiport (7 Jul 2026)",
+    "url": "https://skyports.net/post/uae-makes-global-aviation-history-with-certification-worlds-first-purpose-built-commercial-vertiport-skyports-infrastructure",
+    "type": "primary",
+    "accessed": "2026-07-28"
+   },
+   {
+    "id": "skyports-2026-04-16",
+    "name": "Skyports Infrastructure — Air taxi ready: world's first commercial vertiport reaches technical completion (16 Apr 2026)",
+    "url": "https://skyports.net/worlds-first-commercial-vertiport-technical-completion/",
+    "type": "primary",
+    "accessed": "2026-05-20"
+   },
+   {
+    "id": "skyports-2024-02-12",
+    "name": "Skyports, RTA and Joby to launch air taxi service in Dubai (12 Feb 2024)",
+    "url": "https://skyports.net/skyports-rta-and-joby-to-launch-air-taxi-service-in-dubai/",
+    "type": "primary",
+    "accessed": "2026-05-20"
+   },
+   {
+    "id": "joby-ir-2025-11-17",
+    "name": "Joby Aviation IR — Dubai Air Taxi Network Takes Flight (17 Nov 2025)",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/162/dubai-air-taxi-network-takes-flight-joby-completes",
+    "type": "operator-ir",
+    "accessed": "2026-05-20"
+   },
+   {
+    "id": "joby-ir-2024-02-11",
+    "name": "Joby Aviation IR — Joby to Launch Air Taxi Service in UAE (11 Feb 2024)",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/87/joby-to-launch-air-taxi-service-in-uae",
+    "type": "operator-ir",
+    "accessed": "2026-05-20"
+   },
+   {
+    "id": "rta-2025-11-16",
+    "name": "RTA Dubai — Successful First Crewed Electric Aerial Taxi Flight (16 Nov 2025)",
+    "url": "https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/all-news/NewsDetails/successful-first-crewed-electric-aerial-taxi-flight",
+    "type": "regulatory",
+    "accessed": "2026-05-20"
+   },
+   {
+    "id": "gcaa-2025-11-03",
+    "name": "GCAA UAE — Air-taxi certification target Q3 2026 (Saif Mohammed Al Suwaidi, 3 Nov 2025)",
+    "url": "https://www.thenationalnews.com/business/aviation/2025/11/03/uae-air-taxi-certification-to-be-completed-by-third-quarter-of-next-year-regulator-says/",
+    "type": "regulatory",
+    "accessed": "2026-05-20"
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "DXB Vertiport",
+    "meta_description": "DXB Vertiport (registered VDX) received UAE GCAA certification on 7 July 2026 — the world's first purpose-built commercial vertiport, developed by Skyports Infrastructure at Dubai International Airport. Certified for eVTOL operations; Joby Aviation passenger service pending launch."
+   },
+   "ar": {
+    "name": "DXB Vertiport",
+    "meta_description": "DXB Vertiport (registered VDX) received UAE GCAA certification on 7 July 2026 — the world's first purpose-built commercial vertiport, developed by Skyports Infrastructure at Dubai International Airport. Certified for eVTOL operations; Joby Aviation passenger service pending launch."
+   },
+   "fr": {
+    "name": "DXB Vertiport",
+    "meta_description": "DXB Vertiport (registered VDX) received UAE GCAA certification on 7 July 2026 — the world's first purpose-built commercial vertiport, developed by Skyports Infrastructure at Dubai International Airport. Certified for eVTOL operations; Joby Aviation passenger service pending launch."
+   },
+   "de": {
+    "name": "DXB Vertiport",
+    "meta_description": "DXB Vertiport (registered VDX) received UAE GCAA certification on 7 July 2026 — the world's first purpose-built commercial vertiport, developed by Skyports Infrastructure at Dubai International Airport. Certified for eVTOL operations; Joby Aviation passenger service pending launch."
+   },
+   "zh": {
+    "name": "DXB Vertiport",
+    "meta_description": "DXB Vertiport (registered VDX) received UAE GCAA certification on 7 July 2026 — the world's first purpose-built commercial vertiport, developed by Skyports Infrastructure at Dubai International Airport. Certified for eVTOL operations; Joby Aviation passenger service pending launch."
+   }
+  }
+ }
+}

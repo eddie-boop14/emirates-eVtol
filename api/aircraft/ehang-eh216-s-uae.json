@@ -1,0 +1,72 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/aircraft/ehang-eh216-s-uae.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "ehang-eh216-s-uae",
+  "entity_type": "aircraft",
+  "country": "UAE",
+  "city": "Abu Dhabi",
+  "status": "trial_only",
+  "last_verified": "2026-08-22",
+  "name": "EHang EH216-S (UAE)",
+  "meta_description": "EHang EH216-S in the UAE: completed the Middle East's first passenger-carrying pilotless eVTOL demo flight in Abu Dhabi on 6 May 2024. Specs and milestones.",
+  "latitude": null,
+  "longitude": null,
+  "sources": [
+   {
+    "id": "ehang-ir-2024-04-29",
+    "name": "EHang IR — 'EHang Showcases EH216 Series and VT-30 Pilotless eVTOL Aircraft at DRIFTx, EH216-S Completes Debut Flight in Abu Dhabi' (29 Apr 2024)",
+    "url": "https://www.ehang.com/news/1082.html",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "ehang-ir-2024-05-06",
+    "name": "EHang IR — 'EH216-S Completes UAE's First Passenger-Carrying Demo Flight, Accompanied by Successful Demo Flights of EH216-L and EH216-F Pilotless eVTOLs in Abu Dhabi' (6 May 2024)",
+    "url": "https://ir.ehang.com/news-releases/news-release-details/eh216-s-completes-uaes-first-passenger-carrying-demo-flight/",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "globaltimes-2024-05-07",
+    "name": "Global Times — 'China's EHang completes passenger-carrying eVTOL demonstration flight in UAE' (7 May 2024)",
+    "url": "https://www.globaltimes.cn/page/202405/1311807.shtml",
+    "type": "official-news",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "cnevpost-2024-05-07",
+    "name": "CnEVPost — 'Chinese eVTOL maker Ehang completes passenger-carrying demo flight in UAE' (7 May 2024)",
+    "url": "https://cnevpost.com/2024/05/07/ehang-completes-passenger-carrying-demo-flight-in-uae/",
+    "type": "primary",
+    "accessed": "2026-05-01"
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "EHang EH216-S (UAE)",
+    "meta_description": "EHang EH216-S in the UAE: completed the Middle East's first passenger-carrying pilotless eVTOL demo flight in Abu Dhabi on 6 May 2024. Specs and milestones."
+   },
+   "ar": {
+    "name": "EHang EH216-S (UAE)",
+    "meta_description": "EHang EH216-S in the UAE: completed the Middle East's first passenger-carrying pilotless eVTOL demo flight in Abu Dhabi on 6 May 2024. Specs and milestones."
+   },
+   "fr": {
+    "name": "EHang EH216-S (UAE)",
+    "meta_description": "EHang EH216-S in the UAE: completed the Middle East's first passenger-carrying pilotless eVTOL demo flight in Abu Dhabi on 6 May 2024. Specs and milestones."
+   },
+   "de": {
+    "name": "EHang EH216-S (UAE)",
+    "meta_description": "EHang EH216-S in the UAE: completed the Middle East's first passenger-carrying pilotless eVTOL demo flight in Abu Dhabi on 6 May 2024. Specs and milestones."
+   },
+   "zh": {
+    "name": "EHang EH216-S (UAE)",
+    "meta_description": "EHang EH216-S in the UAE: completed the Middle East's first passenger-carrying pilotless eVTOL demo flight in Abu Dhabi on 6 May 2024. Specs and milestones."
+   }
+  }
+ }
+}

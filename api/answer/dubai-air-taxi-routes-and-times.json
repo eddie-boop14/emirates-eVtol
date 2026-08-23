@@ -1,0 +1,86 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/explainers/dubai-air-taxi-routes-and-times.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "dubai-air-taxi-routes-and-times",
+  "entity_type": "answer",
+  "country": "UAE",
+  "city": "Dubai",
+  "status": "trial_only",
+  "last_verified": "2026-08-22",
+  "name": "Dubai air taxi routes & flight times",
+  "meta_description": "Four launch vertiports: VDX at DXB (GCAA-certified 7 Jul 2026, world's first), Dubai Marina (under construction), Dubai Mall and Palm Jumeirah. First point-to-point flight took 17 minutes (Margham to DWC, 9 Nov 2025).",
+  "latitude": 25.2532,
+  "longitude": 55.3657,
+  "sources": [
+   {
+    "id": "rta-2025-11",
+    "name": "RTA Dubai — Successful First Crewed Electric Aerial Taxi Flight (Nov 2025)",
+    "url": "https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/all-news/NewsDetails/successful-first-crewed-electric-aerial-taxi-flight",
+    "type": "regulatory",
+    "accessed": "2026-08-22"
+   },
+   {
+    "id": "joby-ir-2025-11-17",
+    "name": "Joby Aviation IR — Dubai Air Taxi Network Takes Flight (17 Nov 2025)",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/162/dubai-air-taxi-network-takes-flight-joby-completes",
+    "type": "operator-ir",
+    "accessed": "2026-08-22"
+   },
+   {
+    "id": "skyports-2026-07-07",
+    "name": "Skyports Infrastructure — UAE Makes Global Aviation History with GCAA's Certification of the World's First Purpose-Built Commercial Vertiport (7 Jul 2026)",
+    "url": "https://skyports.net/post/uae-makes-global-aviation-history-with-certification-worlds-first-purpose-built-commercial-vertiport-skyports-infrastructure",
+    "type": "primary",
+    "accessed": "2026-08-22"
+   },
+   {
+    "id": "skyports-2026-04-16",
+    "name": "Skyports Infrastructure — Air taxi ready: world's first commercial vertiport reaches technical completion (16 Apr 2026)",
+    "url": "https://skyports.net/worlds-first-commercial-vertiport-technical-completion/",
+    "type": "primary",
+    "accessed": "2026-08-22"
+   },
+   {
+    "id": "national-2026-07-07",
+    "name": "The National — Dubai's air taxis primed for lift-off after approval for first vertiport (7 Jul 2026)",
+    "url": "https://www.thenationalnews.com/news/uae/2026/07/07/dubais-air-taxis-primed-for-lift-off-after-approval-for-first-vertiport/",
+    "type": "press",
+    "accessed": "2026-08-22"
+   },
+   {
+    "id": "joby-uber-2026-02-25",
+    "name": "Joby Aviation — Get Ready for Takeoff with Uber and Joby (25 Feb 2026)",
+    "url": "https://www.jobyaviation.com/news/get-ready-for-takeoff-with-uber-and-joby",
+    "type": "operator-ir",
+    "accessed": "2026-08-22"
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "Dubai air taxi routes & flight times",
+    "meta_description": "Four launch vertiports: VDX at DXB (GCAA-certified 7 Jul 2026, world's first), Dubai Marina (under construction), Dubai Mall and Palm Jumeirah. First point-to-point flight took 17 minutes (Margham to DWC, 9 Nov 2025)."
+   },
+   "ar": {
+    "name": "Dubai air taxi routes & flight times",
+    "meta_description": "Four launch vertiports: VDX at DXB (GCAA-certified 7 Jul 2026, world's first), Dubai Marina (under construction), Dubai Mall and Palm Jumeirah. First point-to-point flight took 17 minutes (Margham to DWC, 9 Nov 2025)."
+   },
+   "fr": {
+    "name": "Dubai air taxi routes & flight times",
+    "meta_description": "Four launch vertiports: VDX at DXB (GCAA-certified 7 Jul 2026, world's first), Dubai Marina (under construction), Dubai Mall and Palm Jumeirah. First point-to-point flight took 17 minutes (Margham to DWC, 9 Nov 2025)."
+   },
+   "de": {
+    "name": "Dubai air taxi routes & flight times",
+    "meta_description": "Four launch vertiports: VDX at DXB (GCAA-certified 7 Jul 2026, world's first), Dubai Marina (under construction), Dubai Mall and Palm Jumeirah. First point-to-point flight took 17 minutes (Margham to DWC, 9 Nov 2025)."
+   },
+   "zh": {
+    "name": "Dubai air taxi routes & flight times",
+    "meta_description": "Four launch vertiports: VDX at DXB (GCAA-certified 7 Jul 2026, world's first), Dubai Marina (under construction), Dubai Mall and Palm Jumeirah. First point-to-point flight took 17 minutes (Margham to DWC, 9 Nov 2025)."
+   }
+  }
+ }
+}

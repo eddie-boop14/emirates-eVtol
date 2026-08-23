@@ -1,0 +1,85 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/aircraft/joby-s4-hybrid-electric.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "joby-s4-hybrid-electric",
+  "entity_type": "aircraft",
+  "country": "UAE",
+  "city": null,
+  "status": "trial_only",
+  "last_verified": "2026-08-22",
+  "name": "Joby S4 Hybrid-Electric Demonstrator",
+  "meta_description": "Joby S4-T hybrid-electric demonstrator: first flight 7 November 2025, Marina California. Defense-focused; no UAE deployment announced. Sources verified.",
+  "latitude": null,
+  "longitude": null,
+  "sources": [
+   {
+    "id": "joby-ir-2025-11-13",
+    "name": "Joby Aviation — Joby Celebrates First Flight of Turbine Electric Demonstrator Aircraft (13 Nov 2025)",
+    "url": "https://www.jobyaviation.com/news/joby-celebrates-first-flight-of-turbine-electric-demonstrator-aircraft",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "av-week-2025-11-18",
+    "name": "Aviation Week — Joby Sees S4-T Hybrid-Electric eVTOL As Dual Use (18 Nov 2025)",
+    "url": "https://aviationweek.com/aerospace/advanced-air-mobility/joby-sees-s4-t-hybrid-electric-evtol-dual-use",
+    "type": "official-news",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "av-week-2026-04",
+    "name": "Aviation Week — Joby, L3Harris To Demo Uncrewed Hybrid eVTOL To U.S. Army (Apr 2026)",
+    "url": "https://aviationweek.com/aerospace/advanced-air-mobility/joby-l3harris-demo-uncrewed-hybrid-evtol-us-army",
+    "type": "official-news",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "flyingmag-2025-11",
+    "name": "Flying Magazine — Joby Hybrid Aircraft Goes From Concept to First Flight in 3 Months (13 Nov 2025)",
+    "url": "https://www.flyingmag.com/joby-hybrid-aircraft-concept-to-first-flight/",
+    "type": "official-news",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "newatlas-2025-11",
+    "name": "New Atlas — Joby Flies Autonomous Hybrid S4 VTOL for Defense (25 Nov 2025)",
+    "url": "https://newatlas.com/military/joby-first-flight-turbine-hybrid-air-taxi-military/",
+    "type": "official-news",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "research-note",
+    "name": "Research note — no UAE deployment of S4-T announced by Joby IR, GCAA or RTA Dubai as of search date",
+    "type": "editorial-note",
+    "accessed": "2026-05-01"
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "Joby S4 Hybrid-Electric Demonstrator",
+    "meta_description": "Joby S4-T hybrid-electric demonstrator: first flight 7 November 2025, Marina California. Defense-focused; no UAE deployment announced. Sources verified."
+   },
+   "ar": {
+    "name": "Joby S4 Hybrid-Electric Demonstrator",
+    "meta_description": "Joby S4-T hybrid-electric demonstrator: first flight 7 November 2025, Marina California. Defense-focused; no UAE deployment announced. Sources verified."
+   },
+   "fr": {
+    "name": "Joby S4 Hybrid-Electric Demonstrator",
+    "meta_description": "Joby S4-T hybrid-electric demonstrator: first flight 7 November 2025, Marina California. Defense-focused; no UAE deployment announced. Sources verified."
+   },
+   "de": {
+    "name": "Joby S4 Hybrid-Electric Demonstrator",
+    "meta_description": "Joby S4-T hybrid-electric demonstrator: first flight 7 November 2025, Marina California. Defense-focused; no UAE deployment announced. Sources verified."
+   },
+   "zh": {
+    "name": "Joby S4 Hybrid-Electric Demonstrator",
+    "meta_description": "Joby S4-T hybrid-electric demonstrator: first flight 7 November 2025, Marina California. Defense-focused; no UAE deployment announced. Sources verified."
+   }
+  }
+ }
+}

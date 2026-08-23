@@ -1,0 +1,72 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/routes/dxb-to-dubai-mall.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "dxb-to-dubai-mall",
+  "entity_type": "route",
+  "country": "UAE",
+  "city": "Dubai",
+  "status": "planned",
+  "last_verified": "2026-08-22",
+  "name": "DXB ↔ Dubai Mall",
+  "meta_description": "Joby Aviation route between DXB and Dubai Mall vertiports, planned for 2026 commercial launch under exclusive RTA agreement. Primary sources verified.",
+  "latitude": 25.2336,
+  "longitude": 55.2926,
+  "sources": [
+   {
+    "id": "joby-ir-2025-11-17",
+    "name": "Joby Aviation IR — Dubai Air Taxi Network Takes Flight (17 Nov 2025)",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/162/dubai-air-taxi-network-takes-flight-joby-completes",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "joby-ir-2025-06-30",
+    "name": "Joby Aviation — Joby Cements Global Lead in Air Taxi Industry with Dubai Flights (30 Jun 2025)",
+    "url": "https://www.jobyaviation.com/news/joby-cements-global-lead-in-air-taxi-industry-with-dubai-flights-and-beginning-of-commercial-market-readiness-work",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "joby-ir-2024-02",
+    "name": "Joby Aviation IR — Joby to Launch Air Taxi Service in UAE (11 Feb 2024)",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/87/joby-to-launch-air-taxi-service-in-uae",
+    "type": "operator-ir",
+    "accessed": "2026-08-22"
+   },
+   {
+    "id": "rta-statement-2025-11",
+    "name": "RTA Dubai — Successful First Crewed Electric Aerial Taxi Flight (Nov 2025); Dubai Mall vertiport at Zabeel parking area, Emaar Properties partnership",
+    "url": "https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/all-news/NewsDetails/successful-first-crewed-electric-aerial-taxi-flight",
+    "type": "primary",
+    "accessed": "2026-05-01"
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "DXB ↔ Dubai Mall",
+    "meta_description": "Joby Aviation route between DXB and Dubai Mall vertiports, planned for 2026 commercial launch under exclusive RTA agreement. Primary sources verified."
+   },
+   "ar": {
+    "name": "DXB ↔ Dubai Mall",
+    "meta_description": "Joby Aviation route between DXB and Dubai Mall vertiports, planned for 2026 commercial launch under exclusive RTA agreement. Primary sources verified."
+   },
+   "fr": {
+    "name": "DXB ↔ Dubai Mall",
+    "meta_description": "Joby Aviation route between DXB and Dubai Mall vertiports, planned for 2026 commercial launch under exclusive RTA agreement. Primary sources verified."
+   },
+   "de": {
+    "name": "DXB ↔ Dubai Mall",
+    "meta_description": "Joby Aviation route between DXB and Dubai Mall vertiports, planned for 2026 commercial launch under exclusive RTA agreement. Primary sources verified."
+   },
+   "zh": {
+    "name": "DXB ↔ Dubai Mall",
+    "meta_description": "Joby Aviation route between DXB and Dubai Mall vertiports, planned for 2026 commercial launch under exclusive RTA agreement. Primary sources verified."
+   }
+  }
+ }
+}

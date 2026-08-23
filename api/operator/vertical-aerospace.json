@@ -1,0 +1,100 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/operators/vertical-aerospace.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "vertical-aerospace",
+  "entity_type": "operator",
+  "country": "UAE",
+  "city": null,
+  "status": "orphaned",
+  "last_verified": "2026-08-22",
+  "name": "Vertical Aerospace",
+  "meta_description": "UK-based Vertical Aerospace has no documented UAE presence - no order, vertiport or GCAA agreement. Its only Gulf activity is a set of Saudi MoUs from 2026.",
+  "latitude": null,
+  "longitude": null,
+  "sources": [
+   {
+    "id": "va-caa-update-2026-07-13",
+    "name": "Vertical Aerospace — Vertical Aerospace Shares Business Update Ahead of Farnborough International Airshow (expanded UK CAA Permit to Fly; Type Certification moved to 2029)",
+    "url": "https://vertical-aerospace.com/wp-content/uploads/2026/07/20260713-CAA-Update-Press-Release_v2.pdf",
+    "type": "operator-ir",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "va-farnborough-first-public-transition-2026-07-20",
+    "name": "Vertical Aerospace — Vertical Aerospace Makes History with First Public eVTOL Transition Flight at Farnborough International Airshow",
+    "url": "https://vertical-aerospace.com/wp-content/uploads/2026/07/20260720-Farnborough-First-Flight-PR_v3.pdf",
+    "type": "operator-ir",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "va-two-way-transition-2026-04",
+    "name": "Vertical Aerospace — Vertical Aerospace Achieves World First Two-Way Piloted Transition Flight (flown under UK CAA oversight)",
+    "url": "https://vertical-aerospace.com/wp-content/uploads/2026/04/20260416-Press-Release-VA-Transition-flight_v2-1.pdf",
+    "type": "operator-ir",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "va-gaca-mou-2026-07-22",
+    "name": "Vertical Aerospace via Business Wire — Vertical Aerospace and Saudi Arabia's General Authority of Civil Aviation Sign Strategic Agreement Advancing Air Mobility Certification and Regulatory Framework",
+    "url": "https://www.businesswire.com/news/home/20260722079762/en/Vertical-Aerospace-and-Saudi-Arabias-General-Authority-of-Civil-Aviation-Sign-Strategic-Agreement-Advancing-Air-Mobility-Certification-and-Regulatory-Framework",
+    "type": "official-news",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "va-ahq-nidc-mou-2026-02-10",
+    "name": "Vertical Aerospace via Business Wire — Vertical Aerospace Signs Strategic MoU with AHQ Group and Saudi National Industrial Development Centre to Accelerate AAM in the Kingdom",
+    "url": "https://www.businesswire.com/news/home/20260210942356/en/Vertical-Aerospace-Signs-Strategic-MoU-with-AHQ-Group-and-Saudi-National-Industrial-Development-Centre-to-Accelerate-AAM-in-the-Kingdom",
+    "type": "official-news",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "va-farnborough-wrap-2026-07-24",
+    "name": "Vertical Aerospace via Business Wire — Vertical Aerospace Caps Landmark Week at Farnborough, Accelerating the Path to Commercial Electric Aviation",
+    "url": "https://www.businesswire.com/news/home/20260724391666/en/Vertical-Aerospace-Caps-Landmark-Week-at-Farnborough-Accelerating-the-Path-to-Commercial-Electric-Aviation",
+    "type": "official-news",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "va-valo-unveil-2025-12-10",
+    "name": "Vertical Aerospace — Vertical Aerospace Unveils Valo, the eVTOL Aircraft Set to Redefine Urban Air Mobility (Valo succeeds the VX4 prototype; UK CAA and EASA certification)",
+    "url": "https://vertical-aerospace.com/wp-content/uploads/2025/12/Vertical-Aerospace-unveils-Valo-the-eVTOL-aircraft-set-to-redefine-urban-air-mobility-and-usher-in-a-new-era-of-flight-1.pdf",
+    "type": "operator-ir",
+    "accessed": "2026-07-28",
+    "primary": true
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "Vertical Aerospace",
+    "meta_description": "UK-based Vertical Aerospace has no documented UAE presence - no order, vertiport or GCAA agreement. Its only Gulf activity is a set of Saudi MoUs from 2026."
+   },
+   "ar": {
+    "name": "Vertical Aerospace",
+    "meta_description": "UK-based Vertical Aerospace has no documented UAE presence - no order, vertiport or GCAA agreement. Its only Gulf activity is a set of Saudi MoUs from 2026."
+   },
+   "fr": {
+    "name": "Vertical Aerospace",
+    "meta_description": "UK-based Vertical Aerospace has no documented UAE presence - no order, vertiport or GCAA agreement. Its only Gulf activity is a set of Saudi MoUs from 2026."
+   },
+   "de": {
+    "name": "Vertical Aerospace",
+    "meta_description": "UK-based Vertical Aerospace has no documented UAE presence - no order, vertiport or GCAA agreement. Its only Gulf activity is a set of Saudi MoUs from 2026."
+   },
+   "zh": {
+    "name": "Vertical Aerospace",
+    "meta_description": "UK-based Vertical Aerospace has no documented UAE presence - no order, vertiport or GCAA agreement. Its only Gulf activity is a set of Saudi MoUs from 2026."
+   }
+  }
+ }
+}

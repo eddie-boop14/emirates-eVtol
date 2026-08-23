@@ -1,0 +1,107 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/explainers/dubai-air-taxi-launch-tracker.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "dubai-air-taxi-launch-tracker",
+  "entity_type": "answer",
+  "country": "UAE",
+  "city": "Dubai",
+  "status": "trial_only",
+  "last_verified": "2026-08-22",
+  "name": "Dubai air taxi launch tracker",
+  "meta_description": "Not flying yet. As of 22 August 2026 Dubai's air taxi has a certified vertiport (VDX, 7 Jul 2026) and a target of first passengers before the end of 2026. Every milestone on the road to launch, dated and sourced.",
+  "latitude": 25.2532,
+  "longitude": 55.3657,
+  "sources": [
+   {
+    "id": "joby-ir-2024-02-11",
+    "name": "Joby Aviation IR — Joby to Launch Air Taxi Service in UAE (11 Feb 2024)",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/87/joby-to-launch-air-taxi-service-in-uae",
+    "type": "operator-ir",
+    "accessed": "2026-08-22"
+   },
+   {
+    "id": "skyports-2024-11-12",
+    "name": "Skyports Infrastructure — Skyports and RTA break ground on first vertiport in Dubai (12 Nov 2024)",
+    "url": "https://skyports.net/skyports-and-rta-break-ground-on-first-vertiport-in-dubai/",
+    "type": "primary",
+    "accessed": "2026-08-22"
+   },
+   {
+    "id": "joby-ir-2025-06-30",
+    "name": "Joby Aviation IR — Joby Cements Global Lead with Dubai Flights (30 Jun 2025)",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/132/joby-cements-global-lead-in-air-taxi-industry-with-dubai",
+    "type": "operator-ir",
+    "accessed": "2026-08-22"
+   },
+   {
+    "id": "joby-ir-2025-11-17",
+    "name": "Joby Aviation IR — Dubai Air Taxi Network Takes Flight (17 Nov 2025)",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/162/dubai-air-taxi-network-takes-flight-joby-completes",
+    "type": "operator-ir",
+    "accessed": "2026-08-22"
+   },
+   {
+    "id": "gulf-news-2025-11-20",
+    "name": "Gulf News — Dubai air taxi fares could eventually match Uber, Careem, says RTA CEO (20 Nov 2025)",
+    "url": "https://gulfnews.com/uae/dubai-air-taxi-fares-could-eventually-match-uber-careem-says-rta-ceo-1.500353007",
+    "type": "press",
+    "accessed": "2026-08-22"
+   },
+   {
+    "id": "joby-uber-2026-02-25",
+    "name": "Joby Aviation — Get Ready for Takeoff with Uber and Joby (25 Feb 2026)",
+    "url": "https://www.jobyaviation.com/news/get-ready-for-takeoff-with-uber-and-joby",
+    "type": "operator-ir",
+    "accessed": "2026-08-22"
+   },
+   {
+    "id": "skyports-2026-04-16",
+    "name": "Skyports Infrastructure — Air taxi ready: world's first commercial vertiport reaches technical completion (16 Apr 2026)",
+    "url": "https://skyports.net/worlds-first-commercial-vertiport-technical-completion/",
+    "type": "primary",
+    "accessed": "2026-08-22"
+   },
+   {
+    "id": "skyports-2026-07-07",
+    "name": "Skyports Infrastructure — UAE Makes Global Aviation History with GCAA's Certification of the World's First Purpose-Built Commercial Vertiport (7 Jul 2026)",
+    "url": "https://skyports.net/post/uae-makes-global-aviation-history-with-certification-worlds-first-purpose-built-commercial-vertiport-skyports-infrastructure",
+    "type": "primary",
+    "accessed": "2026-08-22"
+   },
+   {
+    "id": "national-2026-07-07",
+    "name": "The National — Dubai's air taxis primed for lift-off after approval for first vertiport (7 Jul 2026)",
+    "url": "https://www.thenationalnews.com/news/uae/2026/07/07/dubais-air-taxis-primed-for-lift-off-after-approval-for-first-vertiport/",
+    "type": "press",
+    "accessed": "2026-08-22"
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "Dubai air taxi launch tracker",
+    "meta_description": "Not flying yet. As of 22 August 2026 Dubai's air taxi has a certified vertiport (VDX, 7 Jul 2026) and a target of first passengers before the end of 2026. Every milestone on the road to launch, dated and sourced."
+   },
+   "ar": {
+    "name": "Dubai air taxi launch tracker",
+    "meta_description": "Not flying yet. As of 22 August 2026 Dubai's air taxi has a certified vertiport (VDX, 7 Jul 2026) and a target of first passengers before the end of 2026. Every milestone on the road to launch, dated and sourced."
+   },
+   "fr": {
+    "name": "Dubai air taxi launch tracker",
+    "meta_description": "Not flying yet. As of 22 August 2026 Dubai's air taxi has a certified vertiport (VDX, 7 Jul 2026) and a target of first passengers before the end of 2026. Every milestone on the road to launch, dated and sourced."
+   },
+   "de": {
+    "name": "Dubai air taxi launch tracker",
+    "meta_description": "Not flying yet. As of 22 August 2026 Dubai's air taxi has a certified vertiport (VDX, 7 Jul 2026) and a target of first passengers before the end of 2026. Every milestone on the road to launch, dated and sourced."
+   },
+   "zh": {
+    "name": "Dubai air taxi launch tracker",
+    "meta_description": "Not flying yet. As of 22 August 2026 Dubai's air taxi has a certified vertiport (VDX, 7 Jul 2026) and a target of first passengers before the end of 2026. Every milestone on the road to launch, dated and sourced."
+   }
+  }
+ }
+}

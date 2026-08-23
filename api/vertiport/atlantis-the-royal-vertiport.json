@@ -1,0 +1,86 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/vertiports/atlantis-the-royal-vertiport.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "atlantis-the-royal-vertiport",
+  "entity_type": "vertiport",
+  "country": "UAE",
+  "city": "Dubai",
+  "status": "announced",
+  "last_verified": "2026-08-22",
+  "name": "Atlantis The Royal Vertiport",
+  "meta_description": "Atlantis The Royal Vertiport, Palm Jumeirah node of Dubai's eVTOL network announced 17 November 2025. Joby Aviation, RTA, Skyports - status and sources.",
+  "latitude": null,
+  "longitude": null,
+  "sources": [
+   {
+    "id": "joby-ir-2024-02-11",
+    "name": "Joby Aviation IR - Joby to Launch Air Taxi Service in UAE (11 Feb 2024)",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/87/joby-to-launch-air-taxi-service-in-uae",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "joby-ir-2025-11-17",
+    "name": "Joby Aviation IR - Dubai Air Taxi Network Takes Flight: Joby Completes Landmark Flight and Announces Next Vertiport Locations (17 Nov 2025)",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/162/dubai-air-taxi-network-takes-flight-joby-completes",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "rta-2025-11-16",
+    "name": "RTA Dubai - Successful First Crewed Electric Aerial Taxi Flight (16 Nov 2025)",
+    "url": "https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/all-news/NewsDetails/successful-first-crewed-electric-aerial-taxi-flight",
+    "type": "regulatory",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "skyports-2025-11-19",
+    "name": "Skyports Infrastructure - VDX reaches topping-out construction milestone (19 Nov 2025)",
+    "url": "https://skyports.net/worlds-first-commercial-vertiport-dxv-reaches-topping-out-construction-milestone/",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "skyports-2025-wrapped",
+    "name": "Skyports Infrastructure - 2025 Wrapped year-end review (24 Dec 2025)",
+    "url": "https://skyports.net/skyports-infrastructure-2025-wrapped/",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "joby-q4-2025",
+    "name": "Joby Aviation - Q4 2025 / FY 2025 earnings call (25 Feb 2026)",
+    "url": "https://ir.jobyaviation.com/",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "Atlantis The Royal Vertiport",
+    "meta_description": "Atlantis The Royal Vertiport, Palm Jumeirah node of Dubai's eVTOL network announced 17 November 2025. Joby Aviation, RTA, Skyports - status and sources."
+   },
+   "ar": {
+    "name": "Atlantis The Royal Vertiport",
+    "meta_description": "Atlantis The Royal Vertiport, Palm Jumeirah node of Dubai's eVTOL network announced 17 November 2025. Joby Aviation, RTA, Skyports - status and sources."
+   },
+   "fr": {
+    "name": "Atlantis The Royal Vertiport",
+    "meta_description": "Atlantis The Royal Vertiport, Palm Jumeirah node of Dubai's eVTOL network announced 17 November 2025. Joby Aviation, RTA, Skyports - status and sources."
+   },
+   "de": {
+    "name": "Atlantis The Royal Vertiport",
+    "meta_description": "Atlantis The Royal Vertiport, Palm Jumeirah node of Dubai's eVTOL network announced 17 November 2025. Joby Aviation, RTA, Skyports - status and sources."
+   },
+   "zh": {
+    "name": "Atlantis The Royal Vertiport",
+    "meta_description": "Atlantis The Royal Vertiport, Palm Jumeirah node of Dubai's eVTOL network announced 17 November 2025. Joby Aviation, RTA, Skyports - status and sources."
+   }
+  }
+ }
+}

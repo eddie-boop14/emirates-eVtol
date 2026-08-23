@@ -1,0 +1,65 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/vertiports/abu-dhabi-cruise-terminal-vertiport.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "abu-dhabi-cruise-terminal-vertiport",
+  "entity_type": "vertiport",
+  "country": "UAE",
+  "city": "Abu Dhabi",
+  "status": "design_approved",
+  "last_verified": "2026-08-22",
+  "name": "Abu Dhabi Cruise Terminal Hybrid Heliport",
+  "meta_description": "GCAA design approval announced 23 April 2025. UAE's first hybrid heliport, converting an existing helipad to dual heliport/vertiport use. Partnership between Archer Aviation, Falcon Aviation Services, and Abu Dhabi Aviation.",
+  "latitude": 24.5111,
+  "longitude": 54.376,
+  "sources": [
+   {
+    "id": "archer-ir-2025-04-23",
+    "name": "Archer Aviation IR — Archer Secures Design Approval For UAE's First Hybrid Heliport (23 Apr 2025)",
+    "url": "https://investors.archer.com/news/news-details/2025/Archer-Secures-Design-Approval-For-UAEs-First-Hybrid-Heliport-Paving-The-Way-For-Commercial-Air-Taxi-Service-In-Abu-Dhabi/default.aspx",
+    "type": "operator-ir",
+    "accessed": "2026-05-20"
+   },
+   {
+    "id": "adio-2025-11-10",
+    "name": "Abu Dhabi 10-Vertiport Network Announcement — Integrated Transport Centre / ADIO / Abu Dhabi Airports / GCAA (10 Nov 2025)",
+    "url": "https://www.thenationalnews.com/business/aviation/2025/11/11/abu-dhabi-to-build-10-vertiports-for-air-taxis/",
+    "type": "government",
+    "accessed": "2026-05-20"
+   },
+   {
+    "id": "gcaa-2025-11-03",
+    "name": "GCAA UAE — Air-taxi certification target Q3 2026 (Saif Mohammed Al Suwaidi, 3 Nov 2025)",
+    "url": "https://www.thenationalnews.com/business/aviation/2025/11/03/uae-air-taxi-certification-to-be-completed-by-third-quarter-of-next-year-regulator-says/",
+    "type": "regulatory",
+    "accessed": "2026-05-20"
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "Abu Dhabi Cruise Terminal Hybrid Heliport",
+    "meta_description": "GCAA design approval announced 23 April 2025. UAE's first hybrid heliport, converting an existing helipad to dual heliport/vertiport use. Partnership between Archer Aviation, Falcon Aviation Services, and Abu Dhabi Aviation."
+   },
+   "ar": {
+    "name": "Abu Dhabi Cruise Terminal Hybrid Heliport",
+    "meta_description": "GCAA design approval announced 23 April 2025. UAE's first hybrid heliport, converting an existing helipad to dual heliport/vertiport use. Partnership between Archer Aviation, Falcon Aviation Services, and Abu Dhabi Aviation."
+   },
+   "fr": {
+    "name": "Abu Dhabi Cruise Terminal Hybrid Heliport",
+    "meta_description": "GCAA design approval announced 23 April 2025. UAE's first hybrid heliport, converting an existing helipad to dual heliport/vertiport use. Partnership between Archer Aviation, Falcon Aviation Services, and Abu Dhabi Aviation."
+   },
+   "de": {
+    "name": "Abu Dhabi Cruise Terminal Hybrid Heliport",
+    "meta_description": "GCAA design approval announced 23 April 2025. UAE's first hybrid heliport, converting an existing helipad to dual heliport/vertiport use. Partnership between Archer Aviation, Falcon Aviation Services, and Abu Dhabi Aviation."
+   },
+   "zh": {
+    "name": "Abu Dhabi Cruise Terminal Hybrid Heliport",
+    "meta_description": "GCAA design approval announced 23 April 2025. UAE's first hybrid heliport, converting an existing helipad to dual heliport/vertiport use. Partnership between Archer Aviation, Falcon Aviation Services, and Abu Dhabi Aviation."
+   }
+  }
+ }
+}

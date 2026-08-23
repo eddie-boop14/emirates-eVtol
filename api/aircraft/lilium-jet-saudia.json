@@ -1,0 +1,65 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/aircraft/lilium-jet-saudia.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "lilium-jet-saudia",
+  "entity_type": "aircraft",
+  "country": "Saudi Arabia",
+  "city": "Jeddah",
+  "status": "orphaned",
+  "last_verified": "2026-08-22",
+  "name": "Lilium Jet — Saudia Group Sales Agreement",
+  "meta_description": "Saudia and Lilium signed a binding sales agreement on 18 July 2024 for up to 100 Lilium Jets. Lilium filed final insolvency 21 February 2025; prototypes scrapped April 2026. Contract orphaned.",
+  "latitude": 21.4858,
+  "longitude": 39.1925,
+  "sources": [
+   {
+    "id": "lilium-2024-07-18",
+    "name": "Lilium IR — Saudia Group Signs Industry-Leading Sales Agreement With Lilium to Acquire Up to 100 eVTOL Jets (18 Jul 2024) (archived copy)",
+    "url": "https://web.archive.org/web/2024/https://lilium.com/newsroom-detail/saudia-group-signs-industry-leading-sales-agreement-with-lilium-to-acquire-up-to-100-evtol-jets",
+    "type": "operator-ir",
+    "accessed": "2026-08-22"
+   },
+   {
+    "id": "thenational-2025-02-22",
+    "name": "The National — German air taxi developer Lilium files for insolvency again (22 Feb 2025)",
+    "url": "https://www.thenationalnews.com/future/technology/2025/02/22/german-air-taxi-developer-lilium-files-for-insolvency-again-after-funding-options-fail/",
+    "type": "primary",
+    "accessed": "2026-05-20"
+   },
+   {
+    "id": "flightglobal-2026-04-09",
+    "name": "FlightGlobal — Lilium Jet's journey ends on scrapheap as prototypes fail to sell (9 Apr 2026)",
+    "url": "https://www.flightglobal.com/aerospace/2026/04/lilium-jets-journey-ends-on-scrapheap-as-prototypes-fail-to-sell/",
+    "type": "primary",
+    "accessed": "2026-05-20"
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "Lilium Jet — Saudia Group Sales Agreement",
+    "meta_description": "Saudia and Lilium signed a binding sales agreement on 18 July 2024 for up to 100 Lilium Jets. Lilium filed final insolvency 21 February 2025; prototypes scrapped April 2026. Contract orphaned."
+   },
+   "ar": {
+    "name": "Lilium Jet — Saudia Group Sales Agreement",
+    "meta_description": "Saudia and Lilium signed a binding sales agreement on 18 July 2024 for up to 100 Lilium Jets. Lilium filed final insolvency 21 February 2025; prototypes scrapped April 2026. Contract orphaned."
+   },
+   "fr": {
+    "name": "Lilium Jet — Saudia Group Sales Agreement",
+    "meta_description": "Saudia and Lilium signed a binding sales agreement on 18 July 2024 for up to 100 Lilium Jets. Lilium filed final insolvency 21 February 2025; prototypes scrapped April 2026. Contract orphaned."
+   },
+   "de": {
+    "name": "Lilium Jet — Saudia Group Sales Agreement",
+    "meta_description": "Saudia and Lilium signed a binding sales agreement on 18 July 2024 for up to 100 Lilium Jets. Lilium filed final insolvency 21 February 2025; prototypes scrapped April 2026. Contract orphaned."
+   },
+   "zh": {
+    "name": "Lilium Jet — Saudia Group Sales Agreement",
+    "meta_description": "Saudia and Lilium signed a binding sales agreement on 18 July 2024 for up to 100 Lilium Jets. Lilium filed final insolvency 21 February 2025; prototypes scrapped April 2026. Contract orphaned."
+   }
+  }
+ }
+}

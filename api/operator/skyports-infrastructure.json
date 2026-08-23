@@ -1,0 +1,100 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/operators/skyports-infrastructure.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "skyports-infrastructure",
+  "entity_type": "operator",
+  "country": "UAE",
+  "city": "Dubai",
+  "status": "operational",
+  "last_verified": "2026-08-22",
+  "name": "Skyports Infrastructure",
+  "meta_description": "Skyports Infrastructure: London-based vertiport developer, exclusive builder of Dubai's Joby/RTA vertiport network. VDX GCAA-certified 7 July 2026.",
+  "latitude": 25.2532,
+  "longitude": 55.3657,
+  "sources": [
+   {
+    "id": "skyports-2023-design-approval",
+    "name": "Skyports Infrastructure — Design for vertiports approved in Dubai (Feb 2023)",
+    "url": "https://skyports.net/skyports-infrastructures-design-for-vertiports-approved-in-dubai/",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "skyports-rta-joby-2024-02",
+    "name": "Skyports Infrastructure — Skyports, RTA and Joby to launch air taxi service in Dubai (Feb 2024)",
+    "url": "https://skyports.net/skyports-rta-and-joby-to-launch-air-taxi-service-in-dubai/",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "skyports-series-c-2024-04",
+    "name": "Skyports Infrastructure — Series C in excess of $110M led by ACS (April 2024)",
+    "url": "https://skyports.net/skyports-raises-in-excess-of-110m-in-series-c-round-led-by-new-investment-from-acs/",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "skyports-rta-groundbreak-2024-11",
+    "name": "Skyports Infrastructure — Skyports and RTA break ground on first vertiport in Dubai (12 Nov 2024)",
+    "url": "https://skyports.net/skyports-and-rta-break-ground-on-first-vertiport-in-dubai/",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "skyports-dxv-topping-2025-11",
+    "name": "Skyports Infrastructure — World's first commercial vertiport VDX reaches topping-out (19 Nov 2025)",
+    "url": "https://skyports.net/worlds-first-commercial-vertiport-dxv-reaches-topping-out-construction-milestone/",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "skyports-dxv-tech-complete-2026-04",
+    "name": "Skyports Infrastructure — Air taxi ready: VDX reaches technical completion (16 Apr 2026)",
+    "url": "https://skyports.net/worlds-first-commercial-vertiport-technical-completion/",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "joby-ir-2025-11-17",
+    "name": "Joby Aviation IR — Dubai Air Taxi Network Takes Flight (17 Nov 2025)",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/162/dubai-air-taxi-network-takes-flight-joby-completes",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "skyports-2026-07-07",
+    "name": "Skyports Infrastructure — UAE makes global aviation history with certification of world's first purpose-built commercial vertiport (7 Jul 2026)",
+    "url": "https://skyports.net/post/uae-makes-global-aviation-history-with-certification-worlds-first-purpose-built-commercial-vertiport-skyports-infrastructure",
+    "type": "primary",
+    "accessed": "2026-08-22"
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "Skyports Infrastructure",
+    "meta_description": "Skyports Infrastructure: London-based vertiport developer, exclusive builder of Dubai's Joby/RTA vertiport network. VDX technically complete April 2026."
+   },
+   "ar": {
+    "name": "Skyports Infrastructure",
+    "meta_description": "Skyports Infrastructure: London-based vertiport developer, exclusive builder of Dubai's Joby/RTA vertiport network. VDX technically complete April 2026."
+   },
+   "fr": {
+    "name": "Skyports Infrastructure",
+    "meta_description": "Skyports Infrastructure: London-based vertiport developer, exclusive builder of Dubai's Joby/RTA vertiport network. VDX technically complete April 2026."
+   },
+   "de": {
+    "name": "Skyports Infrastructure",
+    "meta_description": "Skyports Infrastructure: London-based vertiport developer, exclusive builder of Dubai's Joby/RTA vertiport network. VDX technically complete April 2026."
+   },
+   "zh": {
+    "name": "Skyports Infrastructure",
+    "meta_description": "Skyports Infrastructure: London-based vertiport developer, exclusive builder of Dubai's Joby/RTA vertiport network. VDX technically complete April 2026."
+   }
+  }
+ }
+}

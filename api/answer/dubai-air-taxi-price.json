@@ -1,0 +1,79 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/explainers/dubai-air-taxi-price.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "dubai-air-taxi-price",
+  "entity_type": "answer",
+  "country": "UAE",
+  "city": "Dubai",
+  "status": "trial_only",
+  "last_verified": "2026-08-22",
+  "name": "Dubai air taxi price — what is confirmed",
+  "meta_description": "No fare has been announced for Dubai's air taxi as of August 2026. The RTA says pricing is undecided — 'cheaper than helicopters', aiming at Uber/Careem parity over time. The AED 350 figure circulating online is unsourced.",
+  "latitude": 25.2048,
+  "longitude": 55.2708,
+  "sources": [
+   {
+    "id": "gulf-news-2025-11-20",
+    "name": "Gulf News — Dubai air taxi fares could eventually match Uber, Careem, says RTA CEO (20 Nov 2025)",
+    "url": "https://gulfnews.com/uae/dubai-air-taxi-fares-could-eventually-match-uber-careem-says-rta-ceo-1.500353007",
+    "type": "press",
+    "accessed": "2026-08-22"
+   },
+   {
+    "id": "joby-uber-2026-02-25",
+    "name": "Joby Aviation — Get Ready for Takeoff with Uber and Joby (25 Feb 2026)",
+    "url": "https://www.jobyaviation.com/news/get-ready-for-takeoff-with-uber-and-joby",
+    "type": "operator-ir",
+    "accessed": "2026-08-22"
+   },
+   {
+    "id": "joby-ir-2024-02-11",
+    "name": "Joby Aviation IR — Joby to Launch Air Taxi Service in UAE (11 Feb 2024)",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/87/joby-to-launch-air-taxi-service-in-uae",
+    "type": "operator-ir",
+    "accessed": "2026-08-22"
+   },
+   {
+    "id": "skyports-2026-07-07",
+    "name": "Skyports Infrastructure — UAE Makes Global Aviation History with GCAA's Certification of the World's First Purpose-Built Commercial Vertiport (7 Jul 2026)",
+    "url": "https://skyports.net/post/uae-makes-global-aviation-history-with-certification-worlds-first-purpose-built-commercial-vertiport-skyports-infrastructure",
+    "type": "primary",
+    "accessed": "2026-08-22"
+   },
+   {
+    "id": "national-2026-07-07",
+    "name": "The National — Dubai's air taxis primed for lift-off after approval for first vertiport (7 Jul 2026)",
+    "url": "https://www.thenationalnews.com/news/uae/2026/07/07/dubais-air-taxis-primed-for-lift-off-after-approval-for-first-vertiport/",
+    "type": "press",
+    "accessed": "2026-08-22"
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "Dubai air taxi price — what is confirmed",
+    "meta_description": "No fare has been announced for Dubai's air taxi as of August 2026. The RTA says pricing is undecided — 'cheaper than helicopters', aiming at Uber/Careem parity over time. The AED 350 figure circulating online is unsourced."
+   },
+   "ar": {
+    "name": "Dubai air taxi price — what is confirmed",
+    "meta_description": "No fare has been announced for Dubai's air taxi as of August 2026. The RTA says pricing is undecided — 'cheaper than helicopters', aiming at Uber/Careem parity over time. The AED 350 figure circulating online is unsourced."
+   },
+   "fr": {
+    "name": "Dubai air taxi price — what is confirmed",
+    "meta_description": "No fare has been announced for Dubai's air taxi as of August 2026. The RTA says pricing is undecided — 'cheaper than helicopters', aiming at Uber/Careem parity over time. The AED 350 figure circulating online is unsourced."
+   },
+   "de": {
+    "name": "Dubai air taxi price — what is confirmed",
+    "meta_description": "No fare has been announced for Dubai's air taxi as of August 2026. The RTA says pricing is undecided — 'cheaper than helicopters', aiming at Uber/Careem parity over time. The AED 350 figure circulating online is unsourced."
+   },
+   "zh": {
+    "name": "Dubai air taxi price — what is confirmed",
+    "meta_description": "No fare has been announced for Dubai's air taxi as of August 2026. The RTA says pricing is undecided — 'cheaper than helicopters', aiming at Uber/Careem parity over time. The AED 350 figure circulating online is unsourced."
+   }
+  }
+ }
+}

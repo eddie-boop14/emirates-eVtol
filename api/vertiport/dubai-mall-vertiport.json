@@ -1,0 +1,79 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/vertiports/dubai-mall-vertiport.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "dubai-mall-vertiport",
+  "entity_type": "vertiport",
+  "country": "UAE",
+  "city": "Dubai",
+  "status": "planned",
+  "last_verified": "2026-08-22",
+  "name": "Dubai Mall Vertiport",
+  "meta_description": "Dubai Mall Vertiport, announced 17 November 2025 by Joby and the RTA, with Emaar Properties as the property partner. Construction set to begin in 2026.",
+  "latitude": 25.1972,
+  "longitude": 55.2796,
+  "sources": [
+   {
+    "id": "joby-ir-2024-02-11",
+    "name": "Joby Aviation IR — Joby to Launch Air Taxi Service in UAE (11 Feb 2024)",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/87/joby-to-launch-air-taxi-service-in-uae",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "joby-ir-2025-11-17",
+    "name": "Joby Aviation IR — Dubai Air Taxi Network Takes Flight (17 Nov 2025)",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/162/dubai-air-taxi-network-takes-flight-joby-completes",
+    "type": "operator-ir",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "skyports-2025-11-19",
+    "name": "Skyports Infrastructure — World's first commercial vertiport VDX reaches topping-out milestone (19 Nov 2025)",
+    "url": "https://skyports.net/worlds-first-commercial-vertiport-dxv-reaches-topping-out-construction-milestone/",
+    "type": "primary",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "skyports-2026-04-16",
+    "name": "Skyports Infrastructure — Air taxi ready: world's first commercial vertiport reaches technical completion (16 Apr 2026)",
+    "url": "https://skyports.net/worlds-first-commercial-vertiport-technical-completion/",
+    "type": "primary",
+    "accessed": "2026-05-01"
+   },
+   {
+    "id": "rta-2025-11",
+    "name": "RTA Dubai — Successful First Crewed Electric Aerial Taxi Flight",
+    "url": "https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/all-news/NewsDetails/successful-first-crewed-electric-aerial-taxi-flight",
+    "type": "regulatory",
+    "accessed": "2026-05-01"
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "Dubai Mall Vertiport",
+    "meta_description": "Dubai Mall Vertiport, announced 17 November 2025 by Joby and the RTA, with Emaar Properties as the property partner. Construction set to begin in 2026."
+   },
+   "ar": {
+    "name": "محطة دبي مول للطائرات العمودية",
+    "meta_description": "محطة دبي مول للطائرات العمودية، أُعلن عنها في 17 نوفمبر 2025 من قِبل Joby وهيئة الطرق والمواصلات (RTA)، مع Emaar Properties شريكاً عقارياً. من المقرر بدء الإنشاء في 2026."
+   },
+   "fr": {
+    "name": "Vertiport Dubai Mall",
+    "meta_description": "Vertiport Dubai Mall, annoncé le 17 novembre 2025 par Joby et la RTA, avec Emaar Properties comme partenaire foncier. Début des travaux prévu en 2026."
+   },
+   "de": {
+    "name": "Dubai Mall Vertiport",
+    "meta_description": "Dubai Mall Vertiport, am 17. November 2025 von Joby und der RTA angekündigt, mit Emaar Properties als Grundstückspartner. Bauarbeiten ab 2026 geplant."
+   },
+   "zh": {
+    "name": "迪拜购物中心垂直起降港",
+    "meta_description": "迪拜购物中心垂直起降港，2025 年 11 月 17 日由 Joby 与 RTA 共同宣布，Emaar Properties 为地产合作方。施工计划于 2026 年启动。"
+   }
+  }
+ }
+}

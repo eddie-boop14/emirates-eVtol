@@ -1,0 +1,194 @@
+{
+ "site": "evtolemirates.com",
+ "events": [
+  {
+   "date": "2026-08-22",
+   "kind": "status",
+   "slug": "american-university-of-dubai-vertiport",
+   "name": "American University of Dubai Vertiport",
+   "entity_type": "vertiport",
+   "old_status": "planned",
+   "new_status": "under_construction"
+  },
+  {
+   "date": "2026-08-22",
+   "kind": "added",
+   "slug": "dubai-air-taxi-launch-tracker",
+   "name": "Dubai air taxi launch tracker",
+   "entity_type": "answer",
+   "old_status": null,
+   "new_status": "trial_only"
+  },
+  {
+   "date": "2026-08-22",
+   "kind": "added",
+   "slug": "dubai-air-taxi-price",
+   "name": "Dubai air taxi price — what is confirmed",
+   "entity_type": "answer",
+   "old_status": null,
+   "new_status": "trial_only"
+  },
+  {
+   "date": "2026-08-22",
+   "kind": "added",
+   "slug": "dubai-air-taxi-routes-and-times",
+   "name": "Dubai air taxi routes & flight times",
+   "entity_type": "answer",
+   "old_status": null,
+   "new_status": "trial_only"
+  },
+  {
+   "date": "2026-08-22",
+   "kind": "added",
+   "slug": "how-to-book-dubai-air-taxi",
+   "name": "How to book Dubai’s air taxi",
+   "entity_type": "answer",
+   "old_status": null,
+   "new_status": "trial_only"
+  },
+  {
+   "date": "2026-08-03",
+   "kind": "status",
+   "slug": "archer-midnight-abu-dhabi",
+   "name": "Archer Midnight (Abu Dhabi)",
+   "entity_type": "aircraft",
+   "old_status": "trial-only",
+   "new_status": "trial_only"
+  },
+  {
+   "date": "2026-08-03",
+   "kind": "status",
+   "slug": "dxb-vertiport",
+   "name": "DXB Vertiport",
+   "entity_type": "vertiport",
+   "old_status": "under_construction",
+   "new_status": "certified"
+  },
+  {
+   "date": "2026-08-03",
+   "kind": "status",
+   "slug": "ehang-eh216-s-uae",
+   "name": "EHang EH216-S (UAE)",
+   "entity_type": "aircraft",
+   "old_status": "trial-only",
+   "new_status": "trial_only"
+  },
+  {
+   "date": "2026-08-03",
+   "kind": "status",
+   "slug": "gulf-evtol-comparison-uae-vs-qatar",
+   "name": "Gulf eVTOL — UAE vs Qatar compared",
+   "entity_type": "answer",
+   "old_status": "trial-only",
+   "new_status": "trial_only"
+  },
+  {
+   "date": "2026-08-03",
+   "kind": "status",
+   "slug": "joby-s4-hybrid-electric",
+   "name": "Joby S4 Hybrid-Electric Demonstrator",
+   "entity_type": "aircraft",
+   "old_status": "trial-only",
+   "new_status": "trial_only"
+  },
+  {
+   "date": "2026-08-03",
+   "kind": "status",
+   "slug": "joby-s4-uae",
+   "name": "Joby S4 (UAE Operations)",
+   "entity_type": "aircraft",
+   "old_status": "trial-only",
+   "new_status": "trial_only"
+  },
+  {
+   "date": "2026-08-03",
+   "kind": "status",
+   "slug": "joby-vs-archer-uae-exclusivity-explained",
+   "name": "Joby vs Archer UAE exclusivity — explained",
+   "entity_type": "answer",
+   "old_status": "trial-only",
+   "new_status": "trial_only"
+  },
+  {
+   "date": "2026-08-03",
+   "kind": "status",
+   "slug": "margham-to-al-maktoum",
+   "name": "Margham → Al Maktoum International (DWC)",
+   "entity_type": "route",
+   "old_status": "trial-only",
+   "new_status": "trial_only"
+  },
+  {
+   "date": "2026-08-03",
+   "kind": "status",
+   "slug": "beta-technologies",
+   "name": "BETA Technologies, Inc.",
+   "entity_type": "operator",
+   "old_status": "under-construction",
+   "new_status": "under_construction"
+  },
+  {
+   "date": "2026-07-29",
+   "kind": "added",
+   "slug": "beta-technologies",
+   "name": "BETA Technologies, Inc.",
+   "entity_type": "operator",
+   "old_status": null,
+   "new_status": "under-construction"
+  },
+  {
+   "date": "2026-07-29",
+   "kind": "added",
+   "slug": "eve-air-mobility",
+   "name": "Eve Air Mobility",
+   "entity_type": "operator",
+   "old_status": null,
+   "new_status": "announced"
+  },
+  {
+   "date": "2026-07-29",
+   "kind": "added",
+   "slug": "regent-seaglider",
+   "name": "REGENT Craft, Inc.",
+   "entity_type": "operator",
+   "old_status": null,
+   "new_status": "planned"
+  },
+  {
+   "date": "2026-07-29",
+   "kind": "added",
+   "slug": "tcab-tech",
+   "name": "TCab Tech (Shanghai Time Technology Co.)",
+   "entity_type": "operator",
+   "old_status": null,
+   "new_status": "announced"
+  },
+  {
+   "date": "2026-07-29",
+   "kind": "added",
+   "slug": "vertical-aerospace",
+   "name": "Vertical Aerospace",
+   "entity_type": "operator",
+   "old_status": null,
+   "new_status": "orphaned"
+  },
+  {
+   "date": "2026-07-29",
+   "kind": "added",
+   "slug": "vports",
+   "name": "VPorts",
+   "entity_type": "operator",
+   "old_status": null,
+   "new_status": "announced"
+  },
+  {
+   "date": "2026-05-20",
+   "kind": "published",
+   "slug": null,
+   "name": "Corpus first published — 39 entities",
+   "entity_type": null,
+   "old_status": null,
+   "new_status": null
+  }
+ ]
+}

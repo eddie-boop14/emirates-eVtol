@@ -1,0 +1,58 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/aircraft/archer-midnight-uae-launch-edition.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "archer-midnight-uae-launch-edition",
+  "entity_type": "aircraft",
+  "country": "UAE",
+  "city": "Abu Dhabi",
+  "status": "trial_only",
+  "last_verified": "2026-08-22",
+  "name": "Archer Midnight — UAE Launch Edition Flight Test Campaign",
+  "meta_description": "Archer Aviation's Midnight eVTOL completed in-country UAE flight test campaign culminating 14 November 2025. Full-envelope desert testing as part of the Launch Edition program with Abu Dhabi Aviation.",
+  "latitude": 24.4283,
+  "longitude": 54.4581,
+  "sources": [
+   {
+    "id": "archer-ir-2025-11-14",
+    "name": "Archer Aviation IR — Midnight Showcases In-Country eVTOL Flight Test Campaign in UAE (14 Nov 2025)",
+    "url": "https://investors.archer.com/news/news-details/2025/Archers-Midnight-Showcases-In-Country-eVTOL-Flight-Test-Campaign-in-UAE-as-Part-of-Its-Commercial-Launch-Edition-Program/default.aspx",
+    "type": "operator-ir",
+    "accessed": "2026-05-20"
+   },
+   {
+    "id": "ainonline-2025-07-02",
+    "name": "Archer Flies Midnight eVTOL Aircraft Prototype in Abu Dhabi (AIN, 2 Jul 2025)",
+    "url": "https://www.ainonline.com/aviation-news/futureflight/2025-07-02/archer-flies-midnight-evtol-prototype-abu-dhabi",
+    "type": "primary",
+    "accessed": "2026-05-20"
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "Archer Midnight — UAE Launch Edition Flight Test Campaign",
+    "meta_description": "Archer Aviation's Midnight eVTOL completed in-country UAE flight test campaign culminating 14 November 2025. Full-envelope desert testing as part of the Launch Edition program with Abu Dhabi Aviation."
+   },
+   "ar": {
+    "name": "Archer Midnight — UAE Launch Edition Flight Test Campaign",
+    "meta_description": "Archer Aviation's Midnight eVTOL completed in-country UAE flight test campaign culminating 14 November 2025. Full-envelope desert testing as part of the Launch Edition program with Abu Dhabi Aviation."
+   },
+   "fr": {
+    "name": "Archer Midnight — UAE Launch Edition Flight Test Campaign",
+    "meta_description": "Archer Aviation's Midnight eVTOL completed in-country UAE flight test campaign culminating 14 November 2025. Full-envelope desert testing as part of the Launch Edition program with Abu Dhabi Aviation."
+   },
+   "de": {
+    "name": "Archer Midnight — UAE Launch Edition Flight Test Campaign",
+    "meta_description": "Archer Aviation's Midnight eVTOL completed in-country UAE flight test campaign culminating 14 November 2025. Full-envelope desert testing as part of the Launch Edition program with Abu Dhabi Aviation."
+   },
+   "zh": {
+    "name": "Archer Midnight — UAE Launch Edition Flight Test Campaign",
+    "meta_description": "Archer Aviation's Midnight eVTOL completed in-country UAE flight test campaign culminating 14 November 2025. Full-envelope desert testing as part of the Launch Edition program with Abu Dhabi Aviation."
+   }
+  }
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "about": {
+  "source": "https://evtolemirates.com/entities.json",
+  "page": "https://evtolemirates.com/operators/eve-air-mobility.html",
+  "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "evtolemirates.com"
+ },
+ "entity": {
+  "slug": "eve-air-mobility",
+  "entity_type": "operator",
+  "country": "UAE",
+  "city": "Dubai",
+  "status": "announced",
+  "last_verified": "2026-08-22",
+  "name": "Eve Air Mobility",
+  "meta_description": "Eve Air Mobility's UAE record: a 2022 Falcon Aviation letter of intent for up to 35 eVTOLs and a 2023 Kookiejar Urban ATM deal. No UAE operations to date.",
+  "latitude": null,
+  "longitude": null,
+  "sources": [
+   {
+    "id": "eve-falcon-2022",
+    "name": "Eve Air Mobility — Eve and Falcon Aviation Services announce partnership to introduce eVTOL flights in Dubai",
+    "url": "https://www.eveairmobility.com/eve-and-falcon-aviation-services-announce-partnership-to-introduce-evtol-flights-in-dubai/",
+    "type": "official-news",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "falcon-eve-2022",
+    "name": "Falcon Aviation Services — Eve and Falcon Aviation Services announce partnership to introduce eVTOL flights in Dubai",
+    "url": "https://www.falconaviation.ae/2022/06/07/eve-and-falcon-aviation-services-announce-partnership-to-introduce-evtol-flights-in-dubai",
+    "type": "official-news",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "eve-kookiejar-2023",
+    "name": "Eve Air Mobility — Eve and Kookiejar to Develop Urban Air Traffic Management System for Operations in Dubai",
+    "url": "https://www.eveairmobility.com/eve-and-kookiejar-to-develop-urban-air-traffic-management-system-for-operations-in-dubai/",
+    "type": "official-news",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "embraer-eve-bahrain-2025",
+    "name": "Embraer Media Center — Eve Air Mobility Expands Middle East Presence with Bahrain Framework Agreement",
+    "url": "https://www.embraer.com/media-center/en/?mediatype=NEWS&detail=23068",
+    "type": "operator-ir",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "eve-ir-fy2025",
+    "name": "Eve Holding, Inc. — Eve Holding, Inc. Reports Fourth Quarter and FY2025 Results",
+    "url": "https://ir.eveairmobility.com/news-events/press-releases/detail/106/eve-holding-inc-reports-fourth-quarter-and-fy2025-results",
+    "type": "operator-ir",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "eve-ir-cert-2026",
+    "name": "Eve Holding, Inc. — Eve Advances Global Certification Path for Eve 100",
+    "url": "https://ir.eveairmobility.com/news-events/press-releases/detail/115/eve-advances-global-certification-path-for-eve-100",
+    "type": "operator-ir",
+    "accessed": "2026-07-28",
+    "primary": true
+   },
+   {
+    "id": "eve-evtol-specs",
+    "name": "Eve Air Mobility — eVTOL (aircraft specifications)",
+    "url": "https://www.eveairmobility.com/evtol/",
+    "type": "official-news",
+    "accessed": "2026-07-28",
+    "primary": true
+   }
+  ],
+  "i18n": {
+   "en": {
+    "name": "Eve Air Mobility",
+    "meta_description": "Eve Air Mobility's UAE record: a 2022 Falcon Aviation letter of intent for up to 35 eVTOLs and a 2023 Kookiejar Urban ATM deal. No UAE operations to date."
+   },
+   "ar": {
+    "name": "Eve Air Mobility",
+    "meta_description": "Eve Air Mobility's UAE record: a 2022 Falcon Aviation letter of intent for up to 35 eVTOLs and a 2023 Kookiejar Urban ATM deal. No UAE operations to date."
+   },
+   "fr": {
+    "name": "Eve Air Mobility",
+    "meta_description": "Eve Air Mobility's UAE record: a 2022 Falcon Aviation letter of intent for up to 35 eVTOLs and a 2023 Kookiejar Urban ATM deal. No UAE operations to date."
+   },
+   "de": {
+    "name": "Eve Air Mobility",
+    "meta_description": "Eve Air Mobility's UAE record: a 2022 Falcon Aviation letter of intent for up to 35 eVTOLs and a 2023 Kookiejar Urban ATM deal. No UAE operations to date."
+   },
+   "zh": {
+    "name": "Eve Air Mobility",
+    "meta_description": "Eve Air Mobility's UAE record: a 2022 Falcon Aviation letter of intent for up to 35 eVTOLs and a 2023 Kookiejar Urban ATM deal. No UAE operations to date."
+   }
+  }
+ }
+}
