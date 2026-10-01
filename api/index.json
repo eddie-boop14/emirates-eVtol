@@ -1,7 +1,7 @@
 {
  "title": "evtolemirates.com entity API",
  "license": "CC BY 4.0",
- "generated": "2026-08-23",
+ "generated": "2026-10-01",
  "count": 49,
  "entities": [
   {
@@ -9,7 +9,7 @@
    "name": "Abu Dhabi Aviation",
    "entity_type": "operator",
    "status": "operational",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/operator/abu-dhabi-aviation.json",
    "page": "https://evtolemirates.com/operators/abu-dhabi-aviation.html"
   },
@@ -18,7 +18,7 @@
    "name": "Abu Dhabi Cruise Terminal Hybrid Heliport",
    "entity_type": "vertiport",
    "status": "design_approved",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/vertiport/abu-dhabi-cruise-terminal-vertiport.json",
    "page": "https://evtolemirates.com/vertiports/abu-dhabi-cruise-terminal-vertiport.html"
   },
@@ -27,7 +27,7 @@
    "name": "Abu Dhabi Department of Municipalities and Transport (DMT)",
    "entity_type": "regulator",
    "status": "operational",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/regulator/abu-dhabi-dmt.json",
    "page": "https://evtolemirates.com/regulators/abu-dhabi-dmt.html"
   },
@@ -36,7 +36,7 @@
    "name": "Abu Dhabi Network — Route 1 (Abu Dhabi ↔ Dubai)",
    "entity_type": "route",
    "status": "announced",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/route/abu-dhabi-network-route-1.json",
    "page": "https://evtolemirates.com/routes/abu-dhabi-network-route-1.html"
   },
@@ -45,7 +45,7 @@
    "name": "Abu Dhabi Network — Route 2",
    "entity_type": "route",
    "status": "announced",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/route/abu-dhabi-network-route-2.json",
    "page": "https://evtolemirates.com/routes/abu-dhabi-network-route-2.html"
   },
@@ -54,7 +54,7 @@
    "name": "Abu Dhabi Investment Office (ADIO)",
    "entity_type": "regulator",
    "status": "operational",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/regulator/adio-abu-dhabi.json",
    "page": "https://evtolemirates.com/regulators/adio-abu-dhabi.html"
   },
@@ -63,7 +63,7 @@
    "name": "Al Bateen Executive Airport (AZI) Vertiport",
    "entity_type": "vertiport",
    "status": "under_construction",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/vertiport/al-bateen-vertiport.json",
    "page": "https://evtolemirates.com/vertiports/al-bateen-vertiport.html"
   },
@@ -72,7 +72,7 @@
    "name": "Al Maktoum International Airport Vertiport (DWC)",
    "entity_type": "vertiport",
    "status": "announced",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/vertiport/al-maktoum-international-vertiport.json",
    "page": "https://evtolemirates.com/vertiports/al-maktoum-international-vertiport.html"
   },
@@ -81,7 +81,7 @@
    "name": "American University of Dubai Vertiport",
    "entity_type": "vertiport",
    "status": "under_construction",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/vertiport/american-university-of-dubai-vertiport.json",
    "page": "https://evtolemirates.com/vertiports/american-university-of-dubai-vertiport.html"
   },
@@ -90,7 +90,7 @@
    "name": "Archer Aviation — Abu Dhabi",
    "entity_type": "operator",
    "status": "announced",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/operator/archer-aviation-abu-dhabi.json",
    "page": "https://evtolemirates.com/operators/archer-aviation-abu-dhabi.html"
   },
@@ -99,7 +99,7 @@
    "name": "Archer Midnight (Abu Dhabi)",
    "entity_type": "aircraft",
    "status": "trial_only",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/aircraft/archer-midnight-abu-dhabi.json",
    "page": "https://evtolemirates.com/aircraft/archer-midnight-abu-dhabi.html"
   },
@@ -108,7 +108,7 @@
    "name": "Archer Midnight — UAE Launch Edition Flight Test Campaign",
    "entity_type": "aircraft",
    "status": "trial_only",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/aircraft/archer-midnight-uae-launch-edition.json",
    "page": "https://evtolemirates.com/aircraft/archer-midnight-uae-launch-edition.html"
   },
@@ -117,7 +117,7 @@
    "name": "Atlantis The Royal Vertiport",
    "entity_type": "vertiport",
    "status": "announced",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/vertiport/atlantis-the-royal-vertiport.json",
    "page": "https://evtolemirates.com/vertiports/atlantis-the-royal-vertiport.html"
   },
@@ -126,7 +126,7 @@
    "name": "BETA Technologies, Inc.",
    "entity_type": "operator",
    "status": "under_construction",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/operator/beta-technologies.json",
    "page": "https://evtolemirates.com/operators/beta-technologies.html"
   },
@@ -135,7 +135,7 @@
    "name": "Did Not Make The Cut: 13 Entities We Cut",
    "entity_type": "answer",
    "status": "operational",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/answer/did-not-make-the-cut.json",
    "page": "https://evtolemirates.com/explainers/did-not-make-the-cut.html"
   },
@@ -144,7 +144,7 @@
    "name": "Dubai air taxi launch tracker",
    "entity_type": "answer",
    "status": "trial_only",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/answer/dubai-air-taxi-launch-tracker.json",
    "page": "https://evtolemirates.com/explainers/dubai-air-taxi-launch-tracker.html"
   },
@@ -153,7 +153,7 @@
    "name": "Dubai air taxi price — what is confirmed",
    "entity_type": "answer",
    "status": "trial_only",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/answer/dubai-air-taxi-price.json",
    "page": "https://evtolemirates.com/explainers/dubai-air-taxi-price.html"
   },
@@ -162,7 +162,7 @@
    "name": "Dubai air taxi routes & flight times",
    "entity_type": "answer",
    "status": "trial_only",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/answer/dubai-air-taxi-routes-and-times.json",
    "page": "https://evtolemirates.com/explainers/dubai-air-taxi-routes-and-times.html"
   },
@@ -171,7 +171,7 @@
    "name": "Dubai Future Foundation",
    "entity_type": "regulator",
    "status": "operational",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/regulator/dubai-future-foundation.json",
    "page": "https://evtolemirates.com/regulators/dubai-future-foundation.html"
   },
@@ -180,7 +180,7 @@
    "name": "Dubai Mall Vertiport",
    "entity_type": "vertiport",
    "status": "planned",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/vertiport/dubai-mall-vertiport.json",
    "page": "https://evtolemirates.com/vertiports/dubai-mall-vertiport.html"
   },
@@ -189,7 +189,7 @@
    "name": "Dubai Marina Vertiport",
    "entity_type": "vertiport",
    "status": "under_construction",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/vertiport/dubai-marina-vertiport.json",
    "page": "https://evtolemirates.com/vertiports/dubai-marina-vertiport.html"
   },
@@ -198,7 +198,7 @@
    "name": "DXB ↔ Atlantis The Royal",
    "entity_type": "route",
    "status": "planned",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/route/dxb-to-atlantis-the-royal.json",
    "page": "https://evtolemirates.com/routes/dxb-to-atlantis-the-royal.html"
   },
@@ -207,7 +207,7 @@
    "name": "DXB ↔ Dubai Mall",
    "entity_type": "route",
    "status": "planned",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/route/dxb-to-dubai-mall.json",
    "page": "https://evtolemirates.com/routes/dxb-to-dubai-mall.html"
   },
@@ -216,7 +216,7 @@
    "name": "DXB Vertiport",
    "entity_type": "vertiport",
    "status": "certified",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/vertiport/dxb-vertiport.json",
    "page": "https://evtolemirates.com/vertiports/dxb-vertiport.html"
   },
@@ -225,7 +225,7 @@
    "name": "EHang EH216-S Mecca Hajj Flight",
    "entity_type": "aircraft",
    "status": "trial_only",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/aircraft/ehang-eh216-s-mecca.json",
    "page": "https://evtolemirates.com/aircraft/ehang-eh216-s-mecca.html"
   },
@@ -234,7 +234,7 @@
    "name": "EHang EH216-S (UAE)",
    "entity_type": "aircraft",
    "status": "trial_only",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/aircraft/ehang-eh216-s-uae.json",
    "page": "https://evtolemirates.com/aircraft/ehang-eh216-s-uae.html"
   },
@@ -243,7 +243,7 @@
    "name": "Eve Air Mobility",
    "entity_type": "operator",
    "status": "announced",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/operator/eve-air-mobility.json",
    "page": "https://evtolemirates.com/operators/eve-air-mobility.html"
   },
@@ -252,7 +252,7 @@
    "name": "General Authority of Civil Aviation (GACA), Saudi Arabia",
    "entity_type": "regulator",
    "status": "operational",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/regulator/gaca-saudi-arabia.json",
    "page": "https://evtolemirates.com/regulators/gaca-saudi-arabia.html"
   },
@@ -261,7 +261,7 @@
    "name": "General Civil Aviation Authority — UAE",
    "entity_type": "regulator",
    "status": "operational",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/regulator/gcaa-uae.json",
    "page": "https://evtolemirates.com/regulators/gcaa-uae.html"
   },
@@ -270,7 +270,7 @@
    "name": "Gulf eVTOL — UAE vs Qatar compared",
    "entity_type": "answer",
    "status": "trial_only",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/answer/gulf-evtol-comparison-uae-vs-qatar.json",
    "page": "https://evtolemirates.com/explainers/gulf-evtol-comparison-uae-vs-qatar.html"
   },
@@ -279,7 +279,7 @@
    "name": "How to book Dubai’s air taxi",
    "entity_type": "answer",
    "status": "trial_only",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/answer/how-to-book-dubai-air-taxi.json",
    "page": "https://evtolemirates.com/explainers/how-to-book-dubai-air-taxi.html"
   },
@@ -288,7 +288,7 @@
    "name": "Joby S4 Hybrid-Electric Demonstrator",
    "entity_type": "aircraft",
    "status": "trial_only",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/aircraft/joby-s4-hybrid-electric.json",
    "page": "https://evtolemirates.com/aircraft/joby-s4-hybrid-electric.html"
   },
@@ -297,7 +297,7 @@
    "name": "Joby S4 (UAE Operations)",
    "entity_type": "aircraft",
    "status": "trial_only",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/aircraft/joby-s4-uae.json",
    "page": "https://evtolemirates.com/aircraft/joby-s4-uae.html"
   },
@@ -306,7 +306,7 @@
    "name": "Joby vs Archer UAE exclusivity — explained",
    "entity_type": "answer",
    "status": "trial_only",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/answer/joby-vs-archer-uae-exclusivity-explained.json",
    "page": "https://evtolemirates.com/explainers/joby-vs-archer-uae-exclusivity-explained.html"
   },
@@ -315,7 +315,7 @@
    "name": "Lilium Jet — Saudia Group Sales Agreement",
    "entity_type": "aircraft",
    "status": "orphaned",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/aircraft/lilium-jet-saudia.json",
    "page": "https://evtolemirates.com/aircraft/lilium-jet-saudia.html"
   },
@@ -324,7 +324,7 @@
    "name": "Margham Flight Test Facility",
    "entity_type": "vertiport",
    "status": "operational",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/vertiport/margham-flight-test-facility.json",
    "page": "https://evtolemirates.com/vertiports/margham-flight-test-facility.html"
   },
@@ -333,7 +333,7 @@
    "name": "Margham → Al Maktoum International (DWC)",
    "entity_type": "route",
    "status": "trial_only",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/route/margham-to-al-maktoum.json",
    "page": "https://evtolemirates.com/routes/margham-to-al-maktoum.html"
   },
@@ -342,7 +342,7 @@
    "name": "Margham → Al Maktoum International (DWC)",
    "entity_type": "route",
    "status": "trial_only",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/route/margham-to-dwc.json",
    "page": "https://evtolemirates.com/routes/margham-to-dwc.html"
   },
@@ -351,7 +351,7 @@
    "name": "Palm Jumeirah Vertiport at Atlantis the Royal",
    "entity_type": "vertiport",
    "status": "planned",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/vertiport/palm-jumeirah-vertiport.json",
    "page": "https://evtolemirates.com/vertiports/palm-jumeirah-vertiport.html"
   },
@@ -360,7 +360,7 @@
    "name": "REGENT Craft, Inc.",
    "entity_type": "operator",
    "status": "planned",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/operator/regent-seaglider.json",
    "page": "https://evtolemirates.com/operators/regent-seaglider.html"
   },
@@ -369,7 +369,7 @@
    "name": "Roads and Transport Authority — Dubai",
    "entity_type": "operator",
    "status": "operational",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/operator/rta-dubai.json",
    "page": "https://evtolemirates.com/operators/rta-dubai.html"
   },
@@ -378,7 +378,7 @@
    "name": "Skyports Infrastructure",
    "entity_type": "operator",
    "status": "operational",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/operator/skyports-infrastructure.json",
    "page": "https://evtolemirates.com/operators/skyports-infrastructure.html"
   },
@@ -387,7 +387,7 @@
    "name": "TCab Tech (Shanghai Time Technology Co.)",
    "entity_type": "operator",
    "status": "announced",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/operator/tcab-tech.json",
    "page": "https://evtolemirates.com/operators/tcab-tech.html"
   },
@@ -396,7 +396,7 @@
    "name": "The Helicopter Company (THC)",
    "entity_type": "operator",
    "status": "operational",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/operator/the-helicopter-company.json",
    "page": "https://evtolemirates.com/operators/the-helicopter-company.html"
   },
@@ -405,7 +405,7 @@
    "name": "Vertical Aerospace",
    "entity_type": "operator",
    "status": "orphaned",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/operator/vertical-aerospace.json",
    "page": "https://evtolemirates.com/operators/vertical-aerospace.html"
   },
@@ -414,7 +414,7 @@
    "name": "Volocopter NEOM Flight & $175M Investment",
    "entity_type": "aircraft",
    "status": "orphaned",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/aircraft/volocopter-neom-historical.json",
    "page": "https://evtolemirates.com/aircraft/volocopter-neom-historical.html"
   },
@@ -423,7 +423,7 @@
    "name": "Volocopter VoloCity (UAE History)",
    "entity_type": "aircraft",
    "status": "decommissioned",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/aircraft/volocopter-volocity-uae.json",
    "page": "https://evtolemirates.com/aircraft/volocopter-volocity-uae.html"
   },
@@ -432,7 +432,7 @@
    "name": "VPorts",
    "entity_type": "operator",
    "status": "announced",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/operator/vports.json",
    "page": "https://evtolemirates.com/operators/vports.html"
   },
@@ -441,7 +441,7 @@
    "name": "Zayed International (AUH) Vertiport",
    "entity_type": "vertiport",
    "status": "under_construction",
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/vertiport/zayed-international-vertiport.json",
    "page": "https://evtolemirates.com/vertiports/zayed-international-vertiport.html"
   }
