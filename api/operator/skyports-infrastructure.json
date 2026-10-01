@@ -11,9 +11,9 @@
   "country": "UAE",
   "city": "Dubai",
   "status": "operational",
-  "last_verified": "2026-08-22",
+  "last_verified": "2026-10-01",
   "name": "Skyports Infrastructure",
-  "meta_description": "Skyports Infrastructure: London-based vertiport developer, exclusive builder of Dubai's Joby/RTA vertiport network. VDX GCAA-certified 7 July 2026.",
+  "meta_description": "Skyports Infrastructure: London-based vertiport developer, exclusive builder of Dubai's Joby/RTA vertiport network. VDX GCAA-certified 7 July 2026. Signed a binding Ras Al Khaimah four-vertiport agreement on 28 Sep 2026 (launch target Q3 2027).",
   "latitude": 25.2532,
   "longitude": 55.3657,
   "sources": [
@@ -72,6 +72,13 @@
     "url": "https://skyports.net/post/uae-makes-global-aviation-history-with-certification-worlds-first-purpose-built-commercial-vertiport-skyports-infrastructure",
     "type": "primary",
     "accessed": "2026-08-22"
+   },
+   {
+    "id": "skyports-2026-09-28",
+    "name": "Skyports Infrastructure — RAKTA and Skyports sign binding Definitive Agreement for a four-vertiport Ras Al Khaimah network (28 Sep 2026)",
+    "url": "https://skyports.net/post/ras-al-khaimah-begins-aam-network-landmark-agreement-skyports",
+    "type": "primary",
+    "accessed": "2026-10-01"
    }
   ],
   "i18n": {
