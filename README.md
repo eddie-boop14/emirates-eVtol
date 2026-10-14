@@ -59,12 +59,15 @@ of it, and a build gate keeps the two from drifting:
 - **`FRESHNESS.md`** — the re-verification protocol: primary sources are
   re-read on a risk-ranked schedule and `last_verified` moves only when a
   human (or supervised sweep) actually re-read them. Full-corpus sweep last
-  completed **2026-08-22**.
+  completed **2026-10-01**.
 - **Build tooling** — `build_data.py` (dataset artefacts), `build_og.py`
   (social cards from the data), `build_api.py` (JSON endpoints),
   `build_changes.py` (change log recovered from git history),
   `build_atoms.py` (fact atoms: harvest / stamp / check),
-  `build_redirects.py`, `build_sister.py`, `freshness.py`.
+  `build_redirects.py`, `build_sister.py`, `freshness.py`,
+  `build_meta.py` (search-snippet hygiene: localized descriptions, title
+  length), `indexnow.py` (pings IndexNow after each production deploy, via
+  `.github/workflows/indexnow.yml`).
 
 ## Citing
 
