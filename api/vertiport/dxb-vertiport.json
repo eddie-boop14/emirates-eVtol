@@ -65,6 +65,14 @@
     "url": "https://www.thenationalnews.com/business/aviation/2025/11/03/uae-air-taxi-certification-to-be-completed-by-third-quarter-of-next-year-regulator-says/",
     "type": "regulatory",
     "accessed": "2026-05-20"
+   },
+   {
+    "id": "bayanat-2026-05-13",
+    "name": "Bayanat Engineering — first strategic entry into Advanced Air Mobility through Skyports Infrastructure: meteorological sensing at Dubai's first vertiport (13 May 2026)",
+    "url": "https://www.bayanatengineering.com/_files/ugd/6405e4_7031b32258fc4a93bb9c80c9cc858f4c.pdf",
+    "type": "primary",
+    "accessed": "2026-10-19",
+    "primary": true
    }
   ],
   "i18n": {

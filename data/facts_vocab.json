@@ -103,6 +103,34 @@
    "label": "认证"
   }
  },
+ "Chief executive": {
+  "ar": {
+   "label": "الرئيس التنفيذي"
+  },
+  "fr": {
+   "label": "Directeur général"
+  },
+  "de": {
+   "label": "Geschäftsführer"
+  },
+  "zh": {
+   "label": "首席执行官"
+  }
+ },
+ "Commercial agreements": {
+  "ar": {
+   "label": "الاتفاقيات التجارية"
+  },
+  "fr": {
+   "label": "Accords commerciaux"
+  },
+  "de": {
+   "label": "Handelsvereinbarungen"
+  },
+  "zh": {
+   "label": "商业协议"
+  }
+ },
  "Commercial routes flying": {
   "ar": {
    "label": "مسارات تجارية تعمل"
@@ -240,6 +268,20 @@
    "label": "试飞"
   }
  },
+ "GCAA status": {
+  "ar": {
+   "label": "حالة GCAA"
+  },
+  "fr": {
+   "label": "Statut GCAA"
+  },
+  "de": {
+   "label": "GCAA-Status"
+  },
+  "zh": {
+   "label": "GCAA状态"
+  }
+ },
  "Headquarters": {
   "ar": {
    "label": "المقر"
@@ -350,6 +392,20 @@
   },
   "zh": {
    "label": "制造商"
+  }
+ },
+ "Manufacturer-stated performance": {
+  "ar": {
+   "label": "الأداء المعلن من قبل الشركة المصنعة"
+  },
+  "fr": {
+   "label": "Performances indiquées par le fabricant"
+  },
+  "de": {
+   "label": "Vom Hersteller angegebene Leistung"
+  },
+  "zh": {
+   "label": "制造商声明的性能"
   }
  },
  "Measured flight time": {
@@ -582,6 +638,20 @@
   },
   "zh": {
    "label": "类型"
+  }
+ },
+ "UAE flight testing": {
+  "ar": {
+   "label": "اختبارات الطيران في الإمارات العربية المتحدة"
+  },
+  "fr": {
+   "label": "Essais en vol aux Émirats arabes unis"
+  },
+  "de": {
+   "label": "Flugtests in den Vereinigten Arabischen Emiraten"
+  },
+  "zh": {
+   "label": "阿联酋飞行测试"
   }
  },
  "VDX capacity": {
