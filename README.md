@@ -1,7 +1,7 @@
 # UAE eVTOL — the primary-source reference for eVTOL in the United Arab Emirates
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22068156.svg)](https://doi.org/10.5281/zenodo.22068156)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Data licence: CC BY 4.0](https://img.shields.io/badge/data-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Site](https://img.shields.io/badge/site-evtolemirates.com-0ea5c4.svg)](https://evtolemirates.com)
 
 Every vertiport, route, aircraft, operator and regulator in the UAE eVTOL
@@ -67,7 +67,8 @@ of it, and a build gate keeps the two from drifting:
   `build_redirects.py`, `build_sister.py`, `freshness.py`,
   `build_meta.py` (search-snippet hygiene: localized descriptions, title
   length), `indexnow.py` (pings IndexNow after each production deploy, via
-  `.github/workflows/indexnow.yml`).
+  `.github/workflows/indexnow.yml`), `build_legal.py` (publisher imprint in
+  every footer + `legal.html`).
 
 ## Citing
 
@@ -85,3 +86,8 @@ The DOI always resolves to the latest versioned release.
 This is an independent reference. It is not affiliated with any operator,
 regulator, or government body documented on the site. Source links go to
 original documents — verify anything that matters before relying on it.
+
+Published by Edmaster & Claudius · bleu canard éditions, the publisher of
+[officiallink.org](https://officiallink.org/). The dataset is CC BY 4.0; the
+pages, design and code are © 2026 Edmaster & Claudius, all rights reserved —
+see the [legal notice](https://evtolemirates.com/legal.html).
