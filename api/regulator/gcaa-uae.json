@@ -65,6 +65,14 @@
     "url": "https://www.khaleejtimes.com/business/uae-flying-taxis-regulator-visits-joby-and-archer-facilities-before-service-launch",
     "type": "press",
     "accessed": "2026-10-19"
+   },
+   {
+    "id": "lodd-gcaa-cert-2026-07-01",
+    "name": "LODD Autonomous — LODD launches certification program for Hili hybrid cargo aircraft with GCAA (1 Jul 2026; release distributed by LODD, hosted by Vertical Mag)",
+    "url": "https://verticalmag.com/press-releases/lodd-launches-certification-program-for-hili-hybrid-cargo-aircraft-with-gcaa/",
+    "type": "operator-ir",
+    "accessed": "2026-10-19",
+    "primary": true
    }
   ],
   "i18n": {

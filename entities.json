@@ -4243,6 +4243,14 @@
      "url": "https://www.thenationalnews.com/business/aviation/2025/11/03/uae-air-taxi-certification-to-be-completed-by-third-quarter-of-next-year-regulator-says/",
      "type": "regulatory",
      "accessed": "2026-05-20"
+    },
+    {
+     "id": "bayanat-2026-05-13",
+     "name": "Bayanat Engineering — first strategic entry into Advanced Air Mobility through Skyports Infrastructure: meteorological sensing at Dubai's first vertiport (13 May 2026)",
+     "url": "https://www.bayanatengineering.com/_files/ugd/6405e4_7031b32258fc4a93bb9c80c9cc858f4c.pdf",
+     "type": "primary",
+     "accessed": "2026-10-19",
+     "primary": true
     }
    ],
    "i18n": {
@@ -4993,6 +5001,14 @@
      "url": "https://investors.archer.com/news/news-details/2025/PIFs-The-Helicopter-Company-Archer-Aviation-and-Red-Sea-Global-Partner-to-Launch-eVTOL-Air-Mobility-in-Saudi-Arabia/default.aspx",
      "type": "operator-ir",
      "accessed": "2026-05-20"
+    },
+    {
+     "id": "skygrid-2026-05-26",
+     "name": "SkyGrid — Boeing Saudi Arabia and GACA launch AAM Airspace and Operational Feasibility Analysis with support from SkyGrid and KAUST (26 May 2026)",
+     "url": "https://www.skygrid.com/boeing-saudi-arabia-and-gaca-launch-aam-airspace-and-operational-feasibility-analysis-with-support-from-skygrid-and-kaust/",
+     "type": "primary",
+     "accessed": "2026-10-19",
+     "primary": true
     }
    ],
    "i18n": {
@@ -5175,6 +5191,14 @@
      "url": "https://www.khaleejtimes.com/business/uae-flying-taxis-regulator-visits-joby-and-archer-facilities-before-service-launch",
      "type": "press",
      "accessed": "2026-10-19"
+    },
+    {
+     "id": "lodd-gcaa-cert-2026-07-01",
+     "name": "LODD Autonomous — LODD launches certification program for Hili hybrid cargo aircraft with GCAA (1 Jul 2026; release distributed by LODD, hosted by Vertical Mag)",
+     "url": "https://verticalmag.com/press-releases/lodd-launches-certification-program-for-hili-hybrid-cargo-aircraft-with-gcaa/",
+     "type": "operator-ir",
+     "accessed": "2026-10-19",
+     "primary": true
     }
    ],
    "i18n": {
@@ -6449,6 +6473,309 @@
       "zh": {
        "k": "状态",
        "v": "已签署具有约束力的合同；对方Lilium已解散；无继承者"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lodd-autonomous",
+   "entity_type": "operator",
+   "country": "UAE",
+   "city": "Abu Dhabi",
+   "status": "trial_only",
+   "last_verified": "2026-10-19",
+   "name": "LODD Autonomous",
+   "meta_description": "Abu Dhabi's LODD Autonomous builds Hili, an unmanned hybrid VTOL cargo aircraft first flown in Al Ain in November 2025, now in a GCAA certification programme.",
+   "latitude": null,
+   "longitude": null,
+   "sources": [
+    {
+     "id": "lodd-gcaa-cert-2026-07-01",
+     "name": "LODD Autonomous — LODD launches certification program for Hili hybrid cargo aircraft with GCAA (1 Jul 2026; release distributed by LODD, hosted by Vertical Mag)",
+     "url": "https://verticalmag.com/press-releases/lodd-launches-certification-program-for-hili-hybrid-cargo-aircraft-with-gcaa/",
+     "type": "operator-ir",
+     "accessed": "2026-10-19",
+     "primary": true
+    },
+    {
+     "id": "wam-lodd-2026-10-07",
+     "name": "WAM (via Zawya) — LODD Autonomous prepares to conduct first civilian flight of a cargo drone between two countries in 2027: CEO (7 Oct 2026)",
+     "url": "https://www.zawya.com/en/business/lodd-autonomous-prepares-to-conduct-first-civilian-flight-of-a-cargo-drone-between-two-countries-2027-ceo-1550420",
+     "type": "official-news",
+     "accessed": "2026-10-19",
+     "primary": true
+    },
+    {
+     "id": "wam-lodd-2026-09-24",
+     "name": "WAM (via Zawya) — LODD receives orders for over 330 Hili aircraft (24 Sep 2026)",
+     "url": "https://www.zawya.com/en/business/lodd-receives-orders-for-over-330-hili-aircraft-1211042",
+     "type": "official-news",
+     "accessed": "2026-10-19",
+     "primary": true
+    },
+    {
+     "id": "admo-hili-first-flight-2025-11-13",
+     "name": "Abu Dhabi Media Office — In the presence of Zayed bin Mohamed bin Zayed, LODD Autonomous conducts first test flight of Hili aircraft in Al Ain Region (13 Nov 2025)",
+     "url": "https://www.mediaoffice.abudhabi/en/transport/in-the-presence-of-zayed-bin-mohamed-bin-zayed-lodd-autonomous-conducts-first-test-flight-of-hili-aircraft-in-al-ain-region/",
+     "type": "government",
+     "accessed": "2026-10-19",
+     "primary": true
+    },
+    {
+     "id": "lodd-hili-page",
+     "name": "LODD Autonomous — Hili (middle-mile) product page",
+     "url": "https://lodd.com/middle-mile/",
+     "type": "operator-ir",
+     "accessed": "2026-10-19",
+     "primary": true
+    },
+    {
+     "id": "lodd-dhl-2026-02-24",
+     "name": "LODD Autonomous — DHL Express and LODD to explore unmanned Hili aircraft model for delivery operations (24 Feb 2026; release distributed by LODD, hosted by Vertical Mag)",
+     "url": "https://verticalmag.com/press-releases/dhl-express-and-lodd-to-explore-unmanned-hili-aircraft-model-for-delivery-operations/",
+     "type": "operator-ir",
+     "accessed": "2026-10-19",
+     "primary": true
+    },
+    {
+     "id": "emirates-skycargo-lodd-2025-11-21",
+     "name": "Emirates — Emirates SkyCargo and LODD Autonomous sign MoU to explore drone-powered delivery solutions (21 Nov 2025)",
+     "url": "https://www.emirates.com/media-centre/emirates-skycargo-and-lodd-autonomous-sign-mou--to-explore-drone-powered-delivery-solutions/",
+     "type": "operator-ir",
+     "accessed": "2026-10-19",
+     "primary": true
+    },
+    {
+     "id": "etihad-cargo-lodd-2025-11-04",
+     "name": "Etihad Cargo — Etihad Cargo partners with LODD Autonomous to streamline the future of middle-mile delivery (4 Nov 2025)",
+     "url": "https://www.etihadcargo.com/en/news/etihad-cargo-partners-with-lodd-autonomous-to-streamline-the-future-of-middlemile-delivery",
+     "type": "operator-ir",
+     "accessed": "2026-10-19",
+     "primary": true
+    },
+    {
+     "id": "lodd-first-flight-2025-11-13",
+     "name": "LODD Autonomous — LODD completes first flight of Hili, the UAE's first hybrid heavy cargo UAV designed, built and tested in Abu Dhabi (Nov 2025)",
+     "url": "https://lodd.com/lodd-completes-first-flight-of-hili-the-uaes-first-hybrid-heavy-cargo-uav-designed-built-and-tested-in-abu-dhabi/",
+     "type": "operator-ir",
+     "accessed": "2026-10-19",
+     "primary": true
+    },
+    {
+     "id": "lodd-subscale-2024-12-27",
+     "name": "LODD Autonomous — Hili subscale takes flight (27 Dec 2024)",
+     "url": "https://lodd.com/hili-subscale-takes-flight/",
+     "type": "operator-ir",
+     "accessed": "2026-10-19",
+     "primary": true
+    },
+    {
+     "id": "lodd-7x-2025-06-16",
+     "name": "LODD Autonomous — LODD and 7X conduct first parcel delivery trial by drone in Abu Dhabi (16 Jun 2025)",
+     "url": "https://lodd.com/with-the-support-of-the-smart-and-autonomous-systems-council-and-abu-dhabi-investment-office-lodd-and-7x-successfully-conducted-first-parcel-delivery-trial-by-drone-in-abu-dhabi/",
+     "type": "operator-ir",
+     "accessed": "2026-10-19",
+     "primary": true
+    },
+    {
+     "id": "lodd-fujairah-2025-09",
+     "name": "LODD Autonomous — First drone cargo flight from a civilian airport to an offshore platform in the UAE (Sep 2025)",
+     "url": "https://lodd.com/lodd-achieves-first-drone-cargo-flight-from-civilian-airportto-offshore-platform-in-the-uae/",
+     "type": "operator-ir",
+     "accessed": "2026-10-19",
+     "primary": true
+    },
+    {
+     "id": "lodd-st-engineering-2026-02-05",
+     "name": "LODD Autonomous — LODD exports UAE-built Hili autonomous aircraft to Asian markets with ST Engineering (5 Feb 2026)",
+     "url": "https://lodd.com/as-part-of-expanding-the-global-reach-of-uae-developed-aviation-technologieslodd-exports-uae-built-hili-autonomous-aircraft-to-asian-markets/",
+     "type": "operator-ir",
+     "accessed": "2026-10-19",
+     "primary": true
+    }
+   ],
+   "i18n": {
+    "en": {
+     "name": "LODD Autonomous",
+     "meta_description": "Abu Dhabi's LODD Autonomous builds Hili, an unmanned hybrid VTOL cargo aircraft first flown in Al Ain in November 2025, now in a GCAA certification programme."
+    },
+    "ar": {
+     "name": "LODD Autonomous",
+     "meta_description": "تقوم شركة «LODD Autonomous» في أبوظبي بتصنيع «هيلي» (Hili)، وهي طائرة شحن هجينة ذاتية الطيران (VTOL) غير مأهولة، وقد أُجريت أول رحلة تجريبية لها في العين في نوفمبر 2025، وهي حاليًا قيد برنامج الاعتماد لدى الهيئة العامة للطيران المدني (GCAA)."
+    },
+    "fr": {
+     "name": "LODD Autonomous",
+     "meta_description": "La société LODD Autonomous, basée à Abou Dhabi, développe « Hili », un avion-cargo hybride à décollage et atterrissage verticaux (VTOL) sans pilote qui a effectué son premier vol à Al Ain en novembre 2025 et fait actuellement l'objet d'un programme de certification de la GCAA."
+    },
+    "de": {
+     "name": "LODD Autonomous",
+     "meta_description": "Das in Abu Dhabi ansässige Unternehmen LODD Autonomous baut „Hili“, ein unbemanntes Hybrid-VTOL-Frachtflugzeug, das im November 2025 in Al Ain seinen Erstflug absolvierte und sich derzeit im Zertifizierungsprogramm der GCAA befindet."
+    },
+    "zh": {
+     "name": "LODD Autonomous",
+     "meta_description": "阿布扎比的LODD Autonomous公司正在研制一款名为“Hili”的无人混合动力垂直起降货运飞机，该机型于2025年11月在阿勒茵首次试飞，目前正在接受阿联酋民航总局（GCAA）的认证。"
+    }
+   },
+   "facts": [
+    {
+     "id": "headquarters",
+     "k": "Headquarters",
+     "v": "Abu Dhabi, United Arab Emirates — founded 2023",
+     "i18n": {
+      "ar": {
+       "k": "المقر",
+       "v": "أبو ظبي، الإمارات العربية المتحدة — تأسست عام 2023"
+      },
+      "fr": {
+       "k": "Siège",
+       "v": "Abu Dhabi, Émirats arabes unis — fondée en 2023"
+      },
+      "de": {
+       "k": "Hauptsitz",
+       "v": "Abu Dhabi, Vereinigte Arabische Emirate – gegründet 2023"
+      },
+      "zh": {
+       "k": "总部",
+       "v": "阿联酋阿布扎比——成立于2023年"
+      }
+     }
+    },
+    {
+     "id": "chief_executive",
+     "k": "Chief executive",
+     "v": "Rashid Al Manai (also printed Rashid Mattar Al Manai)",
+     "i18n": {
+      "ar": {
+       "k": "الرئيس التنفيذي",
+       "v": "Rashid Al Manai (يُكتب أيضًا Rashid Mattar Al Manai)"
+      },
+      "fr": {
+       "k": "Directeur général",
+       "v": "Rashid Al Manai (également orthographié Rashid Mattar Al Manai)"
+      },
+      "de": {
+       "k": "Geschäftsführer",
+       "v": "Rashid Al Manai (auch Rashid Mattar Al Manai)"
+      },
+      "zh": {
+       "k": "首席执行官",
+       "v": "Rashid Al Manai（也写作 Rashid Mattar Al Manai）"
+      }
+     }
+    },
+    {
+     "id": "aircraft",
+     "k": "Aircraft",
+     "v": "Hili — unmanned hybrid VTOL cargo aircraft: eight electric lifting motors plus a combustion pusher engine",
+     "i18n": {
+      "ar": {
+       "k": "الطائرة",
+       "v": "«هيلي» — طائرة شحن هجينة غير مأهولة ذات قدرة على الإقلاع والهبوط العمودي (VTOL): ثمانية محركات رفع كهربائية بالإضافة إلى محرك دفع يعمل بالاحتراق"
+      },
+      "fr": {
+       "k": "Aéronef",
+       "v": "Hili — avion-cargo hybride VTOL sans pilote : huit moteurs de sustentation électriques et un moteur à combustion interne de propulsion"
+      },
+      "de": {
+       "k": "Luftfahrzeug",
+       "v": "Hili – unbemanntes Hybrid-VTOL-Frachtflugzeug: acht elektrische Hubmotoren sowie ein Verbrennungsmotor als Schubantrieb"
+      },
+      "zh": {
+       "k": "飞行器",
+       "v": "Hili——无人混合动力垂直起降货运飞机：配备八台电动升力电机和一台内燃推力发动机"
+      }
+     }
+    },
+    {
+     "id": "manufacturer_stated_performance",
+     "k": "Manufacturer-stated performance",
+     "v": "Up to 250 kg payload (two Euro pallets), 700 km range plus 30-minute reserve, 14,000 ft maximum cruise altitude; no speed published",
+     "i18n": {
+      "ar": {
+       "k": "الأداء المعلن من قبل الشركة المصنعة",
+       "v": "حمولة تصل إلى 250 كجم (منصتان أوروبيتان)، مدى يبلغ 700 كم بالإضافة إلى احتياطي يبلغ 30 دقيقة، ارتفاع طيران أقصى يبلغ 14,000 قدم؛ لم يتم الإعلان عن السرعة"
+      },
+      "fr": {
+       "k": "Performances indiquées par le fabricant",
+       "v": "Charge utile maximale de 250 kg (deux palettes Euro), autonomie de 700 km plus une réserve de 30 minutes, altitude de croisière maximale de 14 000 pieds ; vitesse non communiquée"
+      },
+      "de": {
+       "k": "Vom Hersteller angegebene Leistung",
+       "v": "Bis zu 250 kg Nutzlast (zwei Europaletten), 700 km Reichweite plus 30 Minuten Reserve, 14.000 ft maximale Reiseflughöhe; keine Angaben zur Geschwindigkeit"
+      },
+      "zh": {
+       "k": "制造商声明的性能",
+       "v": "最大载重250千克（两个欧标托盘），航程700公里外加30分钟备用航程，最大巡航高度14,000英尺；未公布最高速度"
+      }
+     }
+    },
+    {
+     "id": "uae_flight_testing",
+     "k": "UAE flight testing",
+     "v": "Full-scale first flight 13 November 2025, Emirates Falcons Aviation, Al Ain; testing continuing in Al Ain",
+     "i18n": {
+      "ar": {
+       "k": "اختبارات الطيران في الإمارات العربية المتحدة",
+       "v": "الرحلة الجوية الأولى بالطائرة الكاملة في 13 نوفمبر 2025، شركة «إمارات فالكونز للطيران»، العين؛ وتستمر الاختبارات في العين"
+      },
+      "fr": {
+       "k": "Essais en vol aux Émirats arabes unis",
+       "v": "Premier vol en conditions réelles le 13 novembre 2025, Emirates Falcons Aviation, Al Ain ; les essais se poursuivent à Al Ain"
+      },
+      "de": {
+       "k": "Flugtests in den Vereinigten Arabischen Emiraten",
+       "v": "Erstflug in Originalgröße am 13. November 2025, Emirates Falcons Aviation, Al Ain; die Testflüge werden in Al Ain fortgesetzt"
+      },
+      "zh": {
+       "k": "阿联酋飞行测试",
+       "v": "2025年11月13日，阿联酋猎鹰航空在阿布扎比艾因进行全尺寸首飞；目前仍在艾因继续进行测试"
+      }
+     }
+    },
+    {
+     "id": "gcaa_status",
+     "k": "GCAA status",
+     "v": "Certification programme initiated 1 July 2026; no certificate issued",
+     "i18n": {
+      "ar": {
+       "k": "حالة GCAA",
+       "v": "بدأ برنامج الاعتماد في 1 يوليو 2026؛ ولم تصدر أي شهادة"
+      },
+      "fr": {
+       "k": "Statut GCAA",
+       "v": "Programme de certification lancé le 1er juillet 2026 ; aucun certificat délivré"
+      },
+      "de": {
+       "k": "GCAA-Status",
+       "v": "Zertifizierungsprogramm am 1. Juli 2026 gestartet; kein Zertifikat ausgestellt"
+      },
+      "zh": {
+       "k": "GCAA状态",
+       "v": "认证计划于2026年7月1日启动；暂未颁发证书"
+      }
+     }
+    },
+    {
+     "id": "commercial_agreements",
+     "k": "Commercial agreements",
+     "v": "Memoranda and exploratory agreements (Etihad Cargo, Emirates SkyCargo, DHL Express and others); no firm order itemised in a primary source",
+     "i18n": {
+      "ar": {
+       "k": "الاتفاقيات التجارية",
+       "v": "مذكرات التفاهم والاتفاقيات الاستكشافية (الاتحاد للشحن، وإمارات سكاي كارغو، ودي إتش إل إكسبريس، وغيرها)؛ لا توجد طلبات شراء مؤكدة مفصلة في مصدر أولي"
+      },
+      "fr": {
+       "k": "Accords commerciaux",
+       "v": "Mémorandums et accords préliminaires (Etihad Cargo, Emirates SkyCargo, DHL Express et autres) ; aucune commande ferme détaillée dans une source primaire"
+      },
+      "de": {
+       "k": "Handelsvereinbarungen",
+       "v": "Memoranden und Absichtserklärungen (Etihad Cargo, Emirates SkyCargo, DHL Express und andere); keine in einer Primärquelle aufgeführten Festbestellungen"
+      },
+      "zh": {
+       "k": "商业协议",
+       "v": "备忘录和意向协议（阿提哈德货运、阿联酋航空货运、DHL快递等）；主要来源中未列明任何确定订单"
       }
      }
     }

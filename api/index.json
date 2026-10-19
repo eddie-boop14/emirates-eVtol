@@ -2,7 +2,7 @@
  "title": "evtolemirates.com entity API",
  "license": "CC BY 4.0",
  "generated": "2026-10-19",
- "count": 49,
+ "count": 50,
  "entities": [
   {
    "slug": "abu-dhabi-aviation",
@@ -318,6 +318,15 @@
    "last_verified": "2026-10-01",
    "endpoint": "https://evtolemirates.com/api/aircraft/lilium-jet-saudia.json",
    "page": "https://evtolemirates.com/aircraft/lilium-jet-saudia.html"
+  },
+  {
+   "slug": "lodd-autonomous",
+   "name": "LODD Autonomous",
+   "entity_type": "operator",
+   "status": "trial_only",
+   "last_verified": "2026-10-19",
+   "endpoint": "https://evtolemirates.com/api/operator/lodd-autonomous.json",
+   "page": "https://evtolemirates.com/operators/lodd-autonomous.html"
   },
   {
    "slug": "margham-flight-test-facility",

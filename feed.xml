@@ -5,8 +5,17 @@
 <link href="https://evtolemirates.com/feed.xml" rel="self"/>
 <link href="https://evtolemirates.com/"/>
 <id>https://evtolemirates.com/</id>
-<updated>2026-10-01T00:00:00Z</updated>
+<updated>2026-10-19T00:00:00Z</updated>
 <rights>CC BY 4.0</rights>
+<entry>
+<title>LODD Autonomous</title>
+<link href="https://evtolemirates.com/operators/lodd-autonomous.html"/>
+<id>https://evtolemirates.com/operators/lodd-autonomous.html</id>
+<updated>2026-10-19T00:00:00Z</updated>
+<category term="operator"/>
+<category term="trial_only"/>
+<summary>Abu Dhabi&#x27;s LODD Autonomous builds Hili, an unmanned hybrid VTOL cargo aircraft first flown in Al Ain in November 2025, now in a GCAA certification programme.</summary>
+</entry>
 <entry>
 <title>Abu Dhabi Aviation</title>
 <link href="https://evtolemirates.com/operators/abu-dhabi-aviation.html"/>
@@ -222,14 +231,5 @@
 <category term="vertiport"/>
 <category term="certified"/>
 <summary>DXB Vertiport (registered VDX) received UAE GCAA certification on 7 July 2026 — the world&#x27;s first purpose-built commercial vertiport, developed by Skyports Infrastructure at Dubai International Airport. Certified for eVTOL operations; Joby Aviation passenger service pending launch.</summary>
-</entry>
-<entry>
-<title>EHang EH216-S Mecca Hajj Flight</title>
-<link href="https://evtolemirates.com/aircrafts/ehang-eh216-s-mecca.html"/>
-<id>https://evtolemirates.com/aircrafts/ehang-eh216-s-mecca.html</id>
-<updated>2026-10-01T00:00:00Z</updated>
-<category term="aircraft"/>
-<category term="trial_only"/>
-<summary>The EHang EH216-S pilotless eVTOL completed its debut flight in Saudi Arabia on 12 June 2024 during the Hajj season in Mecca. First autonomous eVTOL passenger trial in the Kingdom.</summary>
 </entry>
 </feed>
