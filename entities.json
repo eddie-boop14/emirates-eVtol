@@ -1588,6 +1588,13 @@
      "url": "https://investors.archer.com/news/news-details/2026/UAE-Regulator-And-Archer-Move-To-Streamlined-Approach-for-Certifying-Midnight-in-the-UAE/default.aspx",
      "type": "operator-ir",
      "accessed": "2026-08-22"
+    },
+    {
+     "id": "khaleej-times-2026-10-15",
+     "name": "Khaleej Times — UAE flying taxis: Regulator visits Joby and Archer facilities before service launch (15 Oct 2026)",
+     "url": "https://www.khaleejtimes.com/business/uae-flying-taxis-regulator-visits-joby-and-archer-facilities-before-service-launch",
+     "type": "press",
+     "accessed": "2026-10-19"
     }
    ],
    "i18n": {
@@ -5161,6 +5168,13 @@
      "url": "https://www.gcaa.gov.ae",
      "type": "regulatory",
      "accessed": "2026-05-01"
+    },
+    {
+     "id": "khaleej-times-2026-10-15",
+     "name": "Khaleej Times — UAE flying taxis: Regulator visits Joby and Archer facilities before service launch (15 Oct 2026)",
+     "url": "https://www.khaleejtimes.com/business/uae-flying-taxis-regulator-visits-joby-and-archer-facilities-before-service-launch",
+     "type": "press",
+     "accessed": "2026-10-19"
     }
    ],
    "i18n": {
@@ -5933,6 +5947,13 @@
      "url": "https://mediaoffice.ae/en/news/2025/november/16-11/rta-and-joby-complete-first-crewed-evtol-taxi-flight",
      "type": "official-news",
      "accessed": "2026-05-01"
+    },
+    {
+     "id": "khaleej-times-2026-10-15",
+     "name": "Khaleej Times — UAE flying taxis: Regulator visits Joby and Archer facilities before service launch (15 Oct 2026)",
+     "url": "https://www.khaleejtimes.com/business/uae-flying-taxis-regulator-visits-joby-and-archer-facilities-before-service-launch",
+     "type": "press",
+     "accessed": "2026-10-19"
     }
    ],
    "i18n": {
