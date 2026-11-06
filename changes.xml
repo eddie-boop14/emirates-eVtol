@@ -2,9 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>evtolemirates.com — fact changes</title>
 <id>tag:evtolemirates.com,2026:changes</id>
-<updated>2026-08-22T00:00:00Z</updated>
+<updated>2026-10-19T00:00:00Z</updated>
 <link href="https://evtolemirates.com/changes.xml" rel="self"/>
 <link href="https://evtolemirates.com/changes.html"/>
+<entry><id>tag:evtolemirates.com,2026-10-19:lodd-autonomous:added:trial_only</id><title>LODD Autonomous added to the corpus (operator, status: trial only)</title><updated>2026-10-19T00:00:00Z</updated><link href="https://evtolemirates.com/changes.html"/><summary>LODD Autonomous added to the corpus (operator, status: trial only)</summary></entry>
 <entry><id>tag:evtolemirates.com,2026-08-22:american-university-of-dubai-vertiport:status:under_construction</id><title>American University of Dubai Vertiport: status planned → under construction</title><updated>2026-08-22T00:00:00Z</updated><link href="https://evtolemirates.com/changes.html"/><summary>American University of Dubai Vertiport: status planned → under construction</summary></entry>
 <entry><id>tag:evtolemirates.com,2026-08-22:dubai-air-taxi-launch-tracker:added:trial_only</id><title>Dubai air taxi launch tracker added to the corpus (answer, status: trial only)</title><updated>2026-08-22T00:00:00Z</updated><link href="https://evtolemirates.com/changes.html"/><summary>Dubai air taxi launch tracker added to the corpus (answer, status: trial only)</summary></entry>
 <entry><id>tag:evtolemirates.com,2026-08-22:dubai-air-taxi-price:added:trial_only</id><title>Dubai air taxi price — what is confirmed added to the corpus (answer, status: trial only)</title><updated>2026-08-22T00:00:00Z</updated><link href="https://evtolemirates.com/changes.html"/><summary>Dubai air taxi price — what is confirmed added to the corpus (answer, status: trial only)</summary></entry>

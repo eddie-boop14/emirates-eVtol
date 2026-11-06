@@ -2,6 +2,15 @@
  "site": "evtolemirates.com",
  "events": [
   {
+   "date": "2026-10-19",
+   "kind": "added",
+   "slug": "lodd-autonomous",
+   "name": "LODD Autonomous",
+   "entity_type": "operator",
+   "old_status": null,
+   "new_status": "trial_only"
+  },
+  {
    "date": "2026-08-22",
    "kind": "status",
    "slug": "american-university-of-dubai-vertiport",

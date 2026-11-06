@@ -79,6 +79,14 @@
     "url": "https://www.thenationalnews.com/news/uae/2026/07/07/dubais-air-taxis-primed-for-lift-off-after-approval-for-first-vertiport/",
     "type": "press",
     "accessed": "2026-10-01"
+   },
+   {
+    "id": "joby-q3-2026-letter",
+    "name": "Joby Aviation — Q3 2026 Letter to Shareholders (4 Nov 2026)",
+    "url": "https://d1io3yog0oux5.cloudfront.net/_980d8bfcc1656117460efb6ab040a346/jobyaviation/db/1110/9894/shareholder_letter/Joby_Aviation_2026-Q3-Ltr_to_Shareholders_FINAL110426.pdf",
+    "type": "operator-ir",
+    "accessed": "2026-11-06",
+    "primary": true
    }
   ],
   "i18n": {
