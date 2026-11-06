@@ -285,3 +285,12 @@
 /zh/vertiports/palm-jumeirah-vertiport                   /zh/vertiports/palm-jumeirah-vertiport.html  301!
 /zh/vertiports/zayed-international-vertiport             /zh/vertiports/zayed-international-vertiport.html  301!
 /zh/vertiports                                           /zh/vertiports.html  301!
+
+# Retired URLs
+/aircrafts/*                                             /aircraft/:splat  301!
+/answers/*                                               /explainers/:splat  301!
+/explainers/internal                                     /explainers/did-not-make-the-cut.html  301!
+/ar/explainers/internal                                  /ar/explainers/did-not-make-the-cut.html  301!
+/fr/explainers/internal                                  /fr/explainers/did-not-make-the-cut.html  301!
+/de/explainers/internal                                  /de/explainers/did-not-make-the-cut.html  301!
+/zh/explainers/internal                                  /zh/explainers/did-not-make-the-cut.html  301!
