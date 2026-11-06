@@ -8,6 +8,7 @@ Generated: 2026-10-19T00:00:00.000Z. Each entity lists status, location, last-ve
 
 
 
+
 ## Abu Dhabi Aviation
 Type: operator | Status: operational | City: Abu Dhabi | Country: UAE | Last verified: 2026-10-01
 Coordinates: 24.4332, 54.6511
