@@ -3746,6 +3746,13 @@
      "type": "operator-ir",
      "accessed": "2026-11-06",
      "primary": true
+    },
+    {
+     "id": "joby-ir-2025-11-17",
+     "name": "Joby Aviation IR — Dubai Air Taxi Network Takes Flight (17 Nov 2025)",
+     "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/162/dubai-air-taxi-network-takes-flight-joby-completes",
+     "type": "operator-ir",
+     "accessed": "2026-05-20"
     }
    ],
    "i18n": {
@@ -5359,6 +5366,20 @@
      "url": "https://www.flyingmag.com/air-taxi-manufacturers-archer-joby-set-sights-on-abu-dhabi/",
      "type": "official-news",
      "accessed": "2026-05-01"
+    },
+    {
+     "id": "mot-qatar-2025-11",
+     "name": "Qatar Ministry of Transport — Minister Witnesses Trial of First eVTOL Flight in Qatar",
+     "url": "https://www.mot.gov.qa/en/news/minister-witnesses-trial-first-flight-unmanned-evtol-qatar",
+     "type": "government",
+     "accessed": "2026-11-12"
+    },
+    {
+     "id": "skyports-2026-07-07",
+     "name": "Skyports Infrastructure — UAE Makes Global Aviation History with GCAA's Certification of the World's First Purpose-Built Commercial Vertiport (7 Jul 2026)",
+     "url": "https://skyports.net/post/uae-makes-global-aviation-history-with-certification-worlds-first-purpose-built-commercial-vertiport-skyports-infrastructure",
+     "type": "primary",
+     "accessed": "2026-10-01"
     }
    ],
    "i18n": {
@@ -5474,19 +5495,19 @@
     {
      "id": "qatar_first_pp_flight",
      "k": "Qatar First Pp Flight",
-     "v": "EH216-S — Old Doha Port ↔ Katara, 17 Nov 2025, 8 minutes",
+     "v": "EH216-S — Old Doha Port ↔ Katara, 15 Nov 2025, 8 minutes",
      "i18n": {
       "ar": {
-       "v": "EH216-S — Old Doha Port ↔ Katara، 17 نوفمبر 2025، 8 دقائق"
+       "v": "EH216-S — Old Doha Port ↔ Katara، 15 نوفمبر 2025، 8 دقائق"
       },
       "fr": {
-       "v": "EH216-S — Old Doha Port ↔ Katara, 17 nov 2025, 8 minutes"
+       "v": "EH216-S — Old Doha Port ↔ Katara, 15 nov 2025, 8 minutes"
       },
       "de": {
-       "v": "EH216-S — Old Doha Port ↔ Katara, 17. November 2025, 8 Minuten"
+       "v": "EH216-S — Old Doha Port ↔ Katara, 15. November 2025, 8 Minuten"
       },
       "zh": {
-       "v": "EH216-S — Old Doha Port ↔ Katara，2025年11月17日，8分钟"
+       "v": "EH216-S — Old Doha Port ↔ Katara，2025年11月15日，8分钟"
       }
      }
     },
@@ -6997,6 +7018,13 @@
      "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/87/joby-to-launch-air-taxi-service-in-uae",
      "type": "operator-ir",
      "accessed": "2026-08-22"
+    },
+    {
+     "id": "rta-statement-2025-11",
+     "name": "RTA Dubai — Statement by H.E. Mattar Al Tayer on Joby first crewed point-to-point flight (carried via Joby IR, 17 Nov 2025)",
+     "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/162/dubai-air-taxi-network-takes-flight-joby-completes",
+     "type": "primary",
+     "accessed": "2026-05-01"
     }
    ],
    "i18n": {
@@ -7851,6 +7879,13 @@
      "url": "https://www.volocopter.com/en/newsroom/volocopter-as-an-autonomous-air-taxi-in-dubai",
      "type": "operator-ir",
      "accessed": "2026-05-01"
+    },
+    {
+     "id": "skyports-2026-07-07",
+     "name": "Skyports Infrastructure — UAE Makes Global Aviation History with GCAA's Certification of the World's First Purpose-Built Commercial Vertiport (7 Jul 2026)",
+     "url": "https://skyports.net/post/uae-makes-global-aviation-history-with-certification-worlds-first-purpose-built-commercial-vertiport-skyports-infrastructure",
+     "type": "primary",
+     "accessed": "2026-10-01"
     }
    ],
    "i18n": {
@@ -9503,5 +9538,5 @@
    ]
   }
  ],
- "generated": "2026-07-28T00:00:00.000Z"
+ "generated": "2026-11-12T10:27:02.000Z"
 }

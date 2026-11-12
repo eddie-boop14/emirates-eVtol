@@ -64,7 +64,7 @@ of it, and a build gate keeps the two from drifting:
   (social cards from the data), `build_api.py` (JSON endpoints),
   `build_changes.py` (change log recovered from git history),
   `build_atoms.py` (fact atoms: harvest / stamp / check),
-  `build_redirects.py`, `build_sister.py`, `freshness.py`,
+  `build_redirects.py`, `build_sister.py`, `build_stamps.py` (page footer dates = dataset dates), `freshness.py`,
   `build_meta.py` (search-snippet hygiene: localized descriptions, title
   length), `indexnow.py` (pings IndexNow after each production deploy, via
   `.github/workflows/indexnow.yml`), `build_legal.py` (publisher imprint in
