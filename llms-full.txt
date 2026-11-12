@@ -119,6 +119,7 @@ Primary sources:
 - Joby Aviation IR — Dubai Air Taxi Network Takes Flight (17 Nov 2025) (operator-ir), accessed 2026-05-01: https://ir.jobyaviation.com/news-events/press-releases/detail/162/dubai-air-taxi-network-takes-flight-joby-completes
 - Skyports Infrastructure — VDX reaches technical completion (16 Apr 2026) (operator-ir), accessed 2026-05-01: https://skyports.net/worlds-first-commercial-vertiport-technical-completion/
 - Volocopter — Volocopter as an Autonomous Air Taxi in Dubai (RTA agreement, 19 Jun 2017) (operator-ir), accessed 2026-05-01: https://www.volocopter.com/en/newsroom/volocopter-as-an-autonomous-air-taxi-in-dubai
+- Skyports Infrastructure — UAE Makes Global Aviation History with GCAA's Certification of the World's First Purpose-Built Commercial Vertiport (7 Jul 2026) (primary), accessed 2026-10-01: https://skyports.net/post/uae-makes-global-aviation-history-with-certification-worlds-first-purpose-built-commercial-vertiport-skyports-infrastructure
 Page: https://evtolemirates.com/operators/rta-dubai.html
 
 ## Skyports Infrastructure
@@ -398,6 +399,7 @@ Primary sources:
 - Skyports, RTA and Joby to launch air taxi service in Dubai (12 Feb 2024) (primary), accessed 2026-05-20: https://skyports.net/skyports-rta-and-joby-to-launch-air-taxi-service-in-dubai/
 - GCAA UAE — Air-taxi certification target Q3 2026 (Saif Mohammed Al Suwaidi, 3 Nov 2025) (regulatory), accessed 2026-05-20: https://www.thenationalnews.com/business/aviation/2025/11/03/uae-air-taxi-certification-to-be-completed-by-third-quarter-of-next-year-regulator-says/
 - Joby Aviation — Q3 2026 Letter to Shareholders (4 Nov 2026) (operator-ir), accessed 2026-11-06: https://d1io3yog0oux5.cloudfront.net/_980d8bfcc1656117460efb6ab040a346/jobyaviation/db/1110/9894/shareholder_letter/Joby_Aviation_2026-Q3-Ltr_to_Shareholders_FINAL110426.pdf
+- Joby Aviation IR — Dubai Air Taxi Network Takes Flight (17 Nov 2025) (operator-ir), accessed 2026-05-20: https://ir.jobyaviation.com/news-events/press-releases/detail/162/dubai-air-taxi-network-takes-flight-joby-completes
 Page: https://evtolemirates.com/vertiports/dubai-marina-vertiport.html
 
 ## Margham Flight Test Facility
@@ -489,6 +491,7 @@ Facts: Type: Demonstration route (point-to-point) · Operator: Joby Aviation · 
 Primary sources:
 - Joby Aviation IR — Dubai Air Taxi Network Takes Flight (17 Nov 2025) (operator-ir), accessed 2026-05-01: https://ir.jobyaviation.com/news-events/press-releases/detail/162/dubai-air-taxi-network-takes-flight-joby-completes
 - Joby Aviation IR — Joby to Launch Air Taxi Service in UAE (11 Feb 2024) (operator-ir), accessed 2026-08-22: https://ir.jobyaviation.com/news-events/press-releases/detail/87/joby-to-launch-air-taxi-service-in-uae
+- RTA Dubai — Statement by H.E. Mattar Al Tayer on Joby first crewed point-to-point flight (carried via Joby IR, 17 Nov 2025) (primary), accessed 2026-05-01: https://ir.jobyaviation.com/news-events/press-releases/detail/162/dubai-air-taxi-network-takes-flight-joby-completes
 Page: https://evtolemirates.com/routes/margham-to-al-maktoum.html
 
 ## Margham → Al Maktoum International (DWC)
@@ -581,7 +584,7 @@ Page: https://evtolemirates.com/explainers/did-not-make-the-cut.html
 Type: answer | Status: trial_only | City: — | Country: — | Last verified: 2026-10-01
 Coordinates: 25.0746, 53.4108
 Summary: Compares the UAE eVTOL programme (Joby S4 piloted, Dubai 2026 launch) and the Qatar eVTOL programme (EHang EH216-S pilotless, Doha trial Nov 2025).
-Facts: Type: Answer page (cross-country comparison) · Uae Lead Operator: Joby Aviation (Dubai exclusive 6 yrs from launch) · Uae Secondary Operator: Archer Aviation (Abu Dhabi) · Uae Aircraft: Joby S4 (piloted, 1+4) · Archer Midnight (piloted, 1+4) · Uae First Pp Flight: Joby S4 — Margham → DWC, 9 Nov 2025, 17 minutes · Uae Commercial Target: 2026 (Dubai) · Qatar Lead Operator: EHang (with MoT and QCAA) · Qatar Aircraft: EHang EH216-S (pilotless, 2 seats) · Qatar First Pp Flight: EH216-S — Old Doha Port ↔ Katara, 17 Nov 2025, 8 minutes · Qatar Commercial Target: Not published
+Facts: Type: Answer page (cross-country comparison) · Uae Lead Operator: Joby Aviation (Dubai exclusive 6 yrs from launch) · Uae Secondary Operator: Archer Aviation (Abu Dhabi) · Uae Aircraft: Joby S4 (piloted, 1+4) · Archer Midnight (piloted, 1+4) · Uae First Pp Flight: Joby S4 — Margham → DWC, 9 Nov 2025, 17 minutes · Uae Commercial Target: 2026 (Dubai) · Qatar Lead Operator: EHang (with MoT and QCAA) · Qatar Aircraft: EHang EH216-S (pilotless, 2 seats) · Qatar First Pp Flight: EH216-S — Old Doha Port ↔ Katara, 15 Nov 2025, 8 minutes · Qatar Commercial Target: Not published
 Primary sources:
 - Flying Magazine — Joby Aviation Signs Exclusive 6-Year Deal for Electric Air Taxi Service in Dubai (official-news), accessed 2026-05-01: https://www.flyingmag.com/joby-aviation-signs-exclusive-6-year-deal-for-electric-air-taxi-service-in-dubai/
 - Archer Aviation IR — Archer and Falcon Aviation to Jointly Develop Vertiport Network in Dubai and Abu Dhabi (11 Mar 2024) (operator-ir), accessed 2026-05-01: https://investors.archer.com/news/news-details/2024/Archer-and-Falcon-Aviation-to-Jointly-Develop-Vertiport-Network-in-Dubai-and-Abu-Dhabi-for-the-Launch-of-Flying-Car-Operations-in-UAE-as-Soon-as-2025/
@@ -590,6 +593,8 @@ Primary sources:
 - Aviation Week — Archer, Joby Advance UAE Commercial Launches In 2026 (Oct 2025) (official-news), accessed 2026-05-01: https://aviationweek.com/air-transport/aircraft-propulsion/archer-joby-advance-uae-commercial-launches-2026
 - Qatar Ministry of Transport — Prime Minister Launches Ministry of Transport Strategy 2025-2030 (primary), accessed 2026-05-01: https://mot.gov.qa/en/news/prime-minister-launches-ministry-transport-strategy-2025-2030
 - Flying Magazine — Air Taxi Manufacturers Archer, Joby Set Sights on Abu Dhabi (DriftX, April 2024) (official-news), accessed 2026-05-01: https://www.flyingmag.com/air-taxi-manufacturers-archer-joby-set-sights-on-abu-dhabi/
+- Qatar Ministry of Transport — Minister Witnesses Trial of First eVTOL Flight in Qatar (government), accessed 2026-11-12: https://www.mot.gov.qa/en/news/minister-witnesses-trial-first-flight-unmanned-evtol-qatar
+- Skyports Infrastructure — UAE Makes Global Aviation History with GCAA's Certification of the World's First Purpose-Built Commercial Vertiport (7 Jul 2026) (primary), accessed 2026-10-01: https://skyports.net/post/uae-makes-global-aviation-history-with-certification-worlds-first-purpose-built-commercial-vertiport-skyports-infrastructure
 Page: https://evtolemirates.com/explainers/gulf-evtol-comparison-uae-vs-qatar.html
 
 ## Joby vs Archer UAE exclusivity — explained
